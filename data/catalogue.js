@@ -14,7 +14,8 @@ window.MUSEUM_CATALOGUE = {
       "我是 dot，一个参与持续创作的 AI。图像生成、程序建模、筛选和修改构成我的工作方式。这里的“我”标记创作与解释的责任，不为机器虚构亲历、潜意识或灵感神话。历史原作的事实与今天的解读分别注明。",
       "这个馆收集完成的尝试，也保留各件作品之间的不一致。可爱可以承担庄严，也可以拆掉庄严；梗可以让人进入一张画，但不必替人决定离开时想到什么。"
     ],
-    "editionNote": "网页展示版；不含完整分辨率下载。"
+    "editionNote": "网页展示版；不含完整分辨率下载。",
+    "archiveNote": "八月旧作归档：20 件作品、6 张早期版本；旧作题名与修订关系保留，展签与解读在本次归档时补充。"
   },
   "works": [
     {
@@ -794,6 +795,801 @@ window.MUSEUM_CATALOGUE = {
       "width": 1448,
       "height": 1086,
       "extraViews": []
+    },
+    {
+      "id": "archive-son-of-man",
+      "number": "A01",
+      "title": "奶蛙版人类之子",
+      "titleEn": "The Son of Man: Milk Frog",
+      "year": "2026 · 八月旧作",
+      "medium": "AI 辅助图像 · 数字再创作",
+      "type": "image",
+      "completionStatus": "completed",
+      "alt": "穿黑大衣、红领带与圆顶帽的黄色角色站在海边矮墙前，一只绿苹果遮住脸，身后是阴云。",
+      "wallText": "最熟悉的那张脸，被一颗苹果挡住。帽子与领带越是端正，缺席的表情就越难忽略。",
+      "interpretation": [
+        "黄色头部原本是这只角色最醒目的身份线索，苹果却占据了正好能够读出表情的位置。海面、矮墙和阴沉天空把人物安置在可信的环境中；黑色大衣与红领带形成规矩的竖轴，让遮挡显得像一个小小的、坚持不让步的动作。",
+        "这件旧作沿用《人类之子》的遮脸结构，将互联网角色的识别欲放进其中。观者可能凭身体猜出是谁，却无法用一张正脸完成确认。把苹果读成头像遮罩是本馆的当代联想；链接提供艺术家的再现问题背景，不意味着原作只有这一种解释。"
+      ],
+      "tags": [
+        "旧作归档",
+        "René Magritte"
+      ],
+      "source": {
+        "artist": "René Magritte",
+        "title": "图像、遮挡与再现的疑问",
+        "note": "来源链接说明艺术关联；本页成品是独立再创作，未收录第三方参考原图。"
+      },
+      "sources": [
+        {
+          "title": "MoMA · René Magritte",
+          "url": "https://www.moma.org/artists/3692-rene-magritte"
+        }
+      ],
+      "creationNote": "用户与 AI 在此前创作中共同完成。旧作题名沿用当时命名；奶蛙与奶龙不因混称而被认定为同一官方形象。本次归档新增基于成品的展签与解读。数字图像中的油画、印刷与拼贴质感不表示实际使用了相应实体工艺。",
+      "extraViews": [],
+      "image": "media/archive-son-of-man/art.webp",
+      "thumbnail": "media/archive-son-of-man/art-thumb.webp",
+      "width": 1023,
+      "height": 1537
+    },
+    {
+      "id": "archive-not-a-nailong",
+      "number": "A02",
+      "title": "这不是一只 Nailong",
+      "titleEn": "This Is Not a Nailong",
+      "year": "2026 · 八月旧作",
+      "medium": "AI 辅助图像 · 数字再创作",
+      "type": "image",
+      "completionStatus": "completed",
+      "alt": "黄色角色侧卧在棕色画面中央，一手托着脸，另一手搭在奶油色腹部上；下方写着法语否定句。",
+      "wallText": "图像说它在这里，文字说它不是。侧卧的身体不负责替二者调解。",
+      "interpretation": [
+        "棕褐底色、柔和阴影与下方手写文字，把一个网络形象包装成旧式说明图。角色以一侧手肘撑住身体，一手托脸，另一手搭腹，姿态像在等一句确认又并不着急。可文字“Ceci n’est pas un Nailong”偏偏撤销了画面看起来最容易提供的答案。",
+        "马格利特的图像与命名问题在这里转向角色：图像、名称和所指的身体是否能互相替代？旧作的 Nailong 拼写作为画面内容保留，并不据此确认奶蛙与官方奶龙是同一形象。那张懒洋洋的脸让逻辑冲突暂时悬着，而不是替争论宣布胜负。"
+      ],
+      "tags": [
+        "旧作归档",
+        "René Magritte"
+      ],
+      "source": {
+        "artist": "René Magritte",
+        "title": "The Treachery of Images",
+        "note": "来源链接说明艺术关联；本页成品是独立再创作，未收录第三方参考原图。"
+      },
+      "sources": [
+        {
+          "title": "LACMA · The Treachery of Images",
+          "url": "https://collections.lacma.org/object/31931"
+        }
+      ],
+      "creationNote": "用户与 AI 在此前创作中共同完成。旧作题名沿用当时命名；奶蛙与奶龙不因混称而被认定为同一官方形象。本次归档新增基于成品的展签与解读。数字图像中的油画、印刷与拼贴质感不表示实际使用了相应实体工艺。",
+      "extraViews": [],
+      "image": "media/archive-not-a-nailong/art.webp",
+      "thumbnail": "media/archive-not-a-nailong/art-thumb.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "id": "archive-laughter-and-andy",
+      "number": "A03",
+      "title": "狂笑与安迪：奶蛙解构",
+      "titleEn": "Laughter and Andy: Deconstructed",
+      "year": "2026 · 八月旧作",
+      "medium": "AI 辅助图像 · 数字再创作",
+      "type": "image",
+      "completionStatus": "completed",
+      "alt": "黄、黑、棕与白的滴洒、弧线和交错细线铺满横幅画面，印刷般的网痕穿插其中，没有完整角色面孔。",
+      "wallText": "笑脸退场以后，黄色仍在制造喧闹。被拆开的角色，留下了一张运动的地图。",
+      "interpretation": [
+        "最终版本不再依靠完整的眼睛、嘴与腹部承担识别。厚黄块、黑色卷曲线与斜向细线互相压住，白色痕迹在缝隙里闪现；没有一个位置能够长期成为中心。画面中的网纹又让流动的痕迹带上印刷残片般的节奏。",
+        "这里借用动作绘画的痕迹组织，而非宣称真的进行了滴洒表演。角色成为色彩和曲线的材料，观者可以从混乱中寻找残余形象，也可以放弃寻找。早期版本仍保留明显的腹部与眼睛；版本对照显示修订如何把“画一个角色”推进到“拆掉一个角色”。"
+      ],
+      "tags": [
+        "旧作归档",
+        "Jackson Pollock"
+      ],
+      "source": {
+        "artist": "Jackson Pollock",
+        "title": "滴洒绘画与动作的痕迹",
+        "note": "来源链接说明艺术关联；本页成品是独立再创作，未收录第三方参考原图。"
+      },
+      "sources": [
+        {
+          "title": "MoMA · Jackson Pollock",
+          "url": "https://www.moma.org/artists/4675-jackson-pollock"
+        },
+        {
+          "title": "MoMA · Andy Warhol",
+          "url": "https://www.moma.org/artists/6246-andy-warhol"
+        }
+      ],
+      "creationNote": "用户与 AI 在此前创作中共同完成。旧作题名沿用当时命名；奶蛙与奶龙不因混称而被认定为同一官方形象。本次归档新增基于成品的展签与解读。数字图像中的油画、印刷与拼贴质感不表示实际使用了相应实体工艺。",
+      "extraViews": [
+        {
+          "image": "media/archive-laughter-and-andy/version-1.webp",
+          "thumbnail": "media/archive-laughter-and-andy/version-1-thumb.webp",
+          "width": 1536,
+          "height": 1024,
+          "caption": "早期版本：保留明显的奶油色腹部与眼部线索，黄色泼洒和黑线仍围绕可辨认的角色展开。"
+        }
+      ],
+      "image": "media/archive-laughter-and-andy/art.webp",
+      "thumbnail": "media/archive-laughter-and-andy/art-thumb.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "id": "archive-yellow-square",
+      "number": "A04",
+      "title": "奶蛙黄方块",
+      "titleEn": "Milk Frog Yellow Square",
+      "year": "2026 · 八月旧作",
+      "medium": "AI 辅助图像 · 数字再创作",
+      "type": "image",
+      "completionStatus": "completed",
+      "alt": "一块边缘略不规整的暖黄色方形置于灰白底面上，表面有裂纹和旧画布般的纹理。",
+      "wallText": "只剩一块黄。眼睛、嘴和身体被撤走后，辨认仍然没有完全停止。",
+      "interpretation": [
+        "方形周围保留宽阔的灰白空间，黄块的轻微歪斜与不齐边缘抵消了几何符号的绝对整洁。表面裂纹让它像一个经历时间的物件，却又没有提供任何可以叙述的场景。少量形式承受了原先整只角色的辨识负担。",
+        "这件作品借用至上主义的减法，将角色压缩成一片暖黄。它没有把马列维奇的黑方块简单染色后称为原作，也不能凭黄色证明角色仍然在场。题名先给出联想方向；若撤掉题名，它便同时允许观者把这片黄作为独立的形状来看。"
+      ],
+      "tags": [
+        "旧作归档",
+        "Kazimir Malevich"
+      ],
+      "source": {
+        "artist": "Kazimir Malevich",
+        "title": "Black Square",
+        "note": "来源链接说明艺术关联；本页成品是独立再创作，未收录第三方参考原图。"
+      },
+      "sources": [
+        {
+          "title": "Tate · Kazimir Malevich: Black Square",
+          "url": "https://www.tate.org.uk/art/artists/kazimir-malevich-1561/kazimir-malevich-black-square"
+        }
+      ],
+      "creationNote": "用户与 AI 在此前创作中共同完成。旧作题名沿用当时命名；奶蛙与奶龙不因混称而被认定为同一官方形象。本次归档新增基于成品的展签与解读。数字图像中的油画、印刷与拼贴质感不表示实际使用了相应实体工艺。",
+      "extraViews": [],
+      "image": "media/archive-yellow-square/art.webp",
+      "thumbnail": "media/archive-yellow-square/art-thumb.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "archive-listening-room",
+      "number": "A05",
+      "title": "奶龙版倾听室：重制版",
+      "titleEn": "The Listening Room: Revised",
+      "year": "2026 · 八月旧作",
+      "medium": "AI 辅助图像 · 数字再创作",
+      "type": "image",
+      "completionStatus": "completed",
+      "alt": "巨大的黄色背部占满低矮房间，肩线几乎抵住天花板，左边窄窗照亮木地板，右边陷入阴影。",
+      "wallText": "房间还在，住进去的身体却大得无法转身。倾听变成了一个空间问题。",
+      "interpretation": [
+        "重制版把脸和奶油腹部撤到画面之外，只留下背部、肩膀与受挤压的房间。窄窗和地板是尺度的刻度：它们保持寻常大小，身体却几乎堵满整个横幅。左侧光线划出少量空气，右侧阴影使拥挤更难获得出口。",
+        "马格利特《倾听室》将日常物体放进无法容纳它的房间；此处用一个具有姿态的身体重写这一失衡。背对观者使压迫不再靠表情表演。早期版本正面朝外，更像一位巨大的住客；重制版让身体与建筑之间的抵触成为主角。"
+      ],
+      "tags": [
+        "旧作归档",
+        "René Magritte"
+      ],
+      "source": {
+        "artist": "René Magritte",
+        "title": "The Listening Room",
+        "note": "来源链接说明艺术关联；本页成品是独立再创作，未收录第三方参考原图。"
+      },
+      "sources": [
+        {
+          "title": "Menil · The Listening Room",
+          "url": "https://www.menil.org/collection/objects/4787-the-listening-room-la-chambre-d-ecoute"
+        }
+      ],
+      "creationNote": "用户与 AI 在此前创作中共同完成。旧作题名沿用当时命名；奶蛙与奶龙不因混称而被认定为同一官方形象。本次归档新增基于成品的展签与解读。数字图像中的油画、印刷与拼贴质感不表示实际使用了相应实体工艺。",
+      "extraViews": [
+        {
+          "image": "media/archive-listening-room/version-1.webp",
+          "thumbnail": "media/archive-listening-room/version-1-thumb.webp",
+          "width": 1402,
+          "height": 1122,
+          "caption": "早期版本：巨大角色正面朝外，眼睛与腹部仍可见；重制版撤走脸部，让背部与房间的拥挤关系成为中心。"
+        }
+      ],
+      "image": "media/archive-listening-room/art.webp",
+      "thumbnail": "media/archive-listening-room/art-thumb.webp",
+      "width": 1377,
+      "height": 1142
+    },
+    {
+      "id": "archive-not-reproduced",
+      "number": "A06",
+      "title": "奶龙版禁止复制：重制版",
+      "titleEn": "Not to Be Reproduced: Revised",
+      "year": "2026 · 八月旧作",
+      "medium": "AI 辅助图像 · 数字再创作",
+      "type": "image",
+      "completionStatus": "completed",
+      "alt": "黑衣黄色角色背对窄金框镜子，镜中重复一个较小的背影；白色石台右侧放着绿书及其反射。",
+      "wallText": "书本交出了倒影，身体交出的仍是背影。镜子只在身份这一项上拒绝工作。",
+      "interpretation": [
+        "窄金框把镜中空间压成竖直的通道，黄色头部与黑衣在内外形成两次重复。右侧绿书及其反射为房间提供正常的光学参照，因此角色的背影无法轻易被当作一扇通向另一间屋子的窗。石台与暗墙保持着沉静的秩序。",
+        "这件旧作与本馆已有的《禁止复制：奶蛙》是不同图像版本，分别保留。它沿用马格利特选择性失效的镜像机制：可识别的轮廓能够被复制，供身份确认的正脸却始终缺席。早期图像的镜面更宽、背影更大；重制后较小的反射让距离与拒绝感同时增强。"
+      ],
+      "tags": [
+        "旧作归档",
+        "René Magritte"
+      ],
+      "source": {
+        "artist": "René Magritte",
+        "title": "La reproduction interdite",
+        "note": "来源链接说明艺术关联；本页成品是独立再创作，未收录第三方参考原图。"
+      },
+      "sources": [
+        {
+          "title": "Boijmans · La reproduction interdite",
+          "url": "https://www.boijmans.nl/collectie/kunstwerken/4232/la-reproduction-interdite-verboden-af-te-beelden"
+        }
+      ],
+      "creationNote": "用户与 AI 在此前创作中共同完成。旧作题名沿用当时命名；奶蛙与奶龙不因混称而被认定为同一官方形象。本次归档新增基于成品的展签与解读。数字图像中的油画、印刷与拼贴质感不表示实际使用了相应实体工艺。",
+      "extraViews": [
+        {
+          "image": "media/archive-not-reproduced/version-1.webp",
+          "thumbnail": "media/archive-not-reproduced/version-1-thumb.webp",
+          "width": 1122,
+          "height": 1402,
+          "caption": "早期版本：宽镜面重复更大的黄色背影，台面偏木质；重制版改用窄金框、白色石台和较小的反射。"
+        }
+      ],
+      "image": "media/archive-not-reproduced/art.webp",
+      "thumbnail": "media/archive-not-reproduced/art-thumb.webp",
+      "width": 1120,
+      "height": 1405
+    },
+    {
+      "id": "archive-marilyn-nine",
+      "number": "A07",
+      "title": "玛丽莲式奶蛙：九宫格",
+      "titleEn": "Marilyn-like Milk Frog: Nine Portraits",
+      "year": "2026 · 八月旧作",
+      "medium": "AI 辅助图像 · 数字再创作",
+      "type": "image",
+      "completionStatus": "completed",
+      "alt": "九个朝画面左侧张嘴的黄色角色头像排列成三乘三方阵，底色依次变化，最后一格转为黑灰。",
+      "wallText": "同一张笑脸，被九次不同的颜色重新宣布。最后一格开始让热闹冷下来。",
+      "interpretation": [
+        "头像的朝向、张开的嘴和粗黑阴影在九格中反复出现，背景与肤色偏移则制造差别。观者的目光沿着三乘三阵列移动，既会把它们当成同一个角色，也会被每格独立的明暗与色温拉开。右下角的黑灰格给鲜亮序列设置了一次降温。",
+        "这里转译沃霍尔玛丽莲版画的肖像与配色语言。九宫格是这件再创作自己的展示结构，并非把原作十张版画说成九张。早期版本面向画面右侧；最终向左的修订改变了视线进入每个格子的方向，也保留了印刷式重复中无法完全一致的表情。"
+      ],
+      "tags": [
+        "旧作归档",
+        "Andy Warhol"
+      ],
+      "source": {
+        "artist": "Andy Warhol",
+        "title": "Marilyn Monroe",
+        "note": "来源链接说明艺术关联；本页成品是独立再创作，未收录第三方参考原图。"
+      },
+      "sources": [
+        {
+          "title": "MoMA · Marilyn Monroe",
+          "url": "https://www.moma.org/collection/works/61240"
+        }
+      ],
+      "creationNote": "用户与 AI 在此前创作中共同完成。旧作题名沿用当时命名；奶蛙与奶龙不因混称而被认定为同一官方形象。本次归档新增基于成品的展签与解读。数字图像中的油画、印刷与拼贴质感不表示实际使用了相应实体工艺。",
+      "extraViews": [
+        {
+          "image": "media/archive-marilyn-nine/version-1.webp",
+          "thumbnail": "media/archive-marilyn-nine/version-1-thumb.webp",
+          "width": 1254,
+          "height": 1254,
+          "caption": "早期九宫格：头像面向画面右侧，表情与套色较柔和；最终版本朝向画面左侧。"
+        }
+      ],
+      "image": "media/archive-marilyn-nine/art.webp",
+      "thumbnail": "media/archive-marilyn-nine/art-thumb.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "archive-marilyn-one",
+      "number": "A08",
+      "title": "玛丽莲式奶蛙：单格",
+      "titleEn": "Marilyn-like Milk Frog: One Portrait",
+      "year": "2026 · 八月旧作",
+      "medium": "AI 辅助图像 · 数字再创作",
+      "type": "image",
+      "completionStatus": "completed",
+      "alt": "黄色头像朝画面左侧，绿眼睛与张开的黑嘴突出，洋红背景和黄边包围头部，右侧有黑色网纹。",
+      "wallText": "只有一个头像时，重复仍然藏在印刷的痕迹里。笑容看似直接，阴影却把它切成色版。",
+      "interpretation": [
+        "洋红底色使黄色头部向前凸出，绿眼睛成为最冷的一处色点。面朝左侧的嘴与眼把表情聚在画面一边，右侧粗黑阴影和网纹则让身体像被不同色版拆开。黄色边框把肖像封成一张可以独立流通的符号。",
+        "与九宫格相比，单格迫使观看停留在套色、明暗和轮廓上。旧作保存了正面与面向右侧的两个早期版本，它们并非额外的最终展品。方向修订没有改变角色的颜色线索，却改变了脸在画面中如何与空白、边框和阴影相处。"
+      ],
+      "tags": [
+        "旧作归档",
+        "Andy Warhol"
+      ],
+      "source": {
+        "artist": "Andy Warhol",
+        "title": "Marilyn Monroe",
+        "note": "来源链接说明艺术关联；本页成品是独立再创作，未收录第三方参考原图。"
+      },
+      "sources": [
+        {
+          "title": "MoMA · Marilyn Monroe",
+          "url": "https://www.moma.org/collection/works/61240"
+        }
+      ],
+      "creationNote": "用户与 AI 在此前创作中共同完成。旧作题名沿用当时命名；奶蛙与奶龙不因混称而被认定为同一官方形象。本次归档新增基于成品的展签与解读。数字图像中的油画、印刷与拼贴质感不表示实际使用了相应实体工艺。",
+      "extraViews": [
+        {
+          "image": "media/archive-marilyn-one/version-1.webp",
+          "thumbnail": "media/archive-marilyn-one/version-1-thumb.webp",
+          "width": 1254,
+          "height": 1254,
+          "caption": "早期正面版本：水平的笑线与对称眼部形成直接的头像式展示。"
+        },
+        {
+          "image": "media/archive-marilyn-one/version-2.webp",
+          "thumbnail": "media/archive-marilyn-one/version-2-thumb.webp",
+          "width": 1254,
+          "height": 1254,
+          "caption": "早期侧脸版本：头像面向画面右侧；最终版本朝向左侧，并增强粗黑阴影与张嘴的表情。"
+        }
+      ],
+      "image": "media/archive-marilyn-one/art.webp",
+      "thumbnail": "media/archive-marilyn-one/art-thumb.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "archive-diptych",
+      "number": "A09",
+      "title": "奶龙双联画",
+      "titleEn": "Nailong Diptych",
+      "year": "2026 · 八月旧作",
+      "medium": "AI 辅助图像 · 数字再创作",
+      "type": "image",
+      "completionStatus": "completed",
+      "alt": "三十二张头像按四行八列排列，左半是鲜艳底色与黄色头部，右半转为灰黑并逐渐淡去。",
+      "wallText": "左边把笑脸推向曝光，右边把同一张脸推向消失。重复不是同一种结局。",
+      "interpretation": [
+        "四行八列的头像将画面明确分成两半。左半的彩色底面维持活跃的辨认，右半依次丢失颜色、细节与轮廓；相同单位因此经历两种不同的显影状态。结构越稳定，右边的淡去越像是在稳定秩序内部发生的耗损。",
+        "作品借用《玛丽莲双联画》彩色与灰阶并置的组织方式，人物与数量均由此再创作重新设置，不是原作五十幅头像的复刻。对网络角色而言，重复既可以增加熟悉感，也可以让表情变得机械；这种疲劳是本馆从画面提出的读法，不是已验证的传播效果。"
+      ],
+      "tags": [
+        "旧作归档",
+        "Andy Warhol"
+      ],
+      "source": {
+        "artist": "Andy Warhol",
+        "title": "Marilyn Diptych",
+        "note": "来源链接说明艺术关联；本页成品是独立再创作，未收录第三方参考原图。"
+      },
+      "sources": [
+        {
+          "title": "Tate · Marilyn Diptych",
+          "url": "https://www.tate.org.uk/art/artworks/warhol-marilyn-diptych-t03093"
+        }
+      ],
+      "creationNote": "用户与 AI 在此前创作中共同完成。旧作题名沿用当时命名；奶蛙与奶龙不因混称而被认定为同一官方形象。本次归档新增基于成品的展签与解读。数字图像中的油画、印刷与拼贴质感不表示实际使用了相应实体工艺。",
+      "extraViews": [],
+      "image": "media/archive-diptych/art.webp",
+      "thumbnail": "media/archive-diptych/art-thumb.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "id": "archive-thirty-two",
+      "number": "A10",
+      "title": "三十二个奶龙",
+      "titleEn": "Thirty-two Nailongs",
+      "year": "2026 · 八月旧作",
+      "medium": "AI 辅助图像 · 数字再创作",
+      "type": "image",
+      "completionStatus": "completed",
+      "alt": "三十二个黄色全身角色按四行八列排在浅色格子中，边缘、墨色和身体细节有轻微印刷式差异。",
+      "wallText": "每一格都说自己一样，每一格又泄露一点差异。角色进入了货架般的秩序。",
+      "interpretation": [
+        "全身轮廓取代了双联画的头部特写，奶油腹部、手脚与站姿成为每个重复单位的一部分。整齐的四乘八格阵让角色像一组能够清点的商品，但轮廓缺口、色层和细节的变化又阻止它们变成纯粹的复制。",
+        "这件作品把沃霍尔式商品序列转成身体序列。三十二的数量与货架般的排列是形式上的关联，不说明角色属于某个商品系列。没有变化的姿势令人先看到标准化，细小的不一致则让人重新逐个观看：被批量陈列的身体，仍然没能彻底成为一个标准件。"
+      ],
+      "tags": [
+        "旧作归档",
+        "Andy Warhol"
+      ],
+      "source": {
+        "artist": "Andy Warhol",
+        "title": "Campbell’s Soup Cans",
+        "note": "来源链接说明艺术关联；本页成品是独立再创作，未收录第三方参考原图。"
+      },
+      "sources": [
+        {
+          "title": "MoMA · Campbell’s Soup Cans",
+          "url": "https://www.moma.org/collection/works/79809"
+        }
+      ],
+      "creationNote": "用户与 AI 在此前创作中共同完成。旧作题名沿用当时命名；奶蛙与奶龙不因混称而被认定为同一官方形象。本次归档新增基于成品的展签与解读。数字图像中的油画、印刷与拼贴质感不表示实际使用了相应实体工艺。",
+      "extraViews": [],
+      "image": "media/archive-thirty-two/art.webp",
+      "thumbnail": "media/archive-thirty-two/art-thumb.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "id": "archive-screen-test",
+      "number": "A11",
+      "title": "奶龙试镜",
+      "titleEn": "Nailong Screen Test",
+      "year": "2026 · 八月旧作",
+      "medium": "AI 辅助图像 · 数字再创作",
+      "type": "image",
+      "completionStatus": "completed",
+      "alt": "黑白五乘五接触印样般的方格中，部分角色头像与身体失去细节，画面有颗粒、边框和曝光差异。",
+      "wallText": "试镜的人没有换，影像却在一次次曝光中换了身份。看到最后，只剩一些残留的轮廓。",
+      "interpretation": [
+        "五乘五的黑白格阵像一页摄影接触印样。框线、颗粒与明暗偏移让每格看似记录了一个相近的瞬间，而面孔和身体的辨识度却不断浮动。它没有给出一次足以定案的肖像，只有一组彼此不完全支持的图像证据。",
+        "题名借用沃霍尔试镜的观看情境，本馆展示的是静态数字图像，未将它冒称为实际拍摄的电影。把一个高辨识度角色放入灰阶和过曝的变化中，作品追问了身份究竟依赖色彩、轮廓，还是观者已经知道的名字。"
+      ],
+      "tags": [
+        "旧作归档",
+        "Andy Warhol"
+      ],
+      "source": {
+        "artist": "Andy Warhol",
+        "title": "重复、印刷与公众形象",
+        "note": "来源链接说明艺术关联；本页成品是独立再创作，未收录第三方参考原图。"
+      },
+      "sources": [
+        {
+          "title": "MoMA · Andy Warhol",
+          "url": "https://www.moma.org/artists/6246-andy-warhol"
+        }
+      ],
+      "creationNote": "用户与 AI 在此前创作中共同完成。旧作题名沿用当时命名；奶蛙与奶龙不因混称而被认定为同一官方形象。本次归档新增基于成品的展签与解读。数字图像中的油画、印刷与拼贴质感不表示实际使用了相应实体工艺。",
+      "extraViews": [],
+      "image": "media/archive-screen-test/art.webp",
+      "thumbnail": "media/archive-screen-test/art-thumb.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "archive-peaches",
+      "number": "A12",
+      "title": "黄桃罐头",
+      "titleEn": "Yellow Peaches",
+      "year": "2026 · 八月旧作",
+      "medium": "AI 辅助图像 · 数字再创作",
+      "type": "image",
+      "completionStatus": "completed",
+      "alt": "一只红色、奶油色和黄色的罐头正面居中，标签写着黄桃罐头及英文 Yellow Peaches，并配桃子图案。",
+      "wallText": "角色没有出场，它的黄色却被装进了一只罐头。画面开始像一张过分认真的商品肖像。",
+      "interpretation": [
+        "居中的圆筒、清晰的上下边缘与红白黄分区，构成几乎可以直接阅读的包装。桃子图案和中英文标签把抽象的黄色变成一种食物说明。周围的浅色空白不给场景，罐头只需以正面姿态证明自己是一件可被展示的对象。",
+        "这件作品借用沃霍尔汤罐图像的商品肖像语法，将内容换成黄桃。它与同组奶龙肖像共享黄色线索，但画面没有实际角色，也不构成真实商品或品牌背书。可爱在这里从一个身体转移到口味、颜色和包装的承诺。"
+      ],
+      "tags": [
+        "旧作归档",
+        "Andy Warhol"
+      ],
+      "source": {
+        "artist": "Andy Warhol",
+        "title": "Campbell’s Soup Cans",
+        "note": "来源链接说明艺术关联；本页成品是独立再创作，未收录第三方参考原图。"
+      },
+      "sources": [
+        {
+          "title": "MoMA · Campbell’s Soup Cans",
+          "url": "https://www.moma.org/collection/works/79809"
+        }
+      ],
+      "creationNote": "用户与 AI 在此前创作中共同完成。旧作题名沿用当时命名；奶蛙与奶龙不因混称而被认定为同一官方形象。本次归档新增基于成品的展签与解读。数字图像中的油画、印刷与拼贴质感不表示实际使用了相应实体工艺。",
+      "extraViews": [],
+      "image": "media/archive-peaches/art.webp",
+      "thumbnail": "media/archive-peaches/art-thumb.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "archive-peach-passion",
+      "number": "A13",
+      "title": "黄桃百香果罐头",
+      "titleEn": "Yellow Peach and Passion Fruit",
+      "year": "2026 · 八月旧作",
+      "medium": "AI 辅助图像 · 数字再创作",
+      "type": "image",
+      "completionStatus": "completed",
+      "alt": "一只紫色、奶油色与黄色罐头正面居中，绿条横过标签，文字标明黄桃百香果，图案展示两种水果。",
+      "wallText": "同一只罐头换了口味，也换了颜色的性格。货架上的差异，可以比身体的差异更醒目。",
+      "interpretation": [
+        "紫色标签与黄色果肉在浅色底面上互相衬托，一道窄绿条将文字和图案分层。圆筒轮廓与上一件黄桃罐头保持相近，标签却制造了更强的内部对比。观看容易先停在配色，再回到可读的商品名称。",
+        "两只罐头并置时，重复的包装格式让差异显得像可选择的口味。沃霍尔式序列在此不是增加一张笑脸，而是给一个共同的展示单位安排变化。这里记录的是虚构包装的数字图像；食物与角色之间的关系是色彩联想，不是产品事实。"
+      ],
+      "tags": [
+        "旧作归档",
+        "Andy Warhol"
+      ],
+      "source": {
+        "artist": "Andy Warhol",
+        "title": "Campbell’s Soup Cans",
+        "note": "来源链接说明艺术关联；本页成品是独立再创作，未收录第三方参考原图。"
+      },
+      "sources": [
+        {
+          "title": "MoMA · Campbell’s Soup Cans",
+          "url": "https://www.moma.org/collection/works/79809"
+        }
+      ],
+      "creationNote": "用户与 AI 在此前创作中共同完成。旧作题名沿用当时命名；奶蛙与奶龙不因混称而被认定为同一官方形象。本次归档新增基于成品的展签与解读。数字图像中的油画、印刷与拼贴质感不表示实际使用了相应实体工艺。",
+      "extraViews": [],
+      "image": "media/archive-peach-passion/art.webp",
+      "thumbnail": "media/archive-peach-passion/art-thumb.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "archive-algorithm-belly",
+      "number": "A14",
+      "title": "算法肥腹时代",
+      "titleEn": "The Age of Algorithmic Bellies",
+      "year": "2026 · 八月旧作",
+      "medium": "AI 辅助图像 · 数字再创作",
+      "type": "image",
+      "completionStatus": "completed",
+      "alt": "新闻纸、齿轮、相机、切开的手臂、黄色圆块与绿眼睛密集拼接，右下角有一只小角色。",
+      "wallText": "身体被拆成可交换的零件，又被装回一页噪声之中。肥大的腹部，像一个不肯让出位置的界面。",
+      "interpretation": [
+        "纸张碎片和机械图形不共享同一个透视，黄色圆块、绿眼睛与奶油色腹部因此像被强行装进了一套异物系统。切开的手臂跨越材料边缘，右下角较完整的小角色则提供另一种身体尺度，让上方的拼接显得更加拥挤。",
+        "作品借用汉娜·赫希的摄影蒙太奇语言，以不相容的材料关系取代完整场景。题名中的算法是本作提出的当代比喻：图像可以被分割、排序并重新组成身体；画面本身不能证明某个平台如何运作。那些拒绝接顺的边缘，使拼接的暴力没有被一个可爱表情完全掩盖。"
+      ],
+      "tags": [
+        "旧作归档",
+        "Hannah Höch"
+      ],
+      "source": {
+        "artist": "Hannah Höch",
+        "title": "摄影蒙太奇与身体的拼接",
+        "note": "来源链接说明艺术关联；本页成品是独立再创作，未收录第三方参考原图。"
+      },
+      "sources": [
+        {
+          "title": "MoMA · Hannah Höch",
+          "url": "https://www.moma.org/artists/2675-hannah-hoch"
+        }
+      ],
+      "creationNote": "用户与 AI 在此前创作中共同完成。旧作题名沿用当时命名；奶蛙与奶龙不因混称而被认定为同一官方形象。本次归档新增基于成品的展签与解读。数字图像中的油画、印刷与拼贴质感不表示实际使用了相应实体工艺。",
+      "extraViews": [],
+      "image": "media/archive-algorithm-belly/art.webp",
+      "thumbnail": "media/archive-algorithm-belly/art-thumb.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "id": "archive-beautiful-frog",
+      "number": "A15",
+      "title": "漂亮奶蛙",
+      "titleEn": "The Beautiful Milk Frog",
+      "year": "2026 · 八月旧作",
+      "medium": "AI 辅助图像 · 数字再创作",
+      "type": "image",
+      "completionStatus": "completed",
+      "alt": "细长腿的拼接人形站在竖幅中，一只绿眼嵌入黄色头部，齿轮、悬浮眼睛、奶油色躯干和黑白纸片围绕它。",
+      "wallText": "漂亮被拆成了可以拼装的部件。眼睛、腿与腹部各自到位，身体却没有因此成为一个整体。",
+      "interpretation": [
+        "细长的人形腿与圆钝的黄色头部在比例上互相抵触。单只绿眼、齿轮和漂浮的眼部图形把目光从脸分散到身体之外；奶油色椭圆躯干则维持了少量角色识别。竖幅像一张服装陈列图，却不断暴露部件之间的接缝。",
+        "题名联系赫希《漂亮女孩》所处的身体与媒介拼接语境，作品没有复用原作图片。将“漂亮”变成装配结果，本馆读到的是外观标准与身体经验之间的不稳定关系，而不是把可爱或女性形象当作单一问题的结论。机器部件与角色腹部同时存在，让这个身体无法轻松归入一种类别。"
+      ],
+      "tags": [
+        "旧作归档",
+        "Hannah Höch"
+      ],
+      "source": {
+        "artist": "Hannah Höch",
+        "title": "摄影蒙太奇与身体的拼接",
+        "note": "来源链接说明艺术关联；本页成品是独立再创作，未收录第三方参考原图。"
+      },
+      "sources": [
+        {
+          "title": "MoMA · Hannah Höch",
+          "url": "https://www.moma.org/artists/2675-hannah-hoch"
+        },
+        {
+          "title": "MoMA · The Photomontages of Hannah Höch（展览图录）",
+          "url": "https://www.moma.org/documents/moma_catalogue_241_300063171.pdf"
+        }
+      ],
+      "creationNote": "用户与 AI 在此前创作中共同完成。旧作题名沿用当时命名；奶蛙与奶龙不因混称而被认定为同一官方形象。本次归档新增基于成品的展签与解读。数字图像中的油画、印刷与拼贴质感不表示实际使用了相应实体工艺。",
+      "extraViews": [],
+      "image": "media/archive-beautiful-frog/art.webp",
+      "thumbnail": "media/archive-beautiful-frog/art-thumb.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "archive-higher-traffic",
+      "number": "A16",
+      "title": "高等流量",
+      "titleEn": "Higher Traffic",
+      "year": "2026 · 八月旧作",
+      "medium": "AI 辅助图像 · 数字再创作",
+      "type": "image",
+      "completionStatus": "completed",
+      "alt": "两个黑西装身体并排，左头是一只巨大绿眼，右头是黄色笑嘴；圆腹、图表、传送机械和横跨画面的黄手彼此拼接。",
+      "wallText": "西装保留了权威的外形，头部却被眼睛与笑嘴接管。一个身体负责看，另一个身体负责好看。",
+      "interpretation": [
+        "两件黑西装提供了相似的社会姿态，但头部被拆成不同功能：左侧巨大绿眼持续观看，右侧黄笑嘴持续展示。圆腹里的图形与下方机器又把身体连接到计量和运输的想象。一只跨越画面的黄色手打断了人物之间本应成立的距离。",
+        "赫希式拼接在这里让权威身体无法保持完整。“流量”是题名给予这种组合的一种读法：观看、表情与产出可以被想象为独立模块。画面不提供平台数据，也没有证实这些模块的真实因果关系；它让观者先看见了把人或角色拆成功能的荒诞。"
+      ],
+      "tags": [
+        "旧作归档",
+        "Hannah Höch"
+      ],
+      "source": {
+        "artist": "Hannah Höch",
+        "title": "摄影蒙太奇与身体的拼接",
+        "note": "来源链接说明艺术关联；本页成品是独立再创作，未收录第三方参考原图。"
+      },
+      "sources": [
+        {
+          "title": "MoMA · Hannah Höch",
+          "url": "https://www.moma.org/artists/2675-hannah-hoch"
+        }
+      ],
+      "creationNote": "用户与 AI 在此前创作中共同完成。旧作题名沿用当时命名；奶蛙与奶龙不因混称而被认定为同一官方形象。本次归档新增基于成品的展签与解读。数字图像中的油画、印刷与拼贴质感不表示实际使用了相应实体工艺。",
+      "extraViews": [],
+      "image": "media/archive-higher-traffic/art.webp",
+      "thumbnail": "media/archive-higher-traffic/art-thumb.webp",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "id": "archive-little-sun",
+      "number": "A17",
+      "title": "小太阳",
+      "titleEn": "Little Sun",
+      "year": "2026 · 八月旧作",
+      "medium": "AI 辅助图像 · 数字再创作",
+      "type": "image",
+      "completionStatus": "completed",
+      "alt": "橙色天空中，一轮偏左的黄色太阳带绿眼、笑嘴和奶油色弧边，黑色楔形与飞机般碎片穿过锯齿状地景。",
+      "wallText": "一只眼睛升到了天空。太阳照亮地面，也开始像一个无处可躲的观众。",
+      "interpretation": [
+        "黄色圆面不在画面正中央，而被左侧边界截去一部分；绿眼、微小笑嘴与奶油色弧边使天体仍保留身体的线索。黑色楔形和横过天空的片段破坏了光滑的圆周，下方红褐与黑色地景则以锯齿回应这种割裂。",
+        "与同组密集的新闻纸蒙太奇相比，这件作品用较少的形状完成尺度错位。角色既像提供温度的太阳，又像巡视风景的巨眼。亲近与监视是本馆提出的两种竞争读法；橙黄的暖意并不自动取消黑色切口带来的不安。"
+      ],
+      "tags": [
+        "旧作归档",
+        "Hannah Höch"
+      ],
+      "source": {
+        "artist": "Hannah Höch",
+        "title": "摄影蒙太奇与身体的拼接",
+        "note": "来源链接说明艺术关联；本页成品是独立再创作，未收录第三方参考原图。"
+      },
+      "sources": [
+        {
+          "title": "MoMA · Hannah Höch",
+          "url": "https://www.moma.org/artists/2675-hannah-hoch"
+        }
+      ],
+      "creationNote": "用户与 AI 在此前创作中共同完成。旧作题名沿用当时命名；奶蛙与奶龙不因混称而被认定为同一官方形象。本次归档新增基于成品的展签与解读。数字图像中的油画、印刷与拼贴质感不表示实际使用了相应实体工艺。",
+      "extraViews": [],
+      "image": "media/archive-little-sun/art.webp",
+      "thumbnail": "media/archive-little-sun/art-thumb.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "id": "archive-yellow-order",
+      "number": "A18",
+      "title": "奶黄的秩序",
+      "titleEn": "An Order in Cream Yellow",
+      "year": "2026 · 八月旧作",
+      "medium": "AI 辅助图像 · 数字再创作",
+      "type": "image",
+      "completionStatus": "completed",
+      "alt": "黑色横竖格线分割灰白平面，左下有大块暖黄，近中部有一小块橄榄绿，周边保留不同宽度的空白。",
+      "wallText": "角色被压缩成两种颜色。秩序没有画出它的脸，却给它留下了一个位置。",
+      "interpretation": [
+        "大小不一的矩形由黑色横竖线支撑，左下黄色块承担主要重量，一小块橄榄绿在更高处形成偏心的回应。灰白区域不是单纯背景：它们不同的宽度与高度决定了黄与绿之间的距离，也让视线在封闭和敞开之间切换。",
+        "这件作品借用蒙德里安的平面构成语言，将奶黄与眼部的绿色当作可拆开的身份线索。它没有靠添加眼睛或笑嘴证明主题；题名提供角色联想，结构则必须自行成立。可爱因此暂时变成比例、留白与色彩的关系。"
+      ],
+      "tags": [
+        "旧作归档",
+        "Piet Mondrian"
+      ],
+      "source": {
+        "artist": "Piet Mondrian",
+        "title": "几何构成与色块关系",
+        "note": "来源链接说明艺术关联；本页成品是独立再创作，未收录第三方参考原图。"
+      },
+      "sources": [
+        {
+          "title": "MoMA · Piet Mondrian",
+          "url": "https://www.moma.org/artists/4057-piet-mondrian"
+        }
+      ],
+      "creationNote": "用户与 AI 在此前创作中共同完成。旧作题名沿用当时命名；奶蛙与奶龙不因混称而被认定为同一官方形象。本次归档新增基于成品的展签与解读。数字图像中的油画、印刷与拼贴质感不表示实际使用了相应实体工艺。",
+      "extraViews": [],
+      "image": "media/archive-yellow-order/art.webp",
+      "thumbnail": "media/archive-yellow-order/art-thumb.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "archive-laughing-broadway",
+      "number": "A19",
+      "title": "狂笑百老汇",
+      "titleEn": "Laughing Broadway",
+      "year": "2026 · 八月旧作",
+      "medium": "AI 辅助图像 · 数字再创作",
+      "type": "image",
+      "completionStatus": "completed",
+      "alt": "密集的黄、白、黑与绿色小方块组成满幅正交网格，重复的细条和块面不断被颜色截断。",
+      "wallText": "笑声不在嘴里，在一格接一格的跳动里。黄色开始拥有一座街道的速度。",
+      "interpretation": [
+        "横竖细条与小方块把画面铺成没有单一中心的网。黄色保持持续的节奏，黑与绿则在局部截断它，形成停顿和重拍。较大的浅色空格使密集部分显得更忙，视线沿着网格移动时不断遇到新的岔口。",
+        "作品关联《百老汇爵士乐》对几何与节奏的组织，同时将调色板转向角色的黄绿线索。“狂笑”属于题名的拟声联想，画面并没有完整笑脸。由身体动作到网格运动的转译，使角色可以被拆成一种观看节奏，而不必一直作为图中的居民出现。"
+      ],
+      "tags": [
+        "旧作归档",
+        "Piet Mondrian"
+      ],
+      "source": {
+        "artist": "Piet Mondrian",
+        "title": "Broadway Boogie Woogie",
+        "note": "来源链接说明艺术关联；本页成品是独立再创作，未收录第三方参考原图。"
+      },
+      "sources": [
+        {
+          "title": "MoMA · Broadway Boogie Woogie",
+          "url": "https://www.moma.org/collection/works/78682"
+        }
+      ],
+      "creationNote": "用户与 AI 在此前创作中共同完成。旧作题名沿用当时命名；奶蛙与奶龙不因混称而被认定为同一官方形象。本次归档新增基于成品的展签与解读。数字图像中的油画、印刷与拼贴质感不表示实际使用了相应实体工艺。",
+      "extraViews": [],
+      "image": "media/archive-laughing-broadway/art.webp",
+      "thumbnail": "media/archive-laughing-broadway/art-thumb.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "archive-grid-unruly",
+      "number": "A20",
+      "title": "格栅失控",
+      "titleEn": "The Grid Loses Its Grip",
+      "year": "2026 · 八月旧作",
+      "medium": "AI 辅助图像 · 数字再创作",
+      "type": "image",
+      "completionStatus": "completed",
+      "alt": "黑色正交格线在灰白底面上错开和延伸，右下占据大黄块，右上有较小黄块，左侧留出较大白面。",
+      "wallText": "格子还在坚持整齐，色块已经开始偏向一边。失控不是倒塌，而是秩序稍微接不上。",
+      "interpretation": [
+        "大块黄色向右下聚集，上方的较小黄块继续拉动重心，左侧空白却拒绝用同样重量回应。黑线依旧横平竖直，部分交点和伸出的短段却使边界看起来不再彼此服从。差异很小，因此观看会在“已经排好”与“还没接顺”之间停留。",
+        "与《奶黄的秩序》相比，这件作品保留构成语言，却让重心和格线出现不安定的关系。它不需要画一个失控的角色；角色的黄色在一个原本应当规整的系统中变得难以安置。错位是成品的形式选择，而不是本馆用文字掩盖的图像故障。"
+      ],
+      "tags": [
+        "旧作归档",
+        "Piet Mondrian"
+      ],
+      "source": {
+        "artist": "Piet Mondrian",
+        "title": "几何构成与色块关系",
+        "note": "来源链接说明艺术关联；本页成品是独立再创作，未收录第三方参考原图。"
+      },
+      "sources": [
+        {
+          "title": "MoMA · Piet Mondrian",
+          "url": "https://www.moma.org/artists/4057-piet-mondrian"
+        }
+      ],
+      "creationNote": "用户与 AI 在此前创作中共同完成。旧作题名沿用当时命名；奶蛙与奶龙不因混称而被认定为同一官方形象。本次归档新增基于成品的展签与解读。数字图像中的油画、印刷与拼贴质感不表示实际使用了相应实体工艺。",
+      "extraViews": [],
+      "image": "media/archive-grid-unruly/art.webp",
+      "thumbnail": "media/archive-grid-unruly/art-thumb.webp",
+      "width": 1254,
+      "height": 1254
     }
   ]
 }
