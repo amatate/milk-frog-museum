@@ -935,6 +935,39 @@
       "creationNote": "AI 辅助图像创作；媒介标示描述画面质感。本文解读基于已完成图像。"
     },
     {
+      "id": "016-leave-shadow",
+      "number": "P16",
+      "title": "影子请留步",
+      "titleEn": "Leave Your Shadow Here",
+      "year": "2026",
+      "medium": "AI 辅助二维图像",
+      "type": "image",
+      "completionStatus": "completed",
+      "wallText": "观众来看眼睛，眼睛把观众的影子留下。地面上的黑色轮廓在头顶处被揭起，像胶片一样缓缓卷入瞳孔。银色滚轮让这件不可能的事显得手续完备，金黄与青绿则保持着徽章原本的安静。",
+      "interpretation": [
+        "单眼放大到覆盖墙面，黄外环、青绿中环与黑瞳仍保留徽章的简单结构。地面影子没有停在观看者脚下：它的一端掀起，经过滚轮进入眼睛。视线本来无形，画面却让观看付出一份可被收走的痕迹。滚轮给不可能事件一种普通设备的可信外观。这里是生成式图像中的虚构场景，不是已建成的互动装置，也不声称眼睛具有感知能力。"
+      ],
+      "alt": "白色空间里巨大金黄青绿单眼装在墙上，黑色带子从瞳孔下方滚轮延伸到地面，与右侧观众的影子相连。",
+      "tags": [
+        "原创场景",
+        "奶蛙之眼",
+        "观看",
+        "身份"
+      ],
+      "image": "media/016-leave-shadow/art.webp",
+      "thumbnail": "media/016-leave-shadow/art-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "extraViews": [],
+      "source": {
+        "title": "原创构图",
+        "artist": "",
+        "note": "单眼色彩形态受用户提供徽章参考启发；不复制或公开参考照片，未知商品作者不虚构署名。"
+      },
+      "sources": [],
+      "creationNote": "AI 辅助图像创作；画面为虚构场景。本文解读基于已完成图像。"
+    },
+    {
       "id": "archive-son-of-man",
       "number": "A01",
       "title": "奶蛙版人类之子",
