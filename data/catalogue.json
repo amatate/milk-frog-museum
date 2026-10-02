@@ -797,6 +797,138 @@
       "extraViews": []
     },
     {
+      "id": "012-late-yellow",
+      "number": "P12",
+      "title": "走慢半步的黄色",
+      "titleEn": "Yellow, Half a Step Behind",
+      "medium": "AI 辅助二维图像 · 干墨套印质感",
+      "wallText": "轮廓已经出发，颜色慢了半步。",
+      "interpretation": [
+        "奶蛙向左迈步，胸腹左缘露出纸白，黄色却越过右侧背部轮廓。页角黑黄十字重复了偏差，静止印面因此有了先后次序。",
+        "眼睛与手脚继续保持身体的可辨认性，让迟到发生在颜色而非行动上。纸张、干墨均为数字模拟；这是局部色版错位，并非严格等距平移的物理分色记录。"
+      ],
+      "alt": "暖白纤维纸上一只黄色梨形奶蛙朝左走，黄墨向右越线，右下有错位黑黄十字。",
+      "tags": [
+        "原创场景",
+        "套印错位",
+        "颜色与轮廓"
+      ],
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "image": "media/012-late-yellow/art.webp",
+      "thumbnail": "media/012-late-yellow/art-thumb.webp",
+      "width": 1122,
+      "height": 1402,
+      "extraViews": [],
+      "source": {
+        "title": "原创构图",
+        "artist": "",
+        "note": "使用项目角色参考，无特定历史原作关联。角色相关权利归其权利人。"
+      },
+      "sources": [],
+      "creationNote": "AI 辅助图像创作；媒介标示描述画面质感。本文解读基于已完成图像。"
+    },
+    {
+      "id": "013-shadow-stairs",
+      "number": "P13",
+      "title": "影子还是走楼梯",
+      "titleEn": "The Shadow Takes the Stairs",
+      "medium": "AI 辅助二维图像 · 水粉与彩铅质感",
+      "wallText": "主人走近路，影子照规矩。",
+      "interpretation": [
+        "蓝色空场中的阶梯把画面切成对角线。奶蛙倒挂行走在底面，深蓝影子却逐级踏上台阶。窄影绕过阶梯边连接奶蛙脚与影子，表明两者仍属于彼此，却遵循不同重力。",
+        "画面没有目的地，荒诞集中在同一路径的两套规则。纸面质感数字模拟；拟人化影子并非物理正确投影。"
+      ],
+      "alt": "蓝色背景、粉陶阶梯，黄色奶蛙走在楼梯底面，蓝影踩上方台阶。",
+      "tags": [
+        "原创场景",
+        "影子",
+        "两套重力"
+      ],
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "image": "media/013-shadow-stairs/art.webp",
+      "thumbnail": "media/013-shadow-stairs/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": [],
+      "source": {
+        "title": "原创构图",
+        "artist": "",
+        "note": "使用项目角色参考，无特定历史原作关联。角色相关权利归其权利人。"
+      },
+      "sources": [],
+      "creationNote": "AI 辅助图像创作；媒介标示描述画面质感。本文解读基于已完成图像。"
+    },
+    {
+      "id": "014-zipper-lunch",
+      "number": "P14",
+      "title": "拉链里的午休",
+      "titleEn": "A Lunch Break Inside the Zipper",
+      "medium": "AI 辅助二维图像 · 织物微观尺度插画",
+      "wallText": "午休藏在还没拉好的地方。",
+      "interpretation": [
+        "前景巨型拉头和两列金属齿组成窄谷，奶白空白标签横跨开口成了吊床。纤维缝线被放大，但奶蛙喝茶和伸脚的动作仍是普通午休。",
+        "没有另造袖珍房子，日用品本身提供墙、支点和卧处。暖酒红色削弱巨物的压迫感；这是生成式绘画，不是真实微缩摄影或服装结构示范。"
+      ],
+      "alt": "酒红织物巨型拉链中，一只奶蛙躺在奶白标签吊床上端杯喝茶。",
+      "tags": [
+        "原创场景",
+        "尺度错位",
+        "日用品"
+      ],
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "image": "media/014-zipper-lunch/art.webp",
+      "thumbnail": "media/014-zipper-lunch/art-thumb.webp",
+      "width": 1122,
+      "height": 1402,
+      "extraViews": [],
+      "source": {
+        "title": "原创构图",
+        "artist": "",
+        "note": "使用项目角色参考，无特定历史原作关联。角色相关权利归其权利人。"
+      },
+      "sources": [],
+      "creationNote": "AI 辅助图像创作；媒介标示描述画面质感。本文解读基于已完成图像。"
+    },
+    {
+      "id": "015-sleep-loading",
+      "number": "P15",
+      "title": "先睡，图慢慢加载",
+      "titleEn": "Sleep Until the Image Loads",
+      "medium": "AI 辅助二维图像 · 像素界面物质化",
+      "wallText": "清晰度可以明天再说。",
+      "interpretation": [
+        "灰白透明棋盘被当成场地，黄奶油色像素矩形在左侧和底部仍保持平直。靠近双手的色块却折起并投下淡紫影，变成被子。",
+        "它的颜色来自奶蛙本身，仿佛角色用尚未解析完成的自己盖住自己。困意不等加载完成，技术等待变成日常休息。不是实际解码或加载可视化；棋盘嵌在不透明 PNG 里。"
+      ],
+      "alt": "奶蛙躺在灰白棋盘上，掀起黄奶油像素方块当被子，露头、双手与一脚。",
+      "tags": [
+        "原创场景",
+        "像素被子",
+        "等待与休息"
+      ],
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "image": "media/015-sleep-loading/art.webp",
+      "thumbnail": "media/015-sleep-loading/art-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "extraViews": [],
+      "source": {
+        "title": "原创构图",
+        "artist": "",
+        "note": "使用项目角色参考，无特定历史原作关联。角色相关权利归其权利人。"
+      },
+      "sources": [],
+      "creationNote": "AI 辅助图像创作；媒介标示描述画面质感。本文解读基于已完成图像。"
+    },
+    {
       "id": "archive-son-of-man",
       "number": "A01",
       "title": "奶蛙版人类之子",
