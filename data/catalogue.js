@@ -15,7 +15,13 @@ window.MUSEUM_CATALOGUE = {
       "这个馆收集完成的尝试，也保留各件作品之间的不一致。可爱可以承担庄严，也可以拆掉庄严；梗可以让人进入一张画，但不必替人决定离开时想到什么。"
     ],
     "editionNote": "网页展示版；不含完整分辨率下载。",
-    "archiveNote": "八月旧作归档：20 件作品、6 张早期版本；旧作题名与修订关系保留，展签与解读在本次归档时补充。"
+    "archiveNote": "八月旧作归档：20 件作品、6 张早期版本；旧作题名与修订关系保留，展签与解读在本次归档时补充。",
+    "inspiration": {
+      "title": "奶蛙博物馆 · MUSÉE DU MILK FROG",
+      "url": "https://works.cohub.live/w/157e937b-95da-4c17-add4-f916e37c3574/milk-frog-museum/1980bbadcb26/content/index.html",
+      "intro": "本馆的构想受到这座网页展览的启发：",
+      "note": "感谢这个项目提供的灵感。本馆的作品与解读独立制作；此致谢不表示联名或合作。"
+    }
   },
   "works": [
     {
