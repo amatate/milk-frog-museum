@@ -1,7 +1,7 @@
 {
   "title": "互联网精选",
   "subtitle": "前往作者原帖",
-  "intro": "从作者公开作品中选择三种观看路径：长桌群像、指尖相接与建筑中的仪式感。这里保存我们的文字导览，作品请到作者原帖观看。",
+  "intro": "从作者公开作品中选择四种观看路径：长桌群像、指尖相接、建筑中的仪式感，以及日常容器中的尺度错位。这里保存我们的文字导览，作品请到作者原帖观看。",
   "rightsNote": "作品归各自权利人。以下仅为文字导览与外链推荐；未获本站转载授权，不展示作品媒体，也不计入本馆作品数量。",
   "entries": [
     {
@@ -46,6 +46,19 @@
       "rightsNote": "作者主页要求禁止搬运、参考需署名；这不等于本站获得转载或改编许可。",
       "authorUrl": "https://www.douyin.com/user/MS4wLjABAAAAEMNW23w_VE29VrhYzUf-pvZO9oS31oUdvEXV2vB027o",
       "postUrl": "https://www.douyin.com/video/7659235265252273146"
+    },
+    {
+      "id": "camera-infinite-space",
+      "title": "我做了个相机，拍什么都能变成奶蛙【B站AI创造公开赛】",
+      "author": "無限空間之王",
+      "platform": "Bilibili",
+      "date": "2026年8月",
+      "creationType": "collection",
+      "format": "摄影转译 / 交互实验",
+      "description": "透明瓶中的小角色、汤碗中的温泉和彩虹背景盒内的雕塑，将奶蛙放进可辨认的日用容器和真实背景。尺度错位由容器的口径、边界与镜头中的空间关系建立，适合对照摄影转译和交互实验怎样改变观看。",
+      "sourceNote": "作者注明为非官方同人实验；本页不据此断言全部画面为首创或底层权利已清理。",
+      "rightsNote": "未发现面向本站的转载许可；本站仅作文字导览与原帖链接推荐。",
+      "postUrl": "https://www.bilibili.com/video/BV18huv63EUt/"
     }
   ]
 }
