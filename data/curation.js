@@ -1,6 +1,6 @@
 window.MUSEUM_CURATION = {
   "schemaVersion": 1,
-  "contentVersion": "20261003-modern-art-p18",
+  "contentVersion": "20261003-modern-art-p19",
   "language": "zh-Hans",
   "identity": {
     "name": "奶蛙现代艺术馆",
@@ -9,7 +9,7 @@ window.MUSEUM_CURATION = {
     "tagline": "从一张脸，看到它周围的规则"
   },
   "statistics": {
-    "mainWorks": 48,
+    "mainWorks": 49,
     "halls": 5,
     "earlierVersions": 6,
     "additionalViews": 7,
@@ -19,7 +19,7 @@ window.MUSEUM_CURATION = {
     "title": "奶蛙现代艺术馆",
     "titleEn": "Milk Frog Museum of Modern Art",
     "subtitle": "从一张脸，看到它周围的规则",
-    "intro": "从镜中的背影到失去水的瓷砖，从一枚未读标记到只剩黄色的方块，48件作品追问：一个角色可以改变多少，仍与原来的自己发生关系？沿五个展厅观看，也可按媒介和编号查阅。",
+    "intro": "从镜中的背影到失去水的瓷砖，从一枚未读标记到只剩黄色的方块，49件作品追问：一个角色可以改变多少，仍与原来的自己发生关系？沿五个展厅观看，也可按媒介和编号查阅。",
     "headline": "一只熟悉的身体，\n世界不再严丝合缝。",
     "featuredId": "011-incompatible-lunch",
     "statement": "先认出它，再看它与周围事物的关系。每一次改写，都要说明哪些线索被保住，哪些规则被改变。",
@@ -40,7 +40,7 @@ window.MUSEUM_CURATION = {
     "heroCaption": "展览入口 · P11",
     "latestWorkId": "016-shadow-check-in",
     "primaryAction": "沿五厅开始观看",
-    "secondaryAction": "查阅全部48件作品",
+    "secondaryAction": "查阅全部49件作品",
     "prefaceTitle": "从一处具体的关系开始",
     "preface": [
       "一只黄色身体站在镜前，镜子没有交出它的脸。换一幅图，它已坐好，桌子、盘子和椅子却没能组成同一间屋子。再往后，眼睛、手脚和腹部陆续退场，题名仍请我们在一块黄色里寻找奶蛙。",
@@ -82,7 +82,7 @@ window.MUSEUM_CURATION = {
   ],
   "collection": {
     "title": "作品总目录",
-    "intro": "48件主展品各有一个主要展厅。主题路线安排观看顺序；媒介、编号和旧作归档筛选帮助查找。六张早期版本保留在对应作品页，附加视角也随原作品展示。",
+    "intro": "49件主展品各有一个主要展厅。主题路线安排观看顺序；媒介、编号和旧作归档筛选帮助查找。六张早期版本保留在对应作品页，附加视角也随原作品展示。",
     "mediumDescriptions": {
       "image": "生成式图像中的构图、色彩与媒介模拟，包括历史关联改写和新的场景安排。",
       "3d": "通过Blender建模、材质和灯光组织的数字雕塑与姿态；网页展示渲染图及部分附加视角。",
@@ -144,6 +144,7 @@ window.MUSEUM_CURATION = {
       "archive-algorithm-belly",
       "archive-beautiful-frog",
       "archive-higher-traffic",
+      "019-numbers-wait-for-me",
       "archive-little-sun",
       "archive-laughter-and-andy",
       "archive-yellow-square",
@@ -372,7 +373,8 @@ window.MUSEUM_CURATION = {
         "lead": "重复先把角色排成序列，随后把它拆成可以单独工作的眼睛、嘴与腹部。",
         "paragraphs": [
           "本厅从一张头像开始，依次扩展为九宫格、双联排列、三十二个全身像与黑白接触印样般的网格。请比较重复单位、朝向、颜色和清晰度；格子数增加，并不意味着每格的作用相同。九宫格和单格所附的早期版本，还可以帮助观察朝向与表情的调整。",
-          "两只罐头把身体暂时换成包装格式，之后的蒙太奇又将眼、嘴、四肢与机械图形分开。观看、展示和计量在画面上成为可拼装的功能。题名可以将这种分工引向流量与平台问题，但这些作品没有提供推荐数据或真实商品记录；社会机制的判断，需要另到研究区查证。"
+          "两只罐头把身体暂时换成包装格式，之后的蒙太奇又将眼、嘴、四肢与机械图形分开。观看、展示和计量在画面上成为可拼装的功能。题名可以将这种分工引向流量与平台问题，但这些作品没有提供推荐数据或真实商品记录；社会机制的判断，需要另到研究区查证。",
+          "《号码替我排队》把分工交给了一张可以握在手里的小票。相同格式的三张号码纸依次走向窗口，奶蛙则在队列外坐着。复制的是票据格式，分开的是等待与站立；黑白队列和黄色身体分别保留两种同时发生的节奏。"
         ],
         "question": "是同一个单位被重复，还是重复的格式正在改变这个单位？",
         "nextTransition": "身体拆开之后，第五厅接过剩余的颜色、线条与节奏。",
@@ -413,6 +415,14 @@ window.MUSEUM_CURATION = {
               "archive-beautiful-frog",
               "archive-higher-traffic"
             ]
+          },
+          {
+            "id": "reproduction-4",
+            "title": "号码接过身体的等待",
+            "description": "纸张上的顺序不再只是指向身体，它长出腿，实际执行站立与排队。",
+            "workIds": [
+              "019-numbers-wait-for-me"
+            ]
           }
         ],
         "workIds": [
@@ -425,9 +435,10 @@ window.MUSEUM_CURATION = {
           "archive-peach-passion",
           "archive-algorithm-belly",
           "archive-beautiful-frog",
-          "archive-higher-traffic"
+          "archive-higher-traffic",
+          "019-numbers-wait-for-me"
         ],
-        "workCount": 10
+        "workCount": 11
       },
       {
         "id": "abstraction",
@@ -1258,6 +1269,25 @@ window.MUSEUM_CURATION = {
       ],
       "sequencePosition": 40,
       "previousWorkId": "archive-beautiful-frog",
+      "nextWorkId": "019-numbers-wait-for-me"
+    },
+    {
+      "workId": "019-numbers-wait-for-me",
+      "number": "P19",
+      "title": "号码替我排队",
+      "primaryHallId": "reproduction",
+      "clusterId": "reproduction-4",
+      "hallPosition": 11,
+      "route": "#/work/019-numbers-wait-for-me",
+      "lookFor": "从手中的03小票看向地面上的03、02、01，再确认号码纸离窗口的距离和坐着的身体所在的位置。",
+      "placementRationale": "接在眼睛与嘴的身体分工之后，让号码纸成为执行等待的替身；比较符号怎样指向身体，又怎样接过身体的工作。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "abstract-culture-platforms-and-commerce"
+      ],
+      "sequencePosition": 41,
+      "previousWorkId": "archive-higher-traffic",
       "nextWorkId": "archive-little-sun"
     },
     {
@@ -1275,8 +1305,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 41,
-      "previousWorkId": "archive-higher-traffic",
+      "sequencePosition": 42,
+      "previousWorkId": "019-numbers-wait-for-me",
       "nextWorkId": "archive-laughter-and-andy"
     },
     {
@@ -1294,7 +1324,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 42,
+      "sequencePosition": 43,
       "previousWorkId": "archive-little-sun",
       "nextWorkId": "archive-yellow-square"
     },
@@ -1313,7 +1343,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 43,
+      "sequencePosition": 44,
       "previousWorkId": "archive-laughter-and-andy",
       "nextWorkId": "archive-yellow-order"
     },
@@ -1332,7 +1362,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 44,
+      "sequencePosition": 45,
       "previousWorkId": "archive-yellow-square",
       "nextWorkId": "archive-laughing-broadway"
     },
@@ -1351,7 +1381,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 45,
+      "sequencePosition": 46,
       "previousWorkId": "archive-yellow-order",
       "nextWorkId": "archive-grid-unruly"
     },
@@ -1370,7 +1400,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 46,
+      "sequencePosition": 47,
       "previousWorkId": "archive-laughing-broadway",
       "nextWorkId": "016-shadow-check-in"
     },
@@ -1389,7 +1419,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 47,
+      "sequencePosition": 48,
       "previousWorkId": "archive-grid-unruly",
       "nextWorkId": "017-eye-at-low-tide"
     },
@@ -1408,7 +1438,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 48,
+      "sequencePosition": 49,
       "previousWorkId": "016-shadow-check-in",
       "nextWorkId": null
     }
@@ -1544,6 +1574,16 @@ window.MUSEUM_CURATION = {
       ],
       "text": "一件把水的波纹留在干燥瓷砖上，一件让云经压面机成为落到砖地的雨。比较水与砖的关系：硬砖保留流动的形状，白云排成整齐的雨线。两件改变的规则不同，日常地面仍提供可以辨认的尺度。",
       "primaryHallId": "everyday"
+    },
+    {
+      "id": "delegated-bodies",
+      "title": "身体把工作交给谁",
+      "workIds": [
+        "archive-higher-traffic",
+        "019-numbers-wait-for-me"
+      ],
+      "text": "一件把眼睛和嘴分到两具身体，另一件让号码纸接过站立排队的工作。比较动作、身份线索和空间距离怎样说明分工；两者都是画内的安排，不是实际服务制度或平台数据记录。",
+      "primaryHallId": "reproduction"
     }
   ],
   "routes": [
@@ -1636,7 +1676,8 @@ window.MUSEUM_CURATION = {
           "009-verification",
           "012-late-yellow",
           "017-eye-at-low-tide",
-          "018-handmade-rain"
+          "018-handmade-rain",
+          "019-numbers-wait-for-me"
         ],
         "relationship": "本卡片主列作品为本文直接细读对象，另列作品供延伸对照。研究所用角色参考不在此自动追加为独立展品。",
         "route": "#/essay/simple-forms-complex-expression"
@@ -1683,7 +1724,10 @@ window.MUSEUM_CURATION = {
           "archive-higher-traffic"
         ],
         "relationship": "延伸阅读：这些展品提供复制、包装与功能拆分的形式对照，不是平台传播或收益的实测样本。",
-        "route": "#/essay/abstract-culture-platforms-and-commerce"
+        "route": "#/essay/abstract-culture-platforms-and-commerce",
+        "relatedWorkIds": [
+          "019-numbers-wait-for-me"
+        ]
       }
     ],
     "labels": {
@@ -1711,7 +1755,8 @@ window.MUSEUM_CURATION = {
           "青铜、石灰岩、大理石和陶釉指数字模拟的材料外观，本站并未声称陈列这些实体雕塑。图像中的纸张、滴洒和拼贴边缘也可能由生成模型描绘，不能直接当作手工物质过程的痕迹。",
           "《走慢半步的黄色》模拟局部套印失配，并非严格的物理分色实验；《影子还是走楼梯》采用影子拟人化；《拉链里的午休》是二维插画；《先睡，图慢慢加载》的像素与棋盘格是画面内容，不是实时加载记录。《影子请留步》描绘影子成为黑带的视觉不可能，并非实际光学装置、现场安装或运动演示。",
           "《退潮以后，眼睛还在》把同心色环描绘为潮滩，并以浴缸塞制造尺度错位；海水从黑瞳漏走是图像设定，不是实地排水装置或潮汐记录。",
-          "《今日小雨，手工现做》让家用压面机把云加工成雨。水彩、纸张和干彩铅外观是数字模拟，画面也不是实际机械加工或天气实验。"
+          "《今日小雨，手工现做》让家用压面机把云加工成雨。水彩、纸张和干彩铅外观是数字模拟，画面也不是实际机械加工或天气实验。",
+          "《号码替我排队》的黑白墨块、磨损边缘与半调网点是数字生成的印刷模拟。号码纸自行排队是画内的替身机制，不是实际办事程序，也不声称真实印制。"
         ]
       },
       {
@@ -1724,7 +1769,7 @@ window.MUSEUM_CURATION = {
       {
         "title": "版本为什么留下",
         "paragraphs": [
-          "现有图录包含48件主展品；另有6张早期版本，附属于A03、A05、A06、A07和A08。它们用于比较图像选择，不另计为主展品。三维作品的附加视角展示同一件作品的其他角度，也不计为新作品。",
+          "现有图录包含49件主展品；另有6张早期版本，附属于A03、A05、A06、A07和A08。它们用于比较图像选择，不另计为主展品。三维作品的附加视角展示同一件作品的其他角度，也不计为新作品。",
           "八月旧作的原题名与版本关系保留，展签和解读在归档时补充。旧题名中的“奶龙”或“Nailong”是历史记录的一部分，不据此把所有形象认定为官方奶龙，也不将归档日期倒写成首次创作日期。"
         ]
       },
