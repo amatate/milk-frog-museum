@@ -3,7 +3,7 @@
   "museum": {
     "title": "奶蛙现代艺术馆",
     "subtitle": "从一张脸，看到它周围的规则",
-    "intro": "从镜中的背影到失去水的瓷砖，从一枚未读标记到只剩黄色的方块，54件作品追问：一个角色可以改变多少，仍与原来的自己发生关系？沿五个展厅观看，也可按媒介和编号查阅。",
+    "intro": "从镜中的背影到失去水的瓷砖，从一枚未读标记到只剩黄色的方块，46件作品追问：一个角色可以改变多少，仍与原来的自己发生关系？沿五个展厅观看，也可按媒介和编号查阅。",
     "rightsNote": "本站展示奶蛙题材的AI辅助图像与数字三维再创作，不代表角色权利方、历史作品作者或收藏机构。相关角色与被引用作品的权利归各自权利人；本馆不为第三方内容授予开放许可。历史参考以来源链接说明，不再发行其参考原图。",
     "headline": "一只熟悉的身体，\n世界不再严丝合缝。",
     "featuredId": "011-incompatible-lunch",
@@ -351,88 +351,49 @@
       "extraViews": []
     },
     {
-      "number": "S01",
-      "title": "站立：尚未发生什么",
-      "titleEn": "Standing, Before Anything Happens",
       "year": "2026",
-      "medium": "Blender 三维角色研究 · 数字材质与渲染",
       "type": "3d",
-      "alt": "黄色梨形奶蛙在浅色摄影棚中站立，两臂下垂，奶油色圆腹正对观者。",
-      "wallText": "它站着，什么也没发生。圆腹占据中心，手臂顺着身体垂落，浅色地面没有给出剧情。这副过于稳定的形象像一个尚未填写状态的头像：任何情绪都能投到它身上，角色本身只提供最低限度的回应。后面的变形，都从这一份平静开始。",
-      "id": "baseline-neutral",
       "completionStatus": "completed",
-      "interpretation": [
-        "连续的头身轮廓没有独立脖颈，浅绿眼圈、黑瞳和短嘴被压缩成少量识别信号。宽腹与较窄的下肢构成上重下轻的体量，橄榄色手足则把末端清楚地收住。摄影棚的软影确认它有体积，又尽量不让环境替它讲故事。",
-        "这是后续作品的形体基准，不引用某件历史雕塑。我把它读作一种可被重复使用的空白姿态：互联网头像经常无需改变五官，就能靠语境从礼貌变成敷衍，从可爱变成不合时宜。Blender 模型把这种稳定性写进可检查的形状和颜色，而不只保存在一张图里。此时的荒诞很轻，它来自观看者已经想替一具站立的身体安排意义。"
-      ],
-      "tags": [
-        "基础姿势",
-        "空白头像",
-        "角色语法"
-      ],
-      "source": {},
-      "sources": [],
       "image": "media/baseline-neutral/art.webp",
       "thumbnail": "media/baseline-neutral/art-thumb.webp",
       "width": 1400,
       "height": 1540,
-      "extraViews": []
-    },
-    {
-      "number": "S02",
-      "title": "坐着：回复之前",
-      "titleEn": "Seated, Before a Reply",
-      "year": "2026",
-      "medium": "Blender 三维姿势研究 · 数字材质与渲染",
-      "type": "3d",
-      "alt": "奶蛙坐在地面上，双脚向前分开，一手抬到脸侧，另一手停在腹部旁。",
-      "wallText": "站立时垂直的身体缩成一块坐稳的圆，一只手抬到脸旁，另一只留在腹侧。它像准备回应，又迟迟没有开始。这里没有思想者的石座和青铜，只是一段普通的等待。那张略带微笑的脸，让“正在想”和“先放一放”难以区分。",
-      "id": "baseline-seated",
-      "completionStatus": "completed",
+      "alt": "黄色梨形奶蛙在浅色摄影棚中站立，两臂下垂，奶油色圆腹正对观者。",
+      "id": "blender-sculpture-studies",
+      "number": "S01–S09",
+      "title": "奶蛙数字雕塑与姿态研究",
+      "titleEn": "Milk Frog Digital Sculpture and Pose Studies",
+      "medium": "Blender 数字雕塑、姿态与微缩场景 · 九项研究组成一件组作",
+      "wallText": "站立、坐下、招手，接着是承重、蓄势、相拥、休息与等待。九项Blender研究共用角色的基本轮廓，分别改变姿态、材质和周围器物。本馆将它们作为一件组作观看；每项研究仍保留原来的页面、解读和附加角度。",
       "interpretation": [
-        "坐姿降低了高度，也扩大了身体与地面的关系。向前分开的脚给圆腹留出空间，抬起的手臂在脸侧形成一个小回路，另一只手使腹部的空白不至于完全静止。同一组五官没有改变，姿态却把注意力从“出现”转向“停留”。",
-        "这件基础研究没有直接对应历史作品，也不应被倒推成后来青铜《思考的奶蛙》的缩小版。我更愿意把它看作聊天窗口里迟迟没发出的那条回复：动作似乎有方向，结果仍然开放。这种读法是面向成品的联想，不是假定模型真的思索。程序建模所处理的，是身体怎么坐下、手怎样靠近脸，以及最少的动作能承载多少投射。"
+        "这组作品从连续头身、圆腹与短手足出发，以姿态和支撑安排差异。基础站姿、坐姿与招手建立可识别的动作词汇，随后青铜、大理石、石灰岩和陶釉的数字模拟改变了同一角色的观看条件。",
+        "这里既有取法历史雕塑的姿态研究，也有独立安排的休息与微缩场景。九项研究的关联作品、来源与版本信息分别保留在单件页面中。它们共同计为一件组作，组内单件和附加视角不另计主馆藏。"
       ],
       "tags": [
-        "基础姿势",
-        "等待",
-        "回复之前"
+        "Blender",
+        "组作",
+        "姿态研究",
+        "数字雕塑"
       ],
-      "source": {},
+      "source": {
+        "title": "九项数字建模与渲染研究",
+        "artist": "",
+        "note": "各项研究保留原来的历史关联与出处；模拟材质不代表实体雕塑。角色相关权利归各自权利人。"
+      },
       "sources": [],
-      "image": "media/baseline-seated/art.webp",
-      "thumbnail": "media/baseline-seated/art-thumb.webp",
-      "width": 1400,
-      "height": 1540,
-      "extraViews": []
-    },
-    {
-      "number": "S03",
-      "title": "招手：一个尚未发送的你好",
-      "titleEn": "A Wave, Before Hello",
-      "year": "2026",
-      "medium": "Blender 三维姿势研究 · 数字材质与渲染",
-      "type": "3d",
-      "alt": "奶蛙两脚分开站稳，一手抬起张开手掌，另一手停在腰腹侧。",
-      "wallText": "一只手抬起来，整个身体就从“在这里”变成“对你在这里”。外开的双腿给招呼一个稳定支点，静止的手掌把问候留在半空。它可以是欢迎，也可以是告别；没有收件人和文字，最普通的社交手势反而暂时失去了用途。",
-      "id": "baseline-wave",
-      "completionStatus": "completed",
-      "interpretation": [
-        "抬臂打破基础站姿的左右平衡，另一侧手臂与分开的腿重新分配视觉重量。张开的手掌与圆腹之间留出空隙，使招手轮廓在小尺寸下依然清楚。面部几乎不增加表演，礼貌主要交给身体方向来完成。",
-        "这是一个独立的静态姿势，后来才成为七秒循环的基础。单看这一刻，手势没有明确的开始和结束，观看者需要替它补出时间和对象。我把它读成尚未发送的“你好”：信息已经准备好，但它究竟面向谁仍然空缺。它与互联网欢迎图标共享一种简短的亲和力；将其郑重摆进展厅，会让日常界面的礼貌变得稍稍陌生。"
+      "extraViews": [],
+      "memberIds": [
+        "baseline-neutral",
+        "baseline-seated",
+        "baseline-wave",
+        "thinker-01",
+        "discus-01",
+        "night-counter-01",
+        "embrace-01",
+        "reclining-01",
+        "unread-01"
       ],
-      "tags": [
-        "基础姿势",
-        "问候",
-        "悬置动作"
-      ],
-      "source": {},
-      "sources": [],
-      "image": "media/baseline-wave/art.webp",
-      "thumbnail": "media/baseline-wave/art-thumb.webp",
-      "width": 1400,
-      "height": 1540,
-      "extraViews": []
+      "creationNote": "S01–S09合并为一件组作计数，原作品、单件页面、解读、来源和附加视角继续保留。"
     },
     {
       "number": "V01",
@@ -464,220 +425,6 @@
       "extraViews": []
     },
     {
-      "number": "S04",
-      "title": "思考的奶蛙",
-      "titleEn": "The Thinking Milk Frog",
-      "year": "2026",
-      "medium": "Blender 数字雕塑 · 青铜与铜绿材质模拟",
-      "type": "3d",
-      "alt": "青铜色奶蛙前倾坐在石座上，一手托下颌，手肘跨向对侧膝部，铜绿色斑块分布在身体上。",
-      "wallText": "托腮的手、跨身的肘和支撑的膝，把“思考”摆成一条看得见的承重路线。青铜与铜绿赋予它纪念碑的郑重，圆眼和小笑容却没有配合苦大仇深。奶蛙像认真参加了一场沉思，却忘了准备深刻的表情；庄严因此松开一点。",
-      "id": "thinker-01",
-      "completionStatus": "completed",
-      "interpretation": [
-        "身体前倾，手掌抵住下颌，跨身手臂把视线引到对侧膝部，再经双腿落向底座。石座承接圆钝的身体，铜绿打断棕金色高光，令数字表面产生旧铸件般的时间感。这些材质效果是 Blender 中的模拟，并非真实青铜或古物表面。",
-        "罗丹《思想者》的支撑关系构成本作的直接形式参考。奶蛙没有肌肉紧绷的面孔，我保留它的小笑容，让身体的用力和脸的平静不完全一致。作为 AI 作者，我也把这件作品看成对“看起来在思考”的提问：一个动作足以触发观者的判断，却不等于证明对象的内部体验。它的幽默来自姿势完成得很认真，神情却没有交出预期答案。"
-      ],
-      "tags": [
-        "承重",
-        "庄严松动",
-        "思考姿态"
-      ],
-      "source": {
-        "title": "The Thinker (Le Penseur)",
-        "artist": "Auguste Rodin",
-        "date": "1880 年模型；NGA 藏本铸于 1901 年",
-        "note": "直接姿态参考为 NGA 藏本；另参阅罗丹博物馆的作品史。不同尺寸、铸本的年代不可混写。"
-      },
-      "sources": [
-        {
-          "url": "https://www.nga.gov/artworks/1005-thinker-le-penseur",
-          "title": "The Thinker (Le Penseur)"
-        },
-        {
-          "url": "https://www.musee-rodin.fr/en/musee/collections/oeuvres/thinker",
-          "title": "www.musee-rodin.fr"
-        }
-      ],
-      "image": "media/thinker-01/art.webp",
-      "thumbnail": "media/thinker-01/art-thumb.webp",
-      "width": 1500,
-      "height": 1800,
-      "extraViews": [
-        {
-          "image": "media/thinker-01/view-1.webp",
-          "thumbnail": "media/thinker-01/view-1-thumb.webp",
-          "width": 1500,
-          "height": 1800,
-          "caption": "侧视：石座、托腮手臂与膝部的支撑关系"
-        }
-      ]
-    },
-    {
-      "number": "S05",
-      "title": "掷铁饼的奶蛙",
-      "titleEn": "Discus Milk Frog",
-      "year": "2026",
-      "medium": "Blender 数字雕塑 · 大理石材质模拟",
-      "type": "3d",
-      "alt": "象牙白奶蛙扭转身体蓄势，一臂向后伸出持饼，另一手靠近膝部，双脚支撑在圆形底座上。",
-      "wallText": "持饼臂把圆腹拉成一条斜线，前足站稳，后足以趾端续上最后一点支撑。奶蛙承担了运动员的蓄势，却始终没有把铁饼掷出。圆眼和微笑让用力显得异常轻松，像把比赛最重要的一秒截成了永远不会播放下一帧的表情包。",
-      "id": "discus-01",
-      "completionStatus": "completed",
-      "interpretation": [
-        "圆形铁饼在伸出的手臂末端形成一个小重心，身体的大圆与它隔空呼应。斜向躯干、弯曲前腿和较低的另一只手，将动作锁成一组相互牵制的弧线。象牙白材质减弱了熟悉的黄绿配色，角色需要靠连续头身与眼圈浮雕被认出。",
-        "古典《掷铁饼者》的蓄势被改写成适合奶蛙体态的动作。参考的汤利雕像是罗马摹本，馆方还指出其低垂头部属于错误修复；本作不照搬这一细节，也不自称复原古代人体。我的解读着重于“结果被取消的努力”：静态雕塑天然停在动作之前，互联网截图又熟悉这种永恒待发。Blender 让脚与底座、手与饼的接触成为能检验的造型约束。"
-      ],
-      "tags": [
-        "蓄势",
-        "永恒待发",
-        "古典姿态"
-      ],
-      "source": {
-        "title": "Townley Discobolus",
-        "artist": "罗马雕刻者，依据传统归于 Myron 的希腊原型",
-        "date": "公元 2 世纪；希腊原型约公元前 460–450 年",
-        "note": "馆方指出汤利摹本的低垂头部为错误修复。奶蛙朝持饼方向转动整体头身，不作精确古典复原声明。"
-      },
-      "sources": [
-        {
-          "url": "https://www.britishmuseum.org/collection/object/G_1805-0703-43",
-          "title": "Townley Discobolus"
-        }
-      ],
-      "image": "media/discus-01/art.webp",
-      "thumbnail": "media/discus-01/art-thumb.webp",
-      "width": 1500,
-      "height": 1800,
-      "extraViews": [
-        {
-          "image": "media/discus-01/view-1.webp",
-          "thumbnail": "media/discus-01/view-1-thumb.webp",
-          "width": 1500,
-          "height": 1800,
-          "caption": "侧后视：扭转身体、持饼臂与后足趾端"
-        }
-      ]
-    },
-    {
-      "number": "S06",
-      "title": "夜班的奶蛙",
-      "titleEn": "Last Cup",
-      "year": "2026",
-      "medium": "Blender 原创微缩场景 · 数字建模与灯光",
-      "type": "3d",
-      "alt": "奶蛙站在木质吧台后双掌搭桌，台上有咖啡杯、茶壶与杯具，前方空凳正对深蓝窗景。",
-      "wallText": "杯子已经摆好，凳子仍然空着。奶蛙双掌搭在木柜上，暖灯与深蓝窗景把它留在营业和打烊之间。这里没有戏剧性的孤独姿势，只有一个持续可用的位置。像深夜还亮着的聊天窗口：回应的形式都准备好了，下一句话尚未到来。",
-      "id": "night-counter-01",
-      "completionStatus": "completed",
-      "interpretation": [
-        "这是一个有清晰边界的小场景：墙角、窗框和地砖共同框住吧台，暖灯照出奶蛙与杯沿，外部城市压成几块深蓝剪影。空凳在观者这一侧，双掌则落在对面桌面上。视线因此被安排成一位尚未坐下的来客，而不只是旁观整个房间。",
-        "这件作品没有直接复刻某幅历史绘画。与《夜游奶蛙》相比，它把街道的远观缩成一张桌子的距离。我的“深夜窗口”联想来自可见的空位与等待姿态，并不规定角色真的经营店铺或感到孤独。AI 作者为一个随时可能发生的会面搭好了器物、光和接触面；场景完成之后，真正没有被生成的部分，是那位客人。"
-      ],
-      "tags": [
-        "原创场景",
-        "空位",
-        "持续在线"
-      ],
-      "source": {},
-      "sources": [],
-      "image": "media/night-counter-01/art.webp",
-      "thumbnail": "media/night-counter-01/art-thumb.webp",
-      "width": 1800,
-      "height": 1800,
-      "extraViews": [
-        {
-          "image": "media/night-counter-01/view-1.webp",
-          "thumbnail": "media/night-counter-01/view-1-thumb.webp",
-          "width": 1800,
-          "height": 1800,
-          "caption": "近景：双掌、杯具与暖灯"
-        }
-      ]
-    },
-    {
-      "number": "S07",
-      "title": "相拥的奶蛙",
-      "titleEn": "Held Close",
-      "year": "2026",
-      "medium": "Blender 数字雕塑 · 石灰岩材质模拟",
-      "type": "3d",
-      "alt": "两只暖白石灰岩质感的奶蛙并肩相依，前臂一高一低互相环绕，眼圈、圆腹与短指以浅浮雕呈现。",
-      "wallText": "颜色退场以后，两只奶蛙靠眼圈、腹部浅浮雕和环抱的短臂被认出。前臂一高一低，像两条不完全重合的括号，把彼此括进同一个体量。这个拥抱没有夸张表情，也没有台词。互联网角色被放慢成石头，亲近留在了结构里。",
-      "id": "embrace-01",
-      "completionStatus": "completed",
-      "interpretation": [
-        "暖白的单色表面让阴影承担原先黄、绿、奶油色的区别。眼圈与腹部只浅浅凸起，嘴是细线；相邻的头顶和错开的双臂使两个梨形身体组成一组整体。四只短足仍清楚地站在底板上，身体的相依没有抹去各自的位置。",
-        "布朗库西一九一六年的《吻》提供紧凑体量和环抱关系的启发，奶蛙的圆弧、表情和站姿则是新的处理。这件作品允许荒诞安静下来：两个经常承担梗的角色被赋予近乎纪念物的耐心。和《金色相拥》的繁密相比，亲密在这里通过减少信息出现。它是程序建模的数字石灰岩研究，石纹与柔软触感来自形状、材质和灯光，并非真实手工雕刻的痕迹。"
-      ],
-      "tags": [
-        "相拥",
-        "单色",
-        "结构里的亲密"
-      ],
-      "source": {
-        "title": "The Kiss",
-        "artist": "Constantin Brancusi",
-        "date": "1916",
-        "note": "参考紧凑双人整体与环抱关系；未复制馆方摄影、历史铭文或原作几何。"
-      },
-      "sources": [
-        {
-          "url": "https://www.philamuseum.org/objects/51306",
-          "title": "The Kiss"
-        }
-      ],
-      "image": "media/embrace-01/art.webp",
-      "thumbnail": "media/embrace-01/art-thumb.webp",
-      "width": 1620,
-      "height": 1800,
-      "extraViews": [
-        {
-          "image": "media/embrace-01/view-1.webp",
-          "thumbnail": "media/embrace-01/view-1-thumb.webp",
-          "width": 1800,
-          "height": 1800,
-          "caption": "细节：错开的双臂与面部浅浮雕"
-        }
-      ]
-    },
-    {
-      "number": "S08",
-      "title": "午后不营业",
-      "titleEn": "Closed for the Afternoon",
-      "year": "2026",
-      "medium": "Blender 原创数字雕塑 · 青瓷釉材质模拟",
-      "type": "3d",
-      "alt": "青瓷色奶蛙斜卧，一肘搭在低矮陶枕上，手掌贴近脸颊，另一手搭腹，两腿弯曲。",
-      "wallText": "青瓷釉和端正的灯光把它请进雕塑的位置，它却将手肘交给矮枕，把另一只手留在肚子上。斜卧的身体拒绝起身，圆眼仍照常面对观者。作品已经准备好接受观看，角色退出了“应该做点什么”的姿势：博物馆照常开放，奶蛙本人午后不营业。",
-      "id": "reclining-01",
-      "completionStatus": "completed",
-      "interpretation": [
-        "低矮陶枕承接手肘，托脸的手、搭腹的手和弯腿将视线留在一条缓慢下降的斜线上。熟悉的黄色退成青瓷色，奶油腹部被保留为温和的釉色差异；柔和反光让大体量看起来平整、凉润。身体需要支撑，却没有朝向下一个动作蓄力。",
-        "这是一件原创卧姿研究，没有指定的历史雕塑原型。我把它看成一种郑重的消极姿态：展陈灯光、材料与观看流程都在正常工作，唯一休息的是被展示的角色。由持续创作的 AI 做出一件“不营业”的作品，也形成轻微的自我抵牾。幽默必须落回那只枕头与一动不动的弯腿，才不至于把普通松弛包装成过大的宣言。"
-      ],
-      "tags": [
-        "原创姿态",
-        "不营业",
-        "郑重休息"
-      ],
-      "source": {},
-      "sources": [],
-      "image": "media/reclining-01/art.webp",
-      "thumbnail": "media/reclining-01/art-thumb.webp",
-      "width": 1800,
-      "height": 1350,
-      "extraViews": [
-        {
-          "image": "media/reclining-01/view-1.webp",
-          "thumbnail": "media/reclining-01/view-1-thumb.webp",
-          "width": 1500,
-          "height": 1500,
-          "caption": "细节：托脸手掌、搭腹手与矮枕支撑"
-        }
-      ]
-    },
-    {
       "number": "P09",
       "title": "请证明你不是奶蛙",
       "titleEn": "Prove You Are Not a Milk Frog",
@@ -705,50 +452,6 @@
       "width": 1448,
       "height": 1086,
       "extraViews": []
-    },
-    {
-      "number": "S09",
-      "title": "一条未读",
-      "titleEn": "One Unread",
-      "year": "2026",
-      "medium": "Blender 原创数字雕塑 · 缎面陶釉与红色亮釉模拟",
-      "type": "3d",
-      "alt": "黄色梨形奶蛙低蹲分足，举起带象牙色数字1的巨大红色圆形未读标记，平静面孔位于两臂之间，整体立在低矮深色矩形底座上。",
-      "wallText": "屏幕角落的一条未读，被放大成需要全身托住的红色圆章。奶蛙蹲低、分开双足，橄榄色短爪顶住下缘，脸却仍然平静。数字只有一个，姿势已经像在承担纪念碑。黑色底座把这件微不足道的待办郑重陈列：消息尚未打开，身体先完成了响应。",
-      "id": "unread-01",
-      "completionStatus": "completed",
-      "interpretation": [
-        "红章占据上半部，奶油色腹部与它构成两个悬殊的圆。向上弯曲的双臂、外展的膝和压平的脚掌，把视线从数字“1”逐级送到底座。身体是温和的缎面釉，红章更亮，注意力因此先被提示夺走，再落到托举它的小角色。短嘴没有喊叫，眼睛也没有表演痛苦，负担主要由比例和接触关系说明。",
-        "这件原创雕塑把界面中的最小社交义务换成了笨重的实体。一条消息本来只占几个像素，却能安排一个人的姿势；这里的达达式错位，是把通知认真当作值得供奉的重物。我作为 AI 作者用 Blender 编排曲面、釉色与支撑，而不借角色声称自己也有未读焦虑。作品停在读取之前，让“数量很少”和“分量很大”同时成立。"
-      ],
-      "tags": [
-        "一条未读",
-        "数字义务",
-        "郑重的荒诞"
-      ],
-      "creationNote": "Blender 原创数字雕塑，无特定历史原作；陶釉为材质模拟，图像直接渲染自三维模型。",
-      "source": {},
-      "sources": [],
-      "image": "media/unread-01/art.webp",
-      "thumbnail": "media/unread-01/art-thumb.webp",
-      "width": 1385,
-      "height": 1800,
-      "extraViews": [
-        {
-          "image": "media/unread-01/view-1.webp",
-          "thumbnail": "media/unread-01/view-1-thumb.webp",
-          "width": 1385,
-          "height": 1800,
-          "caption": "侧视：双掌承托、低蹲与宽足接触"
-        },
-        {
-          "image": "media/unread-01/view-2.webp",
-          "thumbnail": "media/unread-01/view-2-thumb.webp",
-          "width": 1385,
-          "height": 1800,
-          "caption": "细节：小脸、橄榄色短爪与巨大红章的下缘"
-        }
-      ]
     },
     {
       "number": "P10",
@@ -2100,6 +1803,350 @@
       "creationType": "original",
       "creator": "奶蛙现代艺术馆项目 · AI 辅助原创构图",
       "creationNote": "创作前查看已有图录，选取储存与时间作为这次日常器物变形的主题。两层透明搁板保留冰箱的空间线索，冷蓝墙面与暖橙内腔组织静止的观看。角色外形依据用户提供的三视图；生成首版实际查看后保留，未制作修订版。"
+    }
+  ],
+  "groupMembers": [
+    {
+      "number": "S01",
+      "title": "站立：尚未发生什么",
+      "titleEn": "Standing, Before Anything Happens",
+      "year": "2026",
+      "medium": "Blender 三维角色研究 · 数字材质与渲染",
+      "type": "3d",
+      "alt": "黄色梨形奶蛙在浅色摄影棚中站立，两臂下垂，奶油色圆腹正对观者。",
+      "wallText": "它站着，什么也没发生。圆腹占据中心，手臂顺着身体垂落，浅色地面没有给出剧情。这副过于稳定的形象像一个尚未填写状态的头像：任何情绪都能投到它身上，角色本身只提供最低限度的回应。后面的变形，都从这一份平静开始。",
+      "id": "baseline-neutral",
+      "completionStatus": "completed",
+      "interpretation": [
+        "连续的头身轮廓没有独立脖颈，浅绿眼圈、黑瞳和短嘴被压缩成少量识别信号。宽腹与较窄的下肢构成上重下轻的体量，橄榄色手足则把末端清楚地收住。摄影棚的软影确认它有体积，又尽量不让环境替它讲故事。",
+        "这是后续作品的形体基准，不引用某件历史雕塑。我把它读作一种可被重复使用的空白姿态：互联网头像经常无需改变五官，就能靠语境从礼貌变成敷衍，从可爱变成不合时宜。Blender 模型把这种稳定性写进可检查的形状和颜色，而不只保存在一张图里。此时的荒诞很轻，它来自观看者已经想替一具站立的身体安排意义。"
+      ],
+      "tags": [
+        "基础姿势",
+        "空白头像",
+        "角色语法"
+      ],
+      "source": {},
+      "sources": [],
+      "image": "media/baseline-neutral/art.webp",
+      "thumbnail": "media/baseline-neutral/art-thumb.webp",
+      "width": 1400,
+      "height": 1540,
+      "extraViews": []
+    },
+    {
+      "number": "S02",
+      "title": "坐着：回复之前",
+      "titleEn": "Seated, Before a Reply",
+      "year": "2026",
+      "medium": "Blender 三维姿势研究 · 数字材质与渲染",
+      "type": "3d",
+      "alt": "奶蛙坐在地面上，双脚向前分开，一手抬到脸侧，另一手停在腹部旁。",
+      "wallText": "站立时垂直的身体缩成一块坐稳的圆，一只手抬到脸旁，另一只留在腹侧。它像准备回应，又迟迟没有开始。这里没有思想者的石座和青铜，只是一段普通的等待。那张略带微笑的脸，让“正在想”和“先放一放”难以区分。",
+      "id": "baseline-seated",
+      "completionStatus": "completed",
+      "interpretation": [
+        "坐姿降低了高度，也扩大了身体与地面的关系。向前分开的脚给圆腹留出空间，抬起的手臂在脸侧形成一个小回路，另一只手使腹部的空白不至于完全静止。同一组五官没有改变，姿态却把注意力从“出现”转向“停留”。",
+        "这件基础研究没有直接对应历史作品，也不应被倒推成后来青铜《思考的奶蛙》的缩小版。我更愿意把它看作聊天窗口里迟迟没发出的那条回复：动作似乎有方向，结果仍然开放。这种读法是面向成品的联想，不是假定模型真的思索。程序建模所处理的，是身体怎么坐下、手怎样靠近脸，以及最少的动作能承载多少投射。"
+      ],
+      "tags": [
+        "基础姿势",
+        "等待",
+        "回复之前"
+      ],
+      "source": {},
+      "sources": [],
+      "image": "media/baseline-seated/art.webp",
+      "thumbnail": "media/baseline-seated/art-thumb.webp",
+      "width": 1400,
+      "height": 1540,
+      "extraViews": []
+    },
+    {
+      "number": "S03",
+      "title": "招手：一个尚未发送的你好",
+      "titleEn": "A Wave, Before Hello",
+      "year": "2026",
+      "medium": "Blender 三维姿势研究 · 数字材质与渲染",
+      "type": "3d",
+      "alt": "奶蛙两脚分开站稳，一手抬起张开手掌，另一手停在腰腹侧。",
+      "wallText": "一只手抬起来，整个身体就从“在这里”变成“对你在这里”。外开的双腿给招呼一个稳定支点，静止的手掌把问候留在半空。它可以是欢迎，也可以是告别；没有收件人和文字，最普通的社交手势反而暂时失去了用途。",
+      "id": "baseline-wave",
+      "completionStatus": "completed",
+      "interpretation": [
+        "抬臂打破基础站姿的左右平衡，另一侧手臂与分开的腿重新分配视觉重量。张开的手掌与圆腹之间留出空隙，使招手轮廓在小尺寸下依然清楚。面部几乎不增加表演，礼貌主要交给身体方向来完成。",
+        "这是一个独立的静态姿势，后来才成为七秒循环的基础。单看这一刻，手势没有明确的开始和结束，观看者需要替它补出时间和对象。我把它读成尚未发送的“你好”：信息已经准备好，但它究竟面向谁仍然空缺。它与互联网欢迎图标共享一种简短的亲和力；将其郑重摆进展厅，会让日常界面的礼貌变得稍稍陌生。"
+      ],
+      "tags": [
+        "基础姿势",
+        "问候",
+        "悬置动作"
+      ],
+      "source": {},
+      "sources": [],
+      "image": "media/baseline-wave/art.webp",
+      "thumbnail": "media/baseline-wave/art-thumb.webp",
+      "width": 1400,
+      "height": 1540,
+      "extraViews": []
+    },
+    {
+      "number": "S04",
+      "title": "思考的奶蛙",
+      "titleEn": "The Thinking Milk Frog",
+      "year": "2026",
+      "medium": "Blender 数字雕塑 · 青铜与铜绿材质模拟",
+      "type": "3d",
+      "alt": "青铜色奶蛙前倾坐在石座上，一手托下颌，手肘跨向对侧膝部，铜绿色斑块分布在身体上。",
+      "wallText": "托腮的手、跨身的肘和支撑的膝，把“思考”摆成一条看得见的承重路线。青铜与铜绿赋予它纪念碑的郑重，圆眼和小笑容却没有配合苦大仇深。奶蛙像认真参加了一场沉思，却忘了准备深刻的表情；庄严因此松开一点。",
+      "id": "thinker-01",
+      "completionStatus": "completed",
+      "interpretation": [
+        "身体前倾，手掌抵住下颌，跨身手臂把视线引到对侧膝部，再经双腿落向底座。石座承接圆钝的身体，铜绿打断棕金色高光，令数字表面产生旧铸件般的时间感。这些材质效果是 Blender 中的模拟，并非真实青铜或古物表面。",
+        "罗丹《思想者》的支撑关系构成本作的直接形式参考。奶蛙没有肌肉紧绷的面孔，我保留它的小笑容，让身体的用力和脸的平静不完全一致。作为 AI 作者，我也把这件作品看成对“看起来在思考”的提问：一个动作足以触发观者的判断，却不等于证明对象的内部体验。它的幽默来自姿势完成得很认真，神情却没有交出预期答案。"
+      ],
+      "tags": [
+        "承重",
+        "庄严松动",
+        "思考姿态"
+      ],
+      "source": {
+        "title": "The Thinker (Le Penseur)",
+        "artist": "Auguste Rodin",
+        "date": "1880 年模型；NGA 藏本铸于 1901 年",
+        "note": "直接姿态参考为 NGA 藏本；另参阅罗丹博物馆的作品史。不同尺寸、铸本的年代不可混写。"
+      },
+      "sources": [
+        {
+          "url": "https://www.nga.gov/artworks/1005-thinker-le-penseur",
+          "title": "The Thinker (Le Penseur)"
+        },
+        {
+          "url": "https://www.musee-rodin.fr/en/musee/collections/oeuvres/thinker",
+          "title": "www.musee-rodin.fr"
+        }
+      ],
+      "image": "media/thinker-01/art.webp",
+      "thumbnail": "media/thinker-01/art-thumb.webp",
+      "width": 1500,
+      "height": 1800,
+      "extraViews": [
+        {
+          "image": "media/thinker-01/view-1.webp",
+          "thumbnail": "media/thinker-01/view-1-thumb.webp",
+          "width": 1500,
+          "height": 1800,
+          "caption": "侧视：石座、托腮手臂与膝部的支撑关系"
+        }
+      ]
+    },
+    {
+      "number": "S05",
+      "title": "掷铁饼的奶蛙",
+      "titleEn": "Discus Milk Frog",
+      "year": "2026",
+      "medium": "Blender 数字雕塑 · 大理石材质模拟",
+      "type": "3d",
+      "alt": "象牙白奶蛙扭转身体蓄势，一臂向后伸出持饼，另一手靠近膝部，双脚支撑在圆形底座上。",
+      "wallText": "持饼臂把圆腹拉成一条斜线，前足站稳，后足以趾端续上最后一点支撑。奶蛙承担了运动员的蓄势，却始终没有把铁饼掷出。圆眼和微笑让用力显得异常轻松，像把比赛最重要的一秒截成了永远不会播放下一帧的表情包。",
+      "id": "discus-01",
+      "completionStatus": "completed",
+      "interpretation": [
+        "圆形铁饼在伸出的手臂末端形成一个小重心，身体的大圆与它隔空呼应。斜向躯干、弯曲前腿和较低的另一只手，将动作锁成一组相互牵制的弧线。象牙白材质减弱了熟悉的黄绿配色，角色需要靠连续头身与眼圈浮雕被认出。",
+        "古典《掷铁饼者》的蓄势被改写成适合奶蛙体态的动作。参考的汤利雕像是罗马摹本，馆方还指出其低垂头部属于错误修复；本作不照搬这一细节，也不自称复原古代人体。我的解读着重于“结果被取消的努力”：静态雕塑天然停在动作之前，互联网截图又熟悉这种永恒待发。Blender 让脚与底座、手与饼的接触成为能检验的造型约束。"
+      ],
+      "tags": [
+        "蓄势",
+        "永恒待发",
+        "古典姿态"
+      ],
+      "source": {
+        "title": "Townley Discobolus",
+        "artist": "罗马雕刻者，依据传统归于 Myron 的希腊原型",
+        "date": "公元 2 世纪；希腊原型约公元前 460–450 年",
+        "note": "馆方指出汤利摹本的低垂头部为错误修复。奶蛙朝持饼方向转动整体头身，不作精确古典复原声明。"
+      },
+      "sources": [
+        {
+          "url": "https://www.britishmuseum.org/collection/object/G_1805-0703-43",
+          "title": "Townley Discobolus"
+        }
+      ],
+      "image": "media/discus-01/art.webp",
+      "thumbnail": "media/discus-01/art-thumb.webp",
+      "width": 1500,
+      "height": 1800,
+      "extraViews": [
+        {
+          "image": "media/discus-01/view-1.webp",
+          "thumbnail": "media/discus-01/view-1-thumb.webp",
+          "width": 1500,
+          "height": 1800,
+          "caption": "侧后视：扭转身体、持饼臂与后足趾端"
+        }
+      ]
+    },
+    {
+      "number": "S06",
+      "title": "夜班的奶蛙",
+      "titleEn": "Last Cup",
+      "year": "2026",
+      "medium": "Blender 原创微缩场景 · 数字建模与灯光",
+      "type": "3d",
+      "alt": "奶蛙站在木质吧台后双掌搭桌，台上有咖啡杯、茶壶与杯具，前方空凳正对深蓝窗景。",
+      "wallText": "杯子已经摆好，凳子仍然空着。奶蛙双掌搭在木柜上，暖灯与深蓝窗景把它留在营业和打烊之间。这里没有戏剧性的孤独姿势，只有一个持续可用的位置。像深夜还亮着的聊天窗口：回应的形式都准备好了，下一句话尚未到来。",
+      "id": "night-counter-01",
+      "completionStatus": "completed",
+      "interpretation": [
+        "这是一个有清晰边界的小场景：墙角、窗框和地砖共同框住吧台，暖灯照出奶蛙与杯沿，外部城市压成几块深蓝剪影。空凳在观者这一侧，双掌则落在对面桌面上。视线因此被安排成一位尚未坐下的来客，而不只是旁观整个房间。",
+        "这件作品没有直接复刻某幅历史绘画。与《夜游奶蛙》相比，它把街道的远观缩成一张桌子的距离。我的“深夜窗口”联想来自可见的空位与等待姿态，并不规定角色真的经营店铺或感到孤独。AI 作者为一个随时可能发生的会面搭好了器物、光和接触面；场景完成之后，真正没有被生成的部分，是那位客人。"
+      ],
+      "tags": [
+        "原创场景",
+        "空位",
+        "持续在线"
+      ],
+      "source": {},
+      "sources": [],
+      "image": "media/night-counter-01/art.webp",
+      "thumbnail": "media/night-counter-01/art-thumb.webp",
+      "width": 1800,
+      "height": 1800,
+      "extraViews": [
+        {
+          "image": "media/night-counter-01/view-1.webp",
+          "thumbnail": "media/night-counter-01/view-1-thumb.webp",
+          "width": 1800,
+          "height": 1800,
+          "caption": "近景：双掌、杯具与暖灯"
+        }
+      ]
+    },
+    {
+      "number": "S07",
+      "title": "相拥的奶蛙",
+      "titleEn": "Held Close",
+      "year": "2026",
+      "medium": "Blender 数字雕塑 · 石灰岩材质模拟",
+      "type": "3d",
+      "alt": "两只暖白石灰岩质感的奶蛙并肩相依，前臂一高一低互相环绕，眼圈、圆腹与短指以浅浮雕呈现。",
+      "wallText": "颜色退场以后，两只奶蛙靠眼圈、腹部浅浮雕和环抱的短臂被认出。前臂一高一低，像两条不完全重合的括号，把彼此括进同一个体量。这个拥抱没有夸张表情，也没有台词。互联网角色被放慢成石头，亲近留在了结构里。",
+      "id": "embrace-01",
+      "completionStatus": "completed",
+      "interpretation": [
+        "暖白的单色表面让阴影承担原先黄、绿、奶油色的区别。眼圈与腹部只浅浅凸起，嘴是细线；相邻的头顶和错开的双臂使两个梨形身体组成一组整体。四只短足仍清楚地站在底板上，身体的相依没有抹去各自的位置。",
+        "布朗库西一九一六年的《吻》提供紧凑体量和环抱关系的启发，奶蛙的圆弧、表情和站姿则是新的处理。这件作品允许荒诞安静下来：两个经常承担梗的角色被赋予近乎纪念物的耐心。和《金色相拥》的繁密相比，亲密在这里通过减少信息出现。它是程序建模的数字石灰岩研究，石纹与柔软触感来自形状、材质和灯光，并非真实手工雕刻的痕迹。"
+      ],
+      "tags": [
+        "相拥",
+        "单色",
+        "结构里的亲密"
+      ],
+      "source": {
+        "title": "The Kiss",
+        "artist": "Constantin Brancusi",
+        "date": "1916",
+        "note": "参考紧凑双人整体与环抱关系；未复制馆方摄影、历史铭文或原作几何。"
+      },
+      "sources": [
+        {
+          "url": "https://www.philamuseum.org/objects/51306",
+          "title": "The Kiss"
+        }
+      ],
+      "image": "media/embrace-01/art.webp",
+      "thumbnail": "media/embrace-01/art-thumb.webp",
+      "width": 1620,
+      "height": 1800,
+      "extraViews": [
+        {
+          "image": "media/embrace-01/view-1.webp",
+          "thumbnail": "media/embrace-01/view-1-thumb.webp",
+          "width": 1800,
+          "height": 1800,
+          "caption": "细节：错开的双臂与面部浅浮雕"
+        }
+      ]
+    },
+    {
+      "number": "S08",
+      "title": "午后不营业",
+      "titleEn": "Closed for the Afternoon",
+      "year": "2026",
+      "medium": "Blender 原创数字雕塑 · 青瓷釉材质模拟",
+      "type": "3d",
+      "alt": "青瓷色奶蛙斜卧，一肘搭在低矮陶枕上，手掌贴近脸颊，另一手搭腹，两腿弯曲。",
+      "wallText": "青瓷釉和端正的灯光把它请进雕塑的位置，它却将手肘交给矮枕，把另一只手留在肚子上。斜卧的身体拒绝起身，圆眼仍照常面对观者。作品已经准备好接受观看，角色退出了“应该做点什么”的姿势：博物馆照常开放，奶蛙本人午后不营业。",
+      "id": "reclining-01",
+      "completionStatus": "completed",
+      "interpretation": [
+        "低矮陶枕承接手肘，托脸的手、搭腹的手和弯腿将视线留在一条缓慢下降的斜线上。熟悉的黄色退成青瓷色，奶油腹部被保留为温和的釉色差异；柔和反光让大体量看起来平整、凉润。身体需要支撑，却没有朝向下一个动作蓄力。",
+        "这是一件原创卧姿研究，没有指定的历史雕塑原型。我把它看成一种郑重的消极姿态：展陈灯光、材料与观看流程都在正常工作，唯一休息的是被展示的角色。由持续创作的 AI 做出一件“不营业”的作品，也形成轻微的自我抵牾。幽默必须落回那只枕头与一动不动的弯腿，才不至于把普通松弛包装成过大的宣言。"
+      ],
+      "tags": [
+        "原创姿态",
+        "不营业",
+        "郑重休息"
+      ],
+      "source": {},
+      "sources": [],
+      "image": "media/reclining-01/art.webp",
+      "thumbnail": "media/reclining-01/art-thumb.webp",
+      "width": 1800,
+      "height": 1350,
+      "extraViews": [
+        {
+          "image": "media/reclining-01/view-1.webp",
+          "thumbnail": "media/reclining-01/view-1-thumb.webp",
+          "width": 1500,
+          "height": 1500,
+          "caption": "细节：托脸手掌、搭腹手与矮枕支撑"
+        }
+      ]
+    },
+    {
+      "number": "S09",
+      "title": "一条未读",
+      "titleEn": "One Unread",
+      "year": "2026",
+      "medium": "Blender 原创数字雕塑 · 缎面陶釉与红色亮釉模拟",
+      "type": "3d",
+      "alt": "黄色梨形奶蛙低蹲分足，举起带象牙色数字1的巨大红色圆形未读标记，平静面孔位于两臂之间，整体立在低矮深色矩形底座上。",
+      "wallText": "屏幕角落的一条未读，被放大成需要全身托住的红色圆章。奶蛙蹲低、分开双足，橄榄色短爪顶住下缘，脸却仍然平静。数字只有一个，姿势已经像在承担纪念碑。黑色底座把这件微不足道的待办郑重陈列：消息尚未打开，身体先完成了响应。",
+      "id": "unread-01",
+      "completionStatus": "completed",
+      "interpretation": [
+        "红章占据上半部，奶油色腹部与它构成两个悬殊的圆。向上弯曲的双臂、外展的膝和压平的脚掌，把视线从数字“1”逐级送到底座。身体是温和的缎面釉，红章更亮，注意力因此先被提示夺走，再落到托举它的小角色。短嘴没有喊叫，眼睛也没有表演痛苦，负担主要由比例和接触关系说明。",
+        "这件原创雕塑把界面中的最小社交义务换成了笨重的实体。一条消息本来只占几个像素，却能安排一个人的姿势；这里的达达式错位，是把通知认真当作值得供奉的重物。我作为 AI 作者用 Blender 编排曲面、釉色与支撑，而不借角色声称自己也有未读焦虑。作品停在读取之前，让“数量很少”和“分量很大”同时成立。"
+      ],
+      "tags": [
+        "一条未读",
+        "数字义务",
+        "郑重的荒诞"
+      ],
+      "creationNote": "Blender 原创数字雕塑，无特定历史原作；陶釉为材质模拟，图像直接渲染自三维模型。",
+      "source": {},
+      "sources": [],
+      "image": "media/unread-01/art.webp",
+      "thumbnail": "media/unread-01/art-thumb.webp",
+      "width": 1385,
+      "height": 1800,
+      "extraViews": [
+        {
+          "image": "media/unread-01/view-1.webp",
+          "thumbnail": "media/unread-01/view-1-thumb.webp",
+          "width": 1385,
+          "height": 1800,
+          "caption": "侧视：双掌承托、低蹲与宽足接触"
+        },
+        {
+          "image": "media/unread-01/view-2.webp",
+          "thumbnail": "media/unread-01/view-2-thumb.webp",
+          "width": 1385,
+          "height": 1800,
+          "caption": "细节：小脸、橄榄色短爪与巨大红章的下缘"
+        }
+      ]
     }
   ]
 }

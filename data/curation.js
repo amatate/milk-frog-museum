@@ -1,6 +1,6 @@
 window.MUSEUM_CURATION = {
   "schemaVersion": 1,
-  "contentVersion": "20261003-modern-art-p24",
+  "contentVersion": "20261003-blender-group",
   "language": "zh-Hans",
   "identity": {
     "name": "奶蛙现代艺术馆",
@@ -9,17 +9,19 @@ window.MUSEUM_CURATION = {
     "tagline": "从一张脸，看到它周围的规则"
   },
   "statistics": {
-    "mainWorks": 54,
+    "mainWorks": 46,
     "halls": 5,
     "earlierVersions": 6,
     "additionalViews": 7,
-    "researchArticles": 4
+    "researchArticles": 4,
+    "sculptureGroups": 1,
+    "sculptureGroupMembers": 9
   },
   "museumPatch": {
     "title": "奶蛙现代艺术馆",
     "titleEn": "Milk Frog Museum of Modern Art",
     "subtitle": "从一张脸，看到它周围的规则",
-    "intro": "从镜中的背影到失去水的瓷砖，从一枚未读标记到只剩黄色的方块，54件作品追问：一个角色可以改变多少，仍与原来的自己发生关系？沿五个展厅观看，也可按媒介和编号查阅。",
+    "intro": "从镜中的背影到失去水的瓷砖，从一枚未读标记到只剩黄色的方块，46件作品追问：一个角色可以改变多少，仍与原来的自己发生关系？沿五个展厅观看，也可按媒介和编号查阅。",
     "headline": "一只熟悉的身体，\n世界不再严丝合缝。",
     "featuredId": "011-incompatible-lunch",
     "statement": "先认出它，再看它与周围事物的关系。每一次改写，都要说明哪些线索被保住，哪些规则被改变。",
@@ -40,7 +42,7 @@ window.MUSEUM_CURATION = {
     "heroCaption": "展览入口 · P11",
     "latestWorkId": "016-shadow-check-in",
     "primaryAction": "沿五厅开始观看",
-    "secondaryAction": "查阅全部54件作品",
+    "secondaryAction": "查阅全部46件作品",
     "prefaceTitle": "从一处具体的关系开始",
     "preface": [
       "一只黄色身体站在镜前，镜子没有交出它的脸。换一幅图，它已坐好，桌子、盘子和椅子却没能组成同一间屋子。再往后，眼睛、手脚和腹部陆续退场，题名仍请我们在一块黄色里寻找奶蛙。",
@@ -82,10 +84,10 @@ window.MUSEUM_CURATION = {
   ],
   "collection": {
     "title": "作品总目录",
-    "intro": "54件主展品各有一个主要展厅。主题路线安排观看顺序；媒介、编号和旧作归档筛选帮助查找。六张早期版本保留在对应作品页，附加视角也随原作品展示。",
+    "intro": "46件主展品各有一个主要展厅。主题路线安排观看顺序；媒介、编号和旧作归档筛选帮助查找。六张早期版本保留在对应作品页，附加视角也随原作品展示。 Blender九项研究合计一件组作，单件可在组内继续浏览。",
     "mediumDescriptions": {
       "image": "生成式图像中的构图、色彩与媒介模拟，包括历史关联改写和新的场景安排。",
-      "3d": "通过Blender建模、材质和灯光组织的数字雕塑与姿态；网页展示渲染图及部分附加视角。",
+      "3d": "一件Blender数字雕塑与姿态组作，含S01–S09九项研究；各单件页面与附加视角保留，不分别计入主馆藏。",
       "video": "七秒无声循环。播放和暂停由观看者决定；封面只是其中一个静止视图。",
       "archive": "保留原题名、已知版本关系及归档时补充的展签。它是查找维度，不是独立的艺术风格。"
     },
@@ -104,28 +106,20 @@ window.MUSEUM_CURATION = {
     "intro": "五厅是一条可中途进入的观看路线。先看线索怎样被撤去，再看身体如何动作；空间关系随后松开，图像被复制与拆分，颜色和格网随后继续工作，终章的单眼把观看关系转向画内的人。",
     "viewingTip": "先看图，再读题名。愿意多停一会儿时，可以展开解读、并置作品或进入研究。",
     "orderedWorkIds": [
-      "baseline-neutral",
+      "blender-sculpture-studies",
       "archive-son-of-man",
       "001-forbidden-reflection",
       "archive-not-reproduced",
       "005-mirror-cubism",
       "archive-not-a-nailong",
       "009-verification",
-      "baseline-seated",
-      "baseline-wave",
       "wave-loop-01",
       "003-milkmaid-frog",
-      "thinker-01",
-      "discus-01",
       "004-dance-milk-frogs",
       "008-rural-portrait",
       "007-golden-embrace",
-      "embrace-01",
-      "unread-01",
       "006-night-diner",
-      "night-counter-01",
       "002-sleeping-milk-frog",
-      "reclining-01",
       "014-zipper-lunch",
       "archive-listening-room",
       "020-uncreased-place",
@@ -168,7 +162,8 @@ window.MUSEUM_CURATION = {
         "lead": "从一个完整的身体出发，依次撤走正脸、可靠的镜像与稳定的名称。",
         "paragraphs": [
           "先看《站立：尚未发生什么》：连续的头身、浅色腹部、绿色眼圈与深色手足为后面的变化提供参照。随后，苹果遮住面孔，镜子重复背影，冷暖色块将镜内外重新分区。辨认的线索仍在，却无法一次交齐。",
-          "本厅把P01与A06并置，比较同一个镜像机制怎样被两幅不同作品处理；A06自身另有早期版本，不应与P01合并。最后，《这不是一只 Nailong》的文字与《请证明你不是奶蛙》的题名把问题交给命名和分类：认出一个形象，与证明它属于谁、叫什么，之间仍有距离。"
+          "本厅把P01与A06并置，比较同一个镜像机制怎样被两幅不同作品处理；A06自身另有早期版本，不应与P01合并。最后，《这不是一只 Nailong》的文字与《请证明你不是奶蛙》的题名把问题交给命名和分类：认出一个形象，与证明它属于谁、叫什么，之间仍有距离。",
+          "Blender的S01–S09统一放入一件组作，作为辨认角色轮廓、姿态与材质变化的起点。九项研究的单件页面与并置关系仍可继续查看。"
         ],
         "question": "不看题名，你凭哪一处认出它？这条线索在下一件作品里还在吗？",
         "nextTransition": "当身份暂时稳定下来，第二厅把问题交给手、脚和身体的支点。",
@@ -182,9 +177,9 @@ window.MUSEUM_CURATION = {
           {
             "id": "identity-1",
             "title": "完整与遮挡",
-            "description": "先记住身体，再观察一颗苹果如何占住确认身份的位置。",
+            "description": "从一件含九项研究的Blender组作记住身体，再看苹果与镜像如何改变身份辨认。",
             "workIds": [
-              "baseline-neutral",
+              "blender-sculpture-studies",
               "archive-son-of-man"
             ]
           },
@@ -209,7 +204,7 @@ window.MUSEUM_CURATION = {
           }
         ],
         "workIds": [
-          "baseline-neutral",
+          "blender-sculpture-studies",
           "archive-son-of-man",
           "001-forbidden-reflection",
           "archive-not-reproduced",
@@ -232,7 +227,7 @@ window.MUSEUM_CURATION = {
         "question": "如果遮住脸，只看接触点和重心，你还能说出它正在做什么吗？",
         "nextTransition": "身体可以把动作完成，世界却未必按这个动作的需要安排好。",
         "route": "#/hall/gesture",
-        "anchorWorkId": "unread-01",
+        "anchorWorkId": "wave-loop-01",
         "relatedResearchIds": [
           "simple-forms-complex-expression",
           "ai-remix-selective-mismatch"
@@ -241,57 +236,38 @@ window.MUSEUM_CURATION = {
           {
             "id": "gesture-1",
             "title": "回应之前",
-            "description": "静坐、静止招手与循环招手分别安排了三种等待。",
+            "description": "无声循环将招手展开为可自行播放与暂停的一段时间；基础静态姿势可在Blender组作中对照。",
             "workIds": [
-              "baseline-seated",
-              "baseline-wave",
               "wave-loop-01"
             ]
           },
           {
             "id": "gesture-2",
             "title": "动作必须落地",
-            "description": "从手与陶壶的小动作，到托腮、持饼和多人牵引，逐步扩大身体之间的协作范围。",
+            "description": "倒奶的手与陶壶接到多人牵引，观察身体之间的协作；雕塑承重与蓄势研究保留在Blender组内。",
             "workIds": [
               "003-milkmaid-frog",
-              "thinker-01",
-              "discus-01",
               "004-dance-milk-frogs"
             ]
           },
           {
             "id": "gesture-3",
             "title": "郑重与亲近",
-            "description": "从合影的并列，到金色包围，再到石灰岩质感的共同体量，比较关系怎样进入身体。",
+            "description": "从合影的并列到金色包围，比较关系怎样进入身体；数字石材的双人体量可通过原有并置继续观看。",
             "workIds": [
               "008-rural-portrait",
-              "007-golden-embrace",
-              "embrace-01"
-            ]
-          },
-          {
-            "id": "gesture-4",
-            "title": "一个通知的体量",
-            "description": "用全身托举结束本厅，让数字界面的重量变得可见。",
-            "workIds": [
-              "unread-01"
+              "007-golden-embrace"
             ]
           }
         ],
         "workIds": [
-          "baseline-seated",
-          "baseline-wave",
           "wave-loop-01",
           "003-milkmaid-frog",
-          "thinker-01",
-          "discus-01",
           "004-dance-milk-frogs",
           "008-rural-portrait",
-          "007-golden-embrace",
-          "embrace-01",
-          "unread-01"
+          "007-golden-embrace"
         ],
-        "workCount": 11
+        "workCount": 5
       },
       {
         "id": "everyday",
@@ -321,19 +297,17 @@ window.MUSEUM_CURATION = {
           {
             "id": "everyday-1",
             "title": "亮着与待机",
-            "description": "先比较同样的夜间吧台如何用外部街道和内部空凳安排距离。",
+            "description": "从夜间吧台的街道观看进入；微缩吧台的空位与距离保留在Blender组内，并置链接仍可打开。",
             "workIds": [
-              "006-night-diner",
-              "night-counter-01"
+              "006-night-diner"
             ]
           },
           {
             "id": "everyday-2",
             "title": "休息的三种条件",
-            "description": "危险的接近、雕塑的静置和微小的藏身处，让相似的斜卧姿势获得不同环境。",
+            "description": "危险的接近与微小的藏身处让斜卧获得不同环境；青瓷卧姿研究可在Blender组内继续看。",
             "workIds": [
               "002-sleeping-milk-frog",
-              "reclining-01",
               "014-zipper-lunch"
             ]
           },
@@ -366,9 +340,7 @@ window.MUSEUM_CURATION = {
         ],
         "workIds": [
           "006-night-diner",
-          "night-counter-01",
           "002-sleeping-milk-frog",
-          "reclining-01",
           "014-zipper-lunch",
           "archive-listening-room",
           "020-uncreased-place",
@@ -383,7 +355,7 @@ window.MUSEUM_CURATION = {
           "012-late-yellow",
           "015-sleep-loading"
         ],
-        "workCount": 17
+        "workCount": 15
       },
       {
         "id": "reproduction",
@@ -527,23 +499,23 @@ window.MUSEUM_CURATION = {
   },
   "workCuration": [
     {
-      "workId": "baseline-neutral",
-      "number": "S01",
-      "title": "站立：尚未发生什么",
+      "workId": "blender-sculpture-studies",
+      "number": "S01–S09",
+      "title": "奶蛙数字雕塑与姿态研究",
       "primaryHallId": "identity",
       "clusterId": "identity-1",
-      "hallPosition": 1,
-      "route": "#/work/baseline-neutral",
-      "lookFor": "看连续头身与腹部、手足的位置关系。",
-      "placementRationale": "全线的起点，为此后的缺席和变形建立项目内参照。",
+      "route": "#/work/blender-sculpture-studies",
+      "lookFor": "先看基础站姿，再进入九项研究，比较角色轮廓、支撑关系和模拟材质。",
+      "placementRationale": "九项Blender研究合计为一件组作，作为角色辨认的起点；旧单件链接和原并置继续保留。",
       "analyzedIn": [],
       "relatedReading": [
         "simple-forms-complex-expression",
-        "nailoong-milk-frog-origins"
+        "ai-remix-selective-mismatch"
       ],
       "sequencePosition": 1,
       "previousWorkId": null,
-      "nextWorkId": "archive-son-of-man"
+      "nextWorkId": "archive-son-of-man",
+      "hallPosition": 1
     },
     {
       "workId": "archive-son-of-man",
@@ -561,7 +533,7 @@ window.MUSEUM_CURATION = {
         "nailoong-milk-frog-origins"
       ],
       "sequencePosition": 2,
-      "previousWorkId": "baseline-neutral",
+      "previousWorkId": "blender-sculpture-studies",
       "nextWorkId": "001-forbidden-reflection"
     },
     {
@@ -660,44 +632,6 @@ window.MUSEUM_CURATION = {
       ],
       "sequencePosition": 7,
       "previousWorkId": "archive-not-a-nailong",
-      "nextWorkId": "baseline-seated"
-    },
-    {
-      "workId": "baseline-seated",
-      "number": "S02",
-      "title": "坐着：回复之前",
-      "primaryHallId": "gesture",
-      "clusterId": "gesture-1",
-      "hallPosition": 1,
-      "route": "#/work/baseline-seated",
-      "lookFor": "看手停在哪里，以及身体怎样坐稳。",
-      "placementRationale": "从最小的停顿进入动作问题。",
-      "analyzedIn": [],
-      "relatedReading": [
-        "simple-forms-complex-expression",
-        "ai-remix-selective-mismatch"
-      ],
-      "sequencePosition": 8,
-      "previousWorkId": "009-verification",
-      "nextWorkId": "baseline-wave"
-    },
-    {
-      "workId": "baseline-wave",
-      "number": "S03",
-      "title": "招手：一个尚未发送的你好",
-      "primaryHallId": "gesture",
-      "clusterId": "gesture-1",
-      "hallPosition": 2,
-      "route": "#/work/baseline-wave",
-      "lookFor": "比较两脚的支点与抬起的手掌。",
-      "placementRationale": "把朝向他人的动作保持在静止状态。",
-      "analyzedIn": [],
-      "relatedReading": [
-        "simple-forms-complex-expression",
-        "ai-remix-selective-mismatch"
-      ],
-      "sequencePosition": 9,
-      "previousWorkId": "baseline-seated",
       "nextWorkId": "wave-loop-01"
     },
     {
@@ -706,7 +640,7 @@ window.MUSEUM_CURATION = {
       "title": "奶蛙轻轻挥手",
       "primaryHallId": "gesture",
       "clusterId": "gesture-1",
-      "hallPosition": 3,
+      "hallPosition": 1,
       "route": "#/work/wave-loop-01",
       "lookFor": "自行播放，再留意循环如何重新开始。",
       "placementRationale": "把上一件的静态问候交给持续时间；无声，不需听觉线索。",
@@ -715,8 +649,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 10,
-      "previousWorkId": "baseline-wave",
+      "sequencePosition": 8,
+      "previousWorkId": "009-verification",
       "nextWorkId": "003-milkmaid-frog"
     },
     {
@@ -725,7 +659,7 @@ window.MUSEUM_CURATION = {
       "title": "倒牛奶的奶蛙",
       "primaryHallId": "gesture",
       "clusterId": "gesture-2",
-      "hallPosition": 4,
+      "hallPosition": 2,
       "route": "#/work/003-milkmaid-frog",
       "lookFor": "跟着手、壶口、奶流与容器形成的动作链。",
       "placementRationale": "作为秩序成立的对照，提醒我们准确配合也可以是作品的核心。",
@@ -734,46 +668,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 11,
+      "sequencePosition": 9,
       "previousWorkId": "wave-loop-01",
-      "nextWorkId": "thinker-01"
-    },
-    {
-      "workId": "thinker-01",
-      "number": "S04",
-      "title": "思考的奶蛙",
-      "primaryHallId": "gesture",
-      "clusterId": "gesture-2",
-      "hallPosition": 5,
-      "route": "#/work/thinker-01",
-      "lookFor": "从托腮的手，经手肘看到膝部与石座。",
-      "placementRationale": "把一个精神活动的名称落实为可见支撑。",
-      "analyzedIn": [],
-      "relatedReading": [
-        "simple-forms-complex-expression",
-        "ai-remix-selective-mismatch"
-      ],
-      "sequencePosition": 12,
-      "previousWorkId": "003-milkmaid-frog",
-      "nextWorkId": "discus-01"
-    },
-    {
-      "workId": "discus-01",
-      "number": "S05",
-      "title": "掷铁饼的奶蛙",
-      "primaryHallId": "gesture",
-      "clusterId": "gesture-2",
-      "hallPosition": 6,
-      "route": "#/work/discus-01",
-      "lookFor": "看持饼臂、前足和后足怎样分担扭转。",
-      "placementRationale": "把身体的支撑关系推向尚未完成的运动。",
-      "analyzedIn": [],
-      "relatedReading": [
-        "simple-forms-complex-expression",
-        "ai-remix-selective-mismatch"
-      ],
-      "sequencePosition": 13,
-      "previousWorkId": "thinker-01",
       "nextWorkId": "004-dance-milk-frogs"
     },
     {
@@ -782,7 +678,7 @@ window.MUSEUM_CURATION = {
       "title": "奶蛙之舞",
       "primaryHallId": "gesture",
       "clusterId": "gesture-2",
-      "hallPosition": 7,
+      "hallPosition": 3,
       "route": "#/work/004-dance-milk-frogs",
       "lookFor": "沿舞圈追踪手臂，停在将合未合的缺口。",
       "placementRationale": "动作从单体扩展为多人牵引，准确连接与有意间隙并置。",
@@ -792,8 +688,8 @@ window.MUSEUM_CURATION = {
       "relatedReading": [
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 14,
-      "previousWorkId": "discus-01",
+      "sequencePosition": 10,
+      "previousWorkId": "003-milkmaid-frog",
       "nextWorkId": "008-rural-portrait"
     },
     {
@@ -802,7 +698,7 @@ window.MUSEUM_CURATION = {
       "title": "乡间合影",
       "primaryHallId": "gesture",
       "clusterId": "gesture-3",
-      "hallPosition": 8,
+      "hallPosition": 4,
       "route": "#/work/008-rural-portrait",
       "lookFor": "比较草叉、衣服与尖拱窗的竖线。",
       "placementRationale": "暂缓动势，观察郑重的秩序怎样安排两具圆钝身体。",
@@ -811,7 +707,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 15,
+      "sequencePosition": 11,
       "previousWorkId": "004-dance-milk-frogs",
       "nextWorkId": "007-golden-embrace"
     },
@@ -821,7 +717,7 @@ window.MUSEUM_CURATION = {
       "title": "金色相拥",
       "primaryHallId": "gesture",
       "clusterId": "gesture-3",
-      "hallPosition": 9,
+      "hallPosition": 5,
       "route": "#/work/007-golden-embrace",
       "lookFor": "看矩形纹样与有机纹样怎样包围相拥身体。",
       "placementRationale": "由并列走向包裹，使亲近先通过装饰整体出现。",
@@ -830,46 +726,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 16,
+      "sequencePosition": 12,
       "previousWorkId": "008-rural-portrait",
-      "nextWorkId": "embrace-01"
-    },
-    {
-      "workId": "embrace-01",
-      "number": "S07",
-      "title": "相拥的奶蛙",
-      "primaryHallId": "gesture",
-      "clusterId": "gesture-3",
-      "hallPosition": 10,
-      "route": "#/work/embrace-01",
-      "lookFor": "观察高低错开的双臂与共同体量。",
-      "placementRationale": "与P07直接对照，以数字石材的体量接续金色纹样的环抱。",
-      "analyzedIn": [],
-      "relatedReading": [
-        "simple-forms-complex-expression",
-        "ai-remix-selective-mismatch"
-      ],
-      "sequencePosition": 17,
-      "previousWorkId": "007-golden-embrace",
-      "nextWorkId": "unread-01"
-    },
-    {
-      "workId": "unread-01",
-      "number": "S09",
-      "title": "一条未读",
-      "primaryHallId": "gesture",
-      "clusterId": "gesture-4",
-      "hallPosition": 11,
-      "route": "#/work/unread-01",
-      "lookFor": "比较红章的尺寸、短爪的接触与低蹲双足。",
-      "placementRationale": "把微小通知转成身体负荷，成为从姿势到界面的转折。",
-      "analyzedIn": [],
-      "relatedReading": [
-        "simple-forms-complex-expression",
-        "ai-remix-selective-mismatch"
-      ],
-      "sequencePosition": 18,
-      "previousWorkId": "embrace-01",
       "nextWorkId": "006-night-diner"
     },
     {
@@ -887,27 +745,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 19,
-      "previousWorkId": "unread-01",
-      "nextWorkId": "night-counter-01"
-    },
-    {
-      "workId": "night-counter-01",
-      "number": "S06",
-      "title": "夜班的奶蛙",
-      "primaryHallId": "everyday",
-      "clusterId": "everyday-1",
-      "hallPosition": 2,
-      "route": "#/work/night-counter-01",
-      "lookFor": "看双掌、摆好的杯具与空凳之间的关系。",
-      "placementRationale": "与P06配对，把观看带进可以看见边界的数字微缩场景。",
-      "analyzedIn": [],
-      "relatedReading": [
-        "simple-forms-complex-expression",
-        "ai-remix-selective-mismatch"
-      ],
-      "sequencePosition": 20,
-      "previousWorkId": "006-night-diner",
+      "sequencePosition": 13,
+      "previousWorkId": "007-golden-embrace",
       "nextWorkId": "002-sleeping-milk-frog"
     },
     {
@@ -916,7 +755,7 @@ window.MUSEUM_CURATION = {
       "title": "沉睡的奶蛙",
       "primaryHallId": "everyday",
       "clusterId": "everyday-2",
-      "hallPosition": 3,
+      "hallPosition": 2,
       "route": "#/work/002-sleeping-milk-frog",
       "lookFor": "把侧卧身体、狮子与月夜放在同一个视野里。",
       "placementRationale": "相似的平静姿态在未被取消的危险旁获得另一种张力。",
@@ -925,27 +764,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 21,
-      "previousWorkId": "night-counter-01",
-      "nextWorkId": "reclining-01"
-    },
-    {
-      "workId": "reclining-01",
-      "number": "S08",
-      "title": "午后不营业",
-      "primaryHallId": "everyday",
-      "clusterId": "everyday-2",
-      "hallPosition": 4,
-      "route": "#/work/reclining-01",
-      "lookFor": "看肘、陶枕与搭腹手怎样让身体停下来。",
-      "placementRationale": "从悬置的危险过渡到数字雕塑中主动占据的休息姿态。",
-      "analyzedIn": [],
-      "relatedReading": [
-        "simple-forms-complex-expression",
-        "ai-remix-selective-mismatch"
-      ],
-      "sequencePosition": 22,
-      "previousWorkId": "002-sleeping-milk-frog",
+      "sequencePosition": 14,
+      "previousWorkId": "006-night-diner",
       "nextWorkId": "014-zipper-lunch"
     },
     {
@@ -954,7 +774,7 @@ window.MUSEUM_CURATION = {
       "title": "拉链里的午休",
       "primaryHallId": "everyday",
       "clusterId": "everyday-2",
-      "hallPosition": 5,
+      "hallPosition": 3,
       "route": "#/work/014-zipper-lunch",
       "lookFor": "比较拉链齿、织物纹理、标签吊床与身体的尺度。",
       "placementRationale": "把日常休息缩进衣物缝隙；这是二维生成插画中的尺度设置。",
@@ -963,8 +783,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 23,
-      "previousWorkId": "reclining-01",
+      "sequencePosition": 15,
+      "previousWorkId": "002-sleeping-milk-frog",
       "nextWorkId": "archive-listening-room"
     },
     {
@@ -973,7 +793,7 @@ window.MUSEUM_CURATION = {
       "title": "奶龙版倾听室：重制版",
       "primaryHallId": "everyday",
       "clusterId": "everyday-3",
-      "hallPosition": 6,
+      "hallPosition": 4,
       "route": "#/work/archive-listening-room",
       "lookFor": "比较窄窗、地板与占满房间的背部。",
       "placementRationale": "翻转上一件的微小尺度，让建筑成为身体的限制。",
@@ -982,7 +802,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 24,
+      "sequencePosition": 16,
       "previousWorkId": "014-zipper-lunch",
       "nextWorkId": "020-uncreased-place"
     },
@@ -1000,10 +820,10 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 25,
+      "sequencePosition": 17,
       "previousWorkId": "archive-listening-room",
       "nextWorkId": "023-knot-the-empty-seat",
-      "hallPosition": 7
+      "hallPosition": 5
     },
     {
       "workId": "023-knot-the-empty-seat",
@@ -1019,10 +839,10 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 26,
+      "sequencePosition": 18,
       "previousWorkId": "020-uncreased-place",
       "nextWorkId": "013-shadow-stairs",
-      "hallPosition": 8
+      "hallPosition": 6
     },
     {
       "workId": "013-shadow-stairs",
@@ -1030,7 +850,7 @@ window.MUSEUM_CURATION = {
       "title": "影子还是走楼梯",
       "primaryHallId": "everyday",
       "clusterId": "everyday-3",
-      "hallPosition": 9,
+      "hallPosition": 7,
       "route": "#/work/013-shadow-stairs",
       "lookFor": "分别沿身体和影子所在的楼梯表面看。",
       "placementRationale": "尺度之后改变行动路径，让关联的两者服从不同路线。",
@@ -1039,7 +859,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 27,
+      "sequencePosition": 19,
       "previousWorkId": "023-knot-the-empty-seat",
       "nextWorkId": "010-water-left"
     },
@@ -1049,7 +869,7 @@ window.MUSEUM_CURATION = {
       "title": "水走以后",
       "primaryHallId": "everyday",
       "clusterId": "everyday-3",
-      "hallPosition": 10,
+      "hallPosition": 8,
       "route": "#/work/010-water-left",
       "lookFor": "看干叶、哑光砖面与不断开的波纹砖缝。",
       "placementRationale": "从路径错位转向材料预期的冲突。",
@@ -1058,7 +878,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "relatedReading": [],
-      "sequencePosition": 28,
+      "sequencePosition": 20,
       "previousWorkId": "013-shadow-stairs",
       "nextWorkId": "022-only-one-bowl"
     },
@@ -1076,10 +896,10 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 29,
+      "sequencePosition": 21,
       "previousWorkId": "010-water-left",
       "nextWorkId": "018-handmade-rain",
-      "hallPosition": 11
+      "hallPosition": 9
     },
     {
       "workId": "018-handmade-rain",
@@ -1087,7 +907,7 @@ window.MUSEUM_CURATION = {
       "title": "今日小雨，手工现做",
       "primaryHallId": "everyday",
       "clusterId": "everyday-3",
-      "hallPosition": 12,
+      "hallPosition": 10,
       "route": "#/work/018-handmade-rain",
       "lookFor": "从木桌上的白云沿辊轴看到蓝色雨线，最后落在地砖的小片积水；再看握柄与扶住机器的两只手。",
       "placementRationale": "放在波纹瓷砖之后，让水从被硬地面保留的形状变成厨房里加工出来的雨；用熟悉的家用工具承接用途置换。",
@@ -1096,7 +916,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 30,
+      "sequencePosition": 22,
       "previousWorkId": "022-only-one-bowl",
       "nextWorkId": "021-planing-sunlight"
     },
@@ -1114,10 +934,10 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 31,
+      "sequencePosition": 23,
       "previousWorkId": "018-handmade-rain",
       "nextWorkId": "024-keep-dusk-for-tomorrow",
-      "hallPosition": 13
+      "hallPosition": 11
     },
     {
       "workId": "024-keep-dusk-for-tomorrow",
@@ -1133,10 +953,10 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 32,
+      "sequencePosition": 24,
       "previousWorkId": "021-planing-sunlight",
       "nextWorkId": "011-incompatible-lunch",
-      "hallPosition": 14
+      "hallPosition": 12
     },
     {
       "workId": "011-incompatible-lunch",
@@ -1144,7 +964,7 @@ window.MUSEUM_CURATION = {
       "title": "午餐不在同一张桌上",
       "primaryHallId": "everyday",
       "clusterId": "everyday-3",
-      "hallPosition": 15,
+      "hallPosition": 13,
       "route": "#/work/011-incompatible-lunch",
       "lookFor": "分别确认盘、椅、桌角的视点，再找伸出照片边缘的脚。",
       "placementRationale": "将材料问题转为空间能否共享；完整身体成为对照。",
@@ -1153,7 +973,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "relatedReading": [],
-      "sequencePosition": 33,
+      "sequencePosition": 25,
       "previousWorkId": "024-keep-dusk-for-tomorrow",
       "nextWorkId": "012-late-yellow"
     },
@@ -1163,7 +983,7 @@ window.MUSEUM_CURATION = {
       "title": "走慢半步的黄色",
       "primaryHallId": "everyday",
       "clusterId": "everyday-4",
-      "hallPosition": 16,
+      "hallPosition": 14,
       "route": "#/work/012-late-yellow",
       "lookFor": "沿黑轮廓与越线黄块，再看右下套准十字。",
       "placementRationale": "让画面组成层之间的偏移接过空间的不连续。",
@@ -1173,7 +993,7 @@ window.MUSEUM_CURATION = {
       "relatedReading": [
         "simple-forms-complex-expression"
       ],
-      "sequencePosition": 34,
+      "sequencePosition": 26,
       "previousWorkId": "011-incompatible-lunch",
       "nextWorkId": "015-sleep-loading"
     },
@@ -1183,7 +1003,7 @@ window.MUSEUM_CURATION = {
       "title": "先睡，图慢慢加载",
       "primaryHallId": "everyday",
       "clusterId": "everyday-4",
-      "hallPosition": 17,
+      "hallPosition": 15,
       "route": "#/work/015-sleep-loading",
       "lookFor": "看棋盘格、像素被子与露出的头手脚。",
       "placementRationale": "以显示界面被当作生活材料的情境收束本厅。",
@@ -1192,7 +1012,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 35,
+      "sequencePosition": 27,
       "previousWorkId": "012-late-yellow",
       "nextWorkId": "archive-marilyn-one"
     },
@@ -1211,7 +1031,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 36,
+      "sequencePosition": 28,
       "previousWorkId": "015-sleep-loading",
       "nextWorkId": "archive-marilyn-nine"
     },
@@ -1230,7 +1050,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 37,
+      "sequencePosition": 29,
       "previousWorkId": "archive-marilyn-one",
       "nextWorkId": "archive-diptych"
     },
@@ -1249,7 +1069,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 38,
+      "sequencePosition": 30,
       "previousWorkId": "archive-marilyn-nine",
       "nextWorkId": "archive-thirty-two"
     },
@@ -1268,7 +1088,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 39,
+      "sequencePosition": 31,
       "previousWorkId": "archive-diptych",
       "nextWorkId": "archive-screen-test"
     },
@@ -1287,7 +1107,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 40,
+      "sequencePosition": 32,
       "previousWorkId": "archive-thirty-two",
       "nextWorkId": "archive-peaches"
     },
@@ -1306,7 +1126,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 41,
+      "sequencePosition": 33,
       "previousWorkId": "archive-screen-test",
       "nextWorkId": "archive-peach-passion"
     },
@@ -1325,7 +1145,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 42,
+      "sequencePosition": 34,
       "previousWorkId": "archive-peaches",
       "nextWorkId": "archive-algorithm-belly"
     },
@@ -1344,7 +1164,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 43,
+      "sequencePosition": 35,
       "previousWorkId": "archive-peach-passion",
       "nextWorkId": "archive-beautiful-frog"
     },
@@ -1363,7 +1183,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 44,
+      "sequencePosition": 36,
       "previousWorkId": "archive-algorithm-belly",
       "nextWorkId": "archive-higher-traffic"
     },
@@ -1382,7 +1202,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 45,
+      "sequencePosition": 37,
       "previousWorkId": "archive-beautiful-frog",
       "nextWorkId": "019-numbers-wait-for-me"
     },
@@ -1401,7 +1221,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "abstract-culture-platforms-and-commerce"
       ],
-      "sequencePosition": 46,
+      "sequencePosition": 38,
       "previousWorkId": "archive-higher-traffic",
       "nextWorkId": "archive-little-sun"
     },
@@ -1420,7 +1240,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 47,
+      "sequencePosition": 39,
       "previousWorkId": "019-numbers-wait-for-me",
       "nextWorkId": "archive-laughter-and-andy"
     },
@@ -1439,7 +1259,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 48,
+      "sequencePosition": 40,
       "previousWorkId": "archive-little-sun",
       "nextWorkId": "archive-yellow-square"
     },
@@ -1458,7 +1278,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 49,
+      "sequencePosition": 41,
       "previousWorkId": "archive-laughter-and-andy",
       "nextWorkId": "archive-yellow-order"
     },
@@ -1477,7 +1297,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 50,
+      "sequencePosition": 42,
       "previousWorkId": "archive-yellow-square",
       "nextWorkId": "archive-laughing-broadway"
     },
@@ -1496,7 +1316,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 51,
+      "sequencePosition": 43,
       "previousWorkId": "archive-yellow-order",
       "nextWorkId": "archive-grid-unruly"
     },
@@ -1515,7 +1335,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 52,
+      "sequencePosition": 44,
       "previousWorkId": "archive-laughing-broadway",
       "nextWorkId": "016-shadow-check-in"
     },
@@ -1534,7 +1354,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 53,
+      "sequencePosition": 45,
       "previousWorkId": "archive-grid-unruly",
       "nextWorkId": "017-eye-at-low-tide"
     },
@@ -1553,7 +1373,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 54,
+      "sequencePosition": 46,
       "previousWorkId": "016-shadow-check-in",
       "nextWorkId": null
     }
@@ -1895,7 +1715,7 @@ window.MUSEUM_CURATION = {
       {
         "title": "版本为什么留下",
         "paragraphs": [
-          "现有图录包含54件主展品；另有6张早期版本，附属于A03、A05、A06、A07和A08。它们用于比较图像选择，不另计为主展品。三维作品的附加视角展示同一件作品的其他角度，也不计为新作品。",
+          "现有图录包含46件主展品；另有6张早期版本，附属于A03、A05、A06、A07和A08。它们用于比较图像选择，不另计为主展品。Blender的S01–S09九项研究共同计为一件组作；组内单件与七个附加视角保留，也不另计为新作品。",
           "八月旧作的原题名与版本关系保留，展签和解读在归档时补充。旧题名中的“奶龙”或“Nailong”是历史记录的一部分，不据此把所有形象认定为官方奶龙，也不将归档日期倒写成首次创作日期。"
         ]
       },
@@ -1950,5 +1770,178 @@ window.MUSEUM_CURATION = {
     "notFoundBody": "可以返回作品总目录，按标题或编号继续查找。",
     "videoNote": "无声循环影像，由你选择播放与暂停。",
     "imageNote": "网页展示图，不含完整分辨率原图下载。"
-  }
+  },
+  "groupMemberCuration": [
+    {
+      "workId": "baseline-neutral",
+      "number": "S01",
+      "title": "站立：尚未发生什么",
+      "primaryHallId": "identity",
+      "clusterId": "identity-1",
+      "hallPosition": 1,
+      "route": "#/work/baseline-neutral",
+      "lookFor": "看连续头身与腹部、手足的位置关系。",
+      "placementRationale": "全线的起点，为此后的缺席和变形建立项目内参照。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "nailoong-milk-frog-origins"
+      ],
+      "sequencePosition": 1,
+      "previousWorkId": null,
+      "nextWorkId": "archive-son-of-man"
+    },
+    {
+      "workId": "baseline-seated",
+      "number": "S02",
+      "title": "坐着：回复之前",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-1",
+      "hallPosition": 1,
+      "route": "#/work/baseline-seated",
+      "lookFor": "看手停在哪里，以及身体怎样坐稳。",
+      "placementRationale": "从最小的停顿进入动作问题。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "sequencePosition": 8,
+      "previousWorkId": "009-verification",
+      "nextWorkId": "baseline-wave"
+    },
+    {
+      "workId": "baseline-wave",
+      "number": "S03",
+      "title": "招手：一个尚未发送的你好",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-1",
+      "hallPosition": 2,
+      "route": "#/work/baseline-wave",
+      "lookFor": "比较两脚的支点与抬起的手掌。",
+      "placementRationale": "把朝向他人的动作保持在静止状态。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "sequencePosition": 9,
+      "previousWorkId": "baseline-seated",
+      "nextWorkId": "wave-loop-01"
+    },
+    {
+      "workId": "thinker-01",
+      "number": "S04",
+      "title": "思考的奶蛙",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-2",
+      "hallPosition": 5,
+      "route": "#/work/thinker-01",
+      "lookFor": "从托腮的手，经手肘看到膝部与石座。",
+      "placementRationale": "把一个精神活动的名称落实为可见支撑。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "sequencePosition": 12,
+      "previousWorkId": "003-milkmaid-frog",
+      "nextWorkId": "discus-01"
+    },
+    {
+      "workId": "discus-01",
+      "number": "S05",
+      "title": "掷铁饼的奶蛙",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-2",
+      "hallPosition": 6,
+      "route": "#/work/discus-01",
+      "lookFor": "看持饼臂、前足和后足怎样分担扭转。",
+      "placementRationale": "把身体的支撑关系推向尚未完成的运动。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "sequencePosition": 13,
+      "previousWorkId": "thinker-01",
+      "nextWorkId": "004-dance-milk-frogs"
+    },
+    {
+      "workId": "embrace-01",
+      "number": "S07",
+      "title": "相拥的奶蛙",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-3",
+      "hallPosition": 10,
+      "route": "#/work/embrace-01",
+      "lookFor": "观察高低错开的双臂与共同体量。",
+      "placementRationale": "与P07直接对照，以数字石材的体量接续金色纹样的环抱。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "sequencePosition": 17,
+      "previousWorkId": "007-golden-embrace",
+      "nextWorkId": "unread-01"
+    },
+    {
+      "workId": "unread-01",
+      "number": "S09",
+      "title": "一条未读",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-4",
+      "hallPosition": 11,
+      "route": "#/work/unread-01",
+      "lookFor": "比较红章的尺寸、短爪的接触与低蹲双足。",
+      "placementRationale": "把微小通知转成身体负荷，成为从姿势到界面的转折。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "sequencePosition": 18,
+      "previousWorkId": "embrace-01",
+      "nextWorkId": "006-night-diner"
+    },
+    {
+      "workId": "night-counter-01",
+      "number": "S06",
+      "title": "夜班的奶蛙",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-1",
+      "hallPosition": 2,
+      "route": "#/work/night-counter-01",
+      "lookFor": "看双掌、摆好的杯具与空凳之间的关系。",
+      "placementRationale": "与P06配对，把观看带进可以看见边界的数字微缩场景。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "sequencePosition": 20,
+      "previousWorkId": "006-night-diner",
+      "nextWorkId": "002-sleeping-milk-frog"
+    },
+    {
+      "workId": "reclining-01",
+      "number": "S08",
+      "title": "午后不营业",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-2",
+      "hallPosition": 4,
+      "route": "#/work/reclining-01",
+      "lookFor": "看肘、陶枕与搭腹手怎样让身体停下来。",
+      "placementRationale": "从悬置的危险过渡到数字雕塑中主动占据的休息姿态。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "sequencePosition": 22,
+      "previousWorkId": "002-sleeping-milk-frog",
+      "nextWorkId": "014-zipper-lunch"
+    }
+  ]
 };
