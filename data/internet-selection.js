@@ -144,6 +144,21 @@ window.MUSEUM_INTERNET_SELECTION = {
         "caption": "奶蛙现代艺术馆原创文字导览，非作品画面。"
       },
       "namingNote": "保留作者原题中的“奶龙”；题名不表示角色身份或权利归属相同。"
+    },
+    {
+      "id": "stand404-doodle-to-nailoong",
+      "title": "无论画什么东西最后都会变成奶龙",
+      "author": "Stand404",
+      "platform": "Bilibili",
+      "date": "2026-08-13",
+      "creationType": "collection",
+      "format": "互动程序演示 · 41 秒",
+      "description": "随手画下的线条，最后都收束成奶龙。颜色和比例各不相同，结局却出奇一致：一张画布，把自由涂鸦变成了有固定答案的小游戏。",
+      "sourceNote": "演示可见自由黑线变成黑、红、蓝等不同尺寸的奶龙轮廓，后段展示手机界面与Doro变体。原帖简介写“纯vue”；仅观看演示，未运行程序或独立测试，不能据此确定匹配算法。本馆对固定结局的简评属于策展解读，非作者技术声明。",
+      "rightsNote": "未找到明确转载许可；本站仅刊作者署名、原创简评与原帖链接，不复制原作封面、视频或其他媒体。",
+      "namingNote": "保留作者原题中的“奶龙”；题名不表示奶龙、网络奶蛙与本馆角色身份或权利归属相同。",
+      "authorUrl": "https://space.bilibili.com/382365750/",
+      "postUrl": "https://www.bilibili.com/video/BV1xDgs6rESz/"
     }
   ]
 };
