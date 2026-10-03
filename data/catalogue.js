@@ -3,7 +3,7 @@ window.MUSEUM_CATALOGUE = {
   "museum": {
     "title": "奶蛙现代艺术馆",
     "subtitle": "从一张脸，看到它周围的规则",
-    "intro": "从镜中的背影到失去水的瓷砖，从一枚未读标记到只剩黄色的方块，51件作品追问：一个角色可以改变多少，仍与原来的自己发生关系？沿五个展厅观看，也可按媒介和编号查阅。",
+    "intro": "从镜中的背影到失去水的瓷砖，从一枚未读标记到只剩黄色的方块，52件作品追问：一个角色可以改变多少，仍与原来的自己发生关系？沿五个展厅观看，也可按媒介和编号查阅。",
     "rightsNote": "本站展示奶蛙题材的AI辅助图像与数字三维再创作，不代表角色权利方、历史作品作者或收藏机构。相关角色与被引用作品的权利归各自权利人；本馆不为第三方内容授予开放许可。历史参考以来源链接说明，不再发行其参考原图。",
     "headline": "一只熟悉的身体，\n世界不再严丝合缝。",
     "featuredId": "011-incompatible-lunch",
@@ -1964,6 +1964,53 @@ window.MUSEUM_CATALOGUE = {
       ],
       "completionStatus": "completed",
       "creator": "奶蛙现代艺术馆项目 · AI 辅助改编"
+    },
+    {
+      "id": "022-only-one-bowl",
+      "number": "P22",
+      "title": "只盛一碗",
+      "titleEn": "Only One Bowl",
+      "year": "2026",
+      "medium": "AI 辅助二维图像 · 木版画质感",
+      "type": "image",
+      "creationType": "adaptation",
+      "completionStatus": "completed",
+      "image": "media/022-only-one-bowl/art.webp",
+      "thumbnail": "media/022-only-one-bowl/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": [],
+      "alt": "蓝白巨浪从左侧高高卷起，末梢收束成一股细流，落进右下方黄色梨形奶蛙双手捧着的小碗。三条长舟穿过浪间，远处小小的富士山留在浪弧下。",
+      "wallText": "浪已经高过了山，奶蛙却只拿来一只碗。白色浪爪的一端收成细流，准确落进碗里；庞大的海暂时服从了一个日用器物的口径。北斋原作中令人屏息的尺度差，在这里多了一个平静得不合时宜的请求：只盛一碗。",
+      "interpretation": [
+        "本作改编葛饰北斋《富岳三十六景》中的《神奈川冲浪里》，以大都会艺术博物馆 JP10 藏本为参考。左侧上卷的浪头、细长舟体、低处富士山与大片天空，保留了可以辨认的空间关系；蓝色层次和细线模拟木版套色的视觉质感。",
+        "变化落在浪头与碗之间。大浪末梢延伸为连续的蓝色水带，越向碗口越窄；碗里的小漩涡又重复了远大于它的浪弧。它没有解释碗是否能装完整片海，而把无法匹配的两个容量连接在同一瞬间。",
+        "三只舟中只留下一个角色。奶蛙的黄色连续梨形身体、奶白腹部与绿色眼圈保持辨识度，平静的持碗姿势与卷浪的张力相抵。它没有控制海的工具，也没有胜利的表情；小碗成为一个与环境规模极不相称的请求。",
+        "只盛一碗的叙事属于本次改编，不是对北斋原意的断言。成品为 AI 辅助生成二维图像，纸张与木版质感均为数字模拟；历史原作由馆方标注为公有领域，角色相关权利仍归各自权利人。"
+      ],
+      "epigraph": "海这么大，我只盛一碗。",
+      "creationNote": "生成前保存三项公开创作提案与取舍。首版保留了船内的原作乘员痕迹，第二版以生成式局部修改清除，并移除多余的远舟；实际查看后选用第二版。原图不随作品包再发行。",
+      "source": {
+        "title": "Under the Wave off Kanagawa (Kanagawa oki nami ura), from Thirty-six Views of Mount Fuji",
+        "artist": "Katsushika Hokusai",
+        "date": "约 1830–1832",
+        "note": "大都会艺术博物馆 JP10，木版画，纸本墨与色，24.4×35.7厘米；馆方标注 Public Domain。"
+      },
+      "sources": [
+        {
+          "title": "The Met：Under the Wave off Kanagawa，JP10",
+          "url": "https://www.metmuseum.org/art/collection/search/36491"
+        }
+      ],
+      "creator": "奶蛙现代艺术馆项目 · AI 辅助改编",
+      "tags": [
+        "奶蛙",
+        "葛饰北斋",
+        "名画改编",
+        "巨浪",
+        "容量",
+        "尺度错位"
+      ]
     }
   ]
 }
