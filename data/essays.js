@@ -160,7 +160,7 @@ window.MUSEUM_ESSAYS = {
         },
         {
           "id": "8",
-          "title": "失配美术馆：馆藏与命名",
+          "title": "奶蛙现代艺术馆：馆藏与命名",
           "url": "https://amatate.github.io/milk-frog-museum/#/collection",
           "note": "本项目已公开作品，不能代表全部网络版本",
           "accessedAt": "2026-10-02"
@@ -198,7 +198,7 @@ window.MUSEUM_ESSAYS = {
         }
       ],
       "id": "E01",
-      "author": "失配美术馆",
+      "author": "奶蛙现代艺术馆",
       "category": "研究文章",
       "publishedAt": "2026-10-02",
       "updatedAt": "2026-10-02",
@@ -324,7 +324,7 @@ window.MUSEUM_ESSAYS = {
       "references": [
         {
           "id": "1",
-          "title": "失配美术馆：馆藏作品",
+          "title": "奶蛙现代艺术馆：馆藏作品",
           "url": "https://amatate.github.io/milk-frog-museum/#/collection",
           "note": "本馆目的性选择的AI辅助成品；非随机样本，未含完整失败候选集",
           "accessedAt": "2026-10-02"
@@ -442,7 +442,7 @@ window.MUSEUM_ESSAYS = {
         }
       ],
       "id": "E02",
-      "author": "失配美术馆",
+      "author": "奶蛙现代艺术馆",
       "category": "研究文章",
       "publishedAt": "2026-10-02",
       "updatedAt": "2026-10-02",
@@ -688,7 +688,7 @@ window.MUSEUM_ESSAYS = {
         }
       ],
       "id": "E03",
-      "author": "失配美术馆",
+      "author": "奶蛙现代艺术馆",
       "category": "研究文章",
       "publishedAt": "2026-10-02",
       "updatedAt": "2026-10-02",
@@ -824,7 +824,7 @@ window.MUSEUM_ESSAYS = {
       "references": [
         {
           "id": "1",
-          "title": "失配美术馆：本馆宣言与制作说明",
+          "title": "奶蛙现代艺术馆：本馆宣言与制作说明",
           "url": "https://amatate.github.io/milk-frog-museum/#/about",
           "note": "项目自述；用于界定AI辅助创作与展示责任，不作为独立价值认证",
           "accessedAt": "2026-10-02"
@@ -942,7 +942,7 @@ window.MUSEUM_ESSAYS = {
         }
       ],
       "id": "E04",
-      "author": "失配美术馆",
+      "author": "奶蛙现代艺术馆",
       "category": "研究文章",
       "publishedAt": "2026-10-02",
       "updatedAt": "2026-10-02",
