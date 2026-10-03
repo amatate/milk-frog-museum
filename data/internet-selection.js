@@ -1,9 +1,24 @@
 window.MUSEUM_INTERNET_SELECTION = {
   "title": "互联网精选",
   "subtitle": "前往作者原帖",
-  "intro": "从作者公开作品中选择四种观看路径：长桌群像、指尖相接、建筑中的仪式感，以及日常容器中的尺度错位。这里保存我们的文字导览，作品请到作者原帖观看。",
+  "intro": "从角色三视图到长桌群像、指尖相接、建筑中的仪式感与日常容器中的尺度错位，这里保存我们的文字导览，作品请到作者原帖观看。",
   "rightsNote": "作品归各自权利人。以下仅为文字导览与外链推荐；未获本站转载授权，不展示作品媒体，也不计入本馆作品数量。",
   "entries": [
+    {
+      "id": "slowfire-character-three-views",
+      "title": "AI角色设定卡 Vol.003｜奶蛙｜三视图·视频生成参考",
+      "author": "文火_slowfire",
+      "platform": "Bilibili",
+      "date": "2026年3月",
+      "creationType": "collection",
+      "format": "角色三视图 / 视频生成参考",
+      "description": "正面、侧面与背面视图提供了核对角色轮廓、体量和细节位置的观看方法。黄色连续的头身轮廓、绿色眼圈与浅色腹部，可以作为跨视角检查形体一致性的参考；本馆仅提供文字导览，完整内容请前往作者原帖。",
+      "sourceNote": "原帖与已核实主页对应文火_slowfire。用户提供的三视图附件已用于参考核对，但未核实它与视频某一帧完全一致，不据此标注为视频提取帧。",
+      "rightsNote": "未发现面向本站的转载许可；本站仅作文字导览、作者署名与原帖链接推荐，不展示附件或视频媒体。",
+      "namingNote": "保留作者原题；此条为作者发布的角色参考，不是官方 IP 设定稿，也不据此合并奶龙、网络奶蛙与本馆角色的身份或权利。",
+      "authorUrl": "https://space.bilibili.com/391603531",
+      "postUrl": "https://www.bilibili.com/video/BV1enXoBSEfU"
+    },
     {
       "id": "zeyang-last-supper",
       "title": "最唐的晚餐",
