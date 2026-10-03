@@ -1,6 +1,6 @@
 window.MUSEUM_CURATION = {
   "schemaVersion": 1,
-  "contentVersion": "20261003-modern-art-p20",
+  "contentVersion": "20261003-modern-art-p21",
   "language": "zh-Hans",
   "identity": {
     "name": "奶蛙现代艺术馆",
@@ -9,7 +9,7 @@ window.MUSEUM_CURATION = {
     "tagline": "从一张脸，看到它周围的规则"
   },
   "statistics": {
-    "mainWorks": 50,
+    "mainWorks": 51,
     "halls": 5,
     "earlierVersions": 6,
     "additionalViews": 7,
@@ -19,7 +19,7 @@ window.MUSEUM_CURATION = {
     "title": "奶蛙现代艺术馆",
     "titleEn": "Milk Frog Museum of Modern Art",
     "subtitle": "从一张脸，看到它周围的规则",
-    "intro": "从镜中的背影到失去水的瓷砖，从一枚未读标记到只剩黄色的方块，50件作品追问：一个角色可以改变多少，仍与原来的自己发生关系？沿五个展厅观看，也可按媒介和编号查阅。",
+    "intro": "从镜中的背影到失去水的瓷砖，从一枚未读标记到只剩黄色的方块，51件作品追问：一个角色可以改变多少，仍与原来的自己发生关系？沿五个展厅观看，也可按媒介和编号查阅。",
     "headline": "一只熟悉的身体，\n世界不再严丝合缝。",
     "featuredId": "011-incompatible-lunch",
     "statement": "先认出它，再看它与周围事物的关系。每一次改写，都要说明哪些线索被保住，哪些规则被改变。",
@@ -40,7 +40,7 @@ window.MUSEUM_CURATION = {
     "heroCaption": "展览入口 · P11",
     "latestWorkId": "016-shadow-check-in",
     "primaryAction": "沿五厅开始观看",
-    "secondaryAction": "查阅全部50件作品",
+    "secondaryAction": "查阅全部51件作品",
     "prefaceTitle": "从一处具体的关系开始",
     "preface": [
       "一只黄色身体站在镜前，镜子没有交出它的脸。换一幅图，它已坐好，桌子、盘子和椅子却没能组成同一间屋子。再往后，眼睛、手脚和腹部陆续退场，题名仍请我们在一块黄色里寻找奶蛙。",
@@ -82,7 +82,7 @@ window.MUSEUM_CURATION = {
   ],
   "collection": {
     "title": "作品总目录",
-    "intro": "50件主展品各有一个主要展厅。主题路线安排观看顺序；媒介、编号和旧作归档筛选帮助查找。六张早期版本保留在对应作品页，附加视角也随原作品展示。",
+    "intro": "51件主展品各有一个主要展厅。主题路线安排观看顺序；媒介、编号和旧作归档筛选帮助查找。六张早期版本保留在对应作品页，附加视角也随原作品展示。",
     "mediumDescriptions": {
       "image": "生成式图像中的构图、色彩与媒介模拟，包括历史关联改写和新的场景安排。",
       "3d": "通过Blender建模、材质和灯光组织的数字雕塑与姿态；网页展示渲染图及部分附加视角。",
@@ -132,6 +132,7 @@ window.MUSEUM_CURATION = {
       "013-shadow-stairs",
       "010-water-left",
       "018-handmade-rain",
+      "021-planing-sunlight",
       "011-incompatible-lunch",
       "012-late-yellow",
       "015-sleep-loading",
@@ -299,7 +300,8 @@ window.MUSEUM_CURATION = {
           "从《夜游奶蛙》走向《夜班的奶蛙》，观看从玻璃外的街道移到一座敞开的微缩场景。再经过月夜中的睡眠、青瓷式斜卧与拉链里的午休：这里的停顿各有条件，不能由一张平静的脸替它们给出相同心情。",
           "后半厅逐项改变日常的尺度与规则。巨大的背部占满房间，影子与身体分走楼梯两侧，干燥瓷砖保留波纹，午餐物件各守自己的视点。最后，黄色与轮廓失去同步，像素成为被子。它们把可以认出的事物放进难以同时成立的关系里；题名所说的“慢”“睡”“走以后”，仍须回到画面检验。",
           "《今日小雨，手工现做》放在干燥瓷砖的波纹之后：同样回到日常地面，水从形状的缺席转为真实感很强的滴落。奶蛙摇动压面机，把一团云排成雨线。工具和厨房仍然可以认出，改变的是需要被处理的材料。",
-          "《褶皱里的一小块平地》接在被巨大身体挤满的房间之后：这里没有放大角色，周围的折纸山谷却同样决定了身体能够安放在哪里。奶白平地暂停了折叠的规则，让一处休息与起伏的空间同时成立。"
+          "《褶皱里的一小块平地》接在被巨大身体挤满的房间之后：这里没有放大角色，周围的折纸山谷却同样决定了身体能够安放在哪里。奶白平地暂停了折叠的规则，让一处休息与起伏的空间同时成立。",
+          "《把阳光刨薄一点》接在厨房工具加工天气之后。它保留卡耶博特《刨地板工人》的空间和劳动关系，让木刨处理窗光。与原创的手工小雨相邻，可以比较名画改编与原创构图如何分别建立一种工具仍然认真工作、材料却已改变的场景。"
         ],
         "question": "每件作品改变了哪一条日常规则？又刻意保住了哪一条？",
         "nextTransition": "当图像本身成了场景，第四厅继续追问：同一张脸被排列、包装和拆分之后，会发生什么？",
@@ -332,13 +334,14 @@ window.MUSEUM_CURATION = {
           {
             "id": "everyday-3",
             "title": "世界的接缝",
-            "description": "从尺度挤压与折纸山谷中的平地，经身体与影子的分路、瓷砖上的波纹和厨房里手工现做的雨，走到无法共享的餐桌空间。",
+            "description": "从尺度挤压与折纸山谷中的平地，经身体与影子的分路、瓷砖上的波纹，再看压面机做雨和木刨加工阳光，走到无法共享的餐桌空间。",
             "workIds": [
               "archive-listening-room",
               "020-uncreased-place",
               "013-shadow-stairs",
               "010-water-left",
               "018-handmade-rain",
+              "021-planing-sunlight",
               "011-incompatible-lunch"
             ]
           },
@@ -363,11 +366,12 @@ window.MUSEUM_CURATION = {
           "013-shadow-stairs",
           "010-water-left",
           "018-handmade-rain",
+          "021-planing-sunlight",
           "011-incompatible-lunch",
           "012-late-yellow",
           "015-sleep-loading"
         ],
-        "workCount": 13
+        "workCount": 14
       },
       {
         "id": "reproduction",
@@ -1044,7 +1048,26 @@ window.MUSEUM_CURATION = {
       ],
       "sequencePosition": 28,
       "previousWorkId": "010-water-left",
-      "nextWorkId": "011-incompatible-lunch"
+      "nextWorkId": "021-planing-sunlight"
+    },
+    {
+      "workId": "021-planing-sunlight",
+      "number": "P21",
+      "title": "把阳光刨薄一点",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-3",
+      "route": "#/work/021-planing-sunlight",
+      "lookFor": "沿地板纵深看三只奶蛙的手与木刨，再从刨口追踪金色卷带，比较窗照的直边与薄带的弯曲。",
+      "placementRationale": "接在原创的压面机加工天气之后，将名画中的劳动关系与改编新增的阳光材料分开辨认，比较工具用途怎样在两种创作路径里被重写。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "sequencePosition": 29,
+      "previousWorkId": "018-handmade-rain",
+      "nextWorkId": "011-incompatible-lunch",
+      "hallPosition": 11
     },
     {
       "workId": "011-incompatible-lunch",
@@ -1052,7 +1075,7 @@ window.MUSEUM_CURATION = {
       "title": "午餐不在同一张桌上",
       "primaryHallId": "everyday",
       "clusterId": "everyday-3",
-      "hallPosition": 11,
+      "hallPosition": 12,
       "route": "#/work/011-incompatible-lunch",
       "lookFor": "分别确认盘、椅、桌角的视点，再找伸出照片边缘的脚。",
       "placementRationale": "将材料问题转为空间能否共享；完整身体成为对照。",
@@ -1061,8 +1084,8 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "relatedReading": [],
-      "sequencePosition": 29,
-      "previousWorkId": "018-handmade-rain",
+      "sequencePosition": 30,
+      "previousWorkId": "021-planing-sunlight",
       "nextWorkId": "012-late-yellow"
     },
     {
@@ -1071,7 +1094,7 @@ window.MUSEUM_CURATION = {
       "title": "走慢半步的黄色",
       "primaryHallId": "everyday",
       "clusterId": "everyday-4",
-      "hallPosition": 12,
+      "hallPosition": 13,
       "route": "#/work/012-late-yellow",
       "lookFor": "沿黑轮廓与越线黄块，再看右下套准十字。",
       "placementRationale": "让画面组成层之间的偏移接过空间的不连续。",
@@ -1081,7 +1104,7 @@ window.MUSEUM_CURATION = {
       "relatedReading": [
         "simple-forms-complex-expression"
       ],
-      "sequencePosition": 30,
+      "sequencePosition": 31,
       "previousWorkId": "011-incompatible-lunch",
       "nextWorkId": "015-sleep-loading"
     },
@@ -1091,7 +1114,7 @@ window.MUSEUM_CURATION = {
       "title": "先睡，图慢慢加载",
       "primaryHallId": "everyday",
       "clusterId": "everyday-4",
-      "hallPosition": 13,
+      "hallPosition": 14,
       "route": "#/work/015-sleep-loading",
       "lookFor": "看棋盘格、像素被子与露出的头手脚。",
       "placementRationale": "以显示界面被当作生活材料的情境收束本厅。",
@@ -1100,7 +1123,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 31,
+      "sequencePosition": 32,
       "previousWorkId": "012-late-yellow",
       "nextWorkId": "archive-marilyn-one"
     },
@@ -1119,7 +1142,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 32,
+      "sequencePosition": 33,
       "previousWorkId": "015-sleep-loading",
       "nextWorkId": "archive-marilyn-nine"
     },
@@ -1138,7 +1161,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 33,
+      "sequencePosition": 34,
       "previousWorkId": "archive-marilyn-one",
       "nextWorkId": "archive-diptych"
     },
@@ -1157,7 +1180,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 34,
+      "sequencePosition": 35,
       "previousWorkId": "archive-marilyn-nine",
       "nextWorkId": "archive-thirty-two"
     },
@@ -1176,7 +1199,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 35,
+      "sequencePosition": 36,
       "previousWorkId": "archive-diptych",
       "nextWorkId": "archive-screen-test"
     },
@@ -1195,7 +1218,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 36,
+      "sequencePosition": 37,
       "previousWorkId": "archive-thirty-two",
       "nextWorkId": "archive-peaches"
     },
@@ -1214,7 +1237,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 37,
+      "sequencePosition": 38,
       "previousWorkId": "archive-screen-test",
       "nextWorkId": "archive-peach-passion"
     },
@@ -1233,7 +1256,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 38,
+      "sequencePosition": 39,
       "previousWorkId": "archive-peaches",
       "nextWorkId": "archive-algorithm-belly"
     },
@@ -1252,7 +1275,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 39,
+      "sequencePosition": 40,
       "previousWorkId": "archive-peach-passion",
       "nextWorkId": "archive-beautiful-frog"
     },
@@ -1271,7 +1294,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 40,
+      "sequencePosition": 41,
       "previousWorkId": "archive-algorithm-belly",
       "nextWorkId": "archive-higher-traffic"
     },
@@ -1290,7 +1313,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 41,
+      "sequencePosition": 42,
       "previousWorkId": "archive-beautiful-frog",
       "nextWorkId": "019-numbers-wait-for-me"
     },
@@ -1309,7 +1332,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "abstract-culture-platforms-and-commerce"
       ],
-      "sequencePosition": 42,
+      "sequencePosition": 43,
       "previousWorkId": "archive-higher-traffic",
       "nextWorkId": "archive-little-sun"
     },
@@ -1328,7 +1351,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 43,
+      "sequencePosition": 44,
       "previousWorkId": "019-numbers-wait-for-me",
       "nextWorkId": "archive-laughter-and-andy"
     },
@@ -1347,7 +1370,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 44,
+      "sequencePosition": 45,
       "previousWorkId": "archive-little-sun",
       "nextWorkId": "archive-yellow-square"
     },
@@ -1366,7 +1389,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 45,
+      "sequencePosition": 46,
       "previousWorkId": "archive-laughter-and-andy",
       "nextWorkId": "archive-yellow-order"
     },
@@ -1385,7 +1408,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 46,
+      "sequencePosition": 47,
       "previousWorkId": "archive-yellow-square",
       "nextWorkId": "archive-laughing-broadway"
     },
@@ -1404,7 +1427,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 47,
+      "sequencePosition": 48,
       "previousWorkId": "archive-yellow-order",
       "nextWorkId": "archive-grid-unruly"
     },
@@ -1423,7 +1446,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 48,
+      "sequencePosition": 49,
       "previousWorkId": "archive-laughing-broadway",
       "nextWorkId": "016-shadow-check-in"
     },
@@ -1442,7 +1465,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 49,
+      "sequencePosition": 50,
       "previousWorkId": "archive-grid-unruly",
       "nextWorkId": "017-eye-at-low-tide"
     },
@@ -1461,7 +1484,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 50,
+      "sequencePosition": 51,
       "previousWorkId": "016-shadow-check-in",
       "nextWorkId": null
     }
@@ -1701,7 +1724,8 @@ window.MUSEUM_CURATION = {
           "017-eye-at-low-tide",
           "018-handmade-rain",
           "019-numbers-wait-for-me",
-          "020-uncreased-place"
+          "020-uncreased-place",
+          "021-planing-sunlight"
         ],
         "relationship": "本卡片主列作品为本文直接细读对象，另列作品供延伸对照。研究所用角色参考不在此自动追加为独立展品。",
         "route": "#/essay/simple-forms-complex-expression"
@@ -1725,7 +1749,8 @@ window.MUSEUM_CURATION = {
           "004-dance-milk-frogs",
           "017-eye-at-low-tide",
           "018-handmade-rain",
-          "020-uncreased-place"
+          "020-uncreased-place",
+          "021-planing-sunlight"
         ],
         "relationship": "本卡片主列作品为本文直接细读对象，另列作品供延伸对照。研究提及的非公开候选，不应伪装成本站已有的公开版本对照。",
         "route": "#/essay/ai-remix-selective-mismatch"
@@ -1795,7 +1820,7 @@ window.MUSEUM_CURATION = {
       {
         "title": "版本为什么留下",
         "paragraphs": [
-          "现有图录包含50件主展品；另有6张早期版本，附属于A03、A05、A06、A07和A08。它们用于比较图像选择，不另计为主展品。三维作品的附加视角展示同一件作品的其他角度，也不计为新作品。",
+          "现有图录包含51件主展品；另有6张早期版本，附属于A03、A05、A06、A07和A08。它们用于比较图像选择，不另计为主展品。三维作品的附加视角展示同一件作品的其他角度，也不计为新作品。",
           "八月旧作的原题名与版本关系保留，展签和解读在归档时补充。旧题名中的“奶龙”或“Nailong”是历史记录的一部分，不据此把所有形象认定为官方奶龙，也不将归档日期倒写成首次创作日期。"
         ]
       },
