@@ -70,7 +70,7 @@
     document.title=hall.title+' · '+museum.title;
   }
   function comparisonDetail(comparison) {
-    main.innerHTML=`<section class="comparison-page"><div class="breadcrumbs"><a href="#/exhibition">← 返回五厅导览</a><span>作品并置</span></div><h1>${escape(comparison.title)}</h1><p class="comparison-intro">${escape(comparison.text)}</p><div class="comparison-grid">${comparison.workIds.map(id=>{const work=byId.get(id);return `<figure><a href="${link(work)}">${picture(work,'comparison-image',true)}</a><figcaption><span class="eyebrow">NO. ${number(work)}</span><h2><a href="${link(work)}">${escape(work.title)} ↗</a></h2><p>${escape(work.medium)}</p></figcaption></figure>`;}).join('')}</div>${comparison.primaryHallId ? `<a class="text-link" href="#/hall/${escape(comparison.primaryHallId)}">回到本厅 ↗</a>` : '<a class="text-link" href="#/exhibition">继续五厅导览 ↗</a>'}</section>`;
+    main.innerHTML=`<section class="comparison-page"><div class="breadcrumbs"><a href="#/exhibition">← 返回五厅导览</a><span>作品并置</span></div><h1>${escape(comparison.title)}</h1><p class="comparison-intro">${escape(comparison.text)}</p><div class="comparison-grid">${comparison.workIds.map(id=>{const work=byId.get(id);return `<figure><a href="${link(work)}">${picture(work,'comparison-image',true)}</a><figcaption><span class="eyebrow">NO. ${number(work)}</span><h2><a href="${link(work)}">${escape(work.title)} ↗</a></h2><p>${escape(work.medium)}</p>${work.video ? `<a class="text-link" href="${link(work)}">播放无声循环影像 ↗</a>` : ''}</figcaption></figure>`;}).join('')}</div>${comparison.primaryHallId ? `<a class="text-link" href="#/hall/${escape(comparison.primaryHallId)}">回到本厅 ↗</a>` : '<a class="text-link" href="#/exhibition">继续五厅导览 ↗</a>'}</section>`;
     document.title=comparison.title+' · '+museum.title;
   }
   function pathDetail(path) {
@@ -134,7 +134,7 @@
     if (path.startsWith('/essay/')) path = path.replace('/essay/','/reading/');
     const changed = path !== previousRoute;
     previousRoute = path;
-    document.title = '失配美术馆 · Mismatch Art Museum';
+    document.title = '失配美术馆 · Mismatch Museum';
     document.querySelector('meta[name=description]').content = museum.intro;
     document.querySelectorAll('[data-nav]').forEach(a => {
       const active = path === '/about' ? a.dataset.nav === 'about' : path === '/reading' || path.startsWith('/reading/') ? a.dataset.nav === 'reading' : path === '/exhibition' || path.startsWith('/hall/') || path.startsWith('/compare/') || path.startsWith('/path/') ? a.dataset.nav === 'exhibition' : path !== '/' && a.dataset.nav === 'collection';
