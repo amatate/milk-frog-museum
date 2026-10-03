@@ -1,4 +1,4 @@
-@font-face{font-family:MuseumSerif;src:url('../fonts/serif-sc.woff?v=20261003-p25') format('woff');font-display:swap;font-weight:400}
+@font-face{font-family:MuseumSerif;src:url('../fonts/serif-sc.woff?v=20261003-p26') format('woff');font-display:swap;font-weight:400}
 :root{--paper:#fafbf8;--ink:#14231a;--muted:#5d675f;--line:#d4dcd3;--green:#215b3f;--yellow:#f4c735;--wash:#edf4e9;--serif:MuseumSerif,'Noto Serif CJK SC','Songti SC','STSong','SimSun',Georgia,serif;--sans:-apple-system,BlinkMacSystemFont,'Avenir Next','PingFang SC','Microsoft YaHei',sans-serif;--width:1440px;--gutter:clamp(20px,4vw,56px)}
 *{box-sizing:border-box}
 html{scroll-behavior:smooth;scroll-padding-top:28px}
