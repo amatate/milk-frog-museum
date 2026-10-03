@@ -42,6 +42,13 @@
   function filters() {
     return `<div class="filters"><div class="filter-buttons" role="group" aria-label="筛选作品">${[['all','全部'],['image','图像'],['3d','雕塑与姿态'],['video','影像'],['archive','旧作归档']].map(([value,label]) => `<button type="button" class="filter-button" data-filter="${value}" aria-pressed="${filter === value}">${label}</button>`).join('')}</div><span class="result-count" aria-live="polite" aria-atomic="true" id="result-count"></span></div><div class="gallery" id="gallery"></div>`;
   }
+  function internetSelection() {
+    const selection = window.MUSEUM_INTERNET_SELECTION;
+    const entries = selection?.entries || [];
+    if (!selection) { main.innerHTML='<p><a class="text-link" href="internet.html">打开互联网精选 ↗</a></p>'; return; }
+    const cards = entries.map(item => `<article class="essay-card"><div class="essay-kicker"><span>互联网收录 · ${escape(item.platform)}</span><span>${escape(item.date)}</span></div><h2>${escape(item.title)}</h2><p>作者 / 发布账号：<a href="${escape(item.authorUrl)}" target="_blank" rel="noopener noreferrer">${escape(item.author)} ↗</a></p><p>${escape(item.format)}</p><p>${escape(item.description)}</p><p class="relationship-note">${escape(item.sourceNote)}</p><p class="relationship-note">${escape(item.rightsNote)}</p>${item.namingNote ? `<p class="relationship-note">${escape(item.namingNote)}</p>` : ''}<a class="text-link" href="${escape(item.postUrl)}" target="_blank" rel="noopener noreferrer">前往作者原帖 ↗</a></article>`).join('');
+    main.innerHTML=`<section class="internet-selection"><div class="eyebrow">${entries.length} 条作者外链 / EXTERNAL LINKS</div><h1>${escape(selection.title)}</h1><p class="research-intro">${escape(selection.intro)}</p><p class="relationship-note">${escape(selection.rightsNote)}</p><div class="essay-list">${cards}</div><p><a class="text-link" href="internet.html">打开可独立阅读的外链精选 ↗</a></p></section>`;
+  }
   function fillGallery() {
     const gallery = document.getElementById('gallery');
     if (!gallery) return;
@@ -139,11 +146,12 @@
     document.title = '奶蛙现代艺术馆 · Milk Frog Museum of Modern Art';
     document.querySelector('meta[name=description]').content = museum.intro;
     document.querySelectorAll('[data-nav]').forEach(a => {
-      const active = path === '/about' ? a.dataset.nav === 'about' : path === '/reading' || path.startsWith('/reading/') ? a.dataset.nav === 'reading' : path === '/exhibition' || path.startsWith('/hall/') || path.startsWith('/compare/') || path.startsWith('/path/') ? a.dataset.nav === 'exhibition' : path !== '/' && a.dataset.nav === 'collection';
+      const active = path === '/about' ? a.dataset.nav === 'about' : path === '/internet' ? a.dataset.nav === 'internet' : path === '/reading' || path.startsWith('/reading/') ? a.dataset.nav === 'reading' : path === '/exhibition' || path.startsWith('/hall/') || path.startsWith('/compare/') || path.startsWith('/path/') ? a.dataset.nav === 'exhibition' : path !== '/' && a.dataset.nav === 'collection';
       if (active) a.setAttribute('aria-current','page'); else a.removeAttribute('aria-current');
     });
     if (path === '/' || path === '') home();
     else if (path === '/collection') collection();
+    else if (path === '/internet') internetSelection();
     else if (path === '/exhibition') exhibition();
     else if (path.startsWith('/hall/')) { const hall = hallById.get(path.slice(6)); if (hall) hallDetail(hall); else notFound(); }
     else if (path.startsWith('/compare/')) { const item = curation.comparisons.find(c=>c.id===path.slice(9)); if (item) comparisonDetail(item); else notFound(); }
