@@ -1,6 +1,6 @@
 window.MUSEUM_CURATION = {
   "schemaVersion": 1,
-  "contentVersion": "20261003-blender-group",
+  "contentVersion": "20261003-ac-recommendations",
   "language": "zh-Hans",
   "identity": {
     "name": "奶蛙现代艺术馆",
@@ -15,7 +15,8 @@ window.MUSEUM_CURATION = {
     "additionalViews": 7,
     "researchArticles": 4,
     "sculptureGroups": 1,
-    "sculptureGroupMembers": 9
+    "sculptureGroupMembers": 9,
+    "recommendationArticles": 2
   },
   "museumPatch": {
     "title": "奶蛙现代艺术馆",
@@ -57,7 +58,7 @@ window.MUSEUM_CURATION = {
       "“失配”指那些能被具体指出的关系偏移：身体完整而空间不连续，地面坚硬而形状如水，轮廓向前而色块落后。它也需要相对稳定的作品作对照。《倒牛奶的奶蛙》里的手、壶与奶流必须配合，《相拥的奶蛙》的环抱必须在体量上成立。全馆因而保留劳动、亲近和停顿，不把一切都归为错误或荒诞。",
       "本项目的创作、筛选、展签与研究彼此相关。策展文本可以提出读法，不能替作品证明观众已经被治愈、冒犯或说服。研究区继续追问这些判断如何取证；版本对照则让部分选择留在图像之间，而不是只留在一段解释里。"
     ],
-    "researchPreviewTitle": "从作品进入研究",
+    "researchPreviewTitle": "创作研究与作品推荐",
     "researchPreviewText": "作品提供问题，研究说明证据。四篇文章依次辨析名称与来源、视觉身份、创作选择，以及图像进入网络交流后的用法。"
   },
   "navigation": [
@@ -227,7 +228,7 @@ window.MUSEUM_CURATION = {
         "question": "如果遮住脸，只看接触点和重心，你还能说出它正在做什么吗？",
         "nextTransition": "身体可以把动作完成，世界却未必按这个动作的需要安排好。",
         "route": "#/hall/gesture",
-        "anchorWorkId": "wave-loop-01",
+        "anchorWorkId": "004-dance-milk-frogs",
         "relatedResearchIds": [
           "simple-forms-complex-expression",
           "ai-remix-selective-mismatch"
@@ -1565,13 +1566,15 @@ window.MUSEUM_CURATION = {
     }
   ],
   "research": {
-    "title": "研究：问题与证据",
-    "intro": "这些文章从同一批作品继续向外发问。它们区分看得见的形式、可核对的制作记录、他人的研究结果与尚待验证的解释。作品解读不会因为采用论文结构就自动成为观众事实。",
+    "title": "创作研究与作品推荐",
+    "intro": "四篇创作研究与两篇独立作品导览：馆藏的来源、媒介和版本问题，与前往作者原站观看的推荐入口。",
     "readingOrder": [
       "nailoong-milk-frog-origins",
       "simple-forms-complex-expression",
       "ai-remix-selective-mismatch",
-      "abstract-culture-platforms-and-commerce"
+      "abstract-culture-platforms-and-commerce",
+      "naixiao-face-material-scale",
+      "naixiao-poolcore-space"
     ],
     "cards": [
       {
@@ -1673,6 +1676,20 @@ window.MUSEUM_CURATION = {
         "relatedWorkIds": [
           "019-numbers-wait-for-me"
         ]
+      },
+      {
+        "id": "naixiao-face-material-scale",
+        "title": "把一张脸认进整个世界",
+        "workIds": [],
+        "relatedWorkIds": [],
+        "relationship": "独立推荐奶鸮原作，不计入本馆主作品；原站链接与本站原创导览卡相互导航。"
+      },
+      {
+        "id": "naixiao-poolcore-space",
+        "title": "去奶龙的泳池里走一圈",
+        "workIds": [],
+        "relatedWorkIds": [],
+        "relationship": "独立推荐奶鸮原作，不计入本馆主作品；原站链接与本站原创导览卡相互导航。"
       }
     ],
     "labels": {

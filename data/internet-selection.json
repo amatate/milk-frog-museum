@@ -1,8 +1,8 @@
 {
   "title": "互联网精选",
   "subtitle": "前往作者原帖",
-  "intro": "从角色三视图到长桌群像、指尖相接、建筑中的仪式感与日常容器中的尺度错位，这里保存我们的文字导览，作品请到作者原帖观看。",
-  "rightsNote": "作品归各自权利人。以下仅为文字导览与外链推荐；未获本站转载授权，不展示作品媒体，也不计入本馆作品数量。",
+  "intro": "从角色三视图、图像改写与日用容器，到奶鸮的形体、地貌与泳池空间：这里保存独立文字导览，完整原作请到作者原帖观看。",
+  "rightsNote": "作品归各自权利人。以下为文字导览与外链推荐；未获本站转载授权，不展示原作媒体，也不计入本馆作品数量。三张配图是本馆原创导览卡，非作品画面。",
   "entries": [
     {
       "id": "slowfire-character-three-views",
@@ -74,6 +74,76 @@
       "sourceNote": "作者注明为非官方同人实验；本页不据此断言全部画面为首创或底层权利已清理。",
       "rightsNote": "未发现面向本站的转载许可；本站仅作文字导览与原帖链接推荐。",
       "postUrl": "https://www.bilibili.com/video/BV18huv63EUt/"
+    },
+    {
+      "id": "naixiao-visual-feast",
+      "title": "属于奶蛙的视觉盛宴",
+      "author": "奶鸮",
+      "platform": "Bilibili",
+      "date": "2026年6月",
+      "creationType": "collection",
+      "format": "视觉短片 / 作品推荐",
+      "description": "用很少的五官，让熟悉感一路穿过陌生材质与尺度；认脸的轻快和看世界的惊奇叠在一起。",
+      "sourceNote": "原帖与已核实主页对应奶鸮。观看导览依据公开画面的抽样审看；近似时间点供读者在原站复核，不推定作者的工具或制作流程。",
+      "rightsNote": "原帖标明未经作者授权禁止转载；本站只刊原创推荐文字和原创排版导览卡，不复制原作媒体。",
+      "authorUrl": "https://space.bilibili.com/3546820770794039",
+      "postUrl": "https://www.bilibili.com/video/BV1EPJ76AEFD/?spm_id_from=333.1387.homepage.video_card.click",
+      "guideSlug": "naixiao-face-material-scale",
+      "guideTitle": "把一张脸认进整个世界",
+      "recommendationCard": {
+        "image": "recommendations/recommendation-visual-feast.png",
+        "width": 1200,
+        "height": 1500,
+        "alt": "奶蛙现代艺术馆原创推荐卡：这张脸，还能变成什么？ 推荐奶鸮《属于奶蛙的视觉盛宴》，39秒。原创几何插图，非作品画面。原作 BVID BV1EPJ76AEFD",
+        "caption": "奶蛙现代艺术馆原创文字导览，非作品画面。"
+      }
+    },
+    {
+      "id": "naixiao-lost-world",
+      "title": "迷失在奶蛙之境",
+      "author": "奶鸮",
+      "platform": "Bilibili",
+      "date": "资料核验：2026-10-03",
+      "creationType": "collection",
+      "format": "视觉短片 / 作品推荐",
+      "description": "用很少的五官，让熟悉感一路穿过陌生材质与尺度；认脸的轻快和看世界的惊奇叠在一起。",
+      "sourceNote": "原帖与已核实主页对应奶鸮。观看导览依据公开画面的抽样审看；近似时间点供读者在原站复核，不推定作者的工具或制作流程。",
+      "rightsNote": "原帖标明未经作者授权禁止转载；本站只刊原创推荐文字和原创排版导览卡，不复制原作媒体。",
+      "authorUrl": "https://space.bilibili.com/3546820770794039",
+      "postUrl": "https://www.bilibili.com/video/BV143YA6MEFW/",
+      "guideSlug": "naixiao-face-material-scale",
+      "guideTitle": "把一张脸认进整个世界",
+      "recommendationCard": {
+        "image": "recommendations/recommendation-lost-world.png",
+        "width": 1200,
+        "height": 1500,
+        "alt": "奶蛙现代艺术馆原创推荐卡：如果一张脸，长成整个世界。 推荐奶鸮《迷失在奶蛙之境》，38秒。原创几何插图，非作品画面。原作 BVID BV143YA6MEFW",
+        "caption": "奶蛙现代艺术馆原创文字导览，非作品画面。"
+      }
+    },
+    {
+      "id": "naixiao-poolcore",
+      "title": "来自奶龙的池核美学",
+      "author": "奶鸮",
+      "platform": "Bilibili",
+      "date": "2026年8月",
+      "creationType": "collection",
+      "format": "视觉短片 / 作品推荐",
+      "description": "浅绿瓷砖与黄色面孔很容易进入视线，弯曲楼梯、巨头倒影和长出眼睛的隔板又让人想多看一遍。",
+      "sourceNote": "原帖与已核实主页对应奶鸮。观看导览依据公开画面的抽样审看；近似时间点供读者在原站复核，不推定作者的工具或制作流程。",
+      "rightsNote": "原帖标明未经作者授权禁止转载；本站只刊原创推荐文字和原创排版导览卡，不复制原作媒体。",
+      "authorUrl": "https://space.bilibili.com/3546820770794039",
+      "postUrl": "https://www.bilibili.com/video/BV1hBgs6SExz/",
+      "guideSlug": "naixiao-poolcore-space",
+      "guideTitle": "去奶龙的泳池里走一圈",
+      "recommendationCard": {
+        "image": "recommendations/recommendation-poolcore.png",
+        "width": 1200,
+        "height": 1500,
+        "alt": "奶蛙现代艺术馆原创推荐卡：下一道门后，还会有谁？ 推荐奶鸮《来自奶龙的池核美学》，36秒。原创几何插图，非作品画面。原作 BVID BV1hBgs6SExz",
+        "caption": "奶蛙现代艺术馆原创文字导览，非作品画面。"
+      },
+      "namingNote": "保留作者原题中的“奶龙”；题名不表示角色身份或权利归属相同。"
     }
   ]
 }
