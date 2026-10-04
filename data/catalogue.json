@@ -3,8 +3,8 @@
   "museum": {
     "title": "奶蛙现代艺术馆",
     "subtitle": "从一张脸，看到它周围的规则",
-    "intro": "从镜中的背影到失去水的瓷砖，从一枚未读标记到只剩黄色的方块，50件作品追问：一个角色可以改变多少，仍与原来的自己发生关系？沿五个展厅观看，也可按媒介和编号查阅。",
-    "rightsNote": "本站展示奶蛙题材的AI辅助图像与数字三维再创作，不代表角色权利方、历史作品作者或收藏机构。相关角色与被引用作品的权利归各自权利人；本馆不为第三方内容授予开放许可。历史参考以来源链接说明，不再发行其参考原图。",
+    "intro": "从镜中的背影到失去水的瓷砖，从一枚未读标记到只剩黄色的方块，120件作品追问：一个角色可以改变多少，仍与原来的自己发生关系？沿五个展厅观看，也可按媒介和编号查阅。",
+    "rightsNote": "本站展示奶蛙题材的AI辅助图像与数字三维再创作，不代表角色权利方、历史作品作者或收藏机构。相关角色与被引用作品的权利归各自权利人；本馆不为第三方内容授予开放许可。历史参考以来源链接说明，不再发行其参考原图。 本馆新增作品分别标明官方奶龙形象的非官方二创、社区奶蛙或奶蛋样本；馆方项目身份不等同角色创作者。",
     "headline": "一只熟悉的身体，\n世界不再严丝合缝。",
     "featuredId": "011-incompatible-lunch",
     "manifestoTitle": "把变化放在\n可以比较的位置。",
@@ -1966,6 +1966,2958 @@
       "thumbnail": "media/030-a-small-smile-under-the-hat/art-thumb.webp",
       "width": 1122,
       "height": 1402,
+      "extraViews": []
+    },
+    {
+      "number": "P31",
+      "id": "031-after-the-rain-the-boat-remains",
+      "title": "雨停了，船还在",
+      "titleEn": "After the Rain, the Boat Remains",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 薄层绘画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景/构图原创，不宣称角色IP原创。不是特定历史作品改编。"
+      },
+      "sources": [],
+      "tags": [
+        "原创场景",
+        "薄层绘画",
+        "奶蛙"
+      ],
+      "alt": "雨后，一只奶蛙扶着伞柄，倒置的深蓝雨伞里留着浅水与一艘红纸船。",
+      "wallText": "雨伞从遮挡雨水变成保存雨水的容器。红纸船很小，扶稳伞柄的手把观看留在普通尺度的照看里。",
+      "interpretation": [
+        "雨后，一只奶蛙扶着伞柄，倒置的深蓝雨伞里留着浅水与一艘红纸船。 雨伞从遮挡雨水变成保存雨水的容器。红纸船很小，扶稳伞柄的手把观看留在普通尺度的照看里。",
+        "这一场景没有指定历史名画为构图来源，伞骨与水面为绘画简化，不把浅水解释成真实航行条件。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第3版。以薄层绘画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。伞骨与水面为绘画简化，不把浅水解释成真实航行条件。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/031-after-the-rain-the-boat-remains/art.webp",
+      "thumbnail": "media/031-after-the-rain-the-boat-remains/art-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "extraViews": []
+    },
+    {
+      "number": "P32",
+      "id": "032-an-unfamiliar-pair",
+      "title": "这一双，不太熟",
+      "titleEn": "An Unfamiliar Pair",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 套色版画与剪纸",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景/构图原创，不宣称角色IP原创。不是特定历史作品改编。"
+      },
+      "sources": [],
+      "tags": [
+        "原创场景",
+        "套色版画与剪纸",
+        "奶蛙"
+      ],
+      "alt": "两只奶蛙站在晾衣绳前，一只举起大小悬殊的同色红袜，另一只站在空篮后。",
+      "wallText": "同色条纹先建立配对预期，尺寸差再打断它。篮子的遮挡与两者不同的视线，使误会保持在日常劳动中。",
+      "interpretation": [
+        "两只奶蛙站在晾衣绳前，一只举起大小悬殊的同色红袜，另一只站在空篮后。 同色条纹先建立配对预期，尺寸差再打断它。篮子的遮挡与两者不同的视线，使误会保持在日常劳动中。",
+        "这一场景没有指定历史名画为构图来源，织物和篮纹较细，足部有轻渐层，不称纯剪纸。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以套色版画与剪纸的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。织物和篮纹较细，足部有轻渐层，不称纯剪纸。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/032-an-unfamiliar-pair/art.webp",
+      "thumbnail": "media/032-an-unfamiliar-pair/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": []
+    },
+    {
+      "number": "P33",
+      "id": "033-between-two-hands",
+      "title": "两手之间",
+      "titleEn": "Between Two Hands",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 数字油画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "玩纸牌者 / Les Joueurs de cartes",
+        "artist": "Paul Cézanne",
+        "date": "1893–1896",
+        "note": "Musée d’Orsay, RF 1969。保留并重新组织本作可见的构图、材料或动作关系；解读属于本项目，不等同原作者意图。历史来源不扩大角色权利。"
+      },
+      "sources": [
+        {
+          "url": "https://www.musee-orsay.fr/fr/oeuvres/les-joueurs-de-cartes-1312",
+          "title": "历史原作与馆藏记录"
+        }
+      ],
+      "tags": [
+        "名画改编",
+        "数字油画",
+        "奶蛙"
+      ],
+      "alt": "两只奶蛙隔着赭色桌面相向握牌，中央瓶子把两边分开又连接起来。",
+      "wallText": "画面把动作收进各自手中的纸牌。黄色身体由相邻色块支撑，输赢留在画外，桌面维持沉静的共同空间。",
+      "interpretation": [
+        "两只奶蛙隔着赭色桌面相向握牌，中央瓶子把两边分开又连接起来。 画面把动作收进各自手中的纸牌。黄色身体由相邻色块支撑，输赢留在画外，桌面维持沉静的共同空间。",
+        "本作从Paul Cézanne《玩纸牌者 / Les Joueurs de cartes》的具体形式关系出发，左手指节局部黄色、前臂略长，油彩比原作厚；不称精确复刻。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以数字油画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。左手指节局部黄色、前臂略长，油彩比原作厚；不称精确复刻。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/033-between-two-hands/art.webp",
+      "thumbnail": "media/033-between-two-hands/art-thumb.webp",
+      "width": 1374,
+      "height": 1145,
+      "extraViews": []
+    },
+    {
+      "number": "P34",
+      "id": "034-the-last-bus-with-a-tomato-plant",
+      "title": "陪番茄坐末班车",
+      "titleEn": "The Last Bus with a Tomato Plant",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 丝网印刷式插画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景/构图原创，不宣称角色IP原创。不是特定历史作品改编。"
+      },
+      "sources": [],
+      "tags": [
+        "原创场景",
+        "丝网印刷式插画",
+        "奶蛙"
+      ],
+      "alt": "夜间公交车的深蓝后排上，一只奶蛙扶住邻座番茄苗的陶盆，湿窗外散着城市灯光。",
+      "wallText": "盆底与座垫之间的稳定关系，把一株植物变成沉默的同行者。照看通过扶住盆沿的小动作成立，无须补写旅行经历。",
+      "interpretation": [
+        "夜间公交车的深蓝后排上，一只奶蛙扶住邻座番茄苗的陶盆，湿窗外散着城市灯光。 盆底与座垫之间的稳定关系，把一株植物变成沉默的同行者。照看通过扶住盆沿的小动作成立，无须补写旅行经历。",
+        "这一场景没有指定历史名画为构图来源，窗外城市比预想具象，腿略长，纸粒较密；不称实体丝网印刷。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以丝网印刷式插画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。窗外城市比预想具象，腿略长，纸粒较密；不称实体丝网印刷。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/034-the-last-bus-with-a-tomato-plant/art.webp",
+      "thumbnail": "media/034-the-last-bus-with-a-tomato-plant/art-thumb.webp",
+      "width": 1122,
+      "height": 1402,
+      "extraViews": []
+    },
+    {
+      "number": "P35",
+      "id": "035-a-pearl-on-the-headscarf",
+      "title": "把珍珠系在头巾上",
+      "titleEn": "A Pearl on the Headscarf",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 数字油画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "戴珍珠耳环的少女 / Girl with a Pearl Earring",
+        "artist": "Johannes Vermeer",
+        "date": "c.1665",
+        "note": "Mauritshuis, 670。保留并重新组织本作可见的构图、材料或动作关系；解读属于本项目，不等同原作者意图。历史来源不扩大角色权利。"
+      },
+      "sources": [
+        {
+          "url": "https://www.mauritshuis.nl/en/our-collection/artworks/670-girl-with-a-pearl-earring",
+          "title": "历史原作与馆藏记录"
+        }
+      ],
+      "tags": [
+        "名画改编",
+        "数字油画",
+        "奶蛙"
+      ],
+      "alt": "奶蛙戴蓝黄头巾回望，白色珍珠位于巾边，左上光照亮连续的黄色头胸。",
+      "wallText": "珍珠的亮点仍与暗背景形成距离，角色的绿色眼圈接过肖像辨认。短圆头胸使回望比原作更正面、温和。",
+      "interpretation": [
+        "奶蛙戴蓝黄头巾回望，白色珍珠位于巾边，左上光照亮连续的黄色头胸。 珍珠的亮点仍与暗背景形成距离，角色的绿色眼圈接过肖像辨认。短圆头胸使回望比原作更正面、温和。",
+        "本作从Johannes Vermeer《戴珍珠耳环的少女 / Girl with a Pearl Earring》的具体形式关系出发，定稿第二版压短头胸连接并减去裂纹；回望扭转弱于原作，腹部较大。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第2版。以数字油画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。定稿第二版压短头胸连接并减去裂纹；回望扭转弱于原作，腹部较大。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/035-a-pearl-on-the-headscarf/art.webp",
+      "thumbnail": "media/035-a-pearl-on-the-headscarf/art-thumb.webp",
+      "width": 1152,
+      "height": 1366,
+      "extraViews": []
+    },
+    {
+      "number": "P36",
+      "id": "036-the-wind-took-the-first-bite",
+      "title": "风先吃了一口",
+      "titleEn": "The Wind Took the First Bite",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 水彩式插画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景/构图原创，不宣称角色IP原创。不是特定历史作品改编。"
+      },
+      "sources": [],
+      "tags": [
+        "原创场景",
+        "水彩式插画",
+        "奶蛙"
+      ],
+      "alt": "草地上，一只奶蛙双手压住红白野餐布，额前贴着小生菜叶，面包仍留在盘里。",
+      "wallText": "起风的布角与稳住布的双手，把小小的意外限制在一张野餐布上。额前叶片成为停顿，食物没有被夸张地吹走。",
+      "interpretation": [
+        "草地上，一只奶蛙双手压住红白野餐布，额前贴着小生菜叶，面包仍留在盘里。 起风的布角与稳住布的双手，把小小的意外限制在一张野餐布上。额前叶片成为停顿，食物没有被夸张地吹走。",
+        "这一场景没有指定历史名画为构图来源，定稿第二版缩小叶片；叶仍稍像小冠，风景较细致，不称真实水彩。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第2版。以水彩式插画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。定稿第二版缩小叶片；叶仍稍像小冠，风景较细致，不称真实水彩。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/036-the-wind-took-the-first-bite/art.webp",
+      "thumbnail": "media/036-the-wind-took-the-first-bite/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": []
+    },
+    {
+      "number": "P37",
+      "id": "037-time-to-watch-the-fish",
+      "title": "看鱼的时间",
+      "titleEn": "Time to Watch the Fish",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 绘画色面",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "金鱼 / Gold Fish",
+        "artist": "Henri Matisse",
+        "date": "1912",
+        "note": "Pushkin State Museum of Fine Arts, Ж-3299。保留并重新组织本作可见的构图、材料或动作关系；解读属于本项目，不等同原作者意图。历史来源不扩大角色权利。"
+      },
+      "sources": [
+        {
+          "url": "https://collection.pushkinmuseum.art/entity/OBJECT/78209",
+          "title": "历史原作与馆藏记录"
+        }
+      ],
+      "tags": [
+        "名画改编",
+        "绘画色面",
+        "奶蛙"
+      ],
+      "alt": "粉紫圆桌上的透明鱼缸有四条红鱼和水面红色倒影，奶蛙站在右侧观鱼。",
+      "wallText": "倾斜桌面、正视鱼身与浓绿植物共享压缩空间。角色成为普通尺度的观看者，红鱼仍是主要注意点。",
+      "interpretation": [
+        "粉紫圆桌上的透明鱼缸有四条红鱼和水面红色倒影，奶蛙站在右侧观鱼。 倾斜桌面、正视鱼身与浓绿植物共享压缩空间。角色成为普通尺度的观看者，红鱼仍是主要注意点。",
+        "本作从Henri Matisse《金鱼 / Gold Fish》的具体形式关系出发，小腿略长、笔触比原作均匀繁密；水面红笔是倒影，不另计第五条完整鱼。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以绘画色面的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。小腿略长、笔触比原作均匀繁密；水面红笔是倒影，不另计第五条完整鱼。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/037-time-to-watch-the-fish/art.webp",
+      "thumbnail": "media/037-time-to-watch-the-fish/art-thumb.webp",
+      "width": 1024,
+      "height": 1536,
+      "extraViews": []
+    },
+    {
+      "number": "P38",
+      "id": "038-i-heard-you",
+      "title": "听见你了",
+      "titleEn": "I Heard You",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 铅笔与彩铅式插画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景/构图原创，不宣称角色IP原创。不是特定历史作品改编。"
+      },
+      "sources": [],
+      "tags": [
+        "原创场景",
+        "铅笔与彩铅式插画",
+        "奶蛙"
+      ],
+      "alt": "两只奶蛙分站素白走廊两端，纸杯封底之间由一根直红线相连，一只对杯口，另一只把杯口贴向头侧。",
+      "wallText": "中央留白让距离可见，红线将两个普通动作接起来。图像没有声波，题名中的听见是一种观看读法。",
+      "interpretation": [
+        "两只奶蛙分站素白走廊两端，纸杯封底之间由一根直红线相连，一只对杯口，另一只把杯口贴向头侧。 中央留白让距离可见，红线将两个普通动作接起来。图像没有声波，题名中的听见是一种观看读法。",
+        "这一场景没有指定历史名画为构图来源，黄色较鲜亮、腿略长、地面排线较密；不据静态图证明真实声音传播。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以铅笔与彩铅式插画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。黄色较鲜亮、腿略长、地面排线较密；不据静态图证明真实声音传播。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/038-i-heard-you/art.webp",
+      "thumbnail": "media/038-i-heard-you/art-thumb.webp",
+      "width": 1672,
+      "height": 941,
+      "extraViews": []
+    },
+    {
+      "number": "P39",
+      "id": "039-peeled-halfway",
+      "title": "剥到一半",
+      "titleEn": "Peeled Halfway",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 墨线淡彩",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景/构图原创，不宣称角色IP原创。不是特定历史作品改编。"
+      },
+      "sources": [],
+      "tags": [
+        "原创场景",
+        "墨线淡彩",
+        "奶蛙"
+      ],
+      "alt": "奶蛙在木桌前剥橘子，连续果皮从手中落向桌面，白碟上留着两瓣。",
+      "wallText": "连接手、果壳与桌面的皮带，使停顿有一个清楚的方向。已经放下的两瓣与尚在手中的橘子，让日常劳动保持未完成状态。",
+      "interpretation": [
+        "奶蛙在木桌前剥橘子，连续果皮从手中落向桌面，白碟上留着两瓣。 连接手、果壳与桌面的皮带，使停顿有一个清楚的方向。已经放下的两瓣与尚在手中的橘子，让日常劳动保持未完成状态。",
+        "这一场景没有指定历史名画为构图来源，第三版修正果皮连接与分叉；轮廓较粗、果实略大，缺瓣缺口不清，不称严格木版画。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第3版。以墨线淡彩的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。第三版修正果皮连接与分叉；轮廓较粗、果实略大，缺瓣缺口不清，不称严格木版画。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/039-peeled-halfway/art.webp",
+      "thumbnail": "media/039-peeled-halfway/art-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "extraViews": []
+    },
+    {
+      "number": "P40",
+      "id": "040-when-the-red-circle-passes",
+      "title": "红圆经过的时候",
+      "titleEn": "When the Red Circle Passes",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 薄洗色绘画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "红气球 / Red Balloon",
+        "artist": "Paul Klee",
+        "date": "1922",
+        "note": "Solomon R. Guggenheim Museum, 48.1172.524。保留并重新组织本作可见的构图、材料或动作关系；解读属于本项目，不等同原作者意图。历史来源不扩大角色权利。"
+      },
+      "sources": [
+        {
+          "url": "https://www.guggenheim.org/artwork/2143",
+          "title": "历史原作与馆藏记录"
+        }
+      ],
+      "tags": [
+        "名画改编",
+        "薄洗色绘画",
+        "奶蛙"
+      ],
+      "alt": "红气球悬在几何城市上方，一只很小的奶蛙在下方仰望，曲线身体与直线建筑相对。",
+      "wallText": "角色没有替换红圆，而是在城市中加入一个观看位置。红球继续是第一焦点，黄色身体给直线构成留下短暂停顿。",
+      "interpretation": [
+        "红气球悬在几何城市上方，一只很小的奶蛙在下方仰望，曲线身体与直线建筑相对。 角色没有替换红圆，而是在城市中加入一个观看位置。红球继续是第一焦点，黄色身体给直线构成留下短暂停顿。",
+        "本作从Paul Klee《红气球 / Red Balloon》的具体形式关系出发，定稿第二版减小角色并减轻肌理；角色约画高23%、纸纹略均匀，侧面只见一眼。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第2版。以薄洗色绘画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。定稿第二版减小角色并减轻肌理；角色约画高23%、纸纹略均匀，侧面只见一眼。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/040-when-the-red-circle-passes/art.webp",
+      "thumbnail": "media/040-when-the-red-circle-passes/art-thumb.webp",
+      "width": 1254,
+      "height": 1254,
+      "extraViews": []
+    },
+    {
+      "number": "P41",
+      "id": "041-one-tile-short",
+      "title": "差一块",
+      "titleEn": "One Tile Short",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 平面色块",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景/构图原创，不宣称角色IP原创。不是特定历史作品改编。"
+      },
+      "sources": [],
+      "tags": [
+        "原创场景",
+        "平面色块",
+        "奶蛙"
+      ],
+      "alt": "奶蛙蹲在黑白棋盘地砖旁，两手举着一块黄色方砖，对照唯一浅灰空位。",
+      "wallText": "规则已经铺好，缺口也给出尺寸。黄色身体与同色砖共同面对黑白格，补上空位同时意味着作一个颜色决定。",
+      "interpretation": [
+        "奶蛙蹲在黑白棋盘地砖旁，两手举着一块黄色方砖，对照唯一浅灰空位。 规则已经铺好，缺口也给出尺寸。黄色身体与同色砖共同面对黑白格，补上空位同时意味着作一个颜色决定。",
+        "这一场景没有指定历史名画为构图来源，黄砖与空位的对应为图画关系，不声明建筑尺寸精确或已经完成铺砖。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第2版。以平面色块的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。黄砖与空位的对应为图画关系，不声明建筑尺寸精确或已经完成铺砖。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/041-one-tile-short/art.webp",
+      "thumbnail": "media/041-one-tile-short/art-thumb.webp",
+      "width": 1024,
+      "height": 1536,
+      "extraViews": []
+    },
+    {
+      "number": "P43",
+      "id": "043-please-hold-still",
+      "title": "模特请别动",
+      "titleEn": "Please Hold Still",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 粉彩式绘画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景/构图原创，不宣称角色IP原创。不是特定历史作品改编。"
+      },
+      "sources": [],
+      "tags": [
+        "原创场景",
+        "粉彩式绘画",
+        "奶蛙"
+      ],
+      "alt": "奶蛙坐在两枚柠檬和蓝白碗之间，右前方画纸上出现绿眼梨形与柠檬的轮廓对应。",
+      "wallText": "同一桌面让角色与普通静物共享颜色和外轮廓。画中画不靠画家入镜，便把活着的模特与被描绘的形状相连。",
+      "interpretation": [
+        "奶蛙坐在两枚柠檬和蓝白碗之间，右前方画纸上出现绿眼梨形与柠檬的轮廓对应。 同一桌面让角色与普通静物共享颜色和外轮廓。画中画不靠画家入镜，便把活着的模特与被描绘的形状相连。",
+        "这一场景没有指定历史名画为构图来源，定稿第三版；比例、纸面和笔触有简化，不把画中轮廓当准确肖像测绘。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第3版。以粉彩式绘画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。定稿第三版；比例、纸面和笔触有简化，不把画中轮廓当准确肖像测绘。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/043-please-hold-still/art.webp",
+      "thumbnail": "media/043-please-hold-still/art-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "extraViews": []
+    },
+    {
+      "number": "P44",
+      "id": "044-that-sound-on-the-bridge",
+      "title": "桥上那一声",
+      "titleEn": "That Sound on the Bridge",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 数字绘画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "呐喊 / The Scream",
+        "artist": "Edvard Munch",
+        "date": "1893",
+        "note": "National Museum of Norway, NG.M.00939。保留并重新组织本作可见的构图、材料或动作关系；解读属于本项目，不等同原作者意图。历史来源不扩大角色权利。"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasjonalmuseet.no/en/collection/object/NG.M.00939",
+          "title": "历史原作与馆藏记录"
+        }
+      ],
+      "tags": [
+        "名画改编",
+        "数字绘画",
+        "奶蛙"
+      ],
+      "alt": "桥上奶蛙双手贴近张口的脸，红橙天空与暗蓝水岸弯曲延伸，后方仍有小人影。",
+      "wallText": "斜桥提供稳定方向，天空和水岸却把方向弯开。熟悉面孔进入强烈的张口姿势，题名的声音仍是图像邀请。",
+      "interpretation": [
+        "桥上奶蛙双手贴近张口的脸，红橙天空与暗蓝水岸弯曲延伸，后方仍有小人影。 斜桥提供稳定方向，天空和水岸却把方向弯开。熟悉面孔进入强烈的张口姿势，题名的声音仍是图像邀请。",
+        "本作从Edvard Munch《呐喊 / The Scream》的具体形式关系出发，选定第二版；不把画面当实际发声证据，也不将当代角色情绪当蒙克原意。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第2版。以数字绘画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。选定第二版；不把画面当实际发声证据，也不将当代角色情绪当蒙克原意。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/044-that-sound-on-the-bridge/art.webp",
+      "thumbnail": "media/044-that-sound-on-the-bridge/art-thumb.webp",
+      "width": 1122,
+      "height": 1402,
+      "extraViews": []
+    },
+    {
+      "number": "P46",
+      "id": "046-half-my-scarf-for-you",
+      "title": "围巾分你一半",
+      "titleEn": "Half My Scarf for You",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 套色木刻式插画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景/构图原创，不宣称角色IP原创。不是特定历史作品改编。"
+      },
+      "sources": [],
+      "tags": [
+        "原创场景",
+        "套色木刻式插画",
+        "奶蛙"
+      ],
+      "alt": "雪地上，奶蛙和小雪人共享一条红围巾，稀疏草梗围着大片白地。",
+      "wallText": "红色织物在两个不同材料的身体之间延续。照看不依靠夸张表情，而落在围巾长度和肩侧接点上。",
+      "interpretation": [
+        "雪地上，奶蛙和小雪人共享一条红围巾，稀疏草梗围着大片白地。 红色织物在两个不同材料的身体之间延续。照看不依靠夸张表情，而落在围巾长度和肩侧接点上。",
+        "这一场景没有指定历史名画为构图来源，选定第三版；雪人没有生命活动的证据，木刻质感为数字模拟。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第3版。以套色木刻式插画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。选定第三版；雪人没有生命活动的证据，木刻质感为数字模拟。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/046-half-my-scarf-for-you/art.webp",
+      "thumbnail": "media/046-half-my-scarf-for-you/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": []
+    },
+    {
+      "number": "P47",
+      "id": "047-the-sofa-enters-the-jungle",
+      "title": "沙发走进丛林",
+      "titleEn": "The Sofa Enters the Jungle",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 数字油画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "梦 / The Dream",
+        "artist": "Henri Rousseau",
+        "date": "1910",
+        "note": "MoMA, 252.1954。保留并重新组织本作可见的构图、材料或动作关系；解读属于本项目，不等同原作者意图。历史来源不扩大角色权利。"
+      },
+      "sources": [
+        {
+          "url": "https://www.moma.org/collection/works/79277",
+          "title": "历史原作与馆藏记录"
+        }
+      ],
+      "tags": [
+        "名画改编",
+        "数字油画",
+        "奶蛙"
+      ],
+      "alt": "茂密夜间丛林里，一只奶蛙坐在暗红沙发上，植物、花朵与动物包围室内家具。",
+      "wallText": "沙发仍保持可以坐下的形状，周围却没有房间。角色的安静姿态与密集植物形成不同的观看速度。",
+      "interpretation": [
+        "茂密夜间丛林里，一只奶蛙坐在暗红沙发上，植物、花朵与动物包围室内家具。 沙发仍保持可以坐下的形状，周围却没有房间。角色的安静姿态与密集植物形成不同的观看速度。",
+        "本作从Henri Rousseau《梦 / The Dream》的具体形式关系出发，选定第二版；植物与角色笔触有差异，不称复刻原作或真实梦境记忆。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第2版。以数字油画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。选定第二版；植物与角色笔触有差异，不称复刻原作或真实梦境记忆。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/047-the-sofa-enters-the-jungle/art.webp",
+      "thumbnail": "media/047-the-sofa-enters-the-jungle/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": []
+    },
+    {
+      "number": "P48",
+      "id": "048-this-page-belongs-to-the-cat",
+      "title": "这一页归猫",
+      "titleEn": "This Page Belongs to the Cat",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 绘画插画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景/构图原创，不宣称角色IP原创。不是特定历史作品改编。"
+      },
+      "sources": [],
+      "tags": [
+        "原创场景",
+        "绘画插画",
+        "奶蛙"
+      ],
+      "alt": "靠窗桌上，猫蜷在打开的书页间，奶蛙站在桌边看着被占据的页面。",
+      "wallText": "书本仍是阅读对象，猫的体量却决定了此刻哪一页能够使用。相邻视线让等待成为普通的共同处境。",
+      "interpretation": [
+        "靠窗桌上，猫蜷在打开的书页间，奶蛙站在桌边看着被占据的页面。 书本仍是阅读对象，猫的体量却决定了此刻哪一页能够使用。相邻视线让等待成为普通的共同处境。",
+        "这一场景没有指定历史名画为构图来源，只保留首版；静态姿势不证明猫正在睡或角色已经读完书。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以绘画插画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。只保留首版；静态姿势不证明猫正在睡或角色已经读完书。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/048-this-page-belongs-to-the-cat/art.webp",
+      "thumbnail": "media/048-this-page-belongs-to-the-cat/art-thumb.webp",
+      "width": 1254,
+      "height": 1254,
+      "extraViews": []
+    },
+    {
+      "number": "P49",
+      "id": "049-mount-fuji-through-the-tub",
+      "title": "桶里看见富士山",
+      "titleEn": "Mount Fuji through the Tub",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 木版画式绘画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "冨嶽三十六景 尾州不二見原",
+        "artist": "葛饰北斋",
+        "date": "c.1830–32",
+        "note": "Met, JP2557。保留并重新组织本作可见的构图、材料或动作关系；解读属于本项目，不等同原作者意图。历史来源不扩大角色权利。"
+      },
+      "sources": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/56787",
+          "title": "历史原作与馆藏记录"
+        }
+      ],
+      "tags": [
+        "名画改编",
+        "木版画式绘画",
+        "奶蛙"
+      ],
+      "alt": "奶蛙在大木桶圆环下方工作，富士山通过桶的开口出现在远处。",
+      "wallText": "圆形桶缘把近处劳动与远山装在同一个视线中。角色必须进入桶边的受力与工具关系，不能只作为脸部替换。",
+      "interpretation": [
+        "奶蛙在大木桶圆环下方工作，富士山通过桶的开口出现在远处。 圆形桶缘把近处劳动与远山装在同一个视线中。角色必须进入桶边的受力与工具关系，不能只作为脸部替换。",
+        "本作从葛饰北斋《冨嶽三十六景 尾州不二見原》的具体形式关系出发，定稿保留工件与手部绘画简化；不把工具位置当真实木工教程。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第2版。以木版画式绘画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。定稿保留工件与手部绘画简化；不把工具位置当真实木工教程。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/049-mount-fuji-through-the-tub/art.webp",
+      "thumbnail": "media/049-mount-fuji-through-the-tub/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": []
+    },
+    {
+      "number": "P50",
+      "id": "050-the-signature",
+      "title": "落款",
+      "titleEn": "The Signature",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 铅笔淡彩",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景/构图原创，不宣称角色IP原创。不是特定历史作品改编。"
+      },
+      "sources": [],
+      "tags": [
+        "原创场景",
+        "铅笔淡彩",
+        "奶蛙"
+      ],
+      "alt": "巨幅白画布靠着墙，奶蛙站在右下角看深色小手印，地面放着小颜料碟。",
+      "wallText": "画布的大块空白使角落痕迹获得重量。落款从一个名字转为身体留下的印记，作者与图像通过尺度联系起来。",
+      "interpretation": [
+        "巨幅白画布靠着墙，奶蛙站在右下角看深色小手印，地面放着小颜料碟。 画布的大块空白使角落痕迹获得重量。落款从一个名字转为身体留下的印记，作者与图像通过尺度联系起来。",
+        "这一场景没有指定历史名画为构图来源，手印很小、画布透视有绘画简化，不据图确认印迹刚刚形成。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以铅笔淡彩的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。手印很小、画布透视有绘画简化，不据图确认印迹刚刚形成。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/050-the-signature/art.webp",
+      "thumbnail": "media/050-the-signature/art-thumb.webp",
+      "width": 1122,
+      "height": 1402,
+      "extraViews": []
+    },
+    {
+      "number": "P51",
+      "id": "051-an-afternoon-dried-in-the-sun",
+      "title": "晒干的下午",
+      "titleEn": "An Afternoon Dried in the Sun",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 印象派式色面",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "Stacks of Wheat (End of Summer)",
+        "artist": "Claude Monet",
+        "date": "1890–91",
+        "note": "Art Institute of Chicago, 1985.1103。保留并重新组织本作可见的构图、材料或动作关系；解读属于本项目，不等同原作者意图。历史来源不扩大角色权利。"
+      },
+      "sources": [
+        {
+          "url": "https://www.artic.edu/artworks/64818/stacks-of-wheat-end-of-summer",
+          "title": "历史原作与馆藏记录"
+        }
+      ],
+      "tags": [
+        "名画改编",
+        "印象派式色面",
+        "奶蛙"
+      ],
+      "alt": "夕照田野中，大小不同的麦垛以黄身体、绿眼和浅腹线索成为角色，长影横过地面。",
+      "wallText": "角色没有站在麦垛旁，而从堆叠材料与日光中被辨认出来。重复体量与不同受光使身份转移到环境。",
+      "interpretation": [
+        "夕照田野中，大小不同的麦垛以黄身体、绿眼和浅腹线索成为角色，长影横过地面。 角色没有站在麦垛旁，而从堆叠材料与日光中被辨认出来。重复体量与不同受光使身份转移到环境。",
+        "本作从Claude Monet《Stacks of Wheat (End of Summer)》的具体形式关系出发，不称原作笔法完全一致，也不把麦垛造型当真实材料变形事件。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以印象派式色面的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。不称原作笔法完全一致，也不把麦垛造型当真实材料变形事件。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/051-an-afternoon-dried-in-the-sun/art.webp",
+      "thumbnail": "media/051-an-afternoon-dried-in-the-sun/art-thumb.webp",
+      "width": 1619,
+      "height": 971,
+      "extraViews": []
+    },
+    {
+      "number": "P52",
+      "id": "052-one-extra-expression",
+      "title": "多出来的表情",
+      "titleEn": "One Extra Expression",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 水粉式静物",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛋（社区衍生角色）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景/构图原创，不宣称角色IP原创。不是特定历史作品改编。"
+      },
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1tXKf6YEqE/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "原创场景",
+        "水粉式静物",
+        "奶蛋"
+      ],
+      "alt": "打开的灰纸蛋盒里，五枚浅色蛋与一枚带绿眼小嘴的黄色奶蛋并排。",
+      "wallText": "容器用重复格位把对象排成一组，唯一的表情改变了分类。奶蛋以无肢体卵形成立，不能与四肢奶蛙混称。",
+      "interpretation": [
+        "打开的灰纸蛋盒里，五枚浅色蛋与一枚带绿眼小嘴的黄色奶蛋并排。 容器用重复格位把对象排成一组，唯一的表情改变了分类。奶蛋以无肢体卵形成立，不能与四肢奶蛙混称。",
+        "这一场景没有指定历史名画为构图来源，选定第二版；纸盒、黄卵有轻体积，角色仅场景构图原创。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第2版。以水粉式静物的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。选定第二版；纸盒、黄卵有轻体积，角色仅场景构图原创。 角色采用奶蛋（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/052-one-extra-expression/art.webp",
+      "thumbnail": "media/052-one-extra-expression/art-thumb.webp",
+      "width": 1254,
+      "height": 1254,
+      "extraViews": []
+    },
+    {
+      "number": "P53",
+      "id": "053-the-afternoon-in-pieces",
+      "title": "下午被分成几块",
+      "titleEn": "The Afternoon in Pieces",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 彩玻璃式绘画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景/构图原创，不宣称角色IP原创。不是特定历史作品改编。"
+      },
+      "sources": [],
+      "tags": [
+        "原创场景",
+        "彩玻璃式绘画",
+        "奶蛙"
+      ],
+      "alt": "窗中的黄色奶蛙被深色铅条分成玻璃块，暖色光区落在室内石地上。",
+      "wallText": "身体既是角色，也是透光建筑材料。地面接收的是简化色光，辨认不必再复制一个完整角色。",
+      "interpretation": [
+        "窗中的黄色奶蛙被深色铅条分成玻璃块，暖色光区落在室内石地上。 身体既是角色，也是透光建筑材料。地面接收的是简化色光，辨认不必再复制一个完整角色。",
+        "这一场景没有指定历史名画为构图来源，不称真实彩窗工艺或光学测算，落地光区为图画简化。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以彩玻璃式绘画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。不称真实彩窗工艺或光学测算，落地光区为图画简化。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/053-the-afternoon-in-pieces/art.webp",
+      "thumbnail": "media/053-the-afternoon-in-pieces/art-thumb.webp",
+      "width": 1024,
+      "height": 1536,
+      "extraViews": []
+    },
+    {
+      "number": "P54",
+      "id": "054-who-gets-the-strawberry",
+      "title": "草莓留给谁",
+      "titleEn": "Who Gets the Strawberry",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 纺织纹样式绘画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "Strawberry Thief",
+        "artist": "William Morris",
+        "date": "1883",
+        "note": "Victoria and Albert Museum, T.586-1919。保留并重新组织本作可见的构图、材料或动作关系；解读属于本项目，不等同原作者意图。历史来源不扩大角色权利。"
+      },
+      "sources": [
+        {
+          "url": "https://collections.vam.ac.uk/item/O78889/strawberry-thief-furnishing-fabric-morris-william/",
+          "title": "历史原作与馆藏记录"
+        },
+        {
+          "url": "https://www.vam.ac.uk/articles/willam-morris-textiles",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "名画改编",
+        "纺织纹样式绘画",
+        "奶蛙"
+      ],
+      "alt": "靛蓝底上，两只相向奶蛙各抱红草莓，花叶曲线向上下重复连接。",
+      "wallText": "角色进入成对动物和植物间隙的纹样秩序，身体成为可以重复的设计单位。抱住果实的安静动作替代了直接偷食。",
+      "interpretation": [
+        "靛蓝底上，两只相向奶蛙各抱红草莓，花叶曲线向上下重复连接。 角色进入成对动物和植物间隙的纹样秩序，身体成为可以重复的设计单位。抱住果实的安静动作替代了直接偷食。",
+        "本作从William Morris《Strawberry Thief》的具体形式关系出发，植物节奏重新绘制，非逐线描摹；不称实体织物或原作所有鸟姿完整保留。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以纺织纹样式绘画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。植物节奏重新绘制，非逐线描摹；不称实体织物或原作所有鸟姿完整保留。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/054-who-gets-the-strawberry/art.webp",
+      "thumbnail": "media/054-who-gets-the-strawberry/art-thumb.webp",
+      "width": 1254,
+      "height": 1254,
+      "extraViews": []
+    },
+    {
+      "number": "P55",
+      "id": "055-the-stripes-take-a-detour",
+      "title": "条纹在这里绕行",
+      "titleEn": "The Stripes Take a Detour",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 图形色面",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅构图与视觉机制原创，不宣称角色IP原创。不是特定历史作品改编。"
+      },
+      "sources": [],
+      "tags": [
+        "原创场景",
+        "图形色面",
+        "奶蛙"
+      ],
+      "alt": "深蓝平行条纹在静止奶蛙的黄色轮廓两侧弯曲，让出身体所在的白色区域。",
+      "wallText": "变化由线条承担，角色保持平静。弯曲使一个普通站姿改变了整片背景的秩序。",
+      "interpretation": [
+        "深蓝平行条纹在静止奶蛙的黄色轮廓两侧弯曲，让出身体所在的白色区域。 变化由线条承担，角色保持平静。弯曲使一个普通站姿改变了整片背景的秩序。",
+        "这一场景没有指定历史名画为构图来源，不归为具体历史作品改编，不把条纹当科学流场或实测光学模型。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第3版。以图形色面的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。不归为具体历史作品改编，不把条纹当科学流场或实测光学模型。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/055-the-stripes-take-a-detour/art.webp",
+      "thumbnail": "media/055-the-stripes-take-a-detour/art-thumb.webp",
+      "width": 1122,
+      "height": 1402,
+      "extraViews": []
+    },
+    {
+      "number": "P56",
+      "id": "056-one-step-turns-the-wind",
+      "title": "走一步，风拐弯",
+      "titleEn": "One Step Turns the Wind",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 未来主义式绘画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "Unique Forms of Continuity in Space",
+        "artist": "Umberto Boccioni",
+        "date": "1913, cast 1950",
+        "note": "The Metropolitan Museum of Art, 1990.38.3。保留并重新组织本作可见的构图、材料或动作关系；解读属于本项目，不等同原作者意图。历史来源不扩大角色权利。"
+      },
+      "sources": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/485540",
+          "title": "历史原作与馆藏记录"
+        }
+      ],
+      "tags": [
+        "名画改编",
+        "未来主义式绘画",
+        "奶蛙"
+      ],
+      "alt": "黄色角色以连续折面迈步，腿与背后展开的形体在灰褐空间中形成流线。",
+      "wallText": "行走被拆成可以同时看到的材料方向。保留前进的结构关系，角色辨認在几何化身体中变弱也成为可见代价。",
+      "interpretation": [
+        "黄色角色以连续折面迈步，腿与背后展开的形体在灰褐空间中形成流线。 行走被拆成可以同时看到的材料方向。保留前进的结构关系，角色辨認在几何化身体中变弱也成为可见代价。",
+        "本作从Umberto Boccioni《Unique Forms of Continuity in Space》的具体形式关系出发，参考1913年造型、1950年铸件记录；图像不是新制三维雕塑，未恢复Blender制作。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第2版。以未来主义式绘画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。参考1913年造型、1950年铸件记录；图像不是新制三维雕塑，未恢复Blender制作。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/056-one-step-turns-the-wind/art.webp",
+      "thumbnail": "media/056-one-step-turns-the-wind/art-thumb.webp",
+      "width": 1122,
+      "height": 1402,
+      "extraViews": []
+    },
+    {
+      "number": "P57",
+      "id": "057-four-ways-down",
+      "title": "四个方向都朝下",
+      "titleEn": "Four Ways Down",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 裁纸拼贴式绘画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景、构图与视觉机制原创，不宣称角色IP原创。不是特定历史作品改编。"
+      },
+      "sources": [],
+      "tags": [
+        "原创场景",
+        "裁纸拼贴式绘画",
+        "奶蛙"
+      ],
+      "alt": "四块黑白岩层从画面边缘向朱红中央伸入，一只完整奶蛙斜悬在不同方向的空处。",
+      "wallText": "各块岩层给出自己的朝下，红色负空间拒绝一个共同地平线。完整身体提供辨认锚点，位置却无法靠单一重力解释。",
+      "interpretation": [
+        "四块黑白岩层从画面边缘向朱红中央伸入，一只完整奶蛙斜悬在不同方向的空处。 各块岩层给出自己的朝下，红色负空间拒绝一个共同地平线。完整身体提供辨认锚点，位置却无法靠单一重力解释。",
+        "这一场景没有指定历史名画为构图来源，只保留首版；是二维空间想象，不声称真实失重或统一地质结构。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以裁纸拼贴式绘画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。只保留首版；是二维空间想象，不声称真实失重或统一地质结构。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/057-four-ways-down/art.webp",
+      "thumbnail": "media/057-four-ways-down/art-thumb.webp",
+      "width": 1122,
+      "height": 1402,
+      "extraViews": []
+    },
+    {
+      "number": "P59",
+      "id": "059-the-riverbank-grows-into-me",
+      "title": "河岸长成了我",
+      "titleEn": "The Riverbank Grows into Me",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 地貌式绘画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景、构图与视觉机制原创，不宣称角色IP原创。不是特定历史作品改编。"
+      },
+      "sources": [],
+      "tags": [
+        "原创场景",
+        "地貌式绘画",
+        "奶蛙"
+      ],
+      "alt": "河道与岸线围出黄色梨形地貌，绿色眼睛与浅色腹部线索进入山林、水岸和村落之间。",
+      "wallText": "角色从站在风景中转为被地貌辨认出来。河岸给出连续身体，材质则把身份分散到远近的地表。",
+      "interpretation": [
+        "河道与岸线围出黄色梨形地貌，绿色眼睛与浅色腹部线索进入山林、水岸和村落之间。 角色从站在风景中转为被地貌辨认出来。河岸给出连续身体，材质则把身份分散到远近的地表。",
+        "这一场景没有指定历史名画为构图来源，选定第二版；为场景构图想象，不是地理测绘或真实地形。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第2版。以地貌式绘画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。选定第二版；为场景构图想象，不是地理测绘或真实地形。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/059-the-riverbank-grows-into-me/art.webp",
+      "thumbnail": "media/059-the-riverbank-grows-into-me/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": []
+    },
+    {
+      "number": "P60",
+      "id": "060-the-body-learns-geometry",
+      "title": "身体学会几何",
+      "titleEn": "The Body Learns Geometry",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 几何绘画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "Composition 8 (Komposition 8)",
+        "artist": "Vasily Kandinsky",
+        "date": "July 1923",
+        "note": "Solomon R. Guggenheim Museum, New York；37.262。保留并重新组织本作可见的构图、材料或动作关系；解读属于本项目，不等同原作者意图。历史来源不扩大角色权利。"
+      },
+      "sources": [
+        {
+          "url": "https://www.guggenheim-bilbao.eus/en/learn/schools/teachers-guides/composition-8",
+          "title": "历史原作与馆藏记录"
+        },
+        {
+          "url": "https://prints.guggenheimstore.org/detail/394775/kandinsky-composition-8-komposition-8-1923",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "名画改编",
+        "几何绘画",
+        "奶蛙"
+      ],
+      "alt": "圆、斜线、三角与格网穿过黄色角色，绿眼和浅腹嵌在几何构成里。",
+      "wallText": "身体加入原作的方向和节奏体系，脸不再能独立控制观看。识别线索与几何线的交叉共同决定停留位置。",
+      "interpretation": [
+        "圆、斜线、三角与格网穿过黄色角色，绿眼和浅腹嵌在几何构成里。 身体加入原作的方向和节奏体系，脸不再能独立控制观看。识别线索与几何线的交叉共同决定停留位置。",
+        "本作从Vasily Kandinsky《Composition 8 (Komposition 8)》的具体形式关系出发，几何化不是标准形设复刻，不推断康定斯基的唯一意义。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以几何绘画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。几何化不是标准形设复刻，不推断康定斯基的唯一意义。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/060-the-body-learns-geometry/art.webp",
+      "thumbnail": "media/060-the-body-learns-geometry/art-thumb.webp",
+      "width": 1501,
+      "height": 1047,
+      "extraViews": []
+    },
+    {
+      "number": "P61",
+      "id": "061-the-belly-reaches-the-finish-first",
+      "title": "肚子先冲线",
+      "titleEn": "The Belly Reaches the Finish First",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 平面漫画插画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶龙（官方IP形象的非官方二创）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景与构图原创；奶龙角色权利归相关权利人，不代表官方授权。不是特定历史作品改编。"
+      },
+      "sources": [
+        {
+          "url": "https://www.nailoong.com/ipStar/Nailong/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "原创场景",
+        "平面漫画插画",
+        "奶龙"
+      ],
+      "alt": "大圆头奶龙向前跑，红色终点带横过突出的圆肚，短肢、棕爪和背棘可辨。",
+      "wallText": "肚子先到达红带，短腿仍保持奔跑姿势。轻微的时间差来自身体比例，而非额外道具或字幕。",
+      "interpretation": [
+        "大圆头奶龙向前跑，红色终点带横过突出的圆肚，短肢、棕爪和背棘可辨。 肚子先到达红带，短腿仍保持奔跑姿势。轻微的时间差来自身体比例，而非额外道具或字幕。",
+        "这一场景没有指定历史名画为构图来源，定稿第二版；官方IP形象的非官方二创，不称真实比赛结果。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第2版。以平面漫画插画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。定稿第二版；官方IP形象的非官方二创，不称真实比赛结果。 角色采用奶龙（官方IP形象的非官方二创），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/061-the-belly-reaches-the-finish-first/art.webp",
+      "thumbnail": "media/061-the-belly-reaches-the-finish-first/art-thumb.webp",
+      "width": 1254,
+      "height": 1254,
+      "extraViews": []
+    },
+    {
+      "number": "P62",
+      "id": "062-much-more-beyond-the-slope",
+      "title": "坡那边还很大",
+      "titleEn": "Much More beyond the Slope",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 山水式绘画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "Perro semihundido / The Dog",
+        "artist": "Francisco de Goya y Lucientes",
+        "date": "1820–1823",
+        "note": "Museo Nacional del Prado, P000767。保留并重新组织本作可见的构图、材料或动作关系；解读属于本项目，不等同原作者意图。历史来源不扩大角色权利。"
+      },
+      "sources": [
+        {
+          "url": "https://www.museodelprado.es/coleccion/obra-de-arte/perro-semihundido/4ea6a3d1-00ee-49ee-b423-ab1c6969bca6",
+          "title": "历史原作与馆藏记录"
+        }
+      ],
+      "tags": [
+        "名画改编",
+        "山水式绘画",
+        "奶蛙"
+      ],
+      "alt": "高大灰褐峭壁占据竖幅，小奶蛙只在下缘坡后露出少量黄色与绿眼。",
+      "wallText": "几乎压满画面的岩壁使露出的身体成为距离标记。角色并非唯一重心，隐藏部分留给地形而非巨大表情。",
+      "interpretation": [
+        "高大灰褐峭壁占据竖幅，小奶蛙只在下缘坡后露出少量黄色与绿眼。 几乎压满画面的岩壁使露出的身体成为距离标记。角色并非唯一重心，隐藏部分留给地形而非巨大表情。",
+        "本作从Francisco de Goya y Lucientes《Perro semihundido / The Dog》的具体形式关系出发，岩层和坡后遮挡为图画构成，不据小尺度推断真实高度。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第3版。以山水式绘画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。岩层和坡后遮挡为图画构成，不据小尺度推断真实高度。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/062-much-more-beyond-the-slope/art.webp",
+      "thumbnail": "media/062-much-more-beyond-the-slope/art-thumb.webp",
+      "width": 965,
+      "height": 1630,
+      "extraViews": []
+    },
+    {
+      "number": "P63",
+      "id": "063-an-unfinished-version-of-me",
+      "title": "还没捏好的自己",
+      "titleEn": "An Unfinished Version of Me",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 水彩式插画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景／构图原创，不宣称角色IP原创。不是特定历史作品改编。"
+      },
+      "sources": [],
+      "tags": [
+        "原创场景",
+        "水彩式插画",
+        "奶蛙"
+      ],
+      "alt": "奶蛙坐在低木桌后，两手捏着未成形的灰泥，泥面有眼窝和腹部凹痕。",
+      "wallText": "手在制作一个尚未完成的相似物。已经完整的身体和仍可改变的材料并置，让辨认成为制作过程中的问题。",
+      "interpretation": [
+        "奶蛙坐在低木桌后，两手捏着未成形的灰泥，泥面有眼窝和腹部凹痕。 手在制作一个尚未完成的相似物。已经完整的身体和仍可改变的材料并置，让辨认成为制作过程中的问题。",
+        "这一场景没有指定历史名画为构图来源，泥形、手部有简化，不声称制作了实体作品或完成精确自塑像。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第2版。以水彩式插画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。泥形、手部有简化，不声称制作了实体作品或完成精确自塑像。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/063-an-unfinished-version-of-me/art.webp",
+      "thumbnail": "media/063-an-unfinished-version-of-me/art-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "extraViews": []
+    },
+    {
+      "number": "P64",
+      "id": "064-the-roundest-rider",
+      "title": "最圆的骑手",
+      "titleEn": "The Roundest Rider",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 点彩式绘画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "马戏团 / Le Cirque",
+        "artist": "Georges Seurat",
+        "date": "1891",
+        "note": "Musée d’Orsay, RF 2511。保留并重新组织本作可见的构图、材料或动作关系；解读属于本项目，不等同原作者意图。历史来源不扩大角色权利。"
+      },
+      "sources": [
+        {
+          "url": "https://www.musee-orsay.fr/en/artworks/le-cirque-542",
+          "title": "历史原作与馆藏记录"
+        }
+      ],
+      "tags": [
+        "名画改编",
+        "点彩式绘画",
+        "奶蛙"
+      ],
+      "alt": "圆身体奶蛙站在白马上，圆形马戏场、幕帘与观众环绕运动方向。",
+      "wallText": "角色接过骑手的位置，站立和平衡必须与马背及场地圆弧共同成立。小腿的支撑关系比换角笑点更先接受观看。",
+      "interpretation": [
+        "圆身体奶蛙站在白马上，圆形马戏场、幕帘与观众环绕运动方向。 角色接过骑手的位置，站立和平衡必须与马背及场地圆弧共同成立。小腿的支撑关系比换角笑点更先接受观看。",
+        "本作从Georges Seurat《马戏团 / Le Cirque》的具体形式关系出发，绘画点彩为AI模拟，不声称真实骑乘动作或马戏训练。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以点彩式绘画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。绘画点彩为AI模拟，不声称真实骑乘动作或马戏训练。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/064-the-roundest-rider/art.webp",
+      "thumbnail": "media/064-the-roundest-rider/art-thumb.webp",
+      "width": 1122,
+      "height": 1402,
+      "extraViews": []
+    },
+    {
+      "number": "P65",
+      "id": "065-the-sea-runs-off-the-page",
+      "title": "这幅画还没干",
+      "titleEn": "The Sea Runs off the Page",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 水粉式插画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶龙（官方IP形象的非官方二创）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "场景、叙事与构图原创；既有角色IP二次创作。不是特定历史作品改编。"
+      },
+      "sources": [
+        {
+          "url": "https://www.nailoong.com/ipStar/Nailong/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "原创场景",
+        "水粉式插画",
+        "奶龙"
+      ],
+      "alt": "官方奶龙形象坐在画布旁，画中蓝色海面沿画布边缘流到橙色地面。",
+      "wallText": "画布原有的边界仍可辨，颜色却取得了可以流出的方向。角色看向画外的蓝带，使再现与环境相接。",
+      "interpretation": [
+        "官方奶龙形象坐在画布旁，画中蓝色海面沿画布边缘流到橙色地面。 画布原有的边界仍可辨，颜色却取得了可以流出的方向。角色看向画外的蓝带，使再现与环境相接。",
+        "这一场景没有指定历史名画为构图来源，仅场景构图原创、非官方授权；流出是图像想象，不说明真实颜料或水体。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以水粉式插画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。仅场景构图原创、非官方授权；流出是图像想象，不说明真实颜料或水体。 角色采用奶龙（官方IP形象的非官方二创），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/065-the-sea-runs-off-the-page/art.webp",
+      "thumbnail": "media/065-the-sea-runs-off-the-page/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": []
+    },
+    {
+      "number": "P66",
+      "id": "066-the-mountains-swing-too",
+      "title": "山也跟着跳起来",
+      "titleEn": "The Mountains Swing Too",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 表现主义式色面",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "Yellow Cow (Gelbe Kuh)",
+        "artist": "Franz Marc",
+        "date": "1911",
+        "note": "Solomon R. Guggenheim Museum, New York。保留并重新组织本作可见的构图、材料或动作关系；解读属于本项目，不等同原作者意图。历史来源不扩大角色权利。"
+      },
+      "sources": [
+        {
+          "url": "https://www.guggenheim.org/artwork/2760",
+          "title": "历史原作与馆藏记录"
+        }
+      ],
+      "tags": [
+        "名画改编",
+        "表现主义式色面",
+        "奶蛙"
+      ],
+      "alt": "黄色奶蛙抓住两条黑色秋千绳，群山和彩色地面在其周围形成倾斜大色块。",
+      "wallText": "绳索给出共同支撑，群山却不再静止在背景。身体的摆动方向与彩色山势互相强化。",
+      "interpretation": [
+        "黄色奶蛙抓住两条黑色秋千绳，群山和彩色地面在其周围形成倾斜大色块。 绳索给出共同支撑，群山却不再静止在背景。身体的摆动方向与彩色山势互相强化。",
+        "本作从Franz Marc《Yellow Cow (Gelbe Kuh)》的具体形式关系出发，空间和山势是绘画转译，不宣称真实群山移动或速度测量。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第2版。以表现主义式色面的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。空间和山势是绘画转译，不宣称真实群山移动或速度测量。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/066-the-mountains-swing-too/art.webp",
+      "thumbnail": "media/066-the-mountains-swing-too/art-thumb.webp",
+      "width": 1478,
+      "height": 1064,
+      "extraViews": []
+    },
+    {
+      "number": "P67",
+      "id": "067-the-room-comes-unstitched",
+      "title": "房间开始脱线",
+      "titleEn": "The Room Comes Unstitched",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 剪纸式绘画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景、构图与视觉机制原创，不宣称角色IP原创。不是特定历史作品改编。"
+      },
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1enXoBSEfU/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "原创场景",
+        "剪纸式绘画",
+        "奶蛙"
+      ],
+      "alt": "奶蛙拉着一根红线，墙角沿缝线掀开，蓝桌所在的房间露出另一片深蓝面。",
+      "wallText": "房间从容纳身体的空间变成可以抽线的材料。红线连接手与墙角，普通家具留下变化前后的空间参照。",
+      "interpretation": [
+        "奶蛙拉着一根红线，墙角沿缝线掀开，蓝桌所在的房间露出另一片深蓝面。 房间从容纳身体的空间变成可以抽线的材料。红线连接手与墙角，普通家具留下变化前后的空间参照。",
+        "这一场景没有指定历史名画为构图来源，室内透视和墙面材料有简化，不当作可实现建筑装置。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以剪纸式绘画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。室内透视和墙面材料有简化，不当作可实现建筑装置。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/067-the-room-comes-unstitched/art.webp",
+      "thumbnail": "media/067-the-room-comes-unstitched/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": []
+    },
+    {
+      "number": "P68",
+      "id": "068-the-city-dances-into-me",
+      "title": "城市跳成了我",
+      "titleEn": "The City Dances into Me",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 正交色格绘画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "Broadway Boogie Woogie",
+        "artist": "Piet Mondrian",
+        "date": "1942–43",
+        "note": "MoMA, 73.1943。保留并重新组织本作可见的构图、材料或动作关系；解读属于本项目，不等同原作者意图。历史来源不扩大角色权利。"
+      },
+      "sources": [
+        {
+          "url": "https://www.moma.org/collection/works/78682",
+          "title": "历史原作与馆藏记录"
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1enXoBSEfU/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "名画改编",
+        "正交色格绘画",
+        "奶蛙"
+      ],
+      "alt": "红蓝黄街网中出现完整直角几何奶蛙，两处绿眼和浅腹负形仍能辨认。",
+      "wallText": "与A19《狂笑百老汇》同源，本件让完整几何角色出现于街网，而旧作采用满幅无中心网格。两件转译角度不同，本件不是首次改编该原作。",
+      "interpretation": [
+        "红蓝黄街网中出现完整直角几何奶蛙，两处绿眼和浅腹负形仍能辨认。 与A19《狂笑百老汇》同源，本件让完整几何角色出现于街网，而旧作采用满幅无中心网格。两件转译角度不同，本件不是首次改编该原作。",
+        "本作从Piet Mondrian《Broadway Boogie Woogie》的具体形式关系出发，选定第二版；长方头与机器人感保留，远看身份较弱，不称标准奶蛙比例。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第2版。以正交色格绘画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。选定第二版；长方头与机器人感保留，远看身份较弱，不称标准奶蛙比例。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/068-the-city-dances-into-me/art.webp",
+      "thumbnail": "media/068-the-city-dances-into-me/art-thumb.webp",
+      "width": 1254,
+      "height": 1254,
+      "extraViews": [],
+      "relatedExistingWork": {
+        "id": "archive-laughing-broadway",
+        "relation": "同源改编，转译角度不同；不是首次使用该原作"
+      }
+    },
+    {
+      "number": "P69",
+      "id": "069-the-erased-place-lights-up",
+      "title": "擦掉的地方亮起来",
+      "titleEn": "The Erased Place Lights Up",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 炭笔式绘画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景、构图与视觉机制原创，不宣称角色IP原创。不是特定历史作品改编。"
+      },
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1enXoBSEfU/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "原创场景",
+        "炭笔式绘画",
+        "奶蛙"
+      ],
+      "alt": "黑色墙面前，奶蛙两手持浅色擦除物，清出的白色区域与落地碎屑构成明暗对照。",
+      "wallText": "制作在这里表现为减去颜色。身体面对的是已经清出的空白，痕迹与材料重量通过碎屑相连。",
+      "interpretation": [
+        "黑色墙面前，奶蛙两手持浅色擦除物，清出的白色区域与落地碎屑构成明暗对照。 制作在这里表现为减去颜色。身体面对的是已经清出的空白，痕迹与材料重量通过碎屑相连。",
+        "这一场景没有指定历史名画为构图来源，不称真实擦除过程的完整记录，白区与碎屑为图画组织。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第2版。以炭笔式绘画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。不称真实擦除过程的完整记录，白区与碎屑为图画组织。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/069-the-erased-place-lights-up/art.webp",
+      "thumbnail": "media/069-the-erased-place-lights-up/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": []
+    },
+    {
+      "number": "P70",
+      "id": "070-the-body-emerges-from-night",
+      "title": "身体浮出夜色",
+      "titleEn": "The Body Emerges from Night",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 数字绘画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "Fish Magic",
+        "artist": "Paul Klee",
+        "date": "1925",
+        "note": "Philadelphia Museum of Art。保留并重新组织本作可见的构图、材料或动作关系；解读属于本项目，不等同原作者意图。历史来源不扩大角色权利。"
+      },
+      "sources": [
+        {
+          "url": "https://www.philamuseum.org/objects/51027",
+          "title": "历史原作与馆藏记录"
+        },
+        {
+          "url": "https://customprints.philamuseum.org/detail/482230/klee-fish-magic-1925",
+          "title": "角色参考作品与发布者来源"
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1enXoBSEfU/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "名画改编",
+        "数字绘画",
+        "奶蛙"
+      ],
+      "alt": "暗夜色域里，透明斜面、鱼、星体和几何形分布在一只小黄色角色周围。",
+      "wallText": "身体成为暗处的一个小辨认点，多组透明面与漂浮形体保留独立方向。观看在不同尺度的悬浮物之间移动。",
+      "interpretation": [
+        "暗夜色域里，透明斜面、鱼、星体和几何形分布在一只小黄色角色周围。 身体成为暗处的一个小辨认点，多组透明面与漂浮形体保留独立方向。观看在不同尺度的悬浮物之间移动。",
+        "本作从Paul Klee《Fish Magic》的具体形式关系出发，材质和透明面为绘画模拟，不当作真实星图、海景或唯一象征解释。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以数字绘画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。材质和透明面为绘画模拟，不当作真实星图、海景或唯一象征解释。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/070-the-body-emerges-from-night/art.webp",
+      "thumbnail": "media/070-the-body-emerges-from-night/art-thumb.webp",
+      "width": 1420,
+      "height": 1108,
+      "extraViews": []
+    },
+    {
+      "number": "P71",
+      "id": "071-roll-the-distance-closer",
+      "title": "把远方卷近一点",
+      "titleEn": "Roll the Distance Closer",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 平面绘画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景、构图与视觉机制原创，不宣称角色IP原创。不是特定历史作品改编。"
+      },
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1enXoBSEfU/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "原创场景",
+        "平面绘画",
+        "奶蛙"
+      ],
+      "alt": "奶蛙推着一片蓝色海面，海面像厚纸卷起，白浪仍横过弯曲表层。",
+      "wallText": "远方没有变成新的容器，而取得卷材的边缘。推卷动作把看不见终点的海缩到身体能够接触的位置。",
+      "interpretation": [
+        "奶蛙推着一片蓝色海面，海面像厚纸卷起，白浪仍横过弯曲表层。 远方没有变成新的容器，而取得卷材的边缘。推卷动作把看不见终点的海缩到身体能够接触的位置。",
+        "这一场景没有指定历史名画为构图来源，海卷不是现实材料模型，人物与卷材受力为绘画简化。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以平面绘画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。海卷不是现实材料模型，人物与卷材受力为绘画简化。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/071-roll-the-distance-closer/art.webp",
+      "thumbnail": "media/071-roll-the-distance-closer/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": []
+    },
+    {
+      "number": "P72",
+      "id": "072-time-softens-first",
+      "title": "时间先软了",
+      "titleEn": "Time Softens First",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 数字油画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "The Persistence of Memory",
+        "artist": "Salvador Dalí",
+        "date": "1931",
+        "note": "MoMA；162.1934。保留并重新组织本作可见的构图、材料或动作关系；解读属于本项目，不等同原作者意图。历史来源不扩大角色权利。"
+      },
+      "sources": [
+        {
+          "url": "https://www.moma.org/collection/works/79018",
+          "title": "历史原作与馆藏记录"
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1enXoBSEfU/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "名画改编",
+        "数字油画",
+        "奶蛙"
+      ],
+      "alt": "奶蛙身体沿台面软垂，融软钟表与枯树构成时间意象，远处岸线仍保持坚硬。",
+      "wallText": "柔软不再只属于钟面，而穿过角色的身体。远岸与台面提供稳定参照，使变形保持可比较的范围。",
+      "interpretation": [
+        "奶蛙身体沿台面软垂，融软钟表与枯树构成时间意象，远处岸线仍保持坚硬。 柔软不再只属于钟面，而穿过角色的身体。远岸与台面提供稳定参照，使变形保持可比较的范围。",
+        "本作从Salvador Dalí《The Persistence of Memory》的具体形式关系出发，名画关系为当代改编，不声称真实时间改变或角色失去意识。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以数字油画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。名画关系为当代改编，不声称真实时间改变或角色失去意识。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/072-time-softens-first/art.webp",
+      "thumbnail": "media/072-time-softens-first/art-thumb.webp",
+      "width": 1474,
+      "height": 1067,
+      "extraViews": []
+    },
+    {
+      "number": "P73",
+      "id": "073-heavier-than-the-mountain-today",
+      "title": "今天比山还重",
+      "titleEn": "Heavier than the Mountain Today",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 剪纸式绘画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛋（社区衍生角色）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景、构图与视觉机制原创，不宣称奶蛋角色IP原创、首创者或官方授权。不是特定历史作品改编。"
+      },
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1tXKf6YEqE/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "原创场景",
+        "剪纸式绘画",
+        "奶蛋"
+      ],
+      "alt": "无肢奶蛋立在金属勺一端，另一端托着巨大的深蓝岩块，中间小蓝支点形成杠杆。",
+      "wallText": "很小的卵形身体与大岩块通过一条斜线连接，尺度差成为观看问题。简短面孔保持平静，重量只由图像关系暗示。",
+      "interpretation": [
+        "无肢奶蛋立在金属勺一端，另一端托着巨大的深蓝岩块，中间小蓝支点形成杠杆。 很小的卵形身体与大岩块通过一条斜线连接，尺度差成为观看问题。简短面孔保持平静，重量只由图像关系暗示。",
+        "这一场景没有指定历史名画为构图来源，杠杆是视觉寓言，非经过验证的力学平衡；奶蛋不是官方奶龙形设。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以剪纸式绘画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。杠杆是视觉寓言，非经过验证的力学平衡；奶蛋不是官方奶龙形设。 角色采用奶蛋（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/073-heavier-than-the-mountain-today/art.webp",
+      "thumbnail": "media/073-heavier-than-the-mountain-today/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": []
+    },
+    {
+      "number": "P74",
+      "id": "074-light-flowers-heavy-basket",
+      "title": "花很轻，篮子很重",
+      "titleEn": "Light Flowers, Heavy Basket",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 数字绘画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "The Flower Carrier",
+        "artist": "Diego Rivera",
+        "date": "1935",
+        "note": "SFMOMA；35.4516。保留并重新组织本作可见的构图、材料或动作关系；解读属于本项目，不等同原作者意图。历史来源不扩大角色权利。"
+      },
+      "sources": [
+        {
+          "url": "https://www.sfmoma.org/artwork/35.4516/",
+          "title": "历史原作与馆藏记录"
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1enXoBSEfU/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "名画改编",
+        "数字绘画",
+        "奶蛙"
+      ],
+      "alt": "两只奶蛙一前一后支撑巨大花篮，花朵在上方展开，低处短肢与手接触篮沿。",
+      "wallText": "花的轻盈与篮的体量放在同一个动作里。两个身体承担不同支撑位置，重量成为关系而非角色表情。",
+      "interpretation": [
+        "两只奶蛙一前一后支撑巨大花篮，花朵在上方展开，低处短肢与手接触篮沿。 花的轻盈与篮的体量放在同一个动作里。两个身体承担不同支撑位置，重量成为关系而非角色表情。",
+        "本作从Diego Rivera《The Flower Carrier》的具体形式关系出发，手篮接点和腿形有绘画简化，不推定两者亲属关系或真实负载。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以数字绘画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。手篮接点和腿形有绘画简化，不推定两者亲属关系或真实负载。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/074-light-flowers-heavy-basket/art.webp",
+      "thumbnail": "media/074-light-flowers-heavy-basket/art-thumb.webp",
+      "width": 1254,
+      "height": 1254,
+      "extraViews": []
+    },
+    {
+      "number": "P75",
+      "id": "075-the-flock-is-watching-me-too",
+      "title": "鸟群也在看我",
+      "titleEn": "The Flock Is Watching Me Too",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 图形插画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景、构图与视觉机制原创，不宣称奶蛙角色IP原创或官方授权。不是特定历史作品改编。"
+      },
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1enXoBSEfU/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "原创场景",
+        "图形插画",
+        "奶蛙"
+      ],
+      "alt": "橙色天空里，密集小鸟组成巨大的眼形轮廓，下方单只奶蛙仰望。",
+      "wallText": "许多独立小形体组织成一个观看者，尺度差把看与被看调换位置。巨眼并不是另外一枚悬浮眼球。",
+      "interpretation": [
+        "橙色天空里，密集小鸟组成巨大的眼形轮廓，下方单只奶蛙仰望。 许多独立小形体组织成一个观看者，尺度差把看与被看调换位置。巨眼并不是另外一枚悬浮眼球。",
+        "这一场景没有指定历史名画为构图来源，鸟群结构为构图想象，不声称真实集群行为或准确鸟数。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以图形插画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。鸟群结构为构图想象，不声称真实集群行为或准确鸟数。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/075-the-flock-is-watching-me-too/art.webp",
+      "thumbnail": "media/075-the-flock-is-watching-me-too/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": []
+    },
+    {
+      "number": "P76",
+      "id": "076-leave-the-sound-outside-the-veil",
+      "title": "把声音留在纱外",
+      "titleEn": "Leave the Sound outside the Veil",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 数字油画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "Le Berceau / The Cradle",
+        "artist": "Berthe Morisot",
+        "date": "1872",
+        "note": "Musée d’Orsay；RF 2849。保留并重新组织本作可见的构图、材料或动作关系；解读属于本项目，不等同原作者意图。历史来源不扩大角色权利。"
+      },
+      "sources": [
+        {
+          "url": "https://www.musee-orsay.fr/fr/oeuvres/le-berceau-1132",
+          "title": "历史原作与馆藏记录"
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1enXoBSEfU/",
+          "title": "角色参考作品与发布者来源"
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1tXKf6YEqE/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "名画改编",
+        "数字油画",
+        "奶蛙"
+      ],
+      "alt": "浅色纱幕围着摇篮，一只大奶蛙俯身靠近，另一个小头从薄纱与摇篮中显露。",
+      "wallText": "纱幕同时遮挡和连结两者，观看越过薄材料后才到达小脸。动作保持安静，不需要为角色补写对白。",
+      "interpretation": [
+        "浅色纱幕围着摇篮，一只大奶蛙俯身靠近，另一个小头从薄纱与摇篮中显露。 纱幕同时遮挡和连结两者，观看越过薄材料后才到达小脸。动作保持安静，不需要为角色补写对白。",
+        "本作从Berthe Morisot《Le Berceau / The Cradle》的具体形式关系出发，不指定亲属关系、真实年龄或睡眠状态；纱与人体式弯身为改编限度。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以数字油画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。不指定亲属关系、真实年龄或睡眠状态；纱与人体式弯身为改编限度。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/076-leave-the-sound-outside-the-veil/art.webp",
+      "thumbnail": "media/076-leave-the-sound-outside-the-veil/art-thumb.webp",
+      "width": 1139,
+      "height": 1381,
+      "extraViews": []
+    },
+    {
+      "number": "P77",
+      "id": "077-give-the-needle-a-push",
+      "title": "下一段，要用力",
+      "titleEn": "Give the Needle a Push",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 水粉式插画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶龙（官方IP形象的非官方二创）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景、构图与视觉机制原创，不宣称奶龙角色IP原创或官方授权。不是特定历史作品改编。"
+      },
+      "sources": [
+        {
+          "url": "https://www.nailoong.com/ipStar/Nailong/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "原创场景",
+        "水粉式插画",
+        "奶龙"
+      ],
+      "alt": "小奶龙在巨大黑唱片上推深蓝唱头，唱片纹路、针尖与棕爪短肢相接。",
+      "wallText": "播放设备的尺度让普通短肢取得新的劳动位置。角色推的是可辨的唱头，声音没有被画成可见特效。",
+      "interpretation": [
+        "小奶龙在巨大黑唱片上推深蓝唱头，唱片纹路、针尖与棕爪短肢相接。 播放设备的尺度让普通短肢取得新的劳动位置。角色推的是可辨的唱头，声音没有被画成可见特效。",
+        "这一场景没有指定历史名画为构图来源，官方形象非官方二创；静态不证明真的发声，唱头比例不作机械制图。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以水粉式插画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。官方形象非官方二创；静态不证明真的发声，唱头比例不作机械制图。 角色采用奶龙（官方IP形象的非官方二创），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/077-give-the-needle-a-push/art.webp",
+      "thumbnail": "media/077-give-the-needle-a-push/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": []
+    },
+    {
+      "number": "P78",
+      "id": "078-the-rain-catches-up-on-the-bridge",
+      "title": "雨催着小步走",
+      "titleEn": "The Rain Catches Up on the Bridge",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 浮世绘式绘画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "Sudden Shower over Shin-Ōhashi Bridge and Atake / 大桥安宅骤雨",
+        "artist": "Utagawa Hiroshige / 歌川广重",
+        "date": "1857",
+        "note": "The Metropolitan Museum of Art；JP644。保留并重新组织本作可见的构图、材料或动作关系；解读属于本项目，不等同原作者意图。历史来源不扩大角色权利。"
+      },
+      "sources": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/37094",
+          "title": "历史原作与馆藏记录"
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1enXoBSEfU/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "名画改编",
+        "浮世绘式绘画",
+        "奶蛙"
+      ],
+      "alt": "骤雨斜线穿过高木桥，小黄色角色撑伞沿桥行走，远岸压在蓝绿色水面上。",
+      "wallText": "桥面维持共同方向，雨线改变整个画面的速度感。多个小角色仍服从木桥的尺度，不扩大成近景吉祥物。",
+      "interpretation": [
+        "骤雨斜线穿过高木桥，小黄色角色撑伞沿桥行走，远岸压在蓝绿色水面上。 桥面维持共同方向，雨线改变整个画面的速度感。多个小角色仍服从木桥的尺度，不扩大成近景吉祥物。",
+        "本作从Utagawa Hiroshige / 歌川广重《Sudden Shower over Shin-Ōhashi Bridge and Atake / 大桥安宅骤雨》的具体形式关系出发，雨线与桥梁结构为绘画转译，不声称完整复刻版画技法或真实天气记录。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以浮世绘式绘画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。雨线与桥梁结构为绘画转译，不声称完整复刻版画技法或真实天气记录。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/078-the-rain-catches-up-on-the-bridge/art.webp",
+      "thumbnail": "media/078-the-rain-catches-up-on-the-bridge/art-thumb.webp",
+      "width": 1024,
+      "height": 1536,
+      "extraViews": []
+    },
+    {
+      "number": "P79",
+      "id": "079-a-small-body-between-the-branches",
+      "title": "一片叶子这么深",
+      "titleEn": "A Small Body between the Branches",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 黑白绘画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景、构图与视觉机制原创，不宣称奶蛙角色IP原创或官方授权。不是特定历史作品改编。"
+      },
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1enXoBSEfU/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "原创场景",
+        "黑白绘画",
+        "奶蛙"
+      ],
+      "alt": "黑树干和叶脉围出白色空间，一只小奶蛙站在树枝上，远处空白与泪滴状形相对。",
+      "wallText": "黄色身体为黑白材料提供一个尺度点，空白既像空气也像可辨轮廓。观看要在枝条与负形之间来回。",
+      "interpretation": [
+        "黑树干和叶脉围出白色空间，一只小奶蛙站在树枝上，远处空白与泪滴状形相对。 黄色身体为黑白材料提供一个尺度点，空白既像空气也像可辨轮廓。观看要在枝条与负形之间来回。",
+        "这一场景没有指定历史名画为构图来源，形体与空白只是视觉比较，不推定动物心理或固定象征意义。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以黑白绘画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。形体与空白只是视觉比较，不推定动物心理或固定象征意义。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/079-a-small-body-between-the-branches/art.webp",
+      "thumbnail": "media/079-a-small-body-between-the-branches/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": []
+    },
+    {
+      "number": "P80",
+      "id": "080-a-body-held-in-gold",
+      "title": "金色还没吞掉我",
+      "titleEn": "A Body Held in Gold",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 金色装饰绘画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "Portrait of Adele Bloch-Bauer I / 阿黛尔·布洛赫-鲍尔肖像 I",
+        "artist": "Gustav Klimt / 古斯塔夫·克里姆特",
+        "date": "1907",
+        "note": "Neue Galerie New York。保留并重新组织本作可见的构图、材料或动作关系；解读属于本项目，不等同原作者意图。历史来源不扩大角色权利。"
+      },
+      "sources": [
+        {
+          "url": "https://www.neuegalerie.org/womaningold",
+          "title": "历史原作与馆藏记录"
+        }
+      ],
+      "tags": [
+        "名画改编",
+        "金色装饰绘画",
+        "奶蛙"
+      ],
+      "alt": "金色方格与细密纹样围住奶蛙半身，绿眼、浅腹和深手仍从装饰中显露。",
+      "wallText": "装饰不只是背景，它与衣服和身体共用边界。辨认从大面积金色中逐项找到脸、手和腹部。",
+      "interpretation": [
+        "金色方格与细密纹样围住奶蛙半身，绿眼、浅腹和深手仍从装饰中显露。 装饰不只是背景，它与衣服和身体共用边界。辨认从大面积金色中逐项找到脸、手和腹部。",
+        "本作从Gustav Klimt / 古斯塔夫·克里姆特《Portrait of Adele Bloch-Bauer I / 阿黛尔·布洛赫-鲍尔肖像 I》的具体形式关系出发，圆肩和半身服装仍偏人像，数字金色不称真实金箔。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第2版。以金色装饰绘画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。圆肩和半身服装仍偏人像，数字金色不称真实金箔。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/080-a-body-held-in-gold/art.webp",
+      "thumbnail": "media/080-a-body-held-in-gold/art-thumb.webp",
+      "width": 1254,
+      "height": 1254,
+      "extraViews": []
+    },
+    {
+      "number": "P81",
+      "id": "081-one-burr-at-a-time",
+      "title": "把耳朵借我一下",
+      "titleEn": "One Burr at a Time",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 彩铅式插画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景、构图与动作设计原创，不宣称奶蛙角色IP原创或官方授权。不是特定历史作品改编。"
+      },
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1enXoBSEfU/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "原创场景",
+        "彩铅式插画",
+        "奶蛙"
+      ],
+      "alt": "红毯上，大狗闭眼卧着，奶蛙轻提长耳边缘，几枚小刺果落在旁边。",
+      "wallText": "照看的接触点很小，大狗的体量使小手显得谨慎。散落刺果提供动作线索，但不证明完整护理过程。",
+      "interpretation": [
+        "红毯上，大狗闭眼卧着，奶蛙轻提长耳边缘，几枚小刺果落在旁边。 照看的接触点很小，大狗的体量使小手显得谨慎。散落刺果提供动作线索，但不证明完整护理过程。",
+        "这一场景没有指定历史名画为构图来源，不称狗实际睡着或已清除所有刺果，手耳接触保留简化。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以彩铅式插画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。不称狗实际睡着或已清除所有刺果，手耳接触保留简化。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/081-one-burr-at-a-time/art.webp",
+      "thumbnail": "media/081-one-burr-at-a-time/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": []
+    },
+    {
+      "number": "P82",
+      "id": "082-three-bodies-one-arrangement",
+      "title": "合奏要挤在一起",
+      "titleEn": "Three Bodies, One Arrangement",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 立体主义式色面",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "Three Musicians / 三个音乐家",
+        "artist": "Pablo Picasso / 巴勃罗·毕加索",
+        "date": "Fontainebleau, summer 1921",
+        "note": "The Museum of Modern Art, New York；55.1949。保留并重新组织本作可见的构图、材料或动作关系；解读属于本项目，不等同原作者意图。历史来源不扩大角色权利。"
+      },
+      "sources": [
+        {
+          "url": "https://www.moma.org/collection/works/78630",
+          "title": "历史原作与馆藏记录"
+        },
+        {
+          "url": "https://www.moma.org/audio/playlist/336/175",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "名画改编",
+        "立体主义式色面",
+        "奶蛙"
+      ],
+      "alt": "三只几何奶蛙分持吹奏、弦乐与谱纸线索，方形衣片和黄色脸嵌进同一室内。",
+      "wallText": "三种动作分别占据平面构成的位置，角色在共同节奏中保持差别。乐器和谱纸提供分类，不靠表情制造分工。",
+      "interpretation": [
+        "三只几何奶蛙分持吹奏、弦乐与谱纸线索，方形衣片和黄色脸嵌进同一室内。 三种动作分别占据平面构成的位置，角色在共同节奏中保持差别。乐器和谱纸提供分类，不靠表情制造分工。",
+        "本作从Pablo Picasso / 巴勃罗·毕加索《Three Musicians / 三个音乐家》的具体形式关系出发，只描述静态持物关系，不声称听到音乐或所有乐器细节精确。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以立体主义式色面的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。只描述静态持物关系，不声称听到音乐或所有乐器细节精确。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/082-three-bodies-one-arrangement/art.webp",
+      "thumbnail": "media/082-three-bodies-one-arrangement/art-thumb.webp",
+      "width": 1322,
+      "height": 1190,
+      "extraViews": []
+    },
+    {
+      "number": "P83",
+      "id": "083-leave-the-path-for-a-moment",
+      "title": "你先慢慢走",
+      "titleEn": "Leave the Path for a Moment",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 水粉式插画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景、构图与动作设计原创，不宣称奶蛙角色IP原创或官方授权。不是特定历史作品改编。"
+      },
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1enXoBSEfU/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "原创场景",
+        "水粉式插画",
+        "奶蛙"
+      ],
+      "alt": "石板小路上，一只蜗牛在前方缓行，奶蛙抬脚停在其旁，深绿叶片围住浅色路面。",
+      "wallText": "停住的脚把普通的小路变成共同使用的空间。小动物没有被放大，耐心只是一种可由姿势提出的读法。",
+      "interpretation": [
+        "石板小路上，一只蜗牛在前方缓行，奶蛙抬脚停在其旁，深绿叶片围住浅色路面。 停住的脚把普通的小路变成共同使用的空间。小动物没有被放大，耐心只是一种可由姿势提出的读法。",
+        "这一场景没有指定历史名画为构图来源，不据静态图证明真实等待时长或角色的确定心理。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以水粉式插画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。不据静态图证明真实等待时长或角色的确定心理。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/083-leave-the-path-for-a-moment/art.webp",
+      "thumbnail": "media/083-leave-the-path-for-a-moment/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": []
+    },
+    {
+      "number": "P84",
+      "id": "084-two-lights-in-the-garden",
+      "title": "先把这一盏点亮",
+      "titleEn": "Two Lights in the Garden",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 数字绘画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "Carnation, Lily, Lily, Rose / 康乃馨、百合、百合、玫瑰",
+        "artist": "John Singer Sargent / 约翰·辛格·萨金特",
+        "date": "1885–86",
+        "note": "Tate, London；N01615。保留并重新组织本作可见的构图、材料或动作关系；解读属于本项目，不等同原作者意图。历史来源不扩大角色权利。"
+      },
+      "sources": [
+        {
+          "url": "https://www.tate.org.uk/art/artworks/sargent-carnation-lily-lily-rose-n01615",
+          "title": "历史原作与馆藏记录"
+        },
+        {
+          "url": "https://shop.tate.org.uk/john-singer-sargent-carnation-lily-lily-rose/johsar001.html",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "名画改编",
+        "数字绘画",
+        "奶蛙"
+      ],
+      "alt": "花园中，两只小奶蛙分别提着发暖光的纸灯，浅花和树叶把灯光分成近远两处。",
+      "wallText": "成对灯笼将相似身体分置在不同亮区，行动与环境通过照明关联。角色进入整体花园，不占据所有光。",
+      "interpretation": [
+        "花园中，两只小奶蛙分别提着发暖光的纸灯，浅花和树叶把灯光分成近远两处。 成对灯笼将相似身体分置在不同亮区，行动与环境通过照明关联。角色进入整体花园，不占据所有光。",
+        "本作从John Singer Sargent / 约翰·辛格·萨金特《Carnation, Lily, Lily, Rose / 康乃馨、百合、百合、玫瑰》的具体形式关系出发，纸灯、手部与花纹为绘画简化，不据图确认真实点灯过程。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以数字绘画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。纸灯、手部与花纹为绘画简化，不据图确认真实点灯过程。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/084-two-lights-in-the-garden/art.webp",
+      "thumbnail": "media/084-two-lights-in-the-garden/art-thumb.webp",
+      "width": 1173,
+      "height": 1341,
+      "extraViews": []
+    },
+    {
+      "number": "P86",
+      "id": "086-arriving-on-a-shell",
+      "title": "海风先到了",
+      "titleEn": "Arriving on a Shell",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 数字绘画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "Birth of Venus / 维纳斯的诞生",
+        "artist": "Sandro Botticelli / 桑德罗·波提切利",
+        "date": "1485 ca.",
+        "note": "The Uffizi；1890 n. 878。保留并重新组织本作可见的构图、材料或动作关系；解读属于本项目，不等同原作者意图。历史来源不扩大角色权利。"
+      },
+      "sources": [
+        {
+          "url": "https://www.uffizi.it/en/artworks/birth-of-venus",
+          "title": "历史原作与馆藏记录"
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1enXoBSEfU/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "名画改编",
+        "数字绘画",
+        "奶蛙"
+      ],
+      "alt": "贝壳上的奶蛙居于海岸中央，左上两只吹风形体相连，右侧角色展开粉色布。",
+      "wallText": "同一造型占据不同角色位置，壳、风与布将中央身体接进一个到达场景。关系来自具体原作构图，不是全原创背景。",
+      "interpretation": [
+        "贝壳上的奶蛙居于海岸中央，左上两只吹风形体相连，右侧角色展开粉色布。 同一造型占据不同角色位置，壳、风与布将中央身体接进一个到达场景。关系来自具体原作构图，不是全原创背景。",
+        "本作从Sandro Botticelli / 桑德罗·波提切利《Birth of Venus / 维纳斯的诞生》的具体形式关系出发，不写固定神话身份或角色起源，衣布与身体有绘画简化。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第2版。以数字绘画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。不写固定神话身份或角色起源，衣布与身体有绘画简化。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/086-arriving-on-a-shell/art.webp",
+      "thumbnail": "media/086-arriving-on-a-shell/art-thumb.webp",
+      "width": 1591,
+      "height": 989,
+      "extraViews": []
+    },
+    {
+      "number": "P87",
+      "id": "087-before-the-last-tile-falls",
+      "title": "轻轻一靠，后面都忙了",
+      "titleEn": "Before the Last Tile Falls",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 平面静物",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛋（社区衍生样本）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景、构图与动作叙事原创，不宣称奶蛋角色IP原创或官方授权。不是特定历史作品改编。"
+      },
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1tXKf6YEqE/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "原创场景",
+        "平面静物",
+        "奶蛋"
+      ],
+      "alt": "奶蛋旁的红色多米诺骨牌一枚接一枚倾斜，远端弯曲的列阵仍站立。",
+      "wallText": "无手足身体处在连锁变化的一端，不能因此确认它启动了变化。倾斜和竖直之间的差异把时间分成可看的阶段。",
+      "interpretation": [
+        "奶蛋旁的红色多米诺骨牌一枚接一枚倾斜，远端弯曲的列阵仍站立。 无手足身体处在连锁变化的一端，不能因此确认它启动了变化。倾斜和竖直之间的差异把时间分成可看的阶段。",
+        "这一场景没有指定历史名画为构图来源，选定第二版；连锁关系为绘画，不声称真实因果实验或全部骨牌倒下。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第2版。以平面静物的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。选定第二版；连锁关系为绘画，不声称真实因果实验或全部骨牌倒下。 角色采用奶蛋（社区衍生样本），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/087-before-the-last-tile-falls/art.webp",
+      "thumbnail": "media/087-before-the-last-tile-falls/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": []
+    },
+    {
+      "number": "P88",
+      "id": "088-a-river-through-the-map",
+      "title": "地图里多了一条河",
+      "titleEn": "A River through the Map",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 水粉式插画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景、构图与动作设计原创，不宣称奶蛙角色IP原创或官方授权。不是特定历史作品改编。"
+      },
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1enXoBSEfU/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "原创场景",
+        "水粉式插画",
+        "奶蛙"
+      ],
+      "alt": "奶蛙在地图边倾下水杯，蓝色水带沿街网穿过地图并流向下边缘。",
+      "wallText": "纸上路径与可流动材料取得同一方向，地图既是图像也成为表面。手中的普通水杯让夸张仍可追到起点。",
+      "interpretation": [
+        "奶蛙在地图边倾下水杯，蓝色水带沿街网穿过地图并流向下边缘。 纸上路径与可流动材料取得同一方向，地图既是图像也成为表面。手中的普通水杯让夸张仍可追到起点。",
+        "这一场景没有指定历史名画为构图来源，不把水带当真实城市水文或测绘结果，街网与流向为图像想象。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以水粉式插画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。不把水带当真实城市水文或测绘结果，街网与流向为图像想象。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/088-a-river-through-the-map/art.webp",
+      "thumbnail": "media/088-a-river-through-the-map/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": []
+    },
+    {
+      "number": "P89",
+      "id": "089-four-positions-in-one-boat",
+      "title": "风把大家推向同一边",
+      "titleEn": "Four Positions in One Boat",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 数字油画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "Breezing Up (A Fair Wind) / 顺风",
+        "artist": "Winslow Homer / 温斯洛·霍默",
+        "date": "1873–1876",
+        "note": "National Gallery of Art, Washington；1943.13.1。保留并重新组织本作可见的构图、材料或动作关系；解读属于本项目，不等同原作者意图。历史来源不扩大角色权利。"
+      },
+      "sources": [
+        {
+          "url": "https://www.nga.gov/artworks/30228-breezing-fair-wind",
+          "title": "历史原作与馆藏记录"
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1enXoBSEfU/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "名画改编",
+        "数字油画",
+        "奶蛙"
+      ],
+      "alt": "斜倾帆船里，四只奶蛙各占不同姿势，帆、绳与浪把船体推向画外。",
+      "wallText": "同一船的倾斜让四种支撑动作发生联系。角色保留独立位置，不把历史象征转成虚构奶蛙背景设定。",
+      "interpretation": [
+        "斜倾帆船里，四只奶蛙各占不同姿势，帆、绳与浪把船体推向画外。 同一船的倾斜让四种支撑动作发生联系。角色保留独立位置，不把历史象征转成虚构奶蛙背景设定。",
+        "本作从Winslow Homer / 温斯洛·霍默《Breezing Up (A Fair Wind) / 顺风》的具体形式关系出发，选定第二版保留一顶草帽；不指定年龄或亲属关系，不声称实际航行。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第2版。以数字油画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。选定第二版保留一顶草帽；不指定年龄或亲属关系，不声称实际航行。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/089-four-positions-in-one-boat/art.webp",
+      "thumbnail": "media/089-four-positions-in-one-boat/art-thumb.webp",
+      "width": 1582,
+      "height": 994,
+      "extraViews": []
+    },
+    {
+      "number": "P90",
+      "id": "090-autumn-reaches-the-broom",
+      "title": "扫帚也到了秋天",
+      "titleEn": "Autumn Reaches the Broom",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 油毡刻印式插画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景、构图与动作设计原创，不宣称奶蛙角色IP原创或官方授权。不是特定历史作品改编。"
+      },
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1enXoBSEfU/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "原创场景",
+        "油毡刻印式插画",
+        "奶蛙"
+      ],
+      "alt": "蓝地珊瑚墙前，奶蛙双手握同一木柄，枝冠带着橙叶，地上又聚着落叶。",
+      "wallText": "扫除工具也在落叶，木柄连接动作与新出现的碎片。角色保持轻松表情，困境通过器物的性质出现。",
+      "interpretation": [
+        "蓝地珊瑚墙前，奶蛙双手握同一木柄，枝冠带着橙叶，地上又聚着落叶。 扫除工具也在落叶，木柄连接动作与新出现的碎片。角色保持轻松表情，困境通过器物的性质出现。",
+        "这一场景没有指定历史名画为构图来源，纸纹较密、手臂偏壮、趾略长，不称完成一轮扫地或真实版画。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以油毡刻印式插画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。纸纹较密、手臂偏壮、趾略长，不称完成一轮扫地或真实版画。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/090-autumn-reaches-the-broom/art.webp",
+      "thumbnail": "media/090-autumn-reaches-the-broom/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": []
+    },
+    {
+      "number": "P91",
+      "id": "091-hold-this-breeze-together",
+      "title": "床单把风留了一会儿",
+      "titleEn": "Hold This Breeze Together",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 水彩式插画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景、构图与动作设计原创，不宣称奶蛙角色IP原创或官方授权。不是特定历史作品改编。"
+      },
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1enXoBSEfU/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "原创场景",
+        "水彩式插画",
+        "奶蛙"
+      ],
+      "alt": "两只奶蛙左右握住大白布，布面鼓起，空白浅地与蓝天让蓝影延伸。",
+      "wallText": "普通织物把两个身体连成共同动作，风的方向通过布弧显露。画面保留两端支撑，不让布变成另一个角色。",
+      "interpretation": [
+        "两只奶蛙左右握住大白布，布面鼓起，空白浅地与蓝天让蓝影延伸。 普通织物把两个身体连成共同动作，风的方向通过布弧显露。画面保留两端支撑，不让布变成另一个角色。",
+        "这一场景没有指定历史名画为构图来源，布受力与轻体积为绘画简化，不声称精确风速或真实共同劳作过程。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第2版。以水彩式插画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。布受力与轻体积为绘画简化，不声称精确风速或真实共同劳作过程。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/091-hold-this-breeze-together/art.webp",
+      "thumbnail": "media/091-hold-this-breeze-together/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": []
+    },
+    {
+      "number": "P92",
+      "id": "092-a-small-harvest-close-to-the-ground",
+      "title": "拾起地上的一点黄",
+      "titleEn": "A Small Harvest Close to the Ground",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 数字油画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "Des glaneuses / 拾穗者",
+        "artist": "Jean-François Millet / 让-弗朗索瓦·米勒",
+        "date": "1857",
+        "note": "Musée d’Orsay；RF 592。保留并重新组织本作可见的构图、材料或动作关系；解读属于本项目，不等同原作者意图。历史来源不扩大角色权利。"
+      },
+      "sources": [
+        {
+          "url": "https://www.musee-orsay.fr/fr/oeuvres/des-glaneuses-342?no_cache=1",
+          "title": "历史原作与馆藏记录"
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1enXoBSEfU/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "名画改编",
+        "数字油画",
+        "奶蛙"
+      ],
+      "alt": "田野里三只奶蛙分别低身捡拾与站立看向地面，收获堆和远处乡野延伸在后。",
+      "wallText": "低处劳动保持在大风景的下缘，不被表情特写取代。三个相邻姿势形成不同的停顿与支撑。",
+      "interpretation": [
+        "田野里三只奶蛙分别低身捡拾与站立看向地面，收获堆和远处乡野延伸在后。 低处劳动保持在大风景的下缘，不被表情特写取代。三个相邻姿势形成不同的停顿与支撑。",
+        "本作从Jean-François Millet / 让-弗朗索瓦·米勒《Des glaneuses / 拾穗者》的具体形式关系出发，不把原作社会关系直接套成角色背景，手与地面接触有绘画简化。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以数字油画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。不把原作社会关系直接套成角色背景，手与地面接触有绘画简化。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/092-a-small-harvest-close-to-the-ground/art.webp",
+      "thumbnail": "media/092-a-small-harvest-close-to-the-ground/art-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "extraViews": []
+    },
+    {
+      "number": "P93",
+      "id": "093-this-one-does-not-fit-the-pocket",
+      "title": "洞口小了一点",
+      "titleEn": "This One Does Not Fit the Pocket",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 平面色块",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛋（社区衍生样本）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景、构图与动作设计原创，不宣称奶蛋角色IP原创或官方授权。不是特定历史作品改编。"
+      },
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1tXKf6YEqE/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "原创场景",
+        "平面色块",
+        "奶蛋"
+      ],
+      "alt": "绿台面上，无肢奶蛋靠近右下黑色袋口，白球留在远处，黄卵明显大于孔口。",
+      "wallText": "物件身份与角色面孔在同一表面上竞争。黑孔给出尺寸参照，题名式期待并不证明卵形能够进入。",
+      "interpretation": [
+        "绿台面上，无肢奶蛋靠近右下黑色袋口，白球留在远处，黄卵明显大于孔口。 物件身份与角色面孔在同一表面上竞争。黑孔给出尺寸参照，题名式期待并不证明卵形能够进入。",
+        "这一场景没有指定历史名画为构图来源，不称真实台球尺寸、比赛或已发生碰撞，奶蛋无手脚腹片。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以平面色块的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。不称真实台球尺寸、比赛或已发生碰撞，奶蛋无手脚腹片。 角色采用奶蛋（社区衍生样本），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/093-this-one-does-not-fit-the-pocket/art.webp",
+      "thumbnail": "media/093-this-one-does-not-fit-the-pocket/art-thumb.webp",
+      "width": 1254,
+      "height": 1254,
+      "extraViews": []
+    },
+    {
+      "number": "P94",
+      "id": "094-tie-the-flowerpot-together",
+      "title": "把裂缝系紧一点",
+      "titleEn": "Tie the Flowerpot Together",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 水彩式插画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景、构图与动作设计原创，不宣称角色IP原创或官方授权。不是特定历史作品改编。"
+      },
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1enXoBSEfU/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "原创场景",
+        "水彩式插画",
+        "奶蛙"
+      ],
+      "alt": "奶蛙坐在陶盆旁，两手系蓝色绳结，绳像鞋带一样穿过花盆竖裂缝。",
+      "wallText": "裂口没有被擦掉，而以日常系结方式重新连接。植物与盆仍各保留重量，修补成为可见动作。",
+      "interpretation": [
+        "奶蛙坐在陶盆旁，两手系蓝色绳结，绳像鞋带一样穿过花盆竖裂缝。 裂口没有被擦掉，而以日常系结方式重新连接。植物与盆仍各保留重量，修补成为可见动作。",
+        "这一场景没有指定历史名画为构图来源，不作为真实陶器修复或植物护理指导，绳孔与泥盆为绘画简化。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以水彩式插画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。不作为真实陶器修复或植物护理指导，绳孔与泥盆为绘画简化。 角色采用奶蛙，原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/094-tie-the-flowerpot-together/art.webp",
+      "thumbnail": "media/094-tie-the-flowerpot-together/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": []
+    },
+    {
+      "number": "P95",
+      "id": "095-wash-this-foot-first",
+      "title": "先洗这一只",
+      "titleEn": "Wash This Foot First",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 数字油画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙",
+      "source": {
+        "title": "The Child’s Bath / 孩童沐浴",
+        "artist": "Mary Cassatt / 玛丽·卡萨特",
+        "date": "1893",
+        "note": "Art Institute of Chicago；1910.2。保留并重新组织本作可见的构图、材料或动作关系；解读属于本项目，不等同原作者意图。历史来源不扩大角色权利。"
+      },
+      "sources": [
+        {
+          "url": "https://www.artic.edu/artworks/111442/the-child-s-bath",
+          "title": "历史原作与馆藏记录"
+        },
+        {
+          "url": "https://api.artic.edu/api/v1/artworks/111442",
+          "title": "角色参考作品与发布者来源"
+        },
+        {
+          "url": "https://shop.artic.edu/products/285981",
+          "title": "角色参考作品与发布者来源"
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1enXoBSEfU/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "名画改编",
+        "数字油画",
+        "奶蛙"
+      ],
+      "alt": "花纹室内，大奶蛙扶着小奶蛙靠近白水盆，壶在右前方，手脚和盆缘相叠。",
+      "wallText": "照料关系由扶住身体、接近一只脚和水盆位置共同形成。衣物与人类脸被撤去，体量差仍支撑亲近读法。",
+      "interpretation": [
+        "花纹室内，大奶蛙扶着小奶蛙靠近白水盆，壶在右前方，手脚和盆缘相叠。 照料关系由扶住身体、接近一只脚和水盆位置共同形成。衣物与人类脸被撤去，体量差仍支撑亲近读法。",
+        "本作从Mary Cassatt / 玛丽·卡萨特《The Child’s Bath / 孩童沐浴》的具体形式关系出发，不指定亲属、逐趾接触或真实清洗步骤，小蛙腿略长，右脚悬近盆沿。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以数字油画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。不指定亲属、逐趾接触或真实清洗步骤，小蛙腿略长，右脚悬近盆沿。 角色采用奶蛙，原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/095-wash-this-foot-first/art.webp",
+      "thumbnail": "media/095-wash-this-foot-first/art-thumb.webp",
+      "width": 1024,
+      "height": 1535,
+      "extraViews": []
+    },
+    {
+      "number": "P96",
+      "id": "096-a-larger-view-through-the-water",
+      "title": "隔着水看大一点",
+      "titleEn": "A Larger View through the Water",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 彩铅水彩式静物",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛋（社区衍生样本）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景、构图设计原创，不宣称角色IP原创或官方授权。不是特定历史作品改编。"
+      },
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1tXKf6YEqE/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "原创场景",
+        "彩铅水彩式静物",
+        "奶蛋"
+      ],
+      "alt": "紫桌上，无肢黄奶蛋位于透明水杯后方，右眼在水杯范围内显著放大，左眼保持普通尺度。",
+      "wallText": "未放大与放大部分同时出现，透明材料改变的是局部观看。卵形外轮廓连续，不是一枚独立眼球漂在杯里。",
+      "interpretation": [
+        "紫桌上，无肢黄奶蛋位于透明水杯后方，右眼在水杯范围内显著放大，左眼保持普通尺度。 未放大与放大部分同时出现，透明材料改变的是局部观看。卵形外轮廓连续，不是一枚独立眼球漂在杯里。",
+        "这一场景没有指定历史名画为构图来源，杯宽较大、黄卵偏高瘦、纹理偏多；不将放大倍数当真实折射测量。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以彩铅水彩式静物的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。杯宽较大、黄卵偏高瘦、纹理偏多；不将放大倍数当真实折射测量。 角色采用奶蛋（社区衍生样本），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/096-a-larger-view-through-the-water/art.webp",
+      "thumbnail": "media/096-a-larger-view-through-the-water/art-thumb.webp",
+      "width": 1254,
+      "height": 1254,
+      "extraViews": []
+    },
+    {
+      "number": "P97",
+      "id": "097-almost-an-embrace",
+      "title": "差一点就抱住了",
+      "titleEn": "Almost an Embrace",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 水粉彩铅式插画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景、构图与动作设计原创，不宣称角色IP原创或官方授权。不是特定历史作品改编。"
+      },
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1enXoBSEfU/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "原创场景",
+        "水粉彩铅式插画",
+        "奶蛙"
+      ],
+      "alt": "两只奶蛙围抱粗树干，近侧双手隔着树皮仍有小间隙，三片叶落在橙地上。",
+      "wallText": "共同动作已经形成，却没有闭合成一个圆。树干宽度与手间空隙让努力保持可见，无需写成失败或胜利。",
+      "interpretation": [
+        "两只奶蛙围抱粗树干，近侧双手隔着树皮仍有小间隙，三片叶落在橙地上。 共同动作已经形成，却没有闭合成一个圆。树干宽度与手间空隙让努力保持可见，无需写成失败或胜利。",
+        "这一场景没有指定历史名画为构图来源，两臂延长、远手遮挡、树皮笔触较密，不称四手闭合或周长测量。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以水粉彩铅式插画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。两臂延长、远手遮挡、树皮笔触较密，不称四手闭合或周长测量。 角色采用奶蛙，原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/097-almost-an-embrace/art.webp",
+      "thumbnail": "media/097-almost-an-embrace/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": []
+    },
+    {
+      "number": "P98",
+      "id": "098-do-not-touch-this-breath-yet",
+      "title": "先别碰这一口气",
+      "titleEn": "Do Not Touch This Breath Yet",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 数字油画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙",
+      "source": {
+        "title": "Soap Bubbles / 肥皂泡",
+        "artist": "Jean Siméon Chardin / 让-西梅翁·夏尔丹",
+        "date": "ca. 1733–34",
+        "note": "The Metropolitan Museum of Art；49.24。保留并重新组织本作可见的构图、材料或动作关系；解读属于本项目，不等同原作者意图。历史来源不扩大角色权利。"
+      },
+      "sources": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/435888",
+          "title": "历史原作与馆藏记录"
+        },
+        {
+          "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/435888/1507010/main-image",
+          "title": "角色参考作品与发布者来源"
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1enXoBSEfU/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "名画改编",
+        "数字油画",
+        "奶蛙"
+      ],
+      "alt": "石台后两只奶蛙靠近一根斜草管，主蛙握管贴嘴，管端连向右下透明泡，左侧小杯平衡画面。",
+      "wallText": "透明泡与暗石材保持不同的边界，另一个小头只靠近观看而没有触碰。注意力停在仍相连的薄材料上。",
+      "interpretation": [
+        "石台后两只奶蛙靠近一根斜草管，主蛙握管贴嘴，管端连向右下透明泡，左侧小杯平衡画面。 透明泡与暗石材保持不同的边界，另一个小头只靠近观看而没有触碰。注意力停在仍相连的薄材料上。",
+        "本作从Jean Siméon Chardin / 让-西梅翁·夏尔丹《Soap Bubbles / 肥皂泡》的具体形式关系出发，选定第二版减弱玻璃眼和写实指节；泡缘偏硬，眼缘少量阴影保留，不作精确物理演示。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第2版。以数字油画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。选定第二版减弱玻璃眼和写实指节；泡缘偏硬，眼缘少量阴影保留，不作精确物理演示。 角色采用奶蛙，原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/098-do-not-touch-this-breath-yet/art.webp",
+      "thumbnail": "media/098-do-not-touch-this-breath-yet/art-thumb.webp",
+      "width": 1254,
+      "height": 1254,
+      "extraViews": []
+    },
+    {
+      "number": "P99",
+      "id": "099-lend-the-umbrella-to-the-bun-first",
+      "title": "伞先借给包子",
+      "titleEn": "Lend the Umbrella to the Bun First",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 墨线水彩式插画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶龙（官方IP形象的非官方二创）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景、构图与动作设计原创，不宣称奶龙角色IP原创或官方授权。不是特定历史作品改编。"
+      },
+      "sources": [
+        {
+          "url": "https://www.nailoong.com/ipStar/Nailong/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "原创场景",
+        "墨线水彩式插画",
+        "奶龙"
+      ],
+      "alt": "奶龙在雨中托着白包子，另一手持小红伞遮住食物，大圆头仍露在雨里，背棘和短尾可见。",
+      "wallText": "伞按通常方式打开，变化落在保护对象的选择。头上水滴与包子附近的蒸汽形成轻微反差。",
+      "interpretation": [
+        "奶龙在雨中托着白包子，另一手持小红伞遮住食物，大圆头仍露在雨里，背棘和短尾可见。 伞按通常方式打开，变化落在保护对象的选择。头上水滴与包子附近的蒸汽形成轻微反差。",
+        "这一场景没有指定历史名画为构图来源，定稿第二版删除多余横臂；双臂同侧叠出、尾棘简化，不称食物绝对干燥。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第2版。以墨线水彩式插画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。定稿第二版删除多余横臂；双臂同侧叠出、尾棘简化，不称食物绝对干燥。 角色采用奶龙（官方IP形象的非官方二创），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/099-lend-the-umbrella-to-the-bun-first/art.webp",
+      "thumbnail": "media/099-lend-the-umbrella-to-the-bun-first/art-thumb.webp",
+      "width": 1122,
+      "height": 1402,
+      "extraViews": []
+    },
+    {
+      "number": "P100",
+      "id": "100-this-page-opens-by-itself",
+      "title": "这一页，自己长开了",
+      "titleEn": "This Page Opens by Itself",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 细墨线水彩式插画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（非官方二创）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景、构图与动作设计原创，不宣称角色IP原创或官方授权。不是特定历史作品改编。"
+      },
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1enXoBSEfU/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "原创场景",
+        "细墨线水彩式插画",
+        "奶蛙"
+      ],
+      "alt": "厚蓝书的封面被页间枝茎顶成楔形，小奶蛙倾顶针，水滴落向页缘，绿叶伸出书外。",
+      "wallText": "植物生长改变了阅读对象的开合，微小浇水容器又把角色放在大书旁的养护位置。空气隔开叶片和身体。",
+      "interpretation": [
+        "厚蓝书的封面被页间枝茎顶成楔形，小奶蛙倾顶针，水滴落向页缘，绿叶伸出书外。 植物生长改变了阅读对象的开合，微小浇水容器又把角色放在大书旁的养护位置。空气隔开叶片和身体。",
+        "这一场景没有指定历史名画为构图来源，枝茎分叉、纸纹较密、书左侧出画；不称真实植物力学、土壤或水滴落在根部。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以细墨线水彩式插画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。枝茎分叉、纸纹较密、书左侧出画；不称真实植物力学、土壤或水滴落在根部。 角色采用奶蛙（非官方二创），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/100-this-page-opens-by-itself/art.webp",
+      "thumbnail": "media/100-this-page-opens-by-itself/art-thumb.webp",
+      "width": 1402,
+      "height": 1122,
+      "extraViews": []
+    },
+    {
+      "number": "P101",
+      "id": "101-the-ball-is-still-in-sunlight",
+      "title": "球还在阳光里",
+      "titleEn": "The Ball Is Still in Sunlight",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 薄层油画色面",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（非官方二创）",
+      "source": {
+        "title": "Le Ballon / The Ball",
+        "artist": "Félix Vallotton / 费利克斯·瓦洛东",
+        "date": "1899",
+        "note": "Musée d’Orsay；RF 1977 353; AM 3203。保留并重新组织本作可见的构图、材料或动作关系；解读属于本项目，不等同原作者意图。历史来源不扩大角色权利。"
+      },
+      "sources": [
+        {
+          "url": "https://www.musee-orsay.fr/en/artworks/le-ballon-8032",
+          "title": "历史原作与馆藏记录"
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1enXoBSEfU/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "名画改编",
+        "薄层油画色面",
+        "奶蛙"
+      ],
+      "alt": "大片暗树影与弧形赭地交接，小奶蛙在近处朝红球移动，两只极小黄色形体留在远端。",
+      "wallText": "红球所在的光区与近远三个身体尺度共同组织观看。角色不占据画面，地面的边界才是主要空间线索。",
+      "interpretation": [
+        "大片暗树影与弧形赭地交接，小奶蛙在近处朝红球移动，两只极小黄色形体留在远端。 红球所在的光区与近远三个身体尺度共同组织观看。角色不占据画面，地面的边界才是主要空间线索。",
+        "本作从Félix Vallotton / 费利克斯·瓦洛东《Le Ballon / The Ball》的具体形式关系出发，叶簇较具体重复、主蛙有轻体积；可读为走或小跑，不称已踢球或真实速度。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以薄层油画色面的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。叶簇较具体重复、主蛙有轻体积；可读为走或小跑，不称已踢球或真实速度。 角色采用奶蛙（非官方二创），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/101-the-ball-is-still-in-sunlight/art.webp",
+      "thumbnail": "media/101-the-ball-is-still-in-sunlight/art-thumb.webp",
+      "width": 1402,
+      "height": 1122,
+      "extraViews": []
+    },
+    {
+      "number": "P102",
+      "id": "102-this-copy-is-a-little-long",
+      "title": "这一张，有点长",
+      "titleEn": "This Copy Is a Little Long",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 水粉式编辑插画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛋（社区衍生角色）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景、构图与动作关系原创，不宣称角色IP原创或官方授权。不是特定历史作品改编。"
+      },
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1tXKf6YEqE/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "原创场景",
+        "水粉式编辑插画",
+        "奶蛋"
+      ],
+      "alt": "开盖复印机玻璃上立着短黄奶蛋，出纸口垂下弯纸，纸中印像拉成长黄形，两层表面明确分开。",
+      "wallText": "一实体与一图像并置，安静的卵形和过长印像让复制出现差异。纸弯曲承接印色，不能另计第二只活体。",
+      "interpretation": [
+        "开盖复印机玻璃上立着短黄奶蛋，出纸口垂下弯纸，纸中印像拉成长黄形，两层表面明确分开。 一实体与一图像并置，安静的卵形和过长印像让复制出现差异。纸弯曲承接印色，不能另计第二只活体。",
+        "这一场景没有指定历史名画为构图来源，眼形偏长、玻璃反射与轻体积保留；这是设备寓言，不声称真实扫描正脸或精确故障原因。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以水粉式编辑插画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。眼形偏长、玻璃反射与轻体积保留；这是设备寓言，不声称真实扫描正脸或精确故障原因。 角色采用奶蛋（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/102-this-copy-is-a-little-long/art.webp",
+      "thumbnail": "media/102-this-copy-is-a-little-long/art-thumb.webp",
+      "width": 1254,
+      "height": 1254,
+      "extraViews": []
+    },
+    {
+      "number": "P103",
+      "id": "103-even-the-empty-seats-listen",
+      "title": "空位也在听",
+      "titleEn": "Even the Empty Seats Listen",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 剪纸丝网式插画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "原创场景与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "仅场景、构图与观看关系原创，不宣称角色IP原创或官方授权。不是特定历史作品改编。"
+      },
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1enXoBSEfU/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "原创场景",
+        "剪纸丝网式插画",
+        "奶蛙"
+      ],
+      "alt": "巨大的蓝色空座列阵斜切朱红舞台，小奶蛙站在右上方，面向没有观众的席位。",
+      "wallText": "空席成为比角色更强的观看对象，等待与缺席通过尺度和方向出现。标题中的听是拟人化想象，而非已经发生的节目。",
+      "interpretation": [
+        "巨大的蓝色空座列阵斜切朱红舞台，小奶蛙站在右上方，面向没有观众的席位。 空席成为比角色更强的观看对象，等待与缺席通过尺度和方向出现。标题中的听是拟人化想象，而非已经发生的节目。",
+        "这一场景没有指定历史名画为构图来源，仅首版；远眼缩图隐约、腿稍长、腹部轻体积与颗粒保留，不称真实发声或已表演。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以剪纸丝网式插画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。仅首版；远眼缩图隐约、腿稍长、腹部轻体积与颗粒保留，不称真实发声或已表演。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/103-even-the-empty-seats-listen/art.webp",
+      "thumbnail": "media/103-even-the-empty-seats-listen/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": []
+    },
+    {
+      "number": "P104",
+      "id": "104-cold-weather-home-first",
+      "title": "天冷，先回家",
+      "titleEn": "Cold Weather, Home First",
+      "year": "2026",
+      "medium": "AI 辅助图像 · 木板油画式绘画",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生角色）",
+      "source": {
+        "title": "The Hunters in the Snow",
+        "artist": "Pieter Bruegel the Elder",
+        "date": "1565",
+        "note": "Kunsthistorisches Museum Vienna；GG1838。保留并重新组织本作可见的构图、材料或动作关系；解读属于本项目，不等同原作者意图。历史来源不扩大角色权利。"
+      },
+      "sources": [
+        {
+          "url": "https://www.bruegel2018.at/en/the-hunters-in-the-snow/",
+          "title": "历史原作与馆藏记录"
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1enXoBSEfU/",
+          "title": "角色参考作品与发布者来源"
+        }
+      ],
+      "tags": [
+        "名画改编",
+        "木板油画式绘画",
+        "奶蛙"
+      ],
+      "alt": "冬日日景中，两位主要奶蛙归来者和犬队位于左侧裸树下，雪坡向村落下降，远处两片青绿冰面和尖山展开。",
+      "wallText": "近景黑树、斜坡和微小远景活动构成山谷尺度。原作三位主要猎人简化为两位归来者，省去猎物，将观看转向归途而不补写明确目的地。",
+      "interpretation": [
+        "冬日日景中，两位主要奶蛙归来者和犬队位于左侧裸树下，雪坡向村落下降，远处两片青绿冰面和尖山展开。 近景黑树、斜坡和微小远景活动构成山谷尺度。原作三位主要猎人简化为两位归来者，省去猎物，将观看转向归途而不补写明确目的地。",
+        "本作从Pieter Bruegel the Elder《The Hunters in the Snow》的具体形式关系出发，仅首版；身体略圆有轻体积、背影不见腹片、树枝偏密、远人细腿简写，不称三人精确复刻或冬夜夜景。 题名与情绪读法属于当代观看解释；图像不能替未发生的动作、角色心理或科学结论作证。"
+      ],
+      "creationNote": "选定第1版。以木板油画式绘画的视觉语言重新绘制角色、动作与空间，采用AI辅助生成；不是实体媒介作品。仅首版；身体略圆有轻体积、背影不见腹片、树枝偏密、远人细腿简写，不称三人精确复刻或冬夜夜景。 角色采用奶蛙（社区衍生角色），原创只指场景或改编中的构图取舍，不宣称角色IP原创、官方授权或参考图转载许可。",
+      "image": "media/104-cold-weather-home-first/art.webp",
+      "thumbnail": "media/104-cold-weather-home-first/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
       "extraViews": []
     }
   ],
