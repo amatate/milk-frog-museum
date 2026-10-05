@@ -2599,8 +2599,8 @@
       "primaryHallId": "reproduction",
       "clusterId": "reproduction-4",
       "route": "#/work/087-before-the-last-tile-falls",
-      "lookFor": "奶蛋旁的红色多米诺骨牌一枚接一枚倾斜，远端弯曲的列阵仍站立。",
-      "placementRationale": "无手足身体处在连锁变化的一端，不能因此确认它启动了变化。倾斜和竖直之间的差异把时间分成可看的阶段。",
+      "lookFor": "先找奶蛋身边那几块倒牌，再顺着红牌看看拐弯处。",
+      "placementRationale": "近处的牌已经靠在一起，远处的队伍还很齐。",
       "analyzedIn": [],
       "relatedReading": [
         "simple-forms-complex-expression",
