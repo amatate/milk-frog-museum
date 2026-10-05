@@ -59,7 +59,7 @@
       "本项目的创作、筛选、展签与研究彼此相关。策展文本可以提出读法，不能替作品证明观众已经被治愈、冒犯或说服。研究区继续追问这些判断如何取证；版本对照则让部分选择留在图像之间，而不是只留在一段解释里。"
     ],
     "researchPreviewTitle": "创作研究与作品推荐",
-    "researchPreviewText": "作品提供问题，研究说明证据。五篇创作研究继续辨析名称、形态、媒介与传播，四篇作品导览从具体画面和原站链接进入创作者的工作。"
+    "researchPreviewText": "作品提供问题，研究说明证据。五篇创作研究继续辨析名称、形态、媒介与传播，四篇作品导览从具体画面和原站链接进入创作者的工作。 两篇创作者记录回看生成、修改与取舍，图版随文阅读。"
   },
   "navigation": [
     {
@@ -5443,7 +5443,7 @@
   ],
   "research": {
     "title": "创作研究与作品推荐",
-    "intro": "五篇创作研究与四篇独立作品导览：区分品牌、社区衍生与项目采用的形象，观察角色、媒介、空间与动画镜头，循署名链接回到作者原站。",
+    "intro": "五篇创作研究、四篇独立作品导览与两篇创作者记录：区分品牌、社区衍生与项目采用的形象，观察角色、媒介、空间与动画镜头，循署名链接回到作者原站，并回看项目中的生成、修改与取舍。",
     "readingOrder": [
       "nailoong-milk-frog-origins",
       "simple-forms-complex-expression",
@@ -5453,7 +5453,9 @@
       "naixiao-poolcore-space",
       "nailoong-derivative-forms",
       "naishansusu-animated-ensemble",
-      "zeyang-paintings-in-time"
+      "zeyang-paintings-in-time",
+      "body-still-on-the-ground",
+      "what-remains-after-repetition"
     ],
     "cards": [
       {
@@ -5606,6 +5608,29 @@
         "relatedWorkIds": [],
         "relationship": "本馆原创文字研究与原站导览；第三方原作只以署名外链呈现。",
         "route": "#/essay/zeyang-paintings-in-time"
+      },
+      {
+        "id": "body-still-on-the-ground",
+        "title": "身体还贴着地",
+        "dek": "从掌根、肩窝与空隙，回看身体如何借力，以及哪些修改值得留下。",
+        "workIds": [],
+        "relatedWorkIds": [
+          "202-lower-the-shoulder-a-little",
+          "206-a-little-space-remains-between"
+        ],
+        "relationship": "文章中的创作图版依原稿顺序展示；相关馆藏入口仅连接本站已有主展品。",
+        "route": "#/essay/body-still-on-the-ground"
+      },
+      {
+        "id": "what-remains-after-repetition",
+        "title": "重复以后留下什么",
+        "dek": "把拒绝的偏差、接受的损失与改变的计划放在一起，看持续创作留下什么。",
+        "workIds": [],
+        "relatedWorkIds": [
+          "207-a-face-rises-from-the-thick-paint"
+        ],
+        "relationship": "文章中的创作图版依原稿顺序展示；相关馆藏入口仅连接本站已有主展品。",
+        "route": "#/essay/what-remains-after-repetition"
       }
     ],
     "labels": {
