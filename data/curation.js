@@ -1,6 +1,6 @@
 window.MUSEUM_CURATION = {
   "schemaVersion": 1,
-  "contentVersion": "20261005-morning",
+  "contentVersion": "20261005-p207",
   "language": "zh-Hans",
   "identity": {
     "name": "奶蛙现代艺术馆",
@@ -9,7 +9,7 @@ window.MUSEUM_CURATION = {
     "tagline": "从一张脸，看到它周围的规则"
   },
   "statistics": {
-    "mainWorks": 120,
+    "mainWorks": 222,
     "halls": 5,
     "earlierVersions": 6,
     "additionalViews": 7,
@@ -22,7 +22,7 @@ window.MUSEUM_CURATION = {
     "title": "奶蛙现代艺术馆",
     "titleEn": "Milk Frog Museum of Modern Art",
     "subtitle": "从一张脸，看到它周围的规则",
-    "intro": "从镜中的背影到失去水的瓷砖，从一枚未读标记到只剩黄色的方块，120件作品追问：一个角色可以改变多少，仍与原来的自己发生关系？沿五个展厅观看，也可按媒介和编号查阅。",
+    "intro": "从镜中的背影到失去水的瓷砖，从一枚未读标记到只剩黄色的方块，222件作品追问：一个角色可以改变多少，仍与原来的自己发生关系？沿五个展厅观看，也可按媒介和编号查阅。",
     "headline": "一只熟悉的身体，\n世界不再严丝合缝。",
     "featuredId": "011-incompatible-lunch",
     "statement": "先认出它，再看它与周围事物的关系。每一次改写，都要说明哪些线索被保住，哪些规则被改变。",
@@ -43,7 +43,7 @@ window.MUSEUM_CURATION = {
     "heroCaption": "展览入口 · P11",
     "latestWorkId": "016-shadow-check-in",
     "primaryAction": "沿五厅开始观看",
-    "secondaryAction": "查阅全部120件作品",
+    "secondaryAction": "查阅全部222件作品",
     "prefaceTitle": "从一处具体的关系开始",
     "preface": [
       "一只黄色身体站在镜前，镜子没有交出它的脸。换一幅图，它已坐好，桌子、盘子和椅子却没能组成同一间屋子。再往后，眼睛、手脚和腹部陆续退场，题名仍请我们在一块黄色里寻找奶蛙。",
@@ -85,7 +85,7 @@ window.MUSEUM_CURATION = {
   ],
   "collection": {
     "title": "作品总目录",
-    "intro": "120件主展品各有一个主要展厅。主题路线安排观看顺序；媒介、编号和旧作归档筛选帮助查找。六张早期版本保留在对应作品页，附加视角也随原作品展示。 Blender九项研究合计一件组作，单件可在组内继续浏览。",
+    "intro": "222件主展品各有一个主要展厅。主题路线安排观看顺序；媒介、编号和旧作归档筛选帮助查找。六张早期版本保留在对应作品页，附加视角也随原作品展示。 Blender九项研究合计一件组作，单件可在组内继续浏览。",
     "mediumDescriptions": {
       "image": "生成式图像中的构图、色彩与媒介模拟，包括历史关联改写和新的场景安排。",
       "3d": "一件Blender数字雕塑与姿态组作，含S01–S09九项研究；各单件页面与附加视角保留，不分别计入主馆藏。",
@@ -117,17 +117,29 @@ window.MUSEUM_CURATION = {
       "059-the-riverbank-grows-into-me",
       "080-a-body-held-in-gold",
       "086-arriving-on-a-shell",
+      "165-standing-among-yellow-leaves",
+      "178-i-left-the-door-ajar",
+      "182-stitches-take-longer-than-a-smile",
       "001-forbidden-reflection",
       "archive-not-reproduced",
       "005-mirror-cubism",
       "096-a-larger-view-through-the-water",
+      "127-a-village-between-two-gazes",
+      "129-the-shadow-enters-the-mountains",
+      "168-the-waterline-shifts-the-yellow",
       "archive-not-a-nailong",
       "009-verification",
       "052-one-extra-expression",
+      "156-the-stones-do-not-answer",
+      "169-another-gaze-in-the-boxes",
       "wave-loop-01",
       "033-between-two-hands",
       "037-time-to-watch-the-fish",
       "038-i-heard-you",
+      "123-one-fingertip-away",
+      "131-hold-this-flat-stone-first",
+      "146-hold-one-nail-straight",
+      "171-a-red-leaf-passes-before-the-nose",
       "003-milkmaid-frog",
       "004-dance-milk-frogs",
       "026-the-tables-turn-to-skip-rope",
@@ -147,6 +159,34 @@ window.MUSEUM_CURATION = {
       "094-tie-the-flowerpot-together",
       "098-do-not-touch-this-breath-yet",
       "101-the-ball-is-still-in-sunlight",
+      "105-stand-the-other-way-for-a-while",
+      "106-this-letter-can-reach",
+      "109-hold-this-beat",
+      "110-wings-left-in-the-snow",
+      "113-one-cherry-higher",
+      "116-pulling-the-white-line-into-a-curve",
+      "117-one-roll-a-longer-sheet-of-dough",
+      "119-hold-this-hole-for-now",
+      "121-a-fingertip-against-the-heavens",
+      "122-tighten-this-one-first",
+      "124-a-breath-held-a-little-longer",
+      "125-turn-the-basket-sideways-first",
+      "128-where-the-air-escapes",
+      "134-the-feet-rise-before-the-bell-rings",
+      "136-up-this-step-together",
+      "140-twisting-the-blue-together",
+      "141-this-foot-still-falls-short",
+      "143-the-pencil-is-still-long",
+      "145-give-this-handful-to-the-earth",
+      "147-the-bread-is-a-little-wider-than-the-slot",
+      "148-oars-at-the-water-s-surface",
+      "149-let-the-rain-reach-my-face",
+      "157-the-ball-is-still-near-the-hands",
+      "166-the-wind-turns-pages-into-the-sky",
+      "167-passing-over-your-back",
+      "184-sweeping-dusk-to-my-feet",
+      "186-hold-the-guitar-close",
+      "187-walking-together-empty-handed",
       "008-rural-portrait",
       "007-golden-embrace",
       "044-that-sound-on-the-bridge",
@@ -155,10 +195,19 @@ window.MUSEUM_CURATION = {
       "081-one-burr-at-a-time",
       "095-wash-this-foot-first",
       "097-almost-an-embrace",
+      "112-lend-me-your-shoulder-for-a-moment",
+      "170-neither-of-us-is-holding-the-red",
+      "172-ophelia",
+      "173-saturn-with-a-broken-effigy",
+      "175-the-wind-passes-beneath-the-parasol",
+      "202-lower-the-shoulder-a-little",
       "006-night-diner",
       "034-the-last-bus-with-a-tomato-plant",
       "078-the-rain-catches-up-on-the-bridge",
       "104-cold-weather-home-first",
+      "114-let-this-note-sit-for-a-while",
+      "150-the-door-opens-a-face-appears",
+      "179-no-next-song",
       "002-sleeping-milk-frog",
       "014-zipper-lunch",
       "032-an-unfamiliar-pair",
@@ -166,6 +215,13 @@ window.MUSEUM_CURATION = {
       "048-this-page-belongs-to-the-cat",
       "083-leave-the-path-for-a-moment",
       "099-lend-the-umbrella-to-the-bun-first",
+      "111-let-the-paper-fly-a-little-longer",
+      "115-each-sits-by-the-water",
+      "118-at-this-page",
+      "130-even-yellow-falls-quiet",
+      "135-a-breath-between-the-seaweeds",
+      "153-sitting-for-a-while-inside-the-round-shadow",
+      "158-a-circle-of-water-for-each",
       "archive-listening-room",
       "029-two-books-taller-today",
       "020-uncreased-place",
@@ -186,17 +242,44 @@ window.MUSEUM_CURATION = {
       "072-time-softens-first",
       "088-a-river-through-the-map",
       "100-this-page-opens-by-itself",
+      "108-leave-the-door-ajar",
+      "132-through-the-space-between-mountains",
+      "137-make-a-little-room-for-the-belly",
+      "138-an-echo-in-an-empty-shell",
+      "139-a-little-room-between-umbrellas",
+      "151-different-light-at-one-table",
+      "152-two-streams-of-yellow-passing",
+      "155-someone-on-every-level",
+      "159-the-footprints-almost-come-back",
+      "160-only-this-patch-of-ground-beneath-the-umbrellas",
+      "161-four-windows-four-directions",
+      "163-two-distances-across-the-red",
+      "185-a-shadow-needs-no-pass",
+      "198-a-voice-caught-in-vertical-lines",
+      "199-a-line-of-light-beneath-the-feet",
+      "200-the-bird-is-still-attached-to-a-string",
+      "201-another-eye-above-the-ridge",
       "012-late-yellow",
       "015-sleep-loading",
+      "142-red-holds-the-room-together",
+      "180-flower-colors-grow-from-the-palm",
+      "181-the-garden-on-the-back-of-cardboard",
+      "194-the-button-moon-opened-its-mouth",
+      "195-the-paper-puppet-remained-after-the-curtain-call",
       "archive-marilyn-one",
       "archive-marilyn-nine",
       "archive-diptych",
       "archive-thirty-two",
       "archive-screen-test",
       "054-who-gets-the-strawberry",
+      "162-one-circle-has-eyes",
+      "192-one-position-grew-eyes",
       "archive-peaches",
       "archive-peach-passion",
       "050-the-signature",
+      "174-youth-still-unfilled",
+      "188-the-yellow-that-refuses-to-deflate",
+      "189-the-gift-is-larger-than-the-plinth",
       "archive-algorithm-belly",
       "archive-beautiful-frog",
       "archive-higher-traffic",
@@ -204,11 +287,23 @@ window.MUSEUM_CURATION = {
       "069-the-erased-place-lights-up",
       "082-three-bodies-one-arrangement",
       "102-this-copy-is-a-little-long",
+      "133-the-eye-has-reached-the-ground",
+      "176-no-blank-space-inside",
+      "177-arrows-through-the-belly",
+      "183-a-rim-of-yellow-held-by-rust",
+      "196-one-side-settles-the-other-sinks",
       "019-numbers-wait-for-me",
       "087-before-the-last-tile-falls",
+      "120-a-little-red-where-i-rolled",
+      "126-a-little-sand-between-us",
+      "164-one-line-through-four-places",
       "archive-little-sun",
       "archive-laughter-and-andy",
       "archive-yellow-square",
+      "107-eyes-grow-into-the-field",
+      "203-the-outline-has-not-settled",
+      "204-recognized-before-coming-together",
+      "207-a-face-rises-from-the-thick-paint",
       "archive-yellow-order",
       "archive-laughing-broadway",
       "archive-grid-unruly",
@@ -217,6 +312,9 @@ window.MUSEUM_CURATION = {
       "055-the-stripes-take-a-detour",
       "060-the-body-learns-geometry",
       "068-the-city-dances-into-me",
+      "144-after-white-light-parts",
+      "154-a-flower-amid-the-colors",
+      "193-two-eyes-after-the-spin",
       "016-shadow-check-in",
       "017-eye-at-low-tide",
       "057-four-ways-down",
@@ -226,7 +324,11 @@ window.MUSEUM_CURATION = {
       "075-the-flock-is-watching-me-too",
       "079-a-small-body-between-the-branches",
       "093-this-one-does-not-fit-the-pocket",
-      "103-even-the-empty-seats-listen"
+      "103-even-the-empty-seats-listen",
+      "190-someone-catches-it-in-every-direction",
+      "191-a-pulse-presses-beyond-the-frame",
+      "205-meeting-you-from-here",
+      "206-a-little-space-remains-between"
     ],
     "halls": [
       {
@@ -264,7 +366,10 @@ window.MUSEUM_CURATION = {
               "053-the-afternoon-in-pieces",
               "059-the-riverbank-grows-into-me",
               "080-a-body-held-in-gold",
-              "086-arriving-on-a-shell"
+              "086-arriving-on-a-shell",
+              "165-standing-among-yellow-leaves",
+              "178-i-left-the-door-ajar",
+              "182-stitches-take-longer-than-a-smile"
             ]
           },
           {
@@ -275,7 +380,10 @@ window.MUSEUM_CURATION = {
               "001-forbidden-reflection",
               "archive-not-reproduced",
               "005-mirror-cubism",
-              "096-a-larger-view-through-the-water"
+              "096-a-larger-view-through-the-water",
+              "127-a-village-between-two-gazes",
+              "129-the-shadow-enters-the-mountains",
+              "168-the-waterline-shifts-the-yellow"
             ]
           },
           {
@@ -285,7 +393,9 @@ window.MUSEUM_CURATION = {
             "workIds": [
               "archive-not-a-nailong",
               "009-verification",
-              "052-one-extra-expression"
+              "052-one-extra-expression",
+              "156-the-stones-do-not-answer",
+              "169-another-gaze-in-the-boxes"
             ]
           }
         ],
@@ -300,15 +410,23 @@ window.MUSEUM_CURATION = {
           "059-the-riverbank-grows-into-me",
           "080-a-body-held-in-gold",
           "086-arriving-on-a-shell",
+          "165-standing-among-yellow-leaves",
+          "178-i-left-the-door-ajar",
+          "182-stitches-take-longer-than-a-smile",
           "001-forbidden-reflection",
           "archive-not-reproduced",
           "005-mirror-cubism",
           "096-a-larger-view-through-the-water",
+          "127-a-village-between-two-gazes",
+          "129-the-shadow-enters-the-mountains",
+          "168-the-waterline-shifts-the-yellow",
           "archive-not-a-nailong",
           "009-verification",
-          "052-one-extra-expression"
+          "052-one-extra-expression",
+          "156-the-stones-do-not-answer",
+          "169-another-gaze-in-the-boxes"
         ],
-        "workCount": 17
+        "workCount": 25
       },
       {
         "id": "gesture",
@@ -338,7 +456,11 @@ window.MUSEUM_CURATION = {
               "wave-loop-01",
               "033-between-two-hands",
               "037-time-to-watch-the-fish",
-              "038-i-heard-you"
+              "038-i-heard-you",
+              "123-one-fingertip-away",
+              "131-hold-this-flat-stone-first",
+              "146-hold-one-nail-straight",
+              "171-a-red-leaf-passes-before-the-nose"
             ]
           },
           {
@@ -364,7 +486,35 @@ window.MUSEUM_CURATION = {
               "092-a-small-harvest-close-to-the-ground",
               "094-tie-the-flowerpot-together",
               "098-do-not-touch-this-breath-yet",
-              "101-the-ball-is-still-in-sunlight"
+              "101-the-ball-is-still-in-sunlight",
+              "105-stand-the-other-way-for-a-while",
+              "106-this-letter-can-reach",
+              "109-hold-this-beat",
+              "110-wings-left-in-the-snow",
+              "113-one-cherry-higher",
+              "116-pulling-the-white-line-into-a-curve",
+              "117-one-roll-a-longer-sheet-of-dough",
+              "119-hold-this-hole-for-now",
+              "121-a-fingertip-against-the-heavens",
+              "122-tighten-this-one-first",
+              "124-a-breath-held-a-little-longer",
+              "125-turn-the-basket-sideways-first",
+              "128-where-the-air-escapes",
+              "134-the-feet-rise-before-the-bell-rings",
+              "136-up-this-step-together",
+              "140-twisting-the-blue-together",
+              "141-this-foot-still-falls-short",
+              "143-the-pencil-is-still-long",
+              "145-give-this-handful-to-the-earth",
+              "147-the-bread-is-a-little-wider-than-the-slot",
+              "148-oars-at-the-water-s-surface",
+              "149-let-the-rain-reach-my-face",
+              "157-the-ball-is-still-near-the-hands",
+              "166-the-wind-turns-pages-into-the-sky",
+              "167-passing-over-your-back",
+              "184-sweeping-dusk-to-my-feet",
+              "186-hold-the-guitar-close",
+              "187-walking-together-empty-handed"
             ]
           },
           {
@@ -379,7 +529,13 @@ window.MUSEUM_CURATION = {
               "076-leave-the-sound-outside-the-veil",
               "081-one-burr-at-a-time",
               "095-wash-this-foot-first",
-              "097-almost-an-embrace"
+              "097-almost-an-embrace",
+              "112-lend-me-your-shoulder-for-a-moment",
+              "170-neither-of-us-is-holding-the-red",
+              "172-ophelia",
+              "173-saturn-with-a-broken-effigy",
+              "175-the-wind-passes-beneath-the-parasol",
+              "202-lower-the-shoulder-a-little"
             ]
           }
         ],
@@ -388,6 +544,10 @@ window.MUSEUM_CURATION = {
           "033-between-two-hands",
           "037-time-to-watch-the-fish",
           "038-i-heard-you",
+          "123-one-fingertip-away",
+          "131-hold-this-flat-stone-first",
+          "146-hold-one-nail-straight",
+          "171-a-red-leaf-passes-before-the-nose",
           "003-milkmaid-frog",
           "004-dance-milk-frogs",
           "026-the-tables-turn-to-skip-rope",
@@ -407,6 +567,34 @@ window.MUSEUM_CURATION = {
           "094-tie-the-flowerpot-together",
           "098-do-not-touch-this-breath-yet",
           "101-the-ball-is-still-in-sunlight",
+          "105-stand-the-other-way-for-a-while",
+          "106-this-letter-can-reach",
+          "109-hold-this-beat",
+          "110-wings-left-in-the-snow",
+          "113-one-cherry-higher",
+          "116-pulling-the-white-line-into-a-curve",
+          "117-one-roll-a-longer-sheet-of-dough",
+          "119-hold-this-hole-for-now",
+          "121-a-fingertip-against-the-heavens",
+          "122-tighten-this-one-first",
+          "124-a-breath-held-a-little-longer",
+          "125-turn-the-basket-sideways-first",
+          "128-where-the-air-escapes",
+          "134-the-feet-rise-before-the-bell-rings",
+          "136-up-this-step-together",
+          "140-twisting-the-blue-together",
+          "141-this-foot-still-falls-short",
+          "143-the-pencil-is-still-long",
+          "145-give-this-handful-to-the-earth",
+          "147-the-bread-is-a-little-wider-than-the-slot",
+          "148-oars-at-the-water-s-surface",
+          "149-let-the-rain-reach-my-face",
+          "157-the-ball-is-still-near-the-hands",
+          "166-the-wind-turns-pages-into-the-sky",
+          "167-passing-over-your-back",
+          "184-sweeping-dusk-to-my-feet",
+          "186-hold-the-guitar-close",
+          "187-walking-together-empty-handed",
           "008-rural-portrait",
           "007-golden-embrace",
           "044-that-sound-on-the-bridge",
@@ -414,9 +602,15 @@ window.MUSEUM_CURATION = {
           "076-leave-the-sound-outside-the-veil",
           "081-one-burr-at-a-time",
           "095-wash-this-foot-first",
-          "097-almost-an-embrace"
+          "097-almost-an-embrace",
+          "112-lend-me-your-shoulder-for-a-moment",
+          "170-neither-of-us-is-holding-the-red",
+          "172-ophelia",
+          "173-saturn-with-a-broken-effigy",
+          "175-the-wind-passes-beneath-the-parasol",
+          "202-lower-the-shoulder-a-little"
         ],
-        "workCount": 31
+        "workCount": 69
       },
       {
         "id": "everyday",
@@ -453,7 +647,10 @@ window.MUSEUM_CURATION = {
               "006-night-diner",
               "034-the-last-bus-with-a-tomato-plant",
               "078-the-rain-catches-up-on-the-bridge",
-              "104-cold-weather-home-first"
+              "104-cold-weather-home-first",
+              "114-let-this-note-sit-for-a-while",
+              "150-the-door-opens-a-face-appears",
+              "179-no-next-song"
             ]
           },
           {
@@ -467,7 +664,14 @@ window.MUSEUM_CURATION = {
               "036-the-wind-took-the-first-bite",
               "048-this-page-belongs-to-the-cat",
               "083-leave-the-path-for-a-moment",
-              "099-lend-the-umbrella-to-the-bun-first"
+              "099-lend-the-umbrella-to-the-bun-first",
+              "111-let-the-paper-fly-a-little-longer",
+              "115-each-sits-by-the-water",
+              "118-at-this-page",
+              "130-even-yellow-falls-quiet",
+              "135-a-breath-between-the-seaweeds",
+              "153-sitting-for-a-while-inside-the-round-shadow",
+              "158-a-circle-of-water-for-each"
             ]
           },
           {
@@ -494,7 +698,24 @@ window.MUSEUM_CURATION = {
               "071-roll-the-distance-closer",
               "072-time-softens-first",
               "088-a-river-through-the-map",
-              "100-this-page-opens-by-itself"
+              "100-this-page-opens-by-itself",
+              "108-leave-the-door-ajar",
+              "132-through-the-space-between-mountains",
+              "137-make-a-little-room-for-the-belly",
+              "138-an-echo-in-an-empty-shell",
+              "139-a-little-room-between-umbrellas",
+              "151-different-light-at-one-table",
+              "152-two-streams-of-yellow-passing",
+              "155-someone-on-every-level",
+              "159-the-footprints-almost-come-back",
+              "160-only-this-patch-of-ground-beneath-the-umbrellas",
+              "161-four-windows-four-directions",
+              "163-two-distances-across-the-red",
+              "185-a-shadow-needs-no-pass",
+              "198-a-voice-caught-in-vertical-lines",
+              "199-a-line-of-light-beneath-the-feet",
+              "200-the-bird-is-still-attached-to-a-string",
+              "201-another-eye-above-the-ridge"
             ]
           },
           {
@@ -503,7 +724,12 @@ window.MUSEUM_CURATION = {
             "description": "将注意力转向色版、像素与棋盘格：图像的制作和显示线索也进入了场景。",
             "workIds": [
               "012-late-yellow",
-              "015-sleep-loading"
+              "015-sleep-loading",
+              "142-red-holds-the-room-together",
+              "180-flower-colors-grow-from-the-palm",
+              "181-the-garden-on-the-back-of-cardboard",
+              "194-the-button-moon-opened-its-mouth",
+              "195-the-paper-puppet-remained-after-the-curtain-call"
             ]
           }
         ],
@@ -512,6 +738,9 @@ window.MUSEUM_CURATION = {
           "034-the-last-bus-with-a-tomato-plant",
           "078-the-rain-catches-up-on-the-bridge",
           "104-cold-weather-home-first",
+          "114-let-this-note-sit-for-a-while",
+          "150-the-door-opens-a-face-appears",
+          "179-no-next-song",
           "002-sleeping-milk-frog",
           "014-zipper-lunch",
           "032-an-unfamiliar-pair",
@@ -519,6 +748,13 @@ window.MUSEUM_CURATION = {
           "048-this-page-belongs-to-the-cat",
           "083-leave-the-path-for-a-moment",
           "099-lend-the-umbrella-to-the-bun-first",
+          "111-let-the-paper-fly-a-little-longer",
+          "115-each-sits-by-the-water",
+          "118-at-this-page",
+          "130-even-yellow-falls-quiet",
+          "135-a-breath-between-the-seaweeds",
+          "153-sitting-for-a-while-inside-the-round-shadow",
+          "158-a-circle-of-water-for-each",
           "archive-listening-room",
           "029-two-books-taller-today",
           "020-uncreased-place",
@@ -539,10 +775,32 @@ window.MUSEUM_CURATION = {
           "072-time-softens-first",
           "088-a-river-through-the-map",
           "100-this-page-opens-by-itself",
+          "108-leave-the-door-ajar",
+          "132-through-the-space-between-mountains",
+          "137-make-a-little-room-for-the-belly",
+          "138-an-echo-in-an-empty-shell",
+          "139-a-little-room-between-umbrellas",
+          "151-different-light-at-one-table",
+          "152-two-streams-of-yellow-passing",
+          "155-someone-on-every-level",
+          "159-the-footprints-almost-come-back",
+          "160-only-this-patch-of-ground-beneath-the-umbrellas",
+          "161-four-windows-four-directions",
+          "163-two-distances-across-the-red",
+          "185-a-shadow-needs-no-pass",
+          "198-a-voice-caught-in-vertical-lines",
+          "199-a-line-of-light-beneath-the-feet",
+          "200-the-bird-is-still-attached-to-a-string",
+          "201-another-eye-above-the-ridge",
           "012-late-yellow",
-          "015-sleep-loading"
+          "015-sleep-loading",
+          "142-red-holds-the-room-together",
+          "180-flower-colors-grow-from-the-palm",
+          "181-the-garden-on-the-back-of-cardboard",
+          "194-the-button-moon-opened-its-mouth",
+          "195-the-paper-puppet-remained-after-the-curtain-call"
         ],
-        "workCount": 33
+        "workCount": 65
       },
       {
         "id": "reproduction",
@@ -574,7 +832,9 @@ window.MUSEUM_CURATION = {
               "archive-diptych",
               "archive-thirty-two",
               "archive-screen-test",
-              "054-who-gets-the-strawberry"
+              "054-who-gets-the-strawberry",
+              "162-one-circle-has-eyes",
+              "192-one-position-grew-eyes"
             ]
           },
           {
@@ -584,7 +844,10 @@ window.MUSEUM_CURATION = {
             "workIds": [
               "archive-peaches",
               "archive-peach-passion",
-              "050-the-signature"
+              "050-the-signature",
+              "174-youth-still-unfilled",
+              "188-the-yellow-that-refuses-to-deflate",
+              "189-the-gift-is-larger-than-the-plinth"
             ]
           },
           {
@@ -598,7 +861,12 @@ window.MUSEUM_CURATION = {
               "063-an-unfinished-version-of-me",
               "069-the-erased-place-lights-up",
               "082-three-bodies-one-arrangement",
-              "102-this-copy-is-a-little-long"
+              "102-this-copy-is-a-little-long",
+              "133-the-eye-has-reached-the-ground",
+              "176-no-blank-space-inside",
+              "177-arrows-through-the-belly",
+              "183-a-rim-of-yellow-held-by-rust",
+              "196-one-side-settles-the-other-sinks"
             ]
           },
           {
@@ -607,7 +875,10 @@ window.MUSEUM_CURATION = {
             "description": "纸张上的顺序不再只是指向身体，它长出腿，实际执行站立与排队。",
             "workIds": [
               "019-numbers-wait-for-me",
-              "087-before-the-last-tile-falls"
+              "087-before-the-last-tile-falls",
+              "120-a-little-red-where-i-rolled",
+              "126-a-little-sand-between-us",
+              "164-one-line-through-four-places"
             ]
           }
         ],
@@ -618,9 +889,14 @@ window.MUSEUM_CURATION = {
           "archive-thirty-two",
           "archive-screen-test",
           "054-who-gets-the-strawberry",
+          "162-one-circle-has-eyes",
+          "192-one-position-grew-eyes",
           "archive-peaches",
           "archive-peach-passion",
           "050-the-signature",
+          "174-youth-still-unfilled",
+          "188-the-yellow-that-refuses-to-deflate",
+          "189-the-gift-is-larger-than-the-plinth",
           "archive-algorithm-belly",
           "archive-beautiful-frog",
           "archive-higher-traffic",
@@ -628,10 +904,18 @@ window.MUSEUM_CURATION = {
           "069-the-erased-place-lights-up",
           "082-three-bodies-one-arrangement",
           "102-this-copy-is-a-little-long",
+          "133-the-eye-has-reached-the-ground",
+          "176-no-blank-space-inside",
+          "177-arrows-through-the-belly",
+          "183-a-rim-of-yellow-held-by-rust",
+          "196-one-side-settles-the-other-sinks",
           "019-numbers-wait-for-me",
-          "087-before-the-last-tile-falls"
+          "087-before-the-last-tile-falls",
+          "120-a-little-red-where-i-rolled",
+          "126-a-little-sand-between-us",
+          "164-one-line-through-four-places"
         ],
-        "workCount": 18
+        "workCount": 31
       },
       {
         "id": "abstraction",
@@ -661,7 +945,11 @@ window.MUSEUM_CURATION = {
             "workIds": [
               "archive-little-sun",
               "archive-laughter-and-andy",
-              "archive-yellow-square"
+              "archive-yellow-square",
+              "107-eyes-grow-into-the-field",
+              "203-the-outline-has-not-settled",
+              "204-recognized-before-coming-together",
+              "207-a-face-rises-from-the-thick-paint"
             ]
           },
           {
@@ -676,7 +964,10 @@ window.MUSEUM_CURATION = {
               "041-one-tile-short",
               "055-the-stripes-take-a-detour",
               "060-the-body-learns-geometry",
-              "068-the-city-dances-into-me"
+              "068-the-city-dances-into-me",
+              "144-after-white-light-parts",
+              "154-a-flower-amid-the-colors",
+              "193-two-eyes-after-the-spin"
             ]
           },
           {
@@ -693,7 +984,11 @@ window.MUSEUM_CURATION = {
               "075-the-flock-is-watching-me-too",
               "079-a-small-body-between-the-branches",
               "093-this-one-does-not-fit-the-pocket",
-              "103-even-the-empty-seats-listen"
+              "103-even-the-empty-seats-listen",
+              "190-someone-catches-it-in-every-direction",
+              "191-a-pulse-presses-beyond-the-frame",
+              "205-meeting-you-from-here",
+              "206-a-little-space-remains-between"
             ]
           }
         ],
@@ -701,6 +996,10 @@ window.MUSEUM_CURATION = {
           "archive-little-sun",
           "archive-laughter-and-andy",
           "archive-yellow-square",
+          "107-eyes-grow-into-the-field",
+          "203-the-outline-has-not-settled",
+          "204-recognized-before-coming-together",
+          "207-a-face-rises-from-the-thick-paint",
           "archive-yellow-order",
           "archive-laughing-broadway",
           "archive-grid-unruly",
@@ -709,6 +1008,9 @@ window.MUSEUM_CURATION = {
           "055-the-stripes-take-a-detour",
           "060-the-body-learns-geometry",
           "068-the-city-dances-into-me",
+          "144-after-white-light-parts",
+          "154-a-flower-amid-the-colors",
+          "193-two-eyes-after-the-spin",
           "016-shadow-check-in",
           "017-eye-at-low-tide",
           "057-four-ways-down",
@@ -718,9 +1020,13 @@ window.MUSEUM_CURATION = {
           "075-the-flock-is-watching-me-too",
           "079-a-small-body-between-the-branches",
           "093-this-one-does-not-fit-the-pocket",
-          "103-even-the-empty-seats-listen"
+          "103-even-the-empty-seats-listen",
+          "190-someone-catches-it-in-every-direction",
+          "191-a-pulse-presses-beyond-the-frame",
+          "205-meeting-you-from-here",
+          "206-a-little-space-remains-between"
         ],
-        "workCount": 21
+        "workCount": 32
       }
     ]
   },
@@ -913,6 +1219,63 @@ window.MUSEUM_CURATION = {
       "hallPosition": 10,
       "sequencePosition": 10,
       "previousWorkId": "080-a-body-held-in-gold",
+      "nextWorkId": "165-standing-among-yellow-leaves"
+    },
+    {
+      "workId": "165-standing-among-yellow-leaves",
+      "number": "P165",
+      "title": "黄叶之间站一会儿",
+      "primaryHallId": "identity",
+      "clusterId": "identity-1",
+      "route": "#/work/165-standing-among-yellow-leaves",
+      "lookFor": "黄橙青色银杏扇叶铺满方幅，右中一只大圆头奶龙站在叶间，白腹和绿色双眼突出，棕爪、背棘及短尾从黄叶附近显露。",
+      "placementRationale": "叶片把画面分成许多张开的扇面，黄色一层压着一层。奶龙也站进同一片黄色里，圆头和白肚子却没有跟着变成叶形。先看见眼睛，再看见短手和脚，熟悉的身体便从密密的纹样中一点点被认出来。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 11,
+      "sequencePosition": 11,
+      "previousWorkId": "086-arriving-on-a-shell",
+      "nextWorkId": "178-i-left-the-door-ajar"
+    },
+    {
+      "workId": "178-i-left-the-door-ajar",
+      "number": "P178",
+      "title": "我没有把门关上",
+      "primaryHallId": "identity",
+      "clusterId": "identity-1",
+      "route": "#/work/178-i-left-the-door-ajar",
+      "lookFor": "乳白色空场里，黄色奶蛙两手背后站着，绿眼一高一低地望向观者；右侧留着一道深色门隙。",
+      "placementRationale": "它把手藏在身后，目光却留在这里。右边的门只开了一点，够看见黑暗，还不够知道里面有什么。两脚站得很近，这句“我没有把门关上”听起来像在等一个回答。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 12,
+      "sequencePosition": 12,
+      "previousWorkId": "165-standing-among-yellow-leaves",
+      "nextWorkId": "182-stitches-take-longer-than-a-smile"
+    },
+    {
+      "workId": "182-stitches-take-longer-than-a-smile",
+      "number": "P182",
+      "title": "针脚比表情慢",
+      "primaryHallId": "identity",
+      "clusterId": "identity-1",
+      "route": "#/work/182-stitches-take-longer-than-a-smile",
+      "lookFor": "旧黄色奶蛙布偶坐在灰木台边，脸朝左，绿布眼与细线嘴嵌在磨损绒面，奶油腹片边缘留针脚，右肩有浅色补缝，深色手足低垂。",
+      "placementRationale": "腹片上的白已经微微发灰，针脚沿着鼓起的肚子走了一圈。手腕和脚尖最暗，常被摸到的脸颊却露出短绒下面的底布。它坐得有点塌，嘴边那一小段线还稳稳留着。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 13,
+      "sequencePosition": 13,
+      "previousWorkId": "178-i-left-the-door-ajar",
       "nextWorkId": "001-forbidden-reflection"
     },
     {
@@ -921,7 +1284,7 @@ window.MUSEUM_CURATION = {
       "title": "禁止复制：奶蛙",
       "primaryHallId": "identity",
       "clusterId": "identity-2",
-      "hallPosition": 11,
+      "hallPosition": 14,
       "route": "#/work/001-forbidden-reflection",
       "lookFor": "比较人物背影与右下角书本的正常倒影。",
       "placementRationale": "将遮挡推进为有选择的镜像失效。",
@@ -931,8 +1294,8 @@ window.MUSEUM_CURATION = {
       "relatedReading": [
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 11,
-      "previousWorkId": "086-arriving-on-a-shell",
+      "sequencePosition": 14,
+      "previousWorkId": "182-stitches-take-longer-than-a-smile",
       "nextWorkId": "archive-not-reproduced"
     },
     {
@@ -941,7 +1304,7 @@ window.MUSEUM_CURATION = {
       "title": "奶龙版禁止复制：重制版",
       "primaryHallId": "identity",
       "clusterId": "identity-2",
-      "hallPosition": 12,
+      "hallPosition": 15,
       "route": "#/work/archive-not-reproduced",
       "lookFor": "与P01对看衣着、镜宽、背影比例和距离。",
       "placementRationale": "同一历史机制的另一幅独立作品，拒绝把所有相似图像合成一个版本。",
@@ -950,7 +1313,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 12,
+      "sequencePosition": 15,
       "previousWorkId": "001-forbidden-reflection",
       "nextWorkId": "005-mirror-cubism"
     },
@@ -960,7 +1323,7 @@ window.MUSEUM_CURATION = {
       "title": "镜前奶蛙",
       "primaryHallId": "identity",
       "clusterId": "identity-2",
-      "hallPosition": 13,
+      "hallPosition": 16,
       "route": "#/work/005-mirror-cubism",
       "lookFor": "沿两只扶镜的手追踪镜内外的身体。",
       "placementRationale": "镜子从拒绝正脸转为提供另一个配色和分区版本。",
@@ -969,7 +1332,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 13,
+      "sequencePosition": 16,
       "previousWorkId": "archive-not-reproduced",
       "nextWorkId": "096-a-larger-view-through-the-water"
     },
@@ -987,9 +1350,66 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 14,
-      "sequencePosition": 14,
+      "hallPosition": 17,
+      "sequencePosition": 17,
       "previousWorkId": "005-mirror-cubism",
+      "nextWorkId": "127-a-village-between-two-gazes"
+    },
+    {
+      "workId": "127-a-village-between-two-gazes",
+      "number": "P127",
+      "title": "目光把村庄连起来",
+      "primaryHallId": "identity",
+      "clusterId": "identity-2",
+      "route": "#/work/127-a-village-between-two-gazes",
+      "lookFor": "巨大的白色牲畜侧面与黄色奶蛙侧面相对，一根极细白线连接两眼；奶蛙手中举着花枝，动物面颊内嵌挤奶场景，上方村落和人物部分倒置。",
+      "placementRationale": "两张脸几乎占满画面，村庄却仍能挤进它们之间。一根很细的白线从动物的眼睛连到奶蛙的绿眼，花枝从手中向上生长；房屋和人倒过来，目光依然找到对面。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 18,
+      "sequencePosition": 18,
+      "previousWorkId": "096-a-larger-view-through-the-water",
+      "nextWorkId": "129-the-shadow-enters-the-mountains"
+    },
+    {
+      "workId": "129-the-shadow-enters-the-mountains",
+      "number": "P129",
+      "title": "影子走进了山里",
+      "primaryHallId": "identity",
+      "clusterId": "identity-2",
+      "route": "#/work/129-the-shadow-enters-the-mountains",
+      "lookFor": "小奶龙站在左侧投影机与右侧大幕布之间，举起一只短爪；幕布上是蓝绿山景与放大的深蓝奶龙剪影，实体的绿眼、乳白腹、短肢、背棘及尾巴可辨。",
+      "placementRationale": "奶龙仍站在红色地板上，影子已经占住了山景。投影机把一束光送向幕布，小小的身体挡在中间，抬起的短爪便在远处变成一个很大的招呼。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 19,
+      "sequencePosition": 19,
+      "previousWorkId": "127-a-village-between-two-gazes",
+      "nextWorkId": "168-the-waterline-shifts-the-yellow"
+    },
+    {
+      "workId": "168-the-waterline-shifts-the-yellow",
+      "number": "P168",
+      "title": "水线把黄色错开",
+      "primaryHallId": "identity",
+      "clusterId": "identity-2",
+      "route": "#/work/168-the-waterline-shifts-the-yellow",
+      "lookFor": "浅紫色上场与大片钴蓝水域被一条细青线分开。偏左奶蛋的绿眼与短嘴位于线上，水下黄色下半身向右错开，左右各一短青色横纹。",
+      "placementRationale": "水线横过黄色，下半边便往右挪了一点。脸仍在原处，卵形却不再沿同一条边缘落下。两小段青色横纹把它留在宽阔蓝场的一角；其余地方没有发生更多事情，观看可以停在这一点错位上。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 20,
+      "sequencePosition": 20,
+      "previousWorkId": "129-the-shadow-enters-the-mountains",
       "nextWorkId": "archive-not-a-nailong"
     },
     {
@@ -998,7 +1418,7 @@ window.MUSEUM_CURATION = {
       "title": "这不是一只 Nailong",
       "primaryHallId": "identity",
       "clusterId": "identity-3",
-      "hallPosition": 15,
+      "hallPosition": 21,
       "route": "#/work/archive-not-a-nailong",
       "lookFor": "分别阅读身体姿势与画面里的法语否定句。",
       "placementRationale": "把视觉识别转向名称与所指；旧题名作为作品内容保留。",
@@ -1007,8 +1427,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 15,
-      "previousWorkId": "096-a-larger-view-through-the-water",
+      "sequencePosition": 21,
+      "previousWorkId": "168-the-waterline-shifts-the-yellow",
       "nextWorkId": "009-verification"
     },
     {
@@ -1017,7 +1437,7 @@ window.MUSEUM_CURATION = {
       "title": "请证明你不是奶蛙",
       "primaryHallId": "identity",
       "clusterId": "identity-3",
-      "hallPosition": 16,
+      "hallPosition": 22,
       "route": "#/work/009-verification",
       "lookFor": "找出九宫格中转向的一格，再看手与空方框的距离。",
       "placementRationale": "以分类的门槛结束第一厅，并引出题名对理解的作用。",
@@ -1028,7 +1448,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 16,
+      "sequencePosition": 22,
       "previousWorkId": "archive-not-a-nailong",
       "nextWorkId": "052-one-extra-expression"
     },
@@ -1046,9 +1466,47 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 17,
-      "sequencePosition": 17,
+      "hallPosition": 23,
+      "sequencePosition": 23,
       "previousWorkId": "009-verification",
+      "nextWorkId": "156-the-stones-do-not-answer"
+    },
+    {
+      "workId": "156-the-stones-do-not-answer",
+      "number": "P156",
+      "title": "石头都不回答",
+      "primaryHallId": "identity",
+      "clusterId": "identity-3",
+      "route": "#/work/156-the-stones-do-not-answer",
+      "lookFor": "深蓝平面上散着十一枚大小不同的米白与灰蓝石头，唯一黄色奶蛋立在中右，橄榄绿眼中的黑瞳略偏左，小横嘴和完整无肢卵形清楚，左中留出大片蓝色空地。",
+      "placementRationale": "圆的旁边还是圆的，灰白、浅蓝与黄色像在重复一个轮廓。只有中间偏右的那一枚长着眼睛。它与最近的石头之间留了一小段蓝色，另一边却是宽得多的空地。差别不在谁更圆，而在我们先认出了哪一种目光。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 24,
+      "sequencePosition": 24,
+      "previousWorkId": "052-one-extra-expression",
+      "nextWorkId": "169-another-gaze-in-the-boxes"
+    },
+    {
+      "workId": "169-another-gaze-in-the-boxes",
+      "number": "P169",
+      "title": "看台上还有一道目光",
+      "primaryHallId": "identity",
+      "clusterId": "identity-3",
+      "route": "#/work/169-another-gaze-in-the-boxes",
+      "lookFor": "右前戴黑帽穿黑衣的奶蛙朝左举起黑色观剧镜，另一手在下方握闭扇。浅金弧栏横过赭棕剧院，左上远处的小奶蛙也举镜朝近处看，左下包厢露出几颗黄色头。",
+      "placementRationale": "一只奶蛙将观剧镜举到眼旁，另一只缩在远处包厢里，也举起了镜子。弯曲的金色栏杆把两个尺度的身体连在同一座剧院中。黑衣占了画面大半，远处黄色却很小；正在观看的身体，也进入了别人的视野。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 25,
+      "sequencePosition": 25,
+      "previousWorkId": "156-the-stones-do-not-answer",
       "nextWorkId": "wave-loop-01"
     },
     {
@@ -1066,8 +1524,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 18,
-      "previousWorkId": "052-one-extra-expression",
+      "sequencePosition": 26,
+      "previousWorkId": "169-another-gaze-in-the-boxes",
       "nextWorkId": "033-between-two-hands"
     },
     {
@@ -1085,7 +1543,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 2,
-      "sequencePosition": 19,
+      "sequencePosition": 27,
       "previousWorkId": "wave-loop-01",
       "nextWorkId": "037-time-to-watch-the-fish"
     },
@@ -1104,7 +1562,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 3,
-      "sequencePosition": 20,
+      "sequencePosition": 28,
       "previousWorkId": "033-between-two-hands",
       "nextWorkId": "038-i-heard-you"
     },
@@ -1123,8 +1581,84 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 4,
-      "sequencePosition": 21,
+      "sequencePosition": 29,
       "previousWorkId": "037-time-to-watch-the-fish",
+      "nextWorkId": "123-one-fingertip-away"
+    },
+    {
+      "workId": "123-one-fingertip-away",
+      "number": "P123",
+      "title": "还差一个指尖",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-1",
+      "route": "#/work/123-one-fingertip-away",
+      "lookFor": "黄色奶龙贴在浅绿抱石墙前，左手与双脚分别落在三个岩点，上举右爪与红色三角岩点之间留有一道小空隙，底部是蓝色地垫。",
+      "placementRationale": "三处岩点先接住身体，第四处仍在指尖之外。奶龙抬起下巴，眼睛与举起的爪子一起朝向红色三角。下方蓝垫横着铺开，上方空隙却把整个身体拉成一条斜线。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 5,
+      "sequencePosition": 30,
+      "previousWorkId": "038-i-heard-you",
+      "nextWorkId": "131-hold-this-flat-stone-first"
+    },
+    {
+      "workId": "131-hold-this-flat-stone-first",
+      "number": "P131",
+      "title": "先把这一片握住",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-1",
+      "route": "#/work/131-hold-this-flat-stone-first",
+      "lookFor": "奶蛙两脚分开站在右侧赭色河岸，面朝左边大片灰蓝水面；右臂向后展开，深灰手里捏着一枚扁石，左臂向前低伸，脚边还散着几块石头。",
+      "placementRationale": "扁石还在手里，水面暂时没有回应。奶蛙把一臂留在身后，另一臂伸向前方，两脚在窄窄河岸上分开。画面大半交给灰蓝的水，动作被留在出手之前。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 6,
+      "sequencePosition": 31,
+      "previousWorkId": "123-one-fingertip-away",
+      "nextWorkId": "146-hold-one-nail-straight"
+    },
+    {
+      "workId": "146-hold-one-nail-straight",
+      "number": "P146",
+      "title": "把一枚钉子扶直",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-1",
+      "route": "#/work/146-hold-one-nail-straight",
+      "lookFor": "奶蛙坐在蓝色地面上，红木凳侧倒在右方，一只深灰手扶直木边旁的铁钉，另一只手举着锤子，锤头与钉头之间留有空隙。",
+      "placementRationale": "锤子还停在半空，一只手把钉子扶得很直。红色木凳横在面前，蓝地面接住盘起的小腿。整幅画的动作都围着一点空隙聚拢：在敲下去之前，奶蛙先把手里的东西看清楚，让这一瞬间比修好的结果更值得停留。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 7,
+      "sequencePosition": 32,
+      "previousWorkId": "131-hold-this-flat-stone-first",
+      "nextWorkId": "171-a-red-leaf-passes-before-the-nose"
+    },
+    {
+      "workId": "171-a-red-leaf-passes-before-the-nose",
+      "number": "P171",
+      "title": "红叶从鼻尖前经过",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-1",
+      "route": "#/work/171-a-red-leaf-passes-before-the-nose",
+      "lookFor": "黄色奶龙伏在橄榄绿地上，两只短前臂靠近下巴，朝左侧一片被小蚁托高的红叶看。红叶尖与黄色脸之间留着绿缝，棕色背棘和短尾露在右边，三块小灰石散在前方。",
+      "placementRationale": "红叶很大，下面的黑色身体却很小。它们聚在叶缘下方，把一片红色举离地面。奶龙伏得很低，大圆头和叶尖隔着一点绿色相遇。此刻最醒目的距离，不是两者体型的差别，而是鼻尖前那条还留着的细缝。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 8,
+      "sequencePosition": 33,
+      "previousWorkId": "146-hold-one-nail-straight",
       "nextWorkId": "003-milkmaid-frog"
     },
     {
@@ -1133,7 +1667,7 @@ window.MUSEUM_CURATION = {
       "title": "倒牛奶的奶蛙",
       "primaryHallId": "gesture",
       "clusterId": "gesture-2",
-      "hallPosition": 5,
+      "hallPosition": 9,
       "route": "#/work/003-milkmaid-frog",
       "lookFor": "跟着手、壶口、奶流与容器形成的动作链。",
       "placementRationale": "作为秩序成立的对照，提醒我们准确配合也可以是作品的核心。",
@@ -1142,8 +1676,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 22,
-      "previousWorkId": "038-i-heard-you",
+      "sequencePosition": 34,
+      "previousWorkId": "171-a-red-leaf-passes-before-the-nose",
       "nextWorkId": "004-dance-milk-frogs"
     },
     {
@@ -1152,7 +1686,7 @@ window.MUSEUM_CURATION = {
       "title": "奶蛙之舞",
       "primaryHallId": "gesture",
       "clusterId": "gesture-2",
-      "hallPosition": 6,
+      "hallPosition": 10,
       "route": "#/work/004-dance-milk-frogs",
       "lookFor": "沿舞圈追踪手臂，停在将合未合的缺口。",
       "placementRationale": "动作从单体扩展为多人牵引，准确连接与有意间隙并置。",
@@ -1162,7 +1696,7 @@ window.MUSEUM_CURATION = {
       "relatedReading": [
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 23,
+      "sequencePosition": 35,
       "previousWorkId": "003-milkmaid-frog",
       "nextWorkId": "026-the-tables-turn-to-skip-rope"
     },
@@ -1180,10 +1714,10 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 24,
+      "sequencePosition": 36,
       "previousWorkId": "004-dance-milk-frogs",
       "nextWorkId": "039-peeled-halfway",
-      "hallPosition": 7
+      "hallPosition": 11
     },
     {
       "workId": "039-peeled-halfway",
@@ -1199,8 +1733,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 8,
-      "sequencePosition": 25,
+      "hallPosition": 12,
+      "sequencePosition": 37,
       "previousWorkId": "026-the-tables-turn-to-skip-rope",
       "nextWorkId": "049-mount-fuji-through-the-tub"
     },
@@ -1218,8 +1752,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 9,
-      "sequencePosition": 26,
+      "hallPosition": 13,
+      "sequencePosition": 38,
       "previousWorkId": "039-peeled-halfway",
       "nextWorkId": "056-one-step-turns-the-wind"
     },
@@ -1237,8 +1771,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 10,
-      "sequencePosition": 27,
+      "hallPosition": 14,
+      "sequencePosition": 39,
       "previousWorkId": "049-mount-fuji-through-the-tub",
       "nextWorkId": "061-the-belly-reaches-the-finish-first"
     },
@@ -1256,8 +1790,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 11,
-      "sequencePosition": 28,
+      "hallPosition": 15,
+      "sequencePosition": 40,
       "previousWorkId": "056-one-step-turns-the-wind",
       "nextWorkId": "064-the-roundest-rider"
     },
@@ -1275,8 +1809,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 12,
-      "sequencePosition": 29,
+      "hallPosition": 16,
+      "sequencePosition": 41,
       "previousWorkId": "061-the-belly-reaches-the-finish-first",
       "nextWorkId": "066-the-mountains-swing-too"
     },
@@ -1294,8 +1828,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 13,
-      "sequencePosition": 30,
+      "hallPosition": 17,
+      "sequencePosition": 42,
       "previousWorkId": "064-the-roundest-rider",
       "nextWorkId": "074-light-flowers-heavy-basket"
     },
@@ -1313,8 +1847,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 14,
-      "sequencePosition": 31,
+      "hallPosition": 18,
+      "sequencePosition": 43,
       "previousWorkId": "066-the-mountains-swing-too",
       "nextWorkId": "077-give-the-needle-a-push"
     },
@@ -1332,8 +1866,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 15,
-      "sequencePosition": 32,
+      "hallPosition": 19,
+      "sequencePosition": 44,
       "previousWorkId": "074-light-flowers-heavy-basket",
       "nextWorkId": "084-two-lights-in-the-garden"
     },
@@ -1351,8 +1885,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 16,
-      "sequencePosition": 33,
+      "hallPosition": 20,
+      "sequencePosition": 45,
       "previousWorkId": "077-give-the-needle-a-push",
       "nextWorkId": "089-four-positions-in-one-boat"
     },
@@ -1370,8 +1904,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 17,
-      "sequencePosition": 34,
+      "hallPosition": 21,
+      "sequencePosition": 46,
       "previousWorkId": "084-two-lights-in-the-garden",
       "nextWorkId": "090-autumn-reaches-the-broom"
     },
@@ -1389,8 +1923,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 18,
-      "sequencePosition": 35,
+      "hallPosition": 22,
+      "sequencePosition": 47,
       "previousWorkId": "089-four-positions-in-one-boat",
       "nextWorkId": "091-hold-this-breeze-together"
     },
@@ -1408,8 +1942,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 19,
-      "sequencePosition": 36,
+      "hallPosition": 23,
+      "sequencePosition": 48,
       "previousWorkId": "090-autumn-reaches-the-broom",
       "nextWorkId": "092-a-small-harvest-close-to-the-ground"
     },
@@ -1427,8 +1961,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 20,
-      "sequencePosition": 37,
+      "hallPosition": 24,
+      "sequencePosition": 49,
       "previousWorkId": "091-hold-this-breeze-together",
       "nextWorkId": "094-tie-the-flowerpot-together"
     },
@@ -1446,8 +1980,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 21,
-      "sequencePosition": 38,
+      "hallPosition": 25,
+      "sequencePosition": 50,
       "previousWorkId": "092-a-small-harvest-close-to-the-ground",
       "nextWorkId": "098-do-not-touch-this-breath-yet"
     },
@@ -1465,8 +1999,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 22,
-      "sequencePosition": 39,
+      "hallPosition": 26,
+      "sequencePosition": 51,
       "previousWorkId": "094-tie-the-flowerpot-together",
       "nextWorkId": "101-the-ball-is-still-in-sunlight"
     },
@@ -1484,9 +2018,541 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 23,
-      "sequencePosition": 40,
+      "hallPosition": 27,
+      "sequencePosition": 52,
       "previousWorkId": "098-do-not-touch-this-breath-yet",
+      "nextWorkId": "105-stand-the-other-way-for-a-while"
+    },
+    {
+      "workId": "105-stand-the-other-way-for-a-while",
+      "number": "P105",
+      "title": "换个方向站一会儿",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-2",
+      "route": "#/work/105-stand-the-other-way-for-a-while",
+      "lookFor": "蓝色空场前，奶蛙倒立在陶红地面上，双掌分开撑地，小脸倒悬在两臂之间，双脚向上弯开。",
+      "placementRationale": "两只手替脚站在了地上，小脸倒着看过来。奶油色肚子升到眼睛上面，脚尖又把黄色轮廓向两边分开。换个方向，熟悉的身体也多了一点新鲜。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 28,
+      "sequencePosition": 53,
+      "previousWorkId": "101-the-ball-is-still-in-sunlight",
+      "nextWorkId": "106-this-letter-can-reach"
+    },
+    {
+      "workId": "106-this-letter-can-reach",
+      "number": "P106",
+      "title": "这一封，够得到",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-2",
+      "route": "#/work/106-this-letter-can-reach",
+      "lookFor": "奶龙站在高蓝邮筒前，双手托着同一封红信封向上举，信封上缘接入黑色投口；白眼绿虹膜朝上，背棘与短尾露在右侧。",
+      "placementRationale": "邮筒很高，红信封已经够到了投口。奶龙把两只手一起举起来，大脑袋也跟着仰起。蓝色直边旁边，这一点红把整个身体带向了上方。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 29,
+      "sequencePosition": 54,
+      "previousWorkId": "105-stand-the-other-way-for-a-while",
+      "nextWorkId": "109-hold-this-beat"
+    },
+    {
+      "workId": "109-hold-this-beat",
+      "number": "P109",
+      "title": "把这一拍站稳",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-2",
+      "route": "#/work/109-hold-this-beat",
+      "lookFor": "高视点下，一只绿眼黑瞳、奶油腹的黄色奶蛙穿浅色纱裙，在画面右下方伸展双臂，一只短足着地；左上斜向侧幕后有模糊人影，灰绿舞台大幅留空。",
+      "placementRationale": "裙摆已经散开，短短的脚还要把身体稳住。德加《Ballet》的高视点与斜向侧幕留在这里，舞者却换了一副低重心的身体。它的一只手扬起，另一只平伸，光亮集中在腹部和纱裙；脚下灰绿的空场，把这一拍拉得很长。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 30,
+      "sequencePosition": 55,
+      "previousWorkId": "106-this-letter-can-reach",
+      "nextWorkId": "110-wings-left-in-the-snow"
+    },
+    {
+      "workId": "110-wings-left-in-the-snow",
+      "number": "P110",
+      "title": "雪里多出一副翅膀",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-2",
+      "route": "#/work/110-wings-left-in-the-snow",
+      "lookFor": "俯视雪地里仰卧的黄色奶蛙，绿眼朝上，奶油腹片居中，四肢张开；两臂外侧和双腿旁留下淡蓝扇形扫痕。",
+      "placementRationale": "奶蛙躺在雪里，张开的手脚把白地扫出几块蓝色。身体仍是一整块暖黄，身旁却出现比它宽得多的轮廓。所谓翅膀没有长在肩上，而是留在手臂经过的地方；当动作停住，雪替它保存了展开的幅度。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 31,
+      "sequencePosition": 56,
+      "previousWorkId": "109-hold-this-beat",
+      "nextWorkId": "113-one-cherry-higher"
+    },
+    {
+      "workId": "113-one-cherry-higher",
+      "number": "P113",
+      "title": "一颗就够高了",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-2",
+      "route": "#/work/113-one-cherry-higher",
+      "lookFor": "奶蛙双脚站在蓝凳上，左下手扶住薄荷绿桌边，另一手伸得很高，拈着果柄把红樱桃放到高煎饼叠的顶端。",
+      "placementRationale": "煎饼已经叠得很高，奶蛙还想在顶上放一颗樱桃。蓝凳垫起双脚，一只手撑住桌边，另一只手把果柄轻轻送过去。最后增加的这一点红，比整摞早餐更费力。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 32,
+      "sequencePosition": 57,
+      "previousWorkId": "110-wings-left-in-the-snow",
+      "nextWorkId": "116-pulling-the-white-line-into-a-curve"
+    },
+    {
+      "workId": "116-pulling-the-white-line-into-a-curve",
+      "number": "P116",
+      "title": "把白线拖成弯的",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-2",
+      "route": "#/work/116-pulling-the-white-line-into-a-curve",
+      "lookFor": "奶蛙在深绿球场左下方后仰握着划线车把手，米白线从车后出口弯成S形伸向右上。",
+      "placementRationale": "奶蛙倒着走，小车跟在身前，白粉从后面落下来。草地那么大，它只画了一条线，却没有把线拉直。回头看时，来路已经弯了两次。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 33,
+      "sequencePosition": 58,
+      "previousWorkId": "113-one-cherry-higher",
+      "nextWorkId": "117-one-roll-a-longer-sheet-of-dough"
+    },
+    {
+      "workId": "117-one-roll-a-longer-sheet-of-dough",
+      "number": "P117",
+      "title": "这一滚，面团更长了",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-2",
+      "route": "#/work/117-one-roll-a-longer-sheet-of-dough",
+      "lookFor": "奶龙在长面案后双爪压着擀面杖两端，浅黄面片向前铺满蓝桌并垂过前缘，暗红砖炉位于右后方。",
+      "placementRationale": "奶龙把双爪放到擀面杖两端，低头盯着眼前这一小段。面片却已经铺得很远，一直垂到桌沿下面。它忙的是手边，画面伸出去的是整张桌子的长度。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 34,
+      "sequencePosition": 59,
+      "previousWorkId": "116-pulling-the-white-line-into-a-curve",
+      "nextWorkId": "119-hold-this-hole-for-now"
+    },
+    {
+      "workId": "119-hold-this-hole-for-now",
+      "number": "P119",
+      "title": "先把这个洞按住",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-2",
+      "route": "#/work/119-hold-this-hole-for-now",
+      "lookFor": "一只黄色奶蛙屈腿俯在巨大靛蓝风筝旁，双手压着橙色补纸；竹骨从画面右侧交点向四角伸开。",
+      "placementRationale": "奶蛙把两只手分开，压在橙色补片的两边。靛蓝风筝摊在地上，几根竹骨比它的手臂伸得更远。破口还有一点白色露出来，浆糊碗和刷子暂时留在旁边。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 35,
+      "sequencePosition": 60,
+      "previousWorkId": "117-one-roll-a-longer-sheet-of-dough",
+      "nextWorkId": "121-a-fingertip-against-the-heavens"
+    },
+    {
+      "workId": "121-a-fingertip-against-the-heavens",
+      "number": "P121",
+      "title": "手指碰到星空",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-2",
+      "route": "#/work/121-a-fingertip-against-the-heavens",
+      "lookFor": "黄色奶蛙侧坐窗边，一只手接触黄褐色天球，另一只手落在摊开的书旁；蓝色桌布向前垂落。",
+      "placementRationale": "天球被一圈细木架托住，奶蛙的手停在它的右上缘。窗光照亮腹片，也照亮桌边的一小页纸。高大的柜子与层叠的蓝布把身体围住，球体成为这间暗室里可以触到的一片远方。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 36,
+      "sequencePosition": 61,
+      "previousWorkId": "119-hold-this-hole-for-now",
+      "nextWorkId": "122-tighten-this-one-first"
+    },
+    {
+      "workId": "122-tighten-this-one-first",
+      "number": "P122",
+      "title": "先系紧这一只",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-2",
+      "route": "#/work/122-tighten-this-one-first",
+      "lookFor": "奶蛙坐在青色长凳上俯身拉紧左下方红冰鞋的两端白鞋带，两只冰刀都落在灰紫地面上，身后围栏外是蓝色冰面。",
+      "placementRationale": "冰面已经在背后铺开，奶蛙还坐在长凳上。两条手臂绕过腹部，把白鞋带向两边拉开。两只红鞋靠得很近，滑行尚未开始，画面先停在这一小段需要低头完成的准备里。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 37,
+      "sequencePosition": 62,
+      "previousWorkId": "121-a-fingertip-against-the-heavens",
+      "nextWorkId": "124-a-breath-held-a-little-longer"
+    },
+    {
+      "workId": "124-a-breath-held-a-little-longer",
+      "number": "P124",
+      "title": "这一口气有点长",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-2",
+      "route": "#/work/124-a-breath-held-a-little-longer",
+      "lookFor": "奶蛙穿黑色短外衣和红裤，双手托住嘴前横笛，立在灰绿色背景前，黄脸与乳白腹从衣服间露出，腰侧垂着黄铜笛盒。",
+      "placementRationale": "笛子横在嘴前，把两只抬起的手连成一条细线。黑衣停在鼓起的乳白腹旁，红裤一直落到分开的双脚；宽阔的灰底没有添上舞台，只让这位独奏者留在眼前。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 38,
+      "sequencePosition": 63,
+      "previousWorkId": "122-tighten-this-one-first",
+      "nextWorkId": "125-turn-the-basket-sideways-first"
+    },
+    {
+      "workId": "125-turn-the-basket-sideways-first",
+      "number": "P125",
+      "title": "篮子先侧过来",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-2",
+      "route": "#/work/125-turn-the-basket-sideways-first",
+      "lookFor": "奶蛙站在浅绿木栅栏的两根门柱之间，侧身把空柳条篮竖起来，两手握着弓形提手，一脚在前一脚在后，花丛围着陶红色小路。",
+      "placementRationale": "两根绿柱之间，篮子先换了个方向。奶蛙低头握住提手，让椭圆篮口从横放转到接近竖直；腹部跟在后面，双脚把这一小步分在门前和门后。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 39,
+      "sequencePosition": 64,
+      "previousWorkId": "124-a-breath-held-a-little-longer",
+      "nextWorkId": "128-where-the-air-escapes"
+    },
+    {
+      "workId": "128-where-the-air-escapes",
+      "number": "P128",
+      "title": "气从这里跑出来",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-2",
+      "route": "#/work/128-where-the-air-escapes",
+      "lookFor": "奶蛙蹲在水盆右侧，右手压住闭合黑色内胎，左手探入圈内水面；前弧附近有一列小泡，独立车轮靠着砖墙，打气筒与撬胎棒放在左侧。",
+      "placementRationale": "车轮靠在墙边，圈里的空气暂时交给水来寻找。奶蛙压着内胎，一只手伸进水里；几颗小泡在黑色圆弧前显出来，把看不见的漏点变成可以等候的线索。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 40,
+      "sequencePosition": 65,
+      "previousWorkId": "125-turn-the-basket-sideways-first",
+      "nextWorkId": "134-the-feet-rise-before-the-bell-rings"
+    },
+    {
+      "workId": "134-the-feet-rise-before-the-bell-rings",
+      "number": "P134",
+      "title": "钟还没响，脚先轻了",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-2",
+      "route": "#/work/134-the-feet-rise-before-the-bell-rings",
+      "lookFor": "高钟楼内，一只黄色奶蛙双手上下握着赭红垂绳，双脚悬在地板上方；绳接向左上木轮，巨大的靛蓝钟口压在画面上部，右侧拱门中露出暖天空与低远城市。",
+      "placementRationale": "绳子一直向上，脚却先离开了地面。小奶蛙挂在巨大钟体下方，手、绳、轮轴构成一条窄长的联系；拱门外的城市很远，钟楼里的重量则近在眼前。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 41,
+      "sequencePosition": 66,
+      "previousWorkId": "128-where-the-air-escapes",
+      "nextWorkId": "136-up-this-step-together"
+    },
+    {
+      "workId": "136-up-this-step-together",
+      "number": "P136",
+      "title": "这一级，一起上",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-2",
+      "route": "#/work/136-up-this-step-together",
+      "lookFor": "一大一小黄色奶蛙在暗色河岸石阶上牵手，大蛙右臂夹着白色洗衣包，小蛙左手低持木拍、一足抬到高一级；两者穿深褐衣，背后是亮色河面和建筑。",
+      "placementRationale": "一只手要照顾侧面的衣包，另一只手向较低的台阶伸去。小奶蛙抬起一只脚，木拍仍垂在另一侧。河对岸已经被照亮，近处的两个身体却把这一步留在阴影里。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 42,
+      "sequencePosition": 67,
+      "previousWorkId": "134-the-feet-rise-before-the-bell-rings",
+      "nextWorkId": "140-twisting-the-blue-together"
+    },
+    {
+      "workId": "140-twisting-the-blue-together",
+      "number": "P140",
+      "title": "把蓝色拧成一股",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-2",
+      "route": "#/work/140-twisting-the-blue-together",
+      "lookFor": "一只黄奶蛙站在橙色低凳后，两手反向握紧蓝毛巾，毛巾中段拧成螺旋束，细水和水滴从中间垂入白搪瓷盆；双脚在凳旁分开。",
+      "placementRationale": "蓝毛巾在两只手之间变窄，折痕绕成一股。水从最紧的地方往下落，碰到盆面后又散成圆圈。奶蛙的身体占住大半画面，真正向外离开的，只有中间那一点水。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 43,
+      "sequencePosition": 68,
+      "previousWorkId": "136-up-this-step-together",
+      "nextWorkId": "141-this-foot-still-falls-short"
+    },
+    {
+      "workId": "141-this-foot-still-falls-short",
+      "number": "P141",
+      "title": "这一脚，还没够到",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-2",
+      "route": "#/work/141-this-foot-still-falls-short",
+      "lookFor": "大木制脚踏风琴旁，官方奶龙形象坐在红垫凳上，双手触及键盘前沿，一只棕爪短脚伸向下方木踏板而仍留小间隙，另一脚垂在凳边，尾巴和背棘向右露出。",
+      "placementRationale": "双手已经碰到键盘前沿，脚却还停在踏板上方。奶龙低下大脑袋，像是在重新估量这一点距离。木头占去半个画面，红凳把圆身体送到合适的高度，也把短脚留在了空中。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 44,
+      "sequencePosition": 69,
+      "previousWorkId": "140-twisting-the-blue-together",
+      "nextWorkId": "143-the-pencil-is-still-long"
+    },
+    {
+      "workId": "143-the-pencil-is-still-long",
+      "number": "P143",
+      "title": "铅笔还很长",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-2",
+      "route": "#/work/143-the-pencil-is-still-long",
+      "lookFor": "奶蛙站在杏色桌旁，一手扶住横向伸到左边的长蓝铅笔，另一手握深青色手摇卷笔刀的曲柄；抽屉前散着一片卷曲木屑。",
+      "placementRationale": "蓝铅笔从小机器里伸出来，一直伸向画面左侧。奶蛙一手扶笔，一手握着摇柄，目光停在两手之间。桌上已经有了一卷薄薄的木屑，而铅笔看上去仍然很长；细小的准备工作，在这里占了宽宽的一整段下午。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 45,
+      "sequencePosition": 70,
+      "previousWorkId": "141-this-foot-still-falls-short",
+      "nextWorkId": "145-give-this-handful-to-the-earth"
+    },
+    {
+      "workId": "145-give-this-handful-to-the-earth",
+      "number": "P145",
+      "title": "把这一把交给土地",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-2",
+      "route": "#/work/145-give-this-handful-to-the-earth",
+      "lookFor": "巨大黄色太阳照着紫蓝犁地，戴草帽的奶蛙在右侧迈步，一手向左下撒出种子，一手扶住腹前种袋，黑鸟散在左侧田中。",
+      "placementRationale": "太阳将天空撑成一整片黄，地面却被蓝紫色的短笔触翻松。奶蛙迈开小步，把手中的几道金黄撒向泥土。它与太阳使用同一种颜色，却只占田野的一小处；向外张开的手，把大画面里的光转成了近处的一次劳动。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 46,
+      "sequencePosition": 71,
+      "previousWorkId": "143-the-pencil-is-still-long",
+      "nextWorkId": "147-the-bread-is-a-little-wider-than-the-slot"
+    },
+    {
+      "workId": "147-the-bread-is-a-little-wider-than-the-slot",
+      "number": "P147",
+      "title": "面包比槽口大一点",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-2",
+      "route": "#/work/147-the-bread-is-a-little-wider-than-the-slot",
+      "lookFor": "奶龙站在浅蓝台子旁，双手托着宽方吐司，面包悬在红色烤面包机的黑槽上方，右侧大圆头微偏，白眼绿虹膜、棕爪和背棘可见。",
+      "placementRationale": "面包已经举起来，下面的槽口却显得窄了。奶龙把头歪向一边，两只手仍托着面包的角，先不往下放。宽面包、大脑袋和小机器排成了一次安静的比较；食物还没变成早餐，尺寸先成了今天遇到的小问题。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 47,
+      "sequencePosition": 72,
+      "previousWorkId": "145-give-this-handful-to-the-earth",
+      "nextWorkId": "148-oars-at-the-water-s-surface"
+    },
+    {
+      "workId": "148-oars-at-the-water-s-surface",
+      "number": "P148",
+      "title": "桨停在水面上",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-2",
+      "route": "#/work/148-oars-at-the-water-s-surface",
+      "lookFor": "蓝灰河面上，奶蛙坐在一条细长棕色单人艇里，近手握住桨柄，两桨左右伸出；左岸秋树与远方钢桥、石拱桥映入水中，右远处另有一只小蛙划艇。",
+      "placementRationale": "窄艇几乎横穿河面，奶蛙却只占其中很小的一段。两支桨在水边展开，把圆腹接入细长的线条。秋树、桥梁与黄色身体都在水中留下断续笔触；它转过脸，河面仍替整幅画保持着缓慢的平衡。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 48,
+      "sequencePosition": 73,
+      "previousWorkId": "147-the-bread-is-a-little-wider-than-the-slot",
+      "nextWorkId": "149-let-the-rain-reach-my-face"
+    },
+    {
+      "workId": "149-let-the-rain-reach-my-face",
+      "number": "P149",
+      "title": "让雨先落在脸上",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-2",
+      "route": "#/work/149-let-the-rain-reach-my-face",
+      "lookFor": "深蓝雨域里，黄色奶蛙双足站稳，整个头身向后仰，脸转向上方，双臂低低打开；白色竖雨痕遍布画面，脚边浅蓝水圈和白色飞溅展开。",
+      "placementRationale": "雨向下落，脸却向上转。黄色身体没有寻找遮蔽，只把两只手低低摊开。大片深蓝让这一点后仰显得很慢，白色短线仍不断经过它的周围。脚边的圈纹将站立留在地面，也给单纯的淋雨增加了一点响动的想象。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 49,
+      "sequencePosition": 74,
+      "previousWorkId": "148-oars-at-the-water-s-surface",
+      "nextWorkId": "157-the-ball-is-still-near-the-hands"
+    },
+    {
+      "workId": "157-the-ball-is-still-near-the-hands",
+      "number": "P157",
+      "title": "球还在手边",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-2",
+      "route": "#/work/157-the-ball-is-still-near-the-hands",
+      "lookFor": "两列金橄榄色树木之间，四只奶蛙穿蓝白或红黄条纹短装，中央双手举向悬空棕球，左侧倾身伸手，右侧抬手抬膝，后方一只站在浅色栏杆前。",
+      "placementRationale": "球悬在两只深色手掌上方，四个身体却各有自己的节拍：一个举起，一个探来，一个抬膝，另一个留在后面。条纹从衣袖绕到圆肚，树林密密的叶片把这片空地围得像舞台。动作还没抵达球，画面已经热闹起来。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 50,
+      "sequencePosition": 75,
+      "previousWorkId": "149-let-the-rain-reach-my-face",
+      "nextWorkId": "166-the-wind-turns-pages-into-the-sky"
+    },
+    {
+      "workId": "166-the-wind-turns-pages-into-the-sky",
+      "number": "P166",
+      "title": "风把纸页翻到天上",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-2",
+      "route": "#/work/166-the-wind-turns-pages-into-the-sky",
+      "lookFor": "蓝绿色苇地之间浅色小路曲折延伸，几只蓝衣奶蛙低身扶帽或护包。左侧双树树冠向右倾，白纸和草帽散向右上浅赭天空，富士山以远处细蓝线出现。",
+      "placementRationale": "纸页离开了包，草帽离开了头，身体却还贴着弯曲的小路。两株高树将枝叶伸向同一侧，奶蛙们用不同姿势守着随身的东西。远处富士只剩一条安静的蓝线；近处越忙，那条线就越像不需要回应风的东西。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 51,
+      "sequencePosition": 76,
+      "previousWorkId": "157-the-ball-is-still-near-the-hands",
+      "nextWorkId": "167-passing-over-your-back"
+    },
+    {
+      "workId": "167-passing-over-your-back",
+      "number": "P167",
+      "title": "从你的背上经过",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-2",
+      "route": "#/work/167-passing-over-your-back",
+      "lookFor": "浅杏色背景中，两只奶蛙上下交叠。上方奶蛙双手撑在下方弯曲背面，双腿向两侧分开并离地；下方奶蛙弯身朝右，一手撑膝，两只深灰脚落地。",
+      "placementRationale": "上面的脚离开地面，下面的脚仍站得很近。一道低下的背，暂时成了另一个身体经过的地方。撑住背面的两只手把上下连在一起，腹部下方的一小块空白又把它们分开；没有绳子，也没有别的道具，动作只借用彼此。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 52,
+      "sequencePosition": 77,
+      "previousWorkId": "166-the-wind-turns-pages-into-the-sky",
+      "nextWorkId": "184-sweeping-dusk-to-my-feet"
+    },
+    {
+      "workId": "184-sweeping-dusk-to-my-feet",
+      "number": "P184",
+      "title": "黄昏扫到脚边",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-2",
+      "route": "#/work/184-sweeping-dusk-to-my-feet",
+      "lookFor": "灰墙左侧黑白奶蛙弯腰双手握扫帚，绿眼望向地面；右侧大黄圆下沿剥落，黄色碎片落在墙脚并堆到扫帚前。",
+      "placementRationale": "扫帚前聚起一小堆黄，墙上的圆也少了一截。奶蛙把碎片拢到脚边，黄昏就从一大片远处的颜色，变成了眼前需要收拾的东西。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 53,
+      "sequencePosition": 78,
+      "previousWorkId": "167-passing-over-your-back",
+      "nextWorkId": "186-hold-the-guitar-close"
+    },
+    {
+      "workId": "186-hold-the-guitar-close",
+      "number": "P186",
+      "title": "把琴抱紧",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-2",
+      "route": "#/work/186-hold-the-guitar-close",
+      "lookFor": "深蓝房间里，黄色奶蛙低头交腿坐着，双臂围住斜立的赭色吉他，奶油腹只在琴边露出窄弧。",
+      "placementRationale": "头低下来，背也向里弯，琴在怀里留下一整块暖色。奶油腹只露出窄窄一边，身体把位置让给了它。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 54,
+      "sequencePosition": 79,
+      "previousWorkId": "184-sweeping-dusk-to-my-feet",
+      "nextWorkId": "187-walking-together-empty-handed"
+    },
+    {
+      "workId": "187-walking-together-empty-handed",
+      "number": "P187",
+      "title": "空手一起走",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-2",
+      "route": "#/work/187-walking-together-empty-handed",
+      "lookFor": "赭粉色旷地上，灰马抬起前蹄，与右侧黄色奶蛙并排迈步；奶蛙向马伸出的手里空着，远处是低山与灰蓝天空。",
+      "placementRationale": "马迈出长长的一步，奶蛙在旁边跟上一小步。伸出的手里空着，两副身体已经朝着同一个方向走。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 55,
+      "sequencePosition": 80,
+      "previousWorkId": "186-hold-the-guitar-close",
       "nextWorkId": "008-rural-portrait"
     },
     {
@@ -1495,7 +2561,7 @@ window.MUSEUM_CURATION = {
       "title": "乡间合影",
       "primaryHallId": "gesture",
       "clusterId": "gesture-3",
-      "hallPosition": 24,
+      "hallPosition": 56,
       "route": "#/work/008-rural-portrait",
       "lookFor": "比较草叉、衣服与尖拱窗的竖线。",
       "placementRationale": "暂缓动势，观察郑重的秩序怎样安排两具圆钝身体。",
@@ -1504,8 +2570,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 41,
-      "previousWorkId": "101-the-ball-is-still-in-sunlight",
+      "sequencePosition": 81,
+      "previousWorkId": "187-walking-together-empty-handed",
       "nextWorkId": "007-golden-embrace"
     },
     {
@@ -1514,7 +2580,7 @@ window.MUSEUM_CURATION = {
       "title": "金色相拥",
       "primaryHallId": "gesture",
       "clusterId": "gesture-3",
-      "hallPosition": 25,
+      "hallPosition": 57,
       "route": "#/work/007-golden-embrace",
       "lookFor": "看矩形纹样与有机纹样怎样包围相拥身体。",
       "placementRationale": "由并列走向包裹，使亲近先通过装饰整体出现。",
@@ -1523,7 +2589,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 42,
+      "sequencePosition": 82,
       "previousWorkId": "008-rural-portrait",
       "nextWorkId": "044-that-sound-on-the-bridge"
     },
@@ -1541,8 +2607,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 26,
-      "sequencePosition": 43,
+      "hallPosition": 58,
+      "sequencePosition": 83,
       "previousWorkId": "007-golden-embrace",
       "nextWorkId": "046-half-my-scarf-for-you"
     },
@@ -1560,8 +2626,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 27,
-      "sequencePosition": 44,
+      "hallPosition": 59,
+      "sequencePosition": 84,
       "previousWorkId": "044-that-sound-on-the-bridge",
       "nextWorkId": "076-leave-the-sound-outside-the-veil"
     },
@@ -1579,8 +2645,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 28,
-      "sequencePosition": 45,
+      "hallPosition": 60,
+      "sequencePosition": 85,
       "previousWorkId": "046-half-my-scarf-for-you",
       "nextWorkId": "081-one-burr-at-a-time"
     },
@@ -1598,8 +2664,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 29,
-      "sequencePosition": 46,
+      "hallPosition": 61,
+      "sequencePosition": 86,
       "previousWorkId": "076-leave-the-sound-outside-the-veil",
       "nextWorkId": "095-wash-this-foot-first"
     },
@@ -1617,8 +2683,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 30,
-      "sequencePosition": 47,
+      "hallPosition": 62,
+      "sequencePosition": 87,
       "previousWorkId": "081-one-burr-at-a-time",
       "nextWorkId": "097-almost-an-embrace"
     },
@@ -1636,9 +2702,123 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 31,
-      "sequencePosition": 48,
+      "hallPosition": 63,
+      "sequencePosition": 88,
       "previousWorkId": "095-wash-this-foot-first",
+      "nextWorkId": "112-lend-me-your-shoulder-for-a-moment"
+    },
+    {
+      "workId": "112-lend-me-your-shoulder-for-a-moment",
+      "number": "P112",
+      "title": "借你的肩看一会儿",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-3",
+      "route": "#/work/112-lend-me-your-shoulder-for-a-moment",
+      "lookFor": "暮色山林里，两只黄色奶蛙在左侧坡石上背对观众，较矮的一只踮脚扶着同伴的肩。右侧巨大橡树向上斜生，枝间低悬一弯小月。",
+      "placementRationale": "月亮很远，肩膀就在身边。矮一点的奶蛙踮起脚，借同伴的肩把目光往上送。粗大的斜树与满地碎石围住这两个圆背；远处那点亮，没有因此变近。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 64,
+      "sequencePosition": 89,
+      "previousWorkId": "097-almost-an-embrace",
+      "nextWorkId": "170-neither-of-us-is-holding-the-red"
+    },
+    {
+      "workId": "170-neither-of-us-is-holding-the-red",
+      "number": "P170",
+      "title": "这一点红谁也没拿",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-3",
+      "route": "#/work/170-neither-of-us-is-holding-the-red",
+      "lookFor": "两只黄色奶蛙侧面对立，各把手藏到身后，两片浅色腹部夹住一枚左右凹曲的红气球。细黑线从气球结下松垂，四只脚各自踩在浅橙地面上，后方是蓝灰色墙。",
+      "placementRationale": "红气球留在两片肚子中间，两只奶蛙的手却都收到了身后。左右的黄色身体各占一边，谁也没有把红色拿走。垂下来的线没有绷紧，四只脚还各自站在地上；一个很小的共同任务，让两边必须同时在场。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 65,
+      "sequencePosition": 90,
+      "previousWorkId": "112-lend-me-your-shoulder-for-a-moment",
+      "nextWorkId": "172-ophelia"
+    },
+    {
+      "workId": "172-ophelia",
+      "number": "P172",
+      "title": "奥菲莉亚",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-3",
+      "route": "#/work/172-ophelia",
+      "lookFor": "黄色奶蛙仰面漂在密绿河岸下，头在左、脚在右，一只手掌朝上，另一只手靠近水上红蓝小花。奶油腹露出水面，下身围着展开的银灰绣花薄布，左前方是高芦苇，右上方白花垂向暗水。",
+      "placementRationale": "岸上每一片叶子都还在生长，水中的两只手却轻轻松开。奶蛙的奶油腹与银灰衣料接成一片浅色，被暗水从下方托住；散花停在近手旁，没有被重新握紧。米莱的奥菲莉亚来到这里，悲伤变得更安静，也更难从一张简单的脸上辨认。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 66,
+      "sequencePosition": 91,
+      "previousWorkId": "170-neither-of-us-is-holding-the-red",
+      "nextWorkId": "173-saturn-with-a-broken-effigy"
+    },
+    {
+      "workId": "173-saturn-with-a-broken-effigy",
+      "number": "P173",
+      "title": "农神食子",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-3",
+      "route": "#/work/173-saturn-with-a-broken-effigy",
+      "lookFor": "黑褐背景前，一只黄身绿眼奶蛙张口低蹲，深色双手握紧破裂的釉面奶蛙陶偶。陶偶侧面露出陶土断壁和空腔，地上散着断臂与碎片。",
+      "placementRationale": "两只手把陶偶攥在胸前，光却落进了它身上的破口。大奶蛙的嘴张着，眼睛望向画外；小陶偶仍带着出厂时那张平静的脸。断臂已经落到脚边，握持的姿势还没有松开。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 67,
+      "sequencePosition": 92,
+      "previousWorkId": "172-ophelia",
+      "nextWorkId": "175-the-wind-passes-beneath-the-parasol"
+    },
+    {
+      "workId": "175-the-wind-passes-beneath-the-parasol",
+      "number": "P175",
+      "title": "风从伞下经过",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-3",
+      "route": "#/work/175-the-wind-passes-beneath-the-parasol",
+      "lookFor": "低视点仰望草坡，黄色绿眼奶蛙穿白长裙持绿色阳伞，帽纱向右飘，白裙被风扬起。左后方戴草帽的小奶蛙半身藏在草丛后；蓝天有散开的白云，前景黄花与深色长影交错。",
+      "placementRationale": "伞把天空压出一块深绿，白裙接住从草坡反上来的黄色。奶蛙圆而安静的脸朝向我们，身体却仍被风牵着；左后方的小角色只露出上半身。散步暂时停住，云、纱和草叶继续经过。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 68,
+      "sequencePosition": 93,
+      "previousWorkId": "173-saturn-with-a-broken-effigy",
+      "nextWorkId": "202-lower-the-shoulder-a-little"
+    },
+    {
+      "workId": "202-lower-the-shoulder-a-little",
+      "number": "P202",
+      "title": "肩膀低下去一点",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-3",
+      "route": "#/work/202-lower-the-shoulder-a-little",
+      "lookFor": "黄色奶蛙闭眼向右倾靠，头颈贴进青绿奶蛙的肩窝；青绿奶蛙睁眼看向右上，一只灰掌从下搂托黄色胸腹，两具身体在腹部截出画面。",
+      "placementRationale": "黄色头颈斜下来，青绿肩膀顺着它让出一点弧度。下面的灰掌又接住圆腹，两处接触把重量留在画面中央。一个已经闭眼，另一个还看着右上方。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 69,
+      "sequencePosition": 94,
+      "previousWorkId": "175-the-wind-passes-beneath-the-parasol",
       "nextWorkId": "006-night-diner"
     },
     {
@@ -1656,8 +2836,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 49,
-      "previousWorkId": "097-almost-an-embrace",
+      "sequencePosition": 95,
+      "previousWorkId": "202-lower-the-shoulder-a-little",
       "nextWorkId": "034-the-last-bus-with-a-tomato-plant"
     },
     {
@@ -1675,7 +2855,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 2,
-      "sequencePosition": 50,
+      "sequencePosition": 96,
       "previousWorkId": "006-night-diner",
       "nextWorkId": "078-the-rain-catches-up-on-the-bridge"
     },
@@ -1694,7 +2874,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 3,
-      "sequencePosition": 51,
+      "sequencePosition": 97,
       "previousWorkId": "034-the-last-bus-with-a-tomato-plant",
       "nextWorkId": "104-cold-weather-home-first"
     },
@@ -1713,8 +2893,65 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 4,
-      "sequencePosition": 52,
+      "sequencePosition": 98,
       "previousWorkId": "078-the-rain-catches-up-on-the-bridge",
+      "nextWorkId": "114-let-this-note-sit-for-a-while"
+    },
+    {
+      "workId": "114-let-this-note-sit-for-a-while",
+      "number": "P114",
+      "title": "这一个音，先坐住",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-1",
+      "route": "#/work/114-let-this-note-sit-for-a-while",
+      "lookFor": "黄色无四肢奶蛋坐在一枚低于相邻琴键的白键前端，深色钢琴键盘斜向右上延伸；深蓝背景留出大片空白。",
+      "placementRationale": "没有手指，奶蛋把自己放在一枚白键上。整排琴键里，只有这里矮下去一截。这个音究竟响了多久，画里听不见；那一点黄色却还坐着，暂时没有起身的意思。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 5,
+      "sequencePosition": 99,
+      "previousWorkId": "104-cold-weather-home-first",
+      "nextWorkId": "150-the-door-opens-a-face-appears"
+    },
+    {
+      "workId": "150-the-door-opens-a-face-appears",
+      "number": "P150",
+      "title": "门开了，先看一眼",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-1",
+      "route": "#/work/150-the-door-opens-a-face-appears",
+      "lookFor": "陶红墙上的深青色布谷钟打开上方两扇蓝门，一枚带绿眼小嘴、没有四肢的黄色奶蛋立在短木沿上；下方是奶油色圆钟面，细杆连接橙色圆钟摆。",
+      "placementRationale": "小门打开，出现的只有一张黄色的脸。奶蛋占了通常留给报时鸟的位置，既没有翅膀，也没有补上叫声。圆钟面在下方展开，细长摆杆继续向地面延伸；这一点小小的替换，让熟悉的挂钟先变成了一个供人对看的窗口。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 6,
+      "sequencePosition": 100,
+      "previousWorkId": "114-let-this-note-sit-for-a-while",
+      "nextWorkId": "179-no-next-song"
+    },
+    {
+      "workId": "179-no-next-song",
+      "number": "P179",
+      "title": "耳机里没有下一首",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-1",
+      "route": "#/work/179-no-next-song",
+      "lookFor": "灰紫色横幅空场里，奶蛙戴着大耳机低坐在右下，两手搭在膝上，视线垂向左侧；细线绕到地上，插头停在左下。",
+      "placementRationale": "耳机还戴着，插头已经落在地上。它把膝盖收近，手松松搭着，像在听一首已经放完的歌。灰紫色的空处很宽，下一首迟迟没有来。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 7,
+      "sequencePosition": 101,
+      "previousWorkId": "150-the-door-opens-a-face-appears",
       "nextWorkId": "002-sleeping-milk-frog"
     },
     {
@@ -1723,7 +2960,7 @@ window.MUSEUM_CURATION = {
       "title": "沉睡的奶蛙",
       "primaryHallId": "everyday",
       "clusterId": "everyday-2",
-      "hallPosition": 5,
+      "hallPosition": 8,
       "route": "#/work/002-sleeping-milk-frog",
       "lookFor": "把侧卧身体、狮子与月夜放在同一个视野里。",
       "placementRationale": "相似的平静姿态在未被取消的危险旁获得另一种张力。",
@@ -1732,8 +2969,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 53,
-      "previousWorkId": "104-cold-weather-home-first",
+      "sequencePosition": 102,
+      "previousWorkId": "179-no-next-song",
       "nextWorkId": "014-zipper-lunch"
     },
     {
@@ -1742,7 +2979,7 @@ window.MUSEUM_CURATION = {
       "title": "拉链里的午休",
       "primaryHallId": "everyday",
       "clusterId": "everyday-2",
-      "hallPosition": 6,
+      "hallPosition": 9,
       "route": "#/work/014-zipper-lunch",
       "lookFor": "比较拉链齿、织物纹理、标签吊床与身体的尺度。",
       "placementRationale": "把日常休息缩进衣物缝隙；这是二维生成插画中的尺度设置。",
@@ -1751,7 +2988,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 54,
+      "sequencePosition": 103,
       "previousWorkId": "002-sleeping-milk-frog",
       "nextWorkId": "032-an-unfamiliar-pair"
     },
@@ -1769,8 +3006,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 7,
-      "sequencePosition": 55,
+      "hallPosition": 10,
+      "sequencePosition": 104,
       "previousWorkId": "014-zipper-lunch",
       "nextWorkId": "036-the-wind-took-the-first-bite"
     },
@@ -1788,8 +3025,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 8,
-      "sequencePosition": 56,
+      "hallPosition": 11,
+      "sequencePosition": 105,
       "previousWorkId": "032-an-unfamiliar-pair",
       "nextWorkId": "048-this-page-belongs-to-the-cat"
     },
@@ -1807,8 +3044,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 9,
-      "sequencePosition": 57,
+      "hallPosition": 12,
+      "sequencePosition": 106,
       "previousWorkId": "036-the-wind-took-the-first-bite",
       "nextWorkId": "083-leave-the-path-for-a-moment"
     },
@@ -1826,8 +3063,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 10,
-      "sequencePosition": 58,
+      "hallPosition": 13,
+      "sequencePosition": 107,
       "previousWorkId": "048-this-page-belongs-to-the-cat",
       "nextWorkId": "099-lend-the-umbrella-to-the-bun-first"
     },
@@ -1845,9 +3082,142 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 11,
-      "sequencePosition": 59,
+      "hallPosition": 14,
+      "sequencePosition": 108,
       "previousWorkId": "083-leave-the-path-for-a-moment",
+      "nextWorkId": "111-let-the-paper-fly-a-little-longer"
+    },
+    {
+      "workId": "111-let-the-paper-fly-a-little-longer",
+      "number": "P111",
+      "title": "先让纸飞一会儿",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-2",
+      "route": "#/work/111-let-the-paper-fly-a-little-longer",
+      "lookFor": "奶龙坐在右下方蓝色矮台阶上，一手抬起空掌，另一手撑着台阶，双脚落地；红纸飞机位于左上角，二者之间是大片浅薄荷色留白。",
+      "placementRationale": "纸飞机已经离开手，奶龙还坐在原处。尖锐的红色折角停在左上，圆圆的身体压在右下，抬起的空掌没有追上它。中间这片浅绿色没有添上航线：刚刚做出的一个小动作，暂时把房间般宽的空白变成了距离。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 15,
+      "sequencePosition": 109,
+      "previousWorkId": "099-lend-the-umbrella-to-the-bun-first",
+      "nextWorkId": "115-each-sits-by-the-water"
+    },
+    {
+      "workId": "115-each-sits-by-the-water",
+      "number": "P115",
+      "title": "水边各坐一会儿",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-2",
+      "route": "#/work/115-each-sits-by-the-water",
+      "lookFor": "三只黄色长肢奶蛙分处斜坡河岸和水中，中央角色双腿垂入蓝河，远处是低桥与工厂烟囱。",
+      "placementRationale": "一只抱着膝盖，一只把脚放进河里，另一只向水面拢起双手。三只奶蛙同处一段河岸，却各自停在不同的姿势里。远处的桥横着穿过画面，近处没有谁急着渡河。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 16,
+      "sequencePosition": 110,
+      "previousWorkId": "111-let-the-paper-fly-a-little-longer",
+      "nextWorkId": "118-at-this-page"
+    },
+    {
+      "workId": "118-at-this-page",
+      "number": "P118",
+      "title": "读到这一页",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-2",
+      "route": "#/work/118-at-this-page",
+      "lookFor": "黄色奶蛙侧坐紫色软垫前，低头看左手托起的红皮小书，另一条手臂落在椅栏上。",
+      "placementRationale": "红皮小书停在奶蛙的视线下方。它把一条手臂交给椅栏，背后紫色软垫撑起斜坡，只有托书的手仍举着。书页比腹部小得多，却让整个身体转向了左边。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 17,
+      "sequencePosition": 111,
+      "previousWorkId": "115-each-sits-by-the-water",
+      "nextWorkId": "130-even-yellow-falls-quiet"
+    },
+    {
+      "workId": "130-even-yellow-falls-quiet",
+      "number": "P130",
+      "title": "黄色也安静下来",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-2",
+      "route": "#/work/130-even-yellow-falls-quiet",
+      "lookFor": "奶蛙披黑布侧坐在灰墙前的木椅上，双手叠在膝上的浅色布巾处，短足落在低脚凳上；左侧深色花帘、墙上小画框和大片空灰墙围住黄色侧面。",
+      "placementRationale": "黑色裙布垂到地板，黄色却停留在身体上半部。奶蛙侧坐在椅中，手放在膝上的浅色布巾处，短足踏着低凳。左边的垂帘与上方的小画框，让空墙也有了自己的重量。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 18,
+      "sequencePosition": 112,
+      "previousWorkId": "118-at-this-page",
+      "nextWorkId": "135-a-breath-between-the-seaweeds"
+    },
+    {
+      "workId": "135-a-breath-between-the-seaweeds",
+      "number": "P135",
+      "title": "海草之间有一口气",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-2",
+      "route": "#/work/135-a-breath-between-the-seaweeds",
+      "lookFor": "黄色奶龙在水中横向悬浮，头朝左、短尾朝右，四只短肢展开，白眼绿虹膜、奶油腹片、棕色爪尖和背棘可辨；左侧升起一串浅色气泡，右上三条小鱼游在深浅绿色带状海草之间。",
+      "placementRationale": "脚下没有地面，周围也没有容器。奶龙把四肢轻轻展开，停在一片深浅海草之间；左侧的气泡向上排列，右边的小鱼保持自己的距离。黄色身体暂时成为水道里最亮的一块。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 19,
+      "sequencePosition": 113,
+      "previousWorkId": "130-even-yellow-falls-quiet",
+      "nextWorkId": "153-sitting-for-a-while-inside-the-round-shadow"
+    },
+    {
+      "workId": "153-sitting-for-a-while-inside-the-round-shadow",
+      "number": "P153",
+      "title": "圆影里坐一会儿",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-2",
+      "route": "#/work/153-sitting-for-a-while-inside-the-round-shadow",
+      "lookFor": "巨大紫蓝圆影从画面左上裁入陶红地面，一只小黄色奶龙坐在右下弧边，一手撑地、一手搭腹，两脚伸向红色亮区。",
+      "placementRationale": "圆影很大，坐下只占了它的一小段边。紫蓝与陶红在脚尖前分开，黄色身体留在冷色里，像是借到一个暂时不用站起来的位置。影子的来源没有出现，画面只留下弧线，以及沿着弧线坐一会儿的余地。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 20,
+      "sequencePosition": 114,
+      "previousWorkId": "135-a-breath-between-the-seaweeds",
+      "nextWorkId": "158-a-circle-of-water-for-each"
+    },
+    {
+      "workId": "158-a-circle-of-water-for-each",
+      "number": "P158",
+      "title": "各有一圈水",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-2",
+      "route": "#/work/158-a-circle-of-water-for-each",
+      "lookFor": "深靛蓝水面上，三只半浸的奶蛙分处下左、上中和右侧，近者双手停在水线，远者分别侧向两边，各自被断续青色涟漪围绕。",
+      "placementRationale": "每只奶蛙周围都有一圈断断续续的青色线。它们不相接，也没有岸边把三个位置连起来。最近的双手停在水线上，远处两张侧脸朝向不同方向。黄色显得很近，大片深蓝又把它们轻轻分开。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 21,
+      "sequencePosition": 115,
+      "previousWorkId": "153-sitting-for-a-while-inside-the-round-shadow",
       "nextWorkId": "archive-listening-room"
     },
     {
@@ -1856,7 +3226,7 @@ window.MUSEUM_CURATION = {
       "title": "奶龙版倾听室：重制版",
       "primaryHallId": "everyday",
       "clusterId": "everyday-3",
-      "hallPosition": 12,
+      "hallPosition": 22,
       "route": "#/work/archive-listening-room",
       "lookFor": "比较窄窗、地板与占满房间的背部。",
       "placementRationale": "翻转上一件的微小尺度，让建筑成为身体的限制。",
@@ -1865,8 +3235,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 60,
-      "previousWorkId": "099-lend-the-umbrella-to-the-bun-first",
+      "sequencePosition": 116,
+      "previousWorkId": "158-a-circle-of-water-for-each",
       "nextWorkId": "029-two-books-taller-today"
     },
     {
@@ -1883,10 +3253,10 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 61,
+      "sequencePosition": 117,
       "previousWorkId": "archive-listening-room",
       "nextWorkId": "020-uncreased-place",
-      "hallPosition": 13
+      "hallPosition": 23
     },
     {
       "workId": "020-uncreased-place",
@@ -1902,10 +3272,10 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 62,
+      "sequencePosition": 118,
       "previousWorkId": "029-two-books-taller-today",
       "nextWorkId": "023-knot-the-empty-seat",
-      "hallPosition": 14
+      "hallPosition": 24
     },
     {
       "workId": "023-knot-the-empty-seat",
@@ -1921,10 +3291,10 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 63,
+      "sequencePosition": 119,
       "previousWorkId": "020-uncreased-place",
       "nextWorkId": "013-shadow-stairs",
-      "hallPosition": 15
+      "hallPosition": 25
     },
     {
       "workId": "013-shadow-stairs",
@@ -1932,7 +3302,7 @@ window.MUSEUM_CURATION = {
       "title": "影子还是走楼梯",
       "primaryHallId": "everyday",
       "clusterId": "everyday-3",
-      "hallPosition": 16,
+      "hallPosition": 26,
       "route": "#/work/013-shadow-stairs",
       "lookFor": "分别沿身体和影子所在的楼梯表面看。",
       "placementRationale": "尺度之后改变行动路径，让关联的两者服从不同路线。",
@@ -1941,7 +3311,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 64,
+      "sequencePosition": 120,
       "previousWorkId": "023-knot-the-empty-seat",
       "nextWorkId": "010-water-left"
     },
@@ -1951,7 +3321,7 @@ window.MUSEUM_CURATION = {
       "title": "水走以后",
       "primaryHallId": "everyday",
       "clusterId": "everyday-3",
-      "hallPosition": 17,
+      "hallPosition": 27,
       "route": "#/work/010-water-left",
       "lookFor": "看干叶、哑光砖面与不断开的波纹砖缝。",
       "placementRationale": "从路径错位转向材料预期的冲突。",
@@ -1960,7 +3330,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "relatedReading": [],
-      "sequencePosition": 65,
+      "sequencePosition": 121,
       "previousWorkId": "013-shadow-stairs",
       "nextWorkId": "022-only-one-bowl"
     },
@@ -1978,10 +3348,10 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 66,
+      "sequencePosition": 122,
       "previousWorkId": "010-water-left",
       "nextWorkId": "018-handmade-rain",
-      "hallPosition": 18
+      "hallPosition": 28
     },
     {
       "workId": "018-handmade-rain",
@@ -1989,7 +3359,7 @@ window.MUSEUM_CURATION = {
       "title": "今日小雨，手工现做",
       "primaryHallId": "everyday",
       "clusterId": "everyday-3",
-      "hallPosition": 19,
+      "hallPosition": 29,
       "route": "#/work/018-handmade-rain",
       "lookFor": "从木桌上的白云沿辊轴看到蓝色雨线，最后落在地砖的小片积水；再看握柄与扶住机器的两只手。",
       "placementRationale": "放在波纹瓷砖之后，让水从被硬地面保留的形状变成厨房里加工出来的雨；用熟悉的家用工具承接用途置换。",
@@ -1998,7 +3368,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 67,
+      "sequencePosition": 123,
       "previousWorkId": "022-only-one-bowl",
       "nextWorkId": "021-planing-sunlight"
     },
@@ -2016,10 +3386,10 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 68,
+      "sequencePosition": 124,
       "previousWorkId": "018-handmade-rain",
       "nextWorkId": "024-keep-dusk-for-tomorrow",
-      "hallPosition": 20
+      "hallPosition": 30
     },
     {
       "workId": "024-keep-dusk-for-tomorrow",
@@ -2035,10 +3405,10 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 69,
+      "sequencePosition": 125,
       "previousWorkId": "021-planing-sunlight",
       "nextWorkId": "025-lay-down-the-fence",
-      "hallPosition": 21
+      "hallPosition": 31
     },
     {
       "workId": "025-lay-down-the-fence",
@@ -2054,10 +3424,10 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 70,
+      "sequencePosition": 126,
       "previousWorkId": "024-keep-dusk-for-tomorrow",
       "nextWorkId": "011-incompatible-lunch",
-      "hallPosition": 22
+      "hallPosition": 32
     },
     {
       "workId": "011-incompatible-lunch",
@@ -2065,7 +3435,7 @@ window.MUSEUM_CURATION = {
       "title": "午餐不在同一张桌上",
       "primaryHallId": "everyday",
       "clusterId": "everyday-3",
-      "hallPosition": 23,
+      "hallPosition": 33,
       "route": "#/work/011-incompatible-lunch",
       "lookFor": "分别确认盘、椅、桌角的视点，再找伸出照片边缘的脚。",
       "placementRationale": "将材料问题转为空间能否共享；完整身体成为对照。",
@@ -2074,7 +3444,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "relatedReading": [],
-      "sequencePosition": 71,
+      "sequencePosition": 127,
       "previousWorkId": "025-lay-down-the-fence",
       "nextWorkId": "031-after-the-rain-the-boat-remains"
     },
@@ -2092,8 +3462,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 24,
-      "sequencePosition": 72,
+      "hallPosition": 34,
+      "sequencePosition": 128,
       "previousWorkId": "011-incompatible-lunch",
       "nextWorkId": "047-the-sofa-enters-the-jungle"
     },
@@ -2111,8 +3481,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 25,
-      "sequencePosition": 73,
+      "hallPosition": 35,
+      "sequencePosition": 129,
       "previousWorkId": "031-after-the-rain-the-boat-remains",
       "nextWorkId": "065-the-sea-runs-off-the-page"
     },
@@ -2130,8 +3500,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 26,
-      "sequencePosition": 74,
+      "hallPosition": 36,
+      "sequencePosition": 130,
       "previousWorkId": "047-the-sofa-enters-the-jungle",
       "nextWorkId": "067-the-room-comes-unstitched"
     },
@@ -2149,8 +3519,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 27,
-      "sequencePosition": 75,
+      "hallPosition": 37,
+      "sequencePosition": 131,
       "previousWorkId": "065-the-sea-runs-off-the-page",
       "nextWorkId": "071-roll-the-distance-closer"
     },
@@ -2168,8 +3538,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 28,
-      "sequencePosition": 76,
+      "hallPosition": 38,
+      "sequencePosition": 132,
       "previousWorkId": "067-the-room-comes-unstitched",
       "nextWorkId": "072-time-softens-first"
     },
@@ -2187,8 +3557,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 29,
-      "sequencePosition": 77,
+      "hallPosition": 39,
+      "sequencePosition": 133,
       "previousWorkId": "071-roll-the-distance-closer",
       "nextWorkId": "088-a-river-through-the-map"
     },
@@ -2206,8 +3576,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 30,
-      "sequencePosition": 78,
+      "hallPosition": 40,
+      "sequencePosition": 134,
       "previousWorkId": "072-time-softens-first",
       "nextWorkId": "100-this-page-opens-by-itself"
     },
@@ -2225,9 +3595,332 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 31,
-      "sequencePosition": 79,
+      "hallPosition": 41,
+      "sequencePosition": 135,
       "previousWorkId": "088-a-river-through-the-map",
+      "nextWorkId": "108-leave-the-door-ajar"
+    },
+    {
+      "workId": "108-leave-the-door-ajar",
+      "number": "P108",
+      "title": "门先留一条缝",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-3",
+      "route": "#/work/108-leave-the-door-ajar",
+      "lookFor": "深蓝门下缘贴着一只无肢黄奶蛋，橄榄绿眼睛望向右侧；奶白色光带铺过陶红地面，一片红叶停在光里。",
+      "placementRationale": "蓝门停在奶蛋身旁，长直边碰上柔软的黄色曲线。它没有手脚，只用身体占住一个小位置。门侧的光铺到红叶下面，叶子比它还轻，却把目光引向外面。门还开着，这一刻的工作只是留出一点余地。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 42,
+      "sequencePosition": 136,
+      "previousWorkId": "100-this-page-opens-by-itself",
+      "nextWorkId": "132-through-the-space-between-mountains"
+    },
+    {
+      "workId": "132-through-the-space-between-mountains",
+      "number": "P132",
+      "title": "从山的空处经过",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-3",
+      "route": "#/work/132-through-the-space-between-mountains",
+      "lookFor": "一只没有四肢的黄色奶蛋坐在左上方红色敞口缆车内，小绿眼看向右侧；深色吊架与双轮连接横过画面的黑索，远端小站位于右侧山脊，下方层层蓝山围出细白河道。",
+      "placementRationale": "车厢很小，下面的空处很大。奶蛋露出黄色上半身，坐在红色车厢里望向远处；黑索跨过蓝色山谷，终点缩成山脊上的一小块。无需伸出手脚，身体也能被带到另一个位置。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 43,
+      "sequencePosition": 137,
+      "previousWorkId": "108-leave-the-door-ajar",
+      "nextWorkId": "137-make-a-little-room-for-the-belly"
+    },
+    {
+      "workId": "137-make-a-little-room-for-the-belly",
+      "number": "P137",
+      "title": "先把肚子收一点",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-3",
+      "route": "#/work/137-make-a-little-room-for-the-belly",
+      "lookFor": "黄色奶蛙在低阁楼里略向前俯身，双手收在奶油腹前，双足一前一后；靛蓝斜梁贴近头顶，四只赭红或蓝灰长袜从两侧垂下，右边小窗照亮木地板。",
+      "placementRationale": "梁比想象中低，袜子比想象中长。奶蛙把两手收在肚子前，给眼前窄窄的通道留出一点位置。前脚已经伸出去，背和头还在留意上方。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 44,
+      "sequencePosition": 138,
+      "previousWorkId": "132-through-the-space-between-mountains",
+      "nextWorkId": "138-an-echo-in-an-empty-shell"
+    },
+    {
+      "workId": "138-an-echo-in-an-empty-shell",
+      "number": "P138",
+      "title": "空壳里有回声",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-3",
+      "route": "#/work/138-an-echo-in-an-empty-shell",
+      "lookFor": "巨大的奶白海螺横卧在青绿色地带上，珊瑚红条纹绕过壳面，深蓝开口朝向右侧小黄奶蛋；奶蛋无四肢，小橄榄绿眼看向壳口，身体与白色口沿之间留着一道窄缝，背景为浅粉色。",
+      "placementRationale": "海螺的开口比整个身体还大。奶蛋停在外面，抬起小小的眼睛，黄色和深蓝隔着一条窄缝相对。空着的内部让人想把注意力靠近一点。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 45,
+      "sequencePosition": 139,
+      "previousWorkId": "137-make-a-little-room-for-the-belly",
+      "nextWorkId": "139-a-little-room-between-umbrellas"
+    },
+    {
+      "workId": "139-a-little-room-between-umbrellas",
+      "number": "P139",
+      "title": "伞沿之间留一点路",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-3",
+      "route": "#/work/139-a-little-room-between-umbrellas",
+      "lookFor": "宽阔湿石街口，中央偏左深绿灯柱与左侧楔形建筑相对；近处两只黄奶蛙穿敞开深衣共撑蓝灰伞，一只挽住另一只前臂，右边另有撑伞背影被裁切。",
+      "placementRationale": "伞把两只奶蛙收进同一小块阴影。它们向左转头，另一把伞却从右边进入，边缘几乎叠在一起。湿路面向远处展开，足边留下的间隙，反而成了街口最需要照顾的地方。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 46,
+      "sequencePosition": 140,
+      "previousWorkId": "138-an-echo-in-an-empty-shell",
+      "nextWorkId": "151-different-light-at-one-table"
+    },
+    {
+      "workId": "151-different-light-at-one-table",
+      "number": "P151",
+      "title": "这一桌，灯色不同",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-3",
+      "route": "#/work/151-different-light-at-one-table",
+      "lookFor": "戴深帽、披暗衣的奶蛙围坐在浅色桌旁，左下赭栏杆斜切画面，中央曲木椅背朝向观者；右前巨大的奶蛙脸被画缘裁切，脸面覆着青绿色，后方镜墙中排列许多小黄身。",
+      "placementRationale": "同一张桌旁，黄色面孔被暗帽与衣领隔成几处小亮点。右前方有一张脸突然靠得很近，青绿覆盖了原来的黄；它没有加入桌上的交谈，却先拦住我们的目光。栏杆从另一侧斜插进来，热闹于是变成一道不容易走进去的空间。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 47,
+      "sequencePosition": 141,
+      "previousWorkId": "139-a-little-room-between-umbrellas",
+      "nextWorkId": "152-two-streams-of-yellow-passing"
+    },
+    {
+      "workId": "152-two-streams-of-yellow-passing",
+      "number": "P152",
+      "title": "两股黄色经过",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-3",
+      "route": "#/work/152-two-streams-of-yellow-passing",
+      "lookFor": "深青水面中，一条灰白窄石道斜穿画面，八只黄色奶蛙分成正面与背影两列，中央两个身体相邻侧开。",
+      "placementRationale": "路只有一条，黄色却朝两个方向经过。正面的奶油腹与背面的整块黄交替告诉我们，谁正在靠近，谁已经走远；到了中央，身体只能稍稍侧开，把同一条窄路分给彼此。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 48,
+      "sequencePosition": 142,
+      "previousWorkId": "151-different-light-at-one-table",
+      "nextWorkId": "155-someone-on-every-level"
+    },
+    {
+      "workId": "155-someone-on-every-level",
+      "number": "P155",
+      "title": "每一层都有人",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-3",
+      "route": "#/work/155-someone-on-every-level",
+      "lookFor": "蓝色和珊瑚色墙面隔出三处露台：左上奶蛙侧身靠着栏墙，右上背影站在紫色门洞前，下方一只奶蛙坐在台阶边伸腿；大片墙面将三者隔开。",
+      "placementRationale": "三个黄色身体住在同一幅画里，却各自朝着不同的空处。一个靠栏，一个停在门前，一个坐下。粉色长墙把距离拉开，蓝色侧面让空白也有了重量。没有谁成为中心，日常的共处暂时不需要一件共同的事。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 49,
+      "sequencePosition": 143,
+      "previousWorkId": "152-two-streams-of-yellow-passing",
+      "nextWorkId": "159-the-footprints-almost-come-back"
+    },
+    {
+      "workId": "159-the-footprints-almost-come-back",
+      "number": "P159",
+      "title": "脚印快绕回来了",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-3",
+      "route": "#/work/159-the-footprints-almost-come-back",
+      "lookFor": "淡紫雪地上，梅紫色成对足印绕出一个大开口弧形，右下的黄色奶龙垂着短臂、低头看脚前印迹，背棘与短尾可见，中央留着大片空白。",
+      "placementRationale": "足印一对接一对，在淡紫地面上转了很大的弯。奶龙站在开口处，低头看着前面那一对。它们还没有接成闭环，中央也没有需要围住的东西。于是空白成了这条路最显眼的部分，脚下的小停顿比走了多远更容易被看见。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 50,
+      "sequencePosition": 144,
+      "previousWorkId": "155-someone-on-every-level",
+      "nextWorkId": "160-only-this-patch-of-ground-beneath-the-umbrellas"
+    },
+    {
+      "workId": "160-only-this-patch-of-ground-beneath-the-umbrellas",
+      "number": "P160",
+      "title": "伞下只剩这一点空地",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-3",
+      "route": "#/work/160-only-this-patch-of-ground-beneath-the-umbrellas",
+      "lookFor": "纵幅蓝灰雨伞密密相叠，穿衣奶蛙挤成近处人墙，左前奶蛙提褐色篮并拢裙，右前小奶蛙握木圆环，中间留一条浅色地面。",
+      "placementRationale": "伞弧一层压着一层，天空只剩几小块。左边的篮口、右边的木环和头顶伞冠反复画出圆弧，黄色面孔在蓝衣之间一闪一闪。人群没有让出一条远路，只留住脚边的浅色空地，让目光从紧密的身体之间慢慢穿过。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 51,
+      "sequencePosition": 145,
+      "previousWorkId": "159-the-footprints-almost-come-back",
+      "nextWorkId": "161-four-windows-four-directions"
+    },
+    {
+      "workId": "161-four-windows-four-directions",
+      "number": "P161",
+      "title": "这一排各看各的",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-3",
+      "route": "#/work/161-four-windows-four-directions",
+      "lookFor": "深蓝列车侧面排列四个暖白窗格，四只黄色奶蛙分别侧看、面向外扶窗、背向转头和托腮，上下是宽蓝色面，一根暗红横条从窗下经过。",
+      "placementRationale": "四扇亮窗排成一行，黄色身体各自朝着不同方向。窗柱把他们隔开，红色细条又从下面连续经过。一个看左边，一个看外面，一个转过身，一个托着脸；同一排灯光里，目光并没有排成同一队。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 52,
+      "sequencePosition": 146,
+      "previousWorkId": "160-only-this-patch-of-ground-beneath-the-umbrellas",
+      "nextWorkId": "163-two-distances-across-the-red"
+    },
+    {
+      "workId": "163-two-distances-across-the-red",
+      "number": "P163",
+      "title": "红地隔开两种距离",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-3",
+      "route": "#/work/163-two-distances-across-the-red",
+      "lookFor": "朱红地被斜树干分开，近处白帽蓝衣奶蛙群占满下缘与左侧，右上两只小奶蛙相拥角力，其中一只带黄色双翼，左方小牛带黄色脸。",
+      "placementRationale": "白帽大得像近处的山，角力的两只却缩在红地深处。斜树干切过两种距离，把人群的观看与远处的动作分开。黄色面孔沿着帽缘出现，红色没有给出常规的远近标尺，大小于是成为画面里最直接的距离。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 53,
+      "sequencePosition": 147,
+      "previousWorkId": "161-four-windows-four-directions",
+      "nextWorkId": "185-a-shadow-needs-no-pass"
+    },
+    {
+      "workId": "185-a-shadow-needs-no-pass",
+      "number": "P185",
+      "title": "影子不用通行证",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-3",
+      "route": "#/work/185-a-shadow-needs-no-pass",
+      "lookFor": "灰色旧墙前，黄身绿眼的奶蛙双手收在奶油腹前，停在一段斜伸的黑栏杆左侧；黑影从脚边穿过栏下，伸到右边，头缘留着一线黄。",
+      "placementRationale": "双手收在肚子前，脚没有再往前挪。栏杆把奶蛙留在原地，影子却从下方铺过去，圆头已经到了另一侧。墙上的旧漆剥落了一大片，边界仍然站得很直。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 54,
+      "sequencePosition": 148,
+      "previousWorkId": "163-two-distances-across-the-red",
+      "nextWorkId": "198-a-voice-caught-in-vertical-lines"
+    },
+    {
+      "workId": "198-a-voice-caught-in-vertical-lines",
+      "number": "P198",
+      "title": "声音卡在竖线里",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-3",
+      "route": "#/work/198-a-voice-caught-in-vertical-lines",
+      "lookFor": "深褐竖帘前，奶蛙张着深蓝色嘴，双手停在紫色椅臂上，白色细框斜穿身体前方，拖擦线条从头延伸到奶油腹。",
+      "placementRationale": "嘴已经张开，竖帘仍从头顶一直落到肚子前。紫色座位把身体夹在中间，白色细框又从眼前斜着经过。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 55,
+      "sequencePosition": 149,
+      "previousWorkId": "185-a-shadow-needs-no-pass",
+      "nextWorkId": "199-a-line-of-light-beneath-the-feet"
+    },
+    {
+      "workId": "199-a-line-of-light-beneath-the-feet",
+      "number": "P199",
+      "title": "脚下还留着一线光",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-3",
+      "route": "#/work/199-a-line-of-light-beneath-the-feet",
+      "lookFor": "灰墙红砖房间里，奶蛙坐在蓝椅上向鬣狗伸手，双脚悬在地面上方；窗外白马奔跑，头顶另一匹摇马与墙影停在半空。",
+      "placementRationale": "手伸向近处的鬣狗，眼睛却看向窗外的白马。两只脚还悬着，地面先接住了它们的影子。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 56,
+      "sequencePosition": 150,
+      "previousWorkId": "198-a-voice-caught-in-vertical-lines",
+      "nextWorkId": "200-the-bird-is-still-attached-to-a-string"
+    },
+    {
+      "workId": "200-the-bird-is-still-attached-to-a-string",
+      "number": "P200",
+      "title": "鸟还连着一根弦",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-3",
+      "route": "#/work/200-the-bird-is-still-attached-to-a-string",
+      "lookFor": "拱窗工作室里，奶蛙坐在桌前，一手举三角玻璃、一手以笔尖接触纸；胸前小提琴的细弦连向画笔，蓝鸟展开翅膀，桌下双脚悬空。",
+      "placementRationale": "胸前的细弦连着笔尖，窗边的光穿过三角玻璃。蓝鸟已经展开翅膀，奶蛙的手还停在纸上。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 57,
+      "sequencePosition": 151,
+      "previousWorkId": "199-a-line-of-light-beneath-the-feet",
+      "nextWorkId": "201-another-eye-above-the-ridge"
+    },
+    {
+      "workId": "201-another-eye-above-the-ridge",
+      "number": "P201",
+      "title": "山脊上还有一只眼睛",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-3",
+      "route": "#/work/201-another-eye-above-the-ridge",
+      "lookFor": "紫色花坡后，赭色独眼巨人露出头肩；近处黄奶蛙闭眼斜卧，一手托脸、一手搁在腹上，红绿花点盖住部分身体边缘。",
+      "placementRationale": "山后那只大眼还睁着，花坡上的奶蛙已经睡着。花把黄色边缘遮住一点，两张脸隔着一段起伏的紫色。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 58,
+      "sequencePosition": 152,
+      "previousWorkId": "200-the-bird-is-still-attached-to-a-string",
       "nextWorkId": "012-late-yellow"
     },
     {
@@ -2236,7 +3929,7 @@ window.MUSEUM_CURATION = {
       "title": "走慢半步的黄色",
       "primaryHallId": "everyday",
       "clusterId": "everyday-4",
-      "hallPosition": 32,
+      "hallPosition": 59,
       "route": "#/work/012-late-yellow",
       "lookFor": "沿黑轮廓与越线黄块，再看右下套准十字。",
       "placementRationale": "让画面组成层之间的偏移接过空间的不连续。",
@@ -2246,8 +3939,8 @@ window.MUSEUM_CURATION = {
       "relatedReading": [
         "simple-forms-complex-expression"
       ],
-      "sequencePosition": 80,
-      "previousWorkId": "100-this-page-opens-by-itself",
+      "sequencePosition": 153,
+      "previousWorkId": "201-another-eye-above-the-ridge",
       "nextWorkId": "015-sleep-loading"
     },
     {
@@ -2256,7 +3949,7 @@ window.MUSEUM_CURATION = {
       "title": "先睡，图慢慢加载",
       "primaryHallId": "everyday",
       "clusterId": "everyday-4",
-      "hallPosition": 33,
+      "hallPosition": 60,
       "route": "#/work/015-sleep-loading",
       "lookFor": "看棋盘格、像素被子与露出的头手脚。",
       "placementRationale": "以显示界面被当作生活材料的情境收束本厅。",
@@ -2265,8 +3958,103 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 81,
+      "sequencePosition": 154,
       "previousWorkId": "012-late-yellow",
+      "nextWorkId": "142-red-holds-the-room-together"
+    },
+    {
+      "workId": "142-red-holds-the-room-together",
+      "number": "P142",
+      "title": "红色把房间连起来",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-4",
+      "route": "#/work/142-red-holds-the-room-together",
+      "lookFor": "红色画室中，家具只留赭色轮廓，中央立钟没有指针，四周彩色画作和右侧小塑像都出现黄色奶蛙；左前桌和右前椅围住大片空红地。",
+      "placementRationale": "红色越过墙角，接住地板，也穿过柜子与椅子的轮廓。奶蛙没有走进房间，而是留在四周画作和小塑像里：有的斜卧，有的端坐。它们各占一小块彩色地方，中央的空处则把这些不同姿势连在一起。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 61,
+      "sequencePosition": 155,
+      "previousWorkId": "015-sleep-loading",
+      "nextWorkId": "180-flower-colors-grow-from-the-palm"
+    },
+    {
+      "workId": "180-flower-colors-grow-from-the-palm",
+      "number": "P180",
+      "title": "花色从手心长出来",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-4",
+      "route": "#/work/180-flower-colors-grow-from-the-palm",
+      "lookFor": "黄色奶蛙站在左侧，右臂向上伸长，接入右上方粉红、橙、紫、绿的厚涂花云，左上和右下留出大片浅色画布。",
+      "placementRationale": "黄色从肩膀一路拖到花云深处。手掌的尽头被粉红和紫色接住，腹部也沾上几道颜色；右下方留出的空白，让这一伸手显得更远。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 62,
+      "sequencePosition": 156,
+      "previousWorkId": "142-red-holds-the-room-together",
+      "nextWorkId": "181-the-garden-on-the-back-of-cardboard"
+    },
+    {
+      "workId": "181-the-garden-on-the-back-of-cardboard",
+      "number": "P181",
+      "title": "纸板背面的花园",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-4",
+      "route": "#/work/181-the-garden-on-the-back-of-cardboard",
+      "lookFor": "一只奶蛙斜靠在纸板右下方的粉橘厚涂中，左上保留大片褐色裸纸。纸板的裂纹延伸进左腰腹，截断浅色腹片，下沿露出瓦楞孔。",
+      "placementRationale": "纸板的裂纹一直走到奶蛙腰边，褐色从这里伸进浅色肚子。它靠在右下角一小片暖色里，把大半张纸板留给了空处。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 63,
+      "sequencePosition": 157,
+      "previousWorkId": "180-flower-colors-grow-from-the-palm",
+      "nextWorkId": "194-the-button-moon-opened-its-mouth"
+    },
+    {
+      "workId": "194-the-button-moon-opened-its-mouth",
+      "number": "P194",
+      "title": "纽扣月亮开了口",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-4",
+      "route": "#/work/194-the-button-moon-opened-its-mouth",
+      "lookFor": "暗蓝纸布舞台上，黄色纸片奶蛙带着麻布腹片走到缝线桥断口前，右上大纽扣裂开嘴状缝隙，垂下红线。",
+      "placementRationale": "纸做的身体抬起脚，五道缝线在前面断开。开口的纽扣月亮垂下一根红线，线头停在缺口附近。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 64,
+      "sequencePosition": 158,
+      "previousWorkId": "181-the-garden-on-the-back-of-cardboard",
+      "nextWorkId": "195-the-paper-puppet-remained-after-the-curtain-call"
+    },
+    {
+      "workId": "195-the-paper-puppet-remained-after-the-curtain-call",
+      "number": "P195",
+      "title": "纸偶谢幕后还站着",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-4",
+      "route": "#/work/195-the-paper-puppet-remained-after-the-curtain-call",
+      "lookFor": "灰白空剧场里黄色奶蛙纸偶正面站立，两根操偶线接到前臂附近，右下独立深蓝黑布形蜷缩在地，周围有粗针脚。",
+      "placementRationale": "纸偶仍然站着，缝在地上的布影却蜷成一团。票根帘幕向两侧打开，头顶的细线还没有撤走。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 65,
+      "sequencePosition": 159,
+      "previousWorkId": "194-the-button-moon-opened-its-mouth",
       "nextWorkId": "archive-marilyn-one"
     },
     {
@@ -2284,8 +4072,8 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 82,
-      "previousWorkId": "015-sleep-loading",
+      "sequencePosition": 160,
+      "previousWorkId": "195-the-paper-puppet-remained-after-the-curtain-call",
       "nextWorkId": "archive-marilyn-nine"
     },
     {
@@ -2303,7 +4091,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 83,
+      "sequencePosition": 161,
       "previousWorkId": "archive-marilyn-one",
       "nextWorkId": "archive-diptych"
     },
@@ -2322,7 +4110,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 84,
+      "sequencePosition": 162,
       "previousWorkId": "archive-marilyn-nine",
       "nextWorkId": "archive-thirty-two"
     },
@@ -2341,7 +4129,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 85,
+      "sequencePosition": 163,
       "previousWorkId": "archive-diptych",
       "nextWorkId": "archive-screen-test"
     },
@@ -2360,7 +4148,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 86,
+      "sequencePosition": 164,
       "previousWorkId": "archive-thirty-two",
       "nextWorkId": "054-who-gets-the-strawberry"
     },
@@ -2379,8 +4167,46 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 6,
-      "sequencePosition": 87,
+      "sequencePosition": 165,
       "previousWorkId": "archive-screen-test",
+      "nextWorkId": "162-one-circle-has-eyes"
+    },
+    {
+      "workId": "162-one-circle-has-eyes",
+      "number": "P162",
+      "title": "圆孔里多了一双眼",
+      "primaryHallId": "reproduction",
+      "clusterId": "reproduction-1",
+      "route": "#/work/162-one-circle-has-eyes",
+      "lookFor": "朱红色纸帘布满错列浅青绿圆孔，圆形在画缘被裁切，底部是波浪状边缘；右下一个孔里露出黄卵形奶蛋，两只橄榄绿眼朝左偏看，下部被红边遮住。",
+      "placementRationale": "浅青色圆形在红色面上轮流出现，边缘的半圆提示图案还在继续。直到右下这一处，黄色和两只眼睛让重复停顿了一下。奶蛋的下部藏在红边后，空洞忽然像成了一个位置：有一小块颜色正在那里看着别处。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 7,
+      "sequencePosition": 166,
+      "previousWorkId": "054-who-gets-the-strawberry",
+      "nextWorkId": "192-one-position-grew-eyes"
+    },
+    {
+      "workId": "192-one-position-grew-eyes",
+      "number": "P192",
+      "title": "这一格长出了眼睛",
+      "primaryHallId": "reproduction",
+      "clusterId": "reproduction-1",
+      "route": "#/work/192-one-position-grew-eyes",
+      "lookFor": "白底七行七列彩色圆点，第四行第五列由黄色奶蛙替代。它有双绿眼、奶油腹和贴身短臂，大小与圆点相近。",
+      "placementRationale": "每个颜色都有自己的位置。走到第四行，一块黄色忽然有了两只眼睛，圆腹仍在努力保持圆。周围的点没有挪动，观看却从这里慢了下来。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 8,
+      "sequencePosition": 167,
+      "previousWorkId": "162-one-circle-has-eyes",
       "nextWorkId": "archive-peaches"
     },
     {
@@ -2389,7 +4215,7 @@ window.MUSEUM_CURATION = {
       "title": "黄桃罐头",
       "primaryHallId": "reproduction",
       "clusterId": "reproduction-2",
-      "hallPosition": 7,
+      "hallPosition": 9,
       "route": "#/work/archive-peaches",
       "lookFor": "先读标签，再看罐体的正面格式和黄色分区。",
       "placementRationale": "角色暂时缺席，以虚构商品肖像测试颜色关联。",
@@ -2398,8 +4224,8 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 88,
-      "previousWorkId": "054-who-gets-the-strawberry",
+      "sequencePosition": 168,
+      "previousWorkId": "192-one-position-grew-eyes",
       "nextWorkId": "archive-peach-passion"
     },
     {
@@ -2408,7 +4234,7 @@ window.MUSEUM_CURATION = {
       "title": "黄桃百香果罐头",
       "primaryHallId": "reproduction",
       "clusterId": "reproduction-2",
-      "hallPosition": 8,
+      "hallPosition": 10,
       "route": "#/work/archive-peach-passion",
       "lookFor": "与A12并看罐体格式、口味名称及紫绿黄配色。",
       "placementRationale": "保持展示单位，更换内部差异，形成最简明的序列对照。",
@@ -2417,7 +4243,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 89,
+      "sequencePosition": 169,
       "previousWorkId": "archive-peaches",
       "nextWorkId": "050-the-signature"
     },
@@ -2435,9 +4261,66 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 9,
-      "sequencePosition": 90,
+      "hallPosition": 11,
+      "sequencePosition": 170,
       "previousWorkId": "archive-peach-passion",
+      "nextWorkId": "174-youth-still-unfilled"
+    },
+    {
+      "workId": "174-youth-still-unfilled",
+      "number": "P174",
+      "title": "青春尚未填满",
+      "primaryHallId": "reproduction",
+      "clusterId": "reproduction-2",
+      "route": "#/work/174-youth-still-unfilled",
+      "lookFor": "暖白纸上，一颗宽大的青苹果自己长出奶蛙的绿眼黑瞳、细小微笑、奶油白腹片、贴着果缘的双臂和下方小蹼足。顶端是短棕梗，右下绿色未填到铅笔轮廓，左下露出很窄的一点黄底。",
+      "placementRationale": "青苹果长出奶蛙的眼睛、嘴和奶油色肚皮，两只手顺着果缘垂下。右下方还露着纸，铅笔线比绿色走得更远，像是这颗苹果还可以继续画下去。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 12,
+      "sequencePosition": 171,
+      "previousWorkId": "050-the-signature",
+      "nextWorkId": "188-the-yellow-that-refuses-to-deflate"
+    },
+    {
+      "workId": "188-the-yellow-that-refuses-to-deflate",
+      "number": "P188",
+      "title": "不肯瘪下去的黄",
+      "primaryHallId": "reproduction",
+      "clusterId": "reproduction-2",
+      "route": "#/work/188-the-yellow-that-refuses-to-deflate",
+      "lookFor": "巨型金黄色奶蛙立在白色展厅，窗格沿镜面黄身弯曲，奶油腹片保持哑光。",
+      "placementRationale": "窗格沿黄色肩膀鼓起来，到手臂边缘又缩紧。宽大的腹片截住了反光，留下一块安静的奶油色。低台被两只脚压得很薄，熟悉的小玩具在这里占满一间屋子的高度。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 13,
+      "sequencePosition": 172,
+      "previousWorkId": "174-youth-still-unfilled",
+      "nextWorkId": "189-the-gift-is-larger-than-the-plinth"
+    },
+    {
+      "workId": "189-the-gift-is-larger-than-the-plinth",
+      "number": "P189",
+      "title": "礼物比展台大一点",
+      "primaryHallId": "reproduction",
+      "clusterId": "reproduction-2",
+      "route": "#/work/189-the-gift-is-larger-than-the-plinth",
+      "lookFor": "黄色奶蛙横卧在巨型粉色镜面蝴蝶结中，双手抱住中央结，两侧带环向后张开，长带尾垂出白色展台。",
+      "placementRationale": "两只手一上一下抱住中央的结，身体顺着粉色带子横下来。带环把白墙圈出两片空处，左边的长尾已经滑到展台外面。黄色身体抱着礼物，也被礼物托住。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 14,
+      "sequencePosition": 173,
+      "previousWorkId": "188-the-yellow-that-refuses-to-deflate",
       "nextWorkId": "archive-algorithm-belly"
     },
     {
@@ -2446,7 +4329,7 @@ window.MUSEUM_CURATION = {
       "title": "算法肥腹时代",
       "primaryHallId": "reproduction",
       "clusterId": "reproduction-3",
-      "hallPosition": 10,
+      "hallPosition": 15,
       "route": "#/work/archive-algorithm-belly",
       "lookFor": "找圆腹、眼睛、断开的肢体与不同透视的材料。",
       "placementRationale": "从重复的完整单位进入可以拆分的身体。",
@@ -2455,8 +4338,8 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 91,
-      "previousWorkId": "050-the-signature",
+      "sequencePosition": 174,
+      "previousWorkId": "189-the-gift-is-larger-than-the-plinth",
       "nextWorkId": "archive-beautiful-frog"
     },
     {
@@ -2465,7 +4348,7 @@ window.MUSEUM_CURATION = {
       "title": "漂亮奶蛙",
       "primaryHallId": "reproduction",
       "clusterId": "reproduction-3",
-      "hallPosition": 11,
+      "hallPosition": 16,
       "route": "#/work/archive-beautiful-frog",
       "lookFor": "比较细长腿、圆头、单眼与周围机械部件。",
       "placementRationale": "把密集拼贴收束到一个难以成为整体的装配身体。",
@@ -2474,7 +4357,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 92,
+      "sequencePosition": 175,
       "previousWorkId": "archive-algorithm-belly",
       "nextWorkId": "archive-higher-traffic"
     },
@@ -2484,7 +4367,7 @@ window.MUSEUM_CURATION = {
       "title": "高等流量",
       "primaryHallId": "reproduction",
       "clusterId": "reproduction-3",
-      "hallPosition": 12,
+      "hallPosition": 17,
       "route": "#/work/archive-higher-traffic",
       "lookFor": "看两具西装身体怎样分别承担眼睛和笑嘴。",
       "placementRationale": "以观看与展示的分工结束本厅，社会意义保留为可查证的问题。",
@@ -2493,7 +4376,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 93,
+      "sequencePosition": 176,
       "previousWorkId": "archive-beautiful-frog",
       "nextWorkId": "063-an-unfinished-version-of-me"
     },
@@ -2511,8 +4394,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 13,
-      "sequencePosition": 94,
+      "hallPosition": 18,
+      "sequencePosition": 177,
       "previousWorkId": "archive-higher-traffic",
       "nextWorkId": "069-the-erased-place-lights-up"
     },
@@ -2530,8 +4413,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 14,
-      "sequencePosition": 95,
+      "hallPosition": 19,
+      "sequencePosition": 178,
       "previousWorkId": "063-an-unfinished-version-of-me",
       "nextWorkId": "082-three-bodies-one-arrangement"
     },
@@ -2549,8 +4432,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 15,
-      "sequencePosition": 96,
+      "hallPosition": 20,
+      "sequencePosition": 179,
       "previousWorkId": "069-the-erased-place-lights-up",
       "nextWorkId": "102-this-copy-is-a-little-long"
     },
@@ -2568,9 +4451,104 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 16,
-      "sequencePosition": 97,
+      "hallPosition": 21,
+      "sequencePosition": 180,
       "previousWorkId": "082-three-bodies-one-arrangement",
+      "nextWorkId": "133-the-eye-has-reached-the-ground"
+    },
+    {
+      "workId": "133-the-eye-has-reached-the-ground",
+      "number": "P133",
+      "title": "眼睛先落到地上",
+      "primaryHallId": "reproduction",
+      "clusterId": "reproduction-3",
+      "route": "#/work/133-the-eye-has-reached-the-ground",
+      "lookFor": "赭色斜墙上挂着淡黄色奶蛙面模与指朝下的珊瑚红手套，面模双眼留白；地面左下独立放着绿环黑心的厚盘状眼形物，右侧深色拱廊与长影切开蓝色空间，远处露出火车和烟。",
+      "placementRationale": "面模仍有小小的笑嘴，眼睛的位置却留成两片浅色。绿环与黑心出现在地面，和挂起的红手套分处三个位置。身体并没有在这里重组，辨认它的线索先成为独立物件。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 22,
+      "sequencePosition": 181,
+      "previousWorkId": "102-this-copy-is-a-little-long",
+      "nextWorkId": "176-no-blank-space-inside"
+    },
+    {
+      "workId": "176-no-blank-space-inside",
+      "number": "P176",
+      "title": "头里没有空白",
+      "primaryHallId": "reproduction",
+      "clusterId": "reproduction-3",
+      "route": "#/work/176-no-blank-space-inside",
+      "lookFor": "蓝与桃色背景前，一个黄色奶蛙大头倾向左侧。高低不齐的绿眼望向画外，头右侧露出黑底上的奶油格线与重复绿眼图形，奶油色胸腹在下方被截断。",
+      "placementRationale": "两只绿眼望向外面，额头里还留着另外两只。黄漆盖住了一半格线，旧轮廓又从边缘露出来。这个头被来回画过，依然像有话没说完。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 23,
+      "sequencePosition": 182,
+      "previousWorkId": "133-the-eye-has-reached-the-ground",
+      "nextWorkId": "177-arrows-through-the-belly"
+    },
+    {
+      "workId": "177-arrows-through-the-belly",
+      "number": "P177",
+      "title": "箭头穿过肚子",
+      "primaryHallId": "reproduction",
+      "clusterId": "reproduction-3",
+      "route": "#/work/177-arrows-through-the-belly",
+      "lookFor": "红色木板上，一只被拉长的黄色奶蛙叉腿站着，左臂下垂、右臂抬起。绿色眼睛的小头位于上方白框，奶油腹被黑色脊柱和横线穿过；黑色斜带横过腰部，右侧有白色箭头和容器形线图。",
+      "placementRationale": "小头留在白框里，腿已经伸到木板底边。黑线从脖子一直画进奶油腹，右手抬向一组来回折返的箭头。肚子很圆，站姿却被拉得不太安稳。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 24,
+      "sequencePosition": 183,
+      "previousWorkId": "176-no-blank-space-inside",
+      "nextWorkId": "183-a-rim-of-yellow-held-by-rust"
+    },
+    {
+      "workId": "183-a-rim-of-yellow-held-by-rust",
+      "number": "P183",
+      "title": "锈面留住一圈黄",
+      "primaryHallId": "reproduction",
+      "clusterId": "reproduction-3",
+      "route": "#/work/183-a-rim-of-yellow-held-by-rust",
+      "lookFor": "一块锈蚀薄铁板斜靠灰墙，板中镂空奶蛙轮廓，残黄漆绕切口剥落；细铁桥托着两枚绿眼和低处奶油椭圆，后面的墙和影子从空身中显露。",
+      "placementRationale": "铁板中间空了，黄漆还沿着轮廓留下一圈。两只绿眼被细桥托着，腹片缩成低处的一枚椭圆。光从身体里穿过去，落到后面的灰墙上；桌边几小片黄漆，像刚从这圈边缘松开。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 25,
+      "sequencePosition": 184,
+      "previousWorkId": "177-arrows-through-the-belly",
+      "nextWorkId": "196-one-side-settles-the-other-sinks"
+    },
+    {
+      "workId": "196-one-side-settles-the-other-sinks",
+      "number": "P196",
+      "title": "一边坐稳一边下沉",
+      "primaryHallId": "reproduction",
+      "clusterId": "reproduction-3",
+      "route": "#/work/196-one-side-settles-the-other-sinks",
+      "lookFor": "半青釉陶、半黄织物的奶蛙低坐在灰地，绿眼一高一低，粗针脚横跨身体中央未合拢的黑缝，右侧布脚向外摊平。",
+      "placementRationale": "硬陶膝收在身前，布脚向外摊开。两眼仍温和地望来，中间的缝却没有收拢。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 26,
+      "sequencePosition": 185,
+      "previousWorkId": "183-a-rim-of-yellow-held-by-rust",
       "nextWorkId": "019-numbers-wait-for-me"
     },
     {
@@ -2579,7 +4557,7 @@ window.MUSEUM_CURATION = {
       "title": "号码替我排队",
       "primaryHallId": "reproduction",
       "clusterId": "reproduction-4",
-      "hallPosition": 17,
+      "hallPosition": 27,
       "route": "#/work/019-numbers-wait-for-me",
       "lookFor": "从手中的03小票看向地面上的03、02、01，再确认号码纸离窗口的距离和坐着的身体所在的位置。",
       "placementRationale": "接在眼睛与嘴的身体分工之后，让号码纸成为执行等待的替身；比较符号怎样指向身体，又怎样接过身体的工作。",
@@ -2588,8 +4566,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "abstract-culture-platforms-and-commerce"
       ],
-      "sequencePosition": 98,
-      "previousWorkId": "102-this-copy-is-a-little-long",
+      "sequencePosition": 186,
+      "previousWorkId": "196-one-side-settles-the-other-sinks",
       "nextWorkId": "087-before-the-last-tile-falls"
     },
     {
@@ -2606,9 +4584,66 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 18,
-      "sequencePosition": 99,
+      "hallPosition": 28,
+      "sequencePosition": 187,
       "previousWorkId": "019-numbers-wait-for-me",
+      "nextWorkId": "120-a-little-red-where-i-rolled"
+    },
+    {
+      "workId": "120-a-little-red-where-i-rolled",
+      "number": "P120",
+      "title": "滚过的地方有点红",
+      "primaryHallId": "reproduction",
+      "clusterId": "reproduction-4",
+      "route": "#/work/120-a-little-red-where-i-rolled",
+      "lookFor": "没有四肢的黄色奶蛋横躺在纸面右下，脸也转成横向；左上红色浅盘与它之间留下三枚破碎红月牙印。",
+      "placementRationale": "奶蛋横了过来，眼睛和小嘴也跟着转了方向。身下沾着一点红，身后三枚破碎的弧形印子一路排向浅盘。纸面空着很大一片，像还没有决定下一次往哪边滚。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 29,
+      "sequencePosition": 188,
+      "previousWorkId": "087-before-the-last-tile-falls",
+      "nextWorkId": "126-a-little-sand-between-us"
+    },
+    {
+      "workId": "126-a-little-sand-between-us",
+      "number": "P126",
+      "title": "隔着这一点沙",
+      "primaryHallId": "reproduction",
+      "clusterId": "reproduction-4",
+      "route": "#/work/126-a-little-sand-between-us",
+      "lookFor": "两只没有四肢的黄色奶蛋在深蓝桌面上隔着木框沙漏相向而坐，橄榄绿眼望向中央，透明沙漏中有一根红褐细沙线，上下各有一小堆沙。",
+      "placementRationale": "两只奶蛋在沙漏两旁留着一点空隙，眼睛朝向同一个细窄处。玻璃几乎让蓝底穿了过去，红沙却在中间划出一道线；它们都没有伸手，只把彼此放在这道线的另一边。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 30,
+      "sequencePosition": 189,
+      "previousWorkId": "120-a-little-red-where-i-rolled",
+      "nextWorkId": "164-one-line-through-four-places"
+    },
+    {
+      "workId": "164-one-line-through-four-places",
+      "number": "P164",
+      "title": "一根线经过四个地方",
+      "primaryHallId": "reproduction",
+      "clusterId": "reproduction-4",
+      "route": "#/work/164-one-line-through-four-places",
+      "lookFor": "紫色地面上四只奶蛙分别坐或站在由近及远的灰台，一根朱红线从近处线圈经过四只手，末端垂在右上角色手旁。",
+      "placementRationale": "四块台彼此隔开，红线却依次经过四只手。坐着的、站着的、把手抬高的，各自改变一段弧线。距离没有消失，只是变得可以用目光沿着走；近处剩下的一圈红色，又让这条路像还有一点余量。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 31,
+      "sequencePosition": 190,
+      "previousWorkId": "126-a-little-sand-between-us",
       "nextWorkId": "archive-little-sun"
     },
     {
@@ -2626,8 +4661,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 100,
-      "previousWorkId": "087-before-the-last-tile-falls",
+      "sequencePosition": 191,
+      "previousWorkId": "164-one-line-through-four-places",
       "nextWorkId": "archive-laughter-and-andy"
     },
     {
@@ -2645,7 +4680,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 101,
+      "sequencePosition": 192,
       "previousWorkId": "archive-little-sun",
       "nextWorkId": "archive-yellow-square"
     },
@@ -2664,8 +4699,84 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 102,
+      "sequencePosition": 193,
       "previousWorkId": "archive-laughter-and-andy",
+      "nextWorkId": "107-eyes-grow-into-the-field"
+    },
+    {
+      "workId": "107-eyes-grow-into-the-field",
+      "number": "P107",
+      "title": "眼睛长进了田里",
+      "primaryHallId": "abstraction",
+      "clusterId": "abstraction-1",
+      "route": "#/work/107-eyes-grow-into-the-field",
+      "lookFor": "米罗式土黄耕地上，中央黄奶蛙以枝条为臂、田垄为足；深青树冠长着绿环双眼，红树干、小屋、种荚和波纹田块分布四周。",
+      "placementRationale": "眼睛长进树冠，手臂弯成枝条，脚下的田垄继续向远处走。奶油色肚子旁边，种荚也露出相近的浅色。奶蛙来到这片田里，熟悉的样子开始分散到植物和土地之间。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 4,
+      "sequencePosition": 194,
+      "previousWorkId": "archive-yellow-square",
+      "nextWorkId": "203-the-outline-has-not-settled"
+    },
+    {
+      "workId": "203-the-outline-has-not-settled",
+      "number": "P203",
+      "title": "轮廓还没站稳",
+      "primaryHallId": "abstraction",
+      "clusterId": "abstraction-1",
+      "route": "#/work/203-the-outline-has-not-settled",
+      "lookFor": "灰粉粗笔穿入黄色奶蛙的左肩和右腹，绿眼与斜奶油腹从中显露；橙红斜带横过下部，只有左下深色足形仍清楚。",
+      "placementRationale": "灰粉色盖过手臂以后，腹片的边缘也松开了。两只绿眼仍留在上方，黄色却不再能围出一个完整的身体。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 5,
+      "sequencePosition": 195,
+      "previousWorkId": "107-eyes-grow-into-the-field",
+      "nextWorkId": "204-recognized-before-coming-together"
+    },
+    {
+      "workId": "204-recognized-before-coming-together",
+      "number": "P204",
+      "title": "还没合拢就认出了你",
+      "primaryHallId": "abstraction",
+      "clusterId": "abstraction-1",
+      "route": "#/work/204-recognized-before-coming-together",
+      "lookFor": "紫粉地上，两只独立绿眼环悬在不对称双黄花瓣上方；花瓣尖端连接下方带单奶油腹片与深绿弧线的黄种囊，红花和浅色卷线绕在周边。",
+      "placementRationale": "绿眼散在上方，圆腹留在下面，细线绕过一朵红花。形状还没有合成一个完整的身体，熟悉的目光已经出现了。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 6,
+      "sequencePosition": 196,
+      "previousWorkId": "203-the-outline-has-not-settled",
+      "nextWorkId": "207-a-face-rises-from-the-thick-paint"
+    },
+    {
+      "workId": "207-a-face-rises-from-the-thick-paint",
+      "number": "P207",
+      "title": "脸从厚处浮出来",
+      "primaryHallId": "abstraction",
+      "clusterId": "abstraction-1",
+      "route": "#/work/207-a-face-rises-from-the-thick-paint",
+      "lookFor": "白灰厚颜料斜穿偏右的奶蛙头肩，两只深黑眼窝边残留暗绿；短横裂沟成为嘴，左侧脸界融进大笔触，右侧留着黑缝。",
+      "placementRationale": "白色从额头斜刮下来，在两处黑沟前抬起。绿只剩眼边的一点痕，嘴藏在下一道颜料脊下。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 7,
+      "sequencePosition": 197,
+      "previousWorkId": "204-recognized-before-coming-together",
       "nextWorkId": "archive-yellow-order"
     },
     {
@@ -2674,7 +4785,7 @@ window.MUSEUM_CURATION = {
       "title": "奶黄的秩序",
       "primaryHallId": "abstraction",
       "clusterId": "abstraction-2",
-      "hallPosition": 4,
+      "hallPosition": 8,
       "route": "#/work/archive-yellow-order",
       "lookFor": "比较左下黄色与较小橄榄绿之间的距离。",
       "placementRationale": "让剩余颜色开始建立自身的比例和重心。",
@@ -2683,8 +4794,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 103,
-      "previousWorkId": "archive-yellow-square",
+      "sequencePosition": 198,
+      "previousWorkId": "207-a-face-rises-from-the-thick-paint",
       "nextWorkId": "archive-laughing-broadway"
     },
     {
@@ -2693,7 +4804,7 @@ window.MUSEUM_CURATION = {
       "title": "狂笑百老汇",
       "primaryHallId": "abstraction",
       "clusterId": "abstraction-2",
-      "hallPosition": 5,
+      "hallPosition": 9,
       "route": "#/work/archive-laughing-broadway",
       "lookFor": "顺着格网找连续、截断与疏密的变化。",
       "placementRationale": "把静态比例转成观看节奏；“笑声”是题名联想。",
@@ -2702,7 +4813,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 104,
+      "sequencePosition": 199,
       "previousWorkId": "archive-yellow-order",
       "nextWorkId": "archive-grid-unruly"
     },
@@ -2712,7 +4823,7 @@ window.MUSEUM_CURATION = {
       "title": "格栅失控",
       "primaryHallId": "abstraction",
       "clusterId": "abstraction-2",
-      "hallPosition": 6,
+      "hallPosition": 10,
       "route": "#/work/archive-grid-unruly",
       "lookFor": "看横竖线在何处错开，黄块又怎样偏向右侧。",
       "placementRationale": "用少量偏移检验格网秩序，随后让色环在终章重新成为一只眼。",
@@ -2721,7 +4832,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 105,
+      "sequencePosition": 200,
       "previousWorkId": "archive-laughing-broadway",
       "nextWorkId": "040-when-the-red-circle-passes"
     },
@@ -2739,8 +4850,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 7,
-      "sequencePosition": 106,
+      "hallPosition": 11,
+      "sequencePosition": 201,
       "previousWorkId": "archive-grid-unruly",
       "nextWorkId": "041-one-tile-short"
     },
@@ -2758,8 +4869,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 8,
-      "sequencePosition": 107,
+      "hallPosition": 12,
+      "sequencePosition": 202,
       "previousWorkId": "040-when-the-red-circle-passes",
       "nextWorkId": "055-the-stripes-take-a-detour"
     },
@@ -2777,8 +4888,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 9,
-      "sequencePosition": 108,
+      "hallPosition": 13,
+      "sequencePosition": 203,
       "previousWorkId": "041-one-tile-short",
       "nextWorkId": "060-the-body-learns-geometry"
     },
@@ -2796,8 +4907,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 10,
-      "sequencePosition": 109,
+      "hallPosition": 14,
+      "sequencePosition": 204,
       "previousWorkId": "055-the-stripes-take-a-detour",
       "nextWorkId": "068-the-city-dances-into-me"
     },
@@ -2815,9 +4926,66 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 11,
-      "sequencePosition": 110,
+      "hallPosition": 15,
+      "sequencePosition": 205,
       "previousWorkId": "060-the-body-learns-geometry",
+      "nextWorkId": "144-after-white-light-parts"
+    },
+    {
+      "workId": "144-after-white-light-parts",
+      "number": "P144",
+      "title": "白光分开以后",
+      "primaryHallId": "abstraction",
+      "clusterId": "abstraction-2",
+      "route": "#/work/144-after-white-light-parts",
+      "lookFor": "暗紫背景前，白色细光线从左侧穿入蓝色三角玻璃体，右边展开红橙黄绿蓝紫色带；右下方无四肢奶蛋隔着空处望向色带。",
+      "placementRationale": "白色细线经过蓝色玻璃，向右展开成一束不同颜色的带子。奶蛋留在下方，没有碰到玻璃，也没有站进光里。它的黄色与上方那一道黄互相照应：原本只有一条的路径，现在变成了一片可以慢慢看的颜色。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 16,
+      "sequencePosition": 206,
+      "previousWorkId": "068-the-city-dances-into-me",
+      "nextWorkId": "154-a-flower-amid-the-colors"
+    },
+    {
+      "workId": "154-a-flower-amid-the-colors",
+      "number": "P154",
+      "title": "花停在颜色中间",
+      "primaryHallId": "abstraction",
+      "clusterId": "abstraction-2",
+      "route": "#/work/154-a-flower-amid-the-colors",
+      "lookFor": "右侧奶蛙侧向左，穿赭色短外套，伸出的深手握细花枝，另一手持黑礼帽和斜手杖；蓝橙环、紫黄射线、星形与青粉波浪在身后向中左一点汇聚。",
+      "placementRationale": "花枝被一只深色手稳稳留在左边，身后的颜色却像不断转身。圆、星与弧线从同一个位置展开，绕过黄色头颈，又钻进外套的色点。奶蛙没有离开这片喧闹，只用一朵浅花和一顶黑帽，让目光暂时停下来。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 17,
+      "sequencePosition": 207,
+      "previousWorkId": "144-after-white-light-parts",
+      "nextWorkId": "193-two-eyes-after-the-spin"
+    },
+    {
+      "workId": "193-two-eyes-after-the-spin",
+      "number": "P193",
+      "title": "转完以后还剩一双眼",
+      "primaryHallId": "abstraction",
+      "clusterId": "abstraction-2",
+      "route": "#/work/193-two-eyes-after-the-spin",
+      "lookFor": "黄、奶油白与深绿颜料形成不规则圆形旋涡，奶蛙的双绿眼停在偏右上方，黄身和奶油腹被拉成向右下拖长的弧带，外围散落飞滴，左下有深橄榄色重块。",
+      "placementRationale": "黄色越转越长，奶油腹也跟着离开原来的位置。外圈的绿线已经绕了几道，里面那双眼睛还朝着我们。身体松开以后，目光像留下了一小块没被转走的地方。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 18,
+      "sequencePosition": 208,
+      "previousWorkId": "154-a-flower-amid-the-colors",
       "nextWorkId": "016-shadow-check-in"
     },
     {
@@ -2826,7 +4994,7 @@ window.MUSEUM_CURATION = {
       "title": "影子请留步",
       "primaryHallId": "abstraction",
       "clusterId": "abstraction-3",
-      "hallPosition": 12,
+      "hallPosition": 19,
       "route": "#/work/016-shadow-check-in",
       "lookFor": "从人物脚下沿黑影看向揭起的黑带、小滚轮与瞳孔。",
       "placementRationale": "身体退场后的同心色环重新成为眼睛，以观看者的影子被物质化收束全线。",
@@ -2835,8 +5003,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 111,
-      "previousWorkId": "068-the-city-dances-into-me",
+      "sequencePosition": 209,
+      "previousWorkId": "193-two-eyes-after-the-spin",
       "nextWorkId": "017-eye-at-low-tide"
     },
     {
@@ -2845,7 +5013,7 @@ window.MUSEUM_CURATION = {
       "title": "退潮以后，眼睛还在",
       "primaryHallId": "abstraction",
       "clusterId": "abstraction-3",
-      "hallPosition": 13,
+      "hallPosition": 20,
       "route": "#/work/017-eye-at-low-tide",
       "lookFor": "先沿青绿海水看向黑色深坑，再看右下角奶蛙手中那枚滴水的小塞子。",
       "placementRationale": "接在墙面单眼之后，把同心色环扩展为潮滩；以家务物件和海岸尺度的错位，与影子经滚轮进入瞳孔形成对照。",
@@ -2854,7 +5022,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 112,
+      "sequencePosition": 210,
       "previousWorkId": "016-shadow-check-in",
       "nextWorkId": "057-four-ways-down"
     },
@@ -2872,8 +5040,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 14,
-      "sequencePosition": 113,
+      "hallPosition": 21,
+      "sequencePosition": 211,
       "previousWorkId": "017-eye-at-low-tide",
       "nextWorkId": "062-much-more-beyond-the-slope"
     },
@@ -2891,8 +5059,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 15,
-      "sequencePosition": 114,
+      "hallPosition": 22,
+      "sequencePosition": 212,
       "previousWorkId": "057-four-ways-down",
       "nextWorkId": "070-the-body-emerges-from-night"
     },
@@ -2910,8 +5078,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 16,
-      "sequencePosition": 115,
+      "hallPosition": 23,
+      "sequencePosition": 213,
       "previousWorkId": "062-much-more-beyond-the-slope",
       "nextWorkId": "073-heavier-than-the-mountain-today"
     },
@@ -2929,8 +5097,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 17,
-      "sequencePosition": 116,
+      "hallPosition": 24,
+      "sequencePosition": 214,
       "previousWorkId": "070-the-body-emerges-from-night",
       "nextWorkId": "075-the-flock-is-watching-me-too"
     },
@@ -2948,8 +5116,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 18,
-      "sequencePosition": 117,
+      "hallPosition": 25,
+      "sequencePosition": 215,
       "previousWorkId": "073-heavier-than-the-mountain-today",
       "nextWorkId": "079-a-small-body-between-the-branches"
     },
@@ -2967,8 +5135,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 19,
-      "sequencePosition": 118,
+      "hallPosition": 26,
+      "sequencePosition": 216,
       "previousWorkId": "075-the-flock-is-watching-me-too",
       "nextWorkId": "093-this-one-does-not-fit-the-pocket"
     },
@@ -2986,8 +5154,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 20,
-      "sequencePosition": 119,
+      "hallPosition": 27,
+      "sequencePosition": 217,
       "previousWorkId": "079-a-small-body-between-the-branches",
       "nextWorkId": "103-even-the-empty-seats-listen"
     },
@@ -3005,9 +5173,85 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "hallPosition": 21,
-      "sequencePosition": 120,
+      "hallPosition": 28,
+      "sequencePosition": 218,
       "previousWorkId": "093-this-one-does-not-fit-the-pocket",
+      "nextWorkId": "190-someone-catches-it-in-every-direction"
+    },
+    {
+      "workId": "190-someone-catches-it-in-every-direction",
+      "number": "P190",
+      "title": "每个方向都有人接住",
+      "primaryHallId": "abstraction",
+      "clusterId": "abstraction-3",
+      "route": "#/work/190-someone-catches-it-in-every-direction",
+      "lookFor": "四只黄色奶蛙从上下左右向中央奶油色椭圆伸手，红底被粗黑身体轮廓切开，下方钴蓝横带承接蹲坐的奶蛙。",
+      "placementRationale": "小椭圆停在四个方向之间，伸出的手还没全碰到它。上面的身体悬着，下面的身体向上托，左右两边把腿撑开。红色空隙一会儿宽、一会儿窄，接力便有了急缓。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 29,
+      "sequencePosition": 219,
+      "previousWorkId": "103-even-the-empty-seats-listen",
+      "nextWorkId": "191-a-pulse-presses-beyond-the-frame"
+    },
+    {
+      "workId": "191-a-pulse-presses-beyond-the-frame",
+      "number": "P191",
+      "title": "心跳挤出方框",
+      "primaryHallId": "abstraction",
+      "clusterId": "abstraction-3",
+      "route": "#/work/191-a-pulse-presses-beyond-the-frame",
+      "lookFor": "侧向黄色奶蛙屈膝站在黑框底边，两手顶起上边，奶油腹向右挤出弧线，腹上有两条黑折线；框内红色，框外蓝色。",
+      "placementRationale": "左边还是直线，右边已经跟着肚子鼓出来。两只手把顶边托起，两只脚压住底边，身体在有限的红色里为自己多挤出一点地方。腹上的两道折线很小，黑框却先松了形。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 30,
+      "sequencePosition": 220,
+      "previousWorkId": "190-someone-catches-it-in-every-direction",
+      "nextWorkId": "205-meeting-you-from-here"
+    },
+    {
+      "workId": "205-meeting-you-from-here",
+      "number": "P205",
+      "title": "在这个角度遇见你",
+      "primaryHallId": "abstraction",
+      "clusterId": "abstraction-3",
+      "route": "#/work/205-meeting-you-from-here",
+      "lookFor": "空灰房间的两墙与地面共同承接黄色奶蛙平涂轮廓，竖墙缝穿过右绿眼，墙地接缝穿过奶油腹片，双足色块延展在地面。",
+      "placementRationale": "墙角穿过眼睛，墙脚穿过肚腹。轮廓从这个角度凑在一起，接缝却仍把颜色送往不同的平面。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 31,
+      "sequencePosition": 221,
+      "previousWorkId": "191-a-pulse-presses-beyond-the-frame",
+      "nextWorkId": "206-a-little-space-remains-between"
+    },
+    {
+      "workId": "206-a-little-space-remains-between",
+      "number": "P206",
+      "title": "中间还留着一点空",
+      "primaryHallId": "abstraction",
+      "clusterId": "abstraction-3",
+      "route": "#/work/206-a-little-space-remains-between",
+      "lookFor": "两只黄色奶蛙从左右向中间俯身，左高长臂、右低抱膝；額头和下方手足彼此靠近，奶油色底从狭窄缝口穿过，在胸臂间展开后通向底边。",
+      "placementRationale": "额头靠近了，手指也快到脚边。两道窄口之间，浅色底面留下不规则的一小片，谁也没有把它合上。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "simple-forms-complex-expression",
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 32,
+      "sequencePosition": 222,
+      "previousWorkId": "205-meeting-you-from-here",
       "nextWorkId": null
     }
   ],
@@ -3404,7 +5648,7 @@ window.MUSEUM_CURATION = {
       {
         "title": "版本为什么留下",
         "paragraphs": [
-          "现有图录包含120件主展品；另有6张早期版本，附属于A03、A05、A06、A07和A08。它们用于比较图像选择，不另计为主展品。Blender的S01–S09九项研究共同计为一件组作；组内单件与七个附加视角保留，也不另计为新作品。",
+          "现有图录包含222件主展品；另有6张早期版本，附属于A03、A05、A06、A07和A08。它们用于比较图像选择，不另计为主展品。Blender的S01–S09九项研究共同计为一件组作；组内单件与七个附加视角保留，也不另计为新作品。",
           "八月旧作的原题名与版本关系保留，展签和解读在归档时补充。旧题名中的“奶龙”或“Nailong”是历史记录的一部分，不据此把所有形象认定为官方奶龙，也不将归档日期倒写成首次创作日期。"
         ]
       },
