@@ -3,7 +3,7 @@
   "museum": {
     "title": "奶蛙现代艺术馆",
     "subtitle": "从一张脸，看到它周围的规则",
-    "intro": "从镜中的背影到失去水的瓷砖，从一枚未读标记到只剩黄色的方块，222件作品追问：一个角色可以改变多少，仍与原来的自己发生关系？沿五个展厅观看，也可按媒介和编号查阅。",
+    "intro": "从镜中的背影到失去水的瓷砖，从一枚未读标记到只剩黄色的方块，224件作品追问：一个角色可以改变多少，仍与原来的自己发生关系？沿五个展厅观看，也可按媒介和编号查阅。",
     "rightsNote": "本站展示奶蛙题材的AI辅助图像与数字三维再创作，不代表角色权利方、历史作品作者或收藏机构。相关角色与被引用作品的权利归各自权利人；本馆不为第三方内容授予开放许可。历史参考以来源链接说明，不再发行其参考原图。 本馆新增作品分别标明官方奶龙形象的非官方二创、社区奶蛙或奶蛋样本；馆方项目身份不等同角色创作者。",
     "headline": "一只熟悉的身体，\n世界不再严丝合缝。",
     "featuredId": "011-incompatible-lunch",
@@ -9417,6 +9417,83 @@
       "thumbnail": "media/207-a-face-rises-from-the-thick-paint/art-thumb.webp",
       "width": 1254,
       "height": 1254,
+      "extraViews": []
+    },
+    {
+      "number": "P232",
+      "id": "232-back-turned-still-see-you",
+      "title": "背过身，还是看见你",
+      "titleEn": "With My Back Turned, I Still See You",
+      "year": "2026",
+      "medium": "AI辅助二维绘画 · 数字油彩与炭线质感",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生形象）",
+      "source": {
+        "title": "原创姿态与构图",
+        "artist": "",
+        "date": "2026",
+        "note": "以项目已有社区奶蛙参考为角色线索；原创范围为本作姿态和构图，不指定历史名画改编，不宣称角色IP原创。"
+      },
+      "sources": [],
+      "tags": [
+        "原创构图",
+        "奶蛙"
+      ],
+      "alt": "蓝色地面上，黄色奶蛙背向观者，灰足分开着地，两只灰手各握同侧脚踝；大圆背下面，一条奶油色胸颈伸入腿间，连着倒过来的绿眼小脸，头顶与地面之间留着极窄蓝缝。",
+      "wallText": "背已经转过去。两只眼睛从腿间倒着看回来。",
+      "interpretation": [
+        "巨大的黄背弧压在画面上方，两只灰足在蓝地上分开。手没有支撑地面，而是各自握着脚踝。腿间向下延伸的奶油胸颈条连到一张倒脸；嘴在眼睛上面，头顶和地面还留着很窄的蓝缝。熟悉的正脸出现在背向姿势内部，不需要另一只角色代为回应。",
+        "背臀膨大为近圆的整块，胸颈明显拉长，肩根被背部遮挡，无法直接看到全部胸肩连接；外侧臂到灰手的走向仍可追。头与地的缝很窄，快速看可能像头轻触地面。"
+      ],
+      "creationNote": "本次补录采用V1。AI辅助生成的二维数字图像；媒介质感为数字效果，未制作实体绘画或雕塑。角色参考来自项目已有社区奶蛙形象，不与官方奶龙混称，不宣称角色IP原创或官方授权。",
+      "image": "media/232-back-turned-still-see-you/art.webp",
+      "thumbnail": "media/232-back-turned-still-see-you/art-thumb.webp",
+      "width": 1122,
+      "height": 1402,
+      "extraViews": []
+    },
+    {
+      "number": "P235",
+      "id": "235-reflections-trade-places",
+      "title": "倒影换了位置",
+      "titleEn": "Reflections Trade Places",
+      "year": "2026",
+      "medium": "AI辅助二维图像 · 数字油画质感",
+      "type": "image",
+      "completionStatus": "completed",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助再创作",
+      "characterIdentity": "奶蛙（社区衍生形象）",
+      "source": {
+        "title": "Metamorphosis of Narcissus",
+        "artist": "Salvador Dalí",
+        "date": "1937",
+        "note": "Fundació Gala-Salvador Dalí 全集 P455；原作为油彩画布，51.1 × 78.1厘米，所列收藏 Tate Modern, London。本作改编原作的轮廓呼应，并增加水面两侧的倒影对象交换；不声称原作已有这组交换或反射在光学上精确。"
+      },
+      "sources": [
+        {
+          "url": "https://catalogues.salvador-dali.org/catalogues/en/heritageobject/1198-965c/",
+          "title": "达利基金会 · Metamorphosis of Narcissus · P455"
+        }
+      ],
+      "tags": [
+        "名画改编",
+        "奶蛙"
+      ],
+      "alt": "山岩与浅水间，左侧黄色奶蛙蜷坐，右侧灰蓝石手托着开花的卵；共同水面中，奶蛙下方映出石手、卵与花，石手下方映出倒置的黄色奶蛙。",
+      "wallText": "黄色身体下面，石指托着一枚倒着的蛋。石手下面，一具黄色身体低下头。水纹同时经过它们。",
+      "interpretation": [
+        "只把人物换成奶蛙并不足够。本次将两者移到同一浅水岸边，让黄色奶蛙下方出现石手持卵的倒影，让石手下方出现奶蛙的倒影。观看从寻找上方两物相似，转向核对水面究竟把哪个形象给了谁。它是本次改编的取舍，不是声称达利原作已有这组交换。",
+        "右下奶蛙倒影未精确复现左上蜷姿：奶油腹更大、身体更展开。上下石手也存在局部伸长和水纹变形。两上形的圆头／卵、弧背／曲指有对应，屈膝／低指节对应较弱，不宣称全部轮廓严格相同。山岩背景比计划密，黄体略有柔光实体感。作品不宣称光学反射精确，不能用‘交换成立’掩盖这些差别。"
+      ],
+      "creationNote": "本次补录采用V1。AI辅助生成的二维数字图像；媒介质感为数字效果，未制作实体绘画或雕塑。角色参考来自项目已有社区奶蛙形象，不与官方奶龙混称，不宣称角色IP原创或官方授权。",
+      "image": "media/235-reflections-trade-places/art.webp",
+      "thumbnail": "media/235-reflections-trade-places/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
       "extraViews": []
     }
   ],
