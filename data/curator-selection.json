@@ -1,0 +1,33 @@
+{
+  "title": "馆长推荐",
+  "intro": "从具体的姿态、材料与空间开始，沿着这些作品慢慢看。",
+  "workIds": [
+    "172-ophelia",
+    "173-saturn-with-a-broken-effigy",
+    "174-youth-still-unfilled",
+    "175-the-wind-passes-beneath-the-parasol",
+    "176-no-blank-space-inside",
+    "177-arrows-through-the-belly",
+    "178-i-left-the-door-ajar",
+    "179-no-next-song",
+    "180-flower-colors-grow-from-the-palm",
+    "181-the-garden-on-the-back-of-cardboard",
+    "182-stitches-take-longer-than-a-smile",
+    "183-a-rim-of-yellow-held-by-rust",
+    "184-sweeping-dusk-to-my-feet",
+    "185-a-shadow-needs-no-pass",
+    "186-hold-the-guitar-close",
+    "187-walking-together-empty-handed",
+    "188-the-yellow-that-refuses-to-deflate",
+    "189-the-gift-is-larger-than-the-plinth",
+    "190-someone-catches-it-in-every-direction",
+    "191-a-pulse-presses-beyond-the-frame",
+    "192-one-position-grew-eyes",
+    "193-two-eyes-after-the-spin",
+    "194-the-button-moon-opened-its-mouth",
+    "195-the-paper-puppet-remained-after-the-curtain-call",
+    "232-back-turned-still-see-you",
+    "235-reflections-trade-places"
+  ],
+  "intervalMs": 6000
+}
