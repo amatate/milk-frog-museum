@@ -3100,7 +3100,7 @@ window.MUSEUM_CURATION = {
       "primaryHallId": "everyday",
       "clusterId": "everyday-2",
       "route": "#/work/083-leave-the-path-for-a-moment",
-      "lookFor": "石板小路上，一只蜗牛在前方缓行，奶蛙抬脚停在其旁，深绿叶片围住浅色路面。",
+      "lookFor": "石板小路上，一只蜗牛在前方缓行，奶蛙双足站在路旁的小石上，深绿叶片围住浅色路面。",
       "placementRationale": "停住的脚把普通的小路变成共同使用的空间。小动物没有被放大，耐心只是一种可由姿势提出的读法。",
       "analyzedIn": [],
       "relatedReading": [
