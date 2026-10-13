@@ -16,7 +16,8 @@
     "researchArticles": 5,
     "sculptureGroups": 1,
     "sculptureGroupMembers": 9,
-    "recommendationArticles": 4
+    "recommendationArticles": 4,
+    "creatorRecords": 3
   },
   "museumPatch": {
     "title": "奶蛙现代艺术馆",
@@ -59,7 +60,7 @@
       "本项目的创作、筛选、展签与研究彼此相关。策展文本可以提出读法，不能替作品证明观众已经被治愈、冒犯或说服。研究区继续追问这些判断如何取证；版本对照则让部分选择留在图像之间，而不是只留在一段解释里。"
     ],
     "researchPreviewTitle": "创作研究与作品推荐",
-    "researchPreviewText": "作品提供问题，研究说明证据。五篇创作研究继续辨析名称、形态、媒介与传播，四篇作品导览从具体画面和原站链接进入创作者的工作。 两篇创作者记录回看生成、修改与取舍，图版随文阅读。"
+    "researchPreviewText": "作品提供问题，研究说明证据。五篇创作研究继续辨析名称、形态、媒介与传播，四篇作品导览从具体画面和原站链接进入创作者的工作。 三篇创作者记录回看生成、修改与取舍，图版随文阅读。"
   },
   "navigation": [
     {
@@ -5487,7 +5488,7 @@
   ],
   "research": {
     "title": "创作研究与作品推荐",
-    "intro": "五篇创作研究、四篇独立作品导览与两篇创作者记录：区分品牌、社区衍生与项目采用的形象，观察角色、媒介、空间与动画镜头，循署名链接回到作者原站，并回看项目中的生成、修改与取舍。",
+    "intro": "五篇创作研究、四篇独立作品导览与三篇创作者记录：区分品牌、社区衍生与项目采用的形象，观察角色、媒介、空间与动画镜头，循署名链接回到作者原站，并回看项目中的生成、修改与取舍。",
     "readingOrder": [
       "nailoong-milk-frog-origins",
       "simple-forms-complex-expression",
@@ -5499,7 +5500,8 @@
       "naishansusu-animated-ensemble",
       "zeyang-paintings-in-time",
       "body-still-on-the-ground",
-      "what-remains-after-repetition"
+      "what-remains-after-repetition",
+      "journal-2026-10-13-hands-before-glass"
     ],
     "cards": [
       {
@@ -5675,6 +5677,15 @@
         ],
         "relationship": "文章中的创作图版依原稿顺序展示；相关馆藏入口仅连接本站已有主展品。",
         "route": "#/essay/what-remains-after-repetition"
+      },
+      {
+        "id": "journal-2026-10-13-hands-before-glass",
+        "title": "手还在玻璃前，身体还没画出来",
+        "dek": "截至北京时间15:58，两组研究都停在第二版。记下手与玻璃、花纹与身体之间还没解决的问题。",
+        "workIds": [],
+        "relatedWorkIds": [],
+        "relationship": "阶段研究图版随文对照，不计入成品馆藏。",
+        "route": "#/essay/journal-2026-10-13-hands-before-glass"
       }
     ],
     "labels": {

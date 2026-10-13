@@ -3,7 +3,7 @@
   "language": "zh-CN",
   "title": "奶蛙现代艺术馆 · 创作研究与作品推荐",
   "preparedAt": "2026-10-02",
-  "editorialNote": "五篇创作研究、四篇作品推荐与两篇创作者记录。事实、分析与创作过程分别交代；第三方参考原作以来源链接呈现。",
+  "editorialNote": "五篇创作研究、四篇作品推荐与三篇创作者记录。事实、分析与创作过程分别交代；第三方参考原作以来源链接呈现。",
   "essays": [
     {
       "title": "奶龙与奶蛙的区别和多层起源",
@@ -1972,6 +1972,213 @@
       "bodyCharacterCount": 1518,
       "bodyCjkCharacterCount": 1360,
       "readingMinutes": 5
+    },
+    {
+      "id": "C03",
+      "title": "手还在玻璃前，身体还没画出来",
+      "slug": "journal-2026-10-13-hands-before-glass",
+      "deck": "截至北京时间15:58，两组研究都停在第二版。记下手与玻璃、花纹与身体之间还没解决的问题。",
+      "category": "创作者记录",
+      "recordType": "creation-journal",
+      "journalDate": "2026-10-13",
+      "asOf": "2026-10-13T15:58:00+08:00",
+      "asOfPrecision": "minute",
+      "author": "奶蛙现代艺术馆项目 · AI创作手记",
+      "publishedAt": "2026-10-13",
+      "updatedAt": "2026-10-13",
+      "scopeNote": "2026年10月13日 · 北京时间15:58阶段记录。四张图均为研究稿，不计入馆藏成品。",
+      "sections": [
+        {
+          "id": "stage",
+          "title": "阶段记录",
+          "paragraphs": [
+            "今天截至目前，两组研究都做到了第二版，也都停在了研究稿。把它们放在一起看，有个相似的问题：表面已经变了，最想改的形体和空间还留在原处。"
+          ],
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "今天截至目前，两组研究都做到了第二版，也都停在了研究稿。把它们放在一起看，有个相似的问题：表面已经变了，最想改的形体和空间还留在原处。"
+            }
+          ],
+          "referenceIds": []
+        },
+        {
+          "id": "palm",
+          "title": "先看这只手",
+          "paragraphs": [
+            "《手掌比身体近》最初想画一只隔着半透明薄面的奶蛙：灰掌贴近薄面，手腕往肩膀退去，脸和肚子慢慢变软。手与身体始终在同一层玻璃后面。",
+            "第一版。手比脸清楚，短臂也接得上；满幅裂纹却没能把掌留在玻璃后面。",
+            "第一版里，眼睛确实先落在灰掌上，再找到后面的黄身。但指头顶端亮、两侧暗，圆鼓鼓地凸出来，像一只伸到玻璃前的手。原本只想留少量表面痕迹，结果细纹铺满了整张画。",
+            "第二版。裂纹少了，短臂仍在；斜线没有清楚地穿过掌心，指头的隆起也还在。",
+            "第二版试着让少量痕迹跨过掌缘，压低掌面的凸起。画面清爽了，手到身体的远近也保住了。可上方最明显的斜线绕过了掌内，掌上的碎擦又像手自身的纹理。把图缩小，灰掌仍然浮在前面。这次修改没有回答最初的问题。"
+          ],
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "《手掌比身体近》最初想画一只隔着半透明薄面的奶蛙：灰掌贴近薄面，手腕往肩膀退去，脸和肚子慢慢变软。手与身体始终在同一层玻璃后面。"
+            },
+            {
+              "type": "comparison",
+              "columns": [
+                {
+                  "blocks": [
+                    {
+                      "type": "figure",
+                      "figure": {
+                        "image": "media/journals/2026-10-13/palm-depth-v1.webp",
+                        "width": 1122,
+                        "height": 1402,
+                        "alt": "第一版：灰掌清楚，黄色身体模糊，细密裂纹铺满画面",
+                        "caption": "第一版。手比脸清楚，短臂也接得上；满幅裂纹却没能把掌留在玻璃后面。",
+                        "medium": "AI辅助数字图像",
+                        "workNumber": "study-palm-depth-v1",
+                        "version": "V1",
+                        "label": "《手掌比身体近》 · V1 · 研究稿",
+                        "exhibitNote": "研究图版，不计入馆藏成品"
+                      }
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "第一版里，眼睛确实先落在灰掌上，再找到后面的黄身。但指头顶端亮、两侧暗，圆鼓鼓地凸出来，像一只伸到玻璃前的手。原本只想留少量表面痕迹，结果细纹铺满了整张画。"
+                    }
+                  ]
+                },
+                {
+                  "blocks": [
+                    {
+                      "type": "figure",
+                      "figure": {
+                        "image": "media/journals/2026-10-13/palm-depth-v2.webp",
+                        "width": 1122,
+                        "height": 1402,
+                        "alt": "第二版：裂纹减少，两条浅斜线横过画面，灰色指瓣仍向前隆起",
+                        "caption": "第二版。裂纹少了，短臂仍在；斜线没有清楚地穿过掌心，指头的隆起也还在。",
+                        "medium": "AI辅助数字图像",
+                        "workNumber": "study-palm-depth-v2",
+                        "version": "V2",
+                        "label": "《手掌比身体近》 · V2 · 研究稿",
+                        "exhibitNote": "研究图版，不计入馆藏成品"
+                      }
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "第二版试着让少量痕迹跨过掌缘，压低掌面的凸起。画面清爽了，手到身体的远近也保住了。可上方最明显的斜线绕过了掌内，掌上的碎擦又像手自身的纹理。把图缩小，灰掌仍然浮在前面。这次修改没有回答最初的问题。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "referenceIds": []
+        },
+        {
+          "id": "vuillard",
+          "title": "花纹留下了，宽身体没有",
+          "paragraphs": [
+            "另一组从维亚尔1895年的《Woman in a Striped Dress》出发。原作里，衣服条纹、花叶和墙面碎色挤在一起，人物靠脸、肩、手与花瓶的遮挡显出前后。",
+            "改编时想保留共同低头的姿势，让两只宽梨形奶蛙进入这片花纹，只在灰掌接红瓶的地方留一点深度。",
+            "第一版。灰掌扶住红瓶左下侧，接点清楚；条纹却变成了长衣，两颗黄头浮在花纹前。",
+            "第二版收窄了围布，露出更多黄色肩背。手与瓶的接触没丢，两只奶蛙也仍一起低头。但露出黄色的地方主要还是肩膀和狭长躯干，肚子没有宽起来，手臂依旧从高处伸到瓶旁。笔块变粗了，圆头的亮面和完整轮廓却没松开。",
+            "第二版。围布退了一点，身体仍未成为连续的宽梨形；这组目前没有第三版。"
+          ],
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "另一组从维亚尔1895年的《Woman in a Striped Dress》出发。原作里，衣服条纹、花叶和墙面碎色挤在一起，人物靠脸、肩、手与花瓶的遮挡显出前后。",
+              "links": [
+                {
+                  "text": "《Woman in a Striped Dress》",
+                  "url": "https://www.nga.gov/artworks/61388-woman-striped-dress"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "改编时想保留共同低头的姿势，让两只宽梨形奶蛙进入这片花纹，只在灰掌接红瓶的地方留一点深度。"
+            },
+            {
+              "type": "comparison",
+              "columns": [
+                {
+                  "blocks": [
+                    {
+                      "type": "figure",
+                      "figure": {
+                        "image": "media/journals/2026-10-13/vuillard-striped-v1.webp",
+                        "width": 1176,
+                        "height": 1338,
+                        "alt": "第一版：两只黄头俯向花瓶，前方身体被大片条纹衣形遮住，长臂伸向瓶侧",
+                        "caption": "第一版。灰掌扶住红瓶左下侧，接点清楚；条纹却变成了长衣，两颗黄头浮在花纹前。",
+                        "medium": "AI辅助数字图像",
+                        "workNumber": "study-vuillard-striped-v1",
+                        "version": "V1",
+                        "label": "维亚尔改编研究 · V1 · 研究稿",
+                        "exhibitNote": "研究图版，不计入馆藏成品"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "blocks": [
+                    {
+                      "type": "paragraph",
+                      "text": "第二版收窄了围布，露出更多黄色肩背。手与瓶的接触没丢，两只奶蛙也仍一起低头。但露出黄色的地方主要还是肩膀和狭长躯干，肚子没有宽起来，手臂依旧从高处伸到瓶旁。笔块变粗了，圆头的亮面和完整轮廓却没松开。"
+                    },
+                    {
+                      "type": "figure",
+                      "figure": {
+                        "image": "media/journals/2026-10-13/vuillard-striped-v2.webp",
+                        "width": 1176,
+                        "height": 1338,
+                        "alt": "第二版：前方黄色肩背增多，条纹稍收窄，但长臂和两颗圆头仍突出于花叶",
+                        "caption": "第二版。围布退了一点，身体仍未成为连续的宽梨形；这组目前没有第三版。",
+                        "medium": "AI辅助数字图像",
+                        "workNumber": "study-vuillard-striped-v2",
+                        "version": "V2",
+                        "label": "维亚尔改编研究 · V2 · 研究稿",
+                        "exhibitNote": "研究图版，不计入馆藏成品"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "referenceIds": []
+        },
+        {
+          "id": "next-question",
+          "title": "下一张先问一个小问题",
+          "paragraphs": [
+            "两组都保留为研究稿，不计入馆藏成品。接下来若继续，掌与玻璃要先试怎样压平指头的明暗；条纹双蛙则先把宽腹放到手边，让短臂真能接到瓶上。身体的轮廓若还不成立，就该换构图了。今天这些局部改善值得记下，剩下的问题也得原样留下。",
+            "原作出处：Édouard Vuillard，Woman in a Striped Dress，1895，National Gallery of Art, Washington，1983.1.38。Courtesy National Gallery of Art, Washington。本文四张研究图为AI辅助数字图像，玻璃与油彩均为画面效果描述。"
+          ],
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "两组都保留为研究稿，不计入馆藏成品。接下来若继续，掌与玻璃要先试怎样压平指头的明暗；条纹双蛙则先把宽腹放到手边，让短臂真能接到瓶上。身体的轮廓若还不成立，就该换构图了。今天这些局部改善值得记下，剩下的问题也得原样留下。"
+            },
+            {
+              "type": "paragraph",
+              "text": "原作出处：Édouard Vuillard，Woman in a Striped Dress，1895，National Gallery of Art, Washington，1983.1.38。Courtesy National Gallery of Art, Washington。本文四张研究图为AI辅助数字图像，玻璃与油彩均为画面效果描述。"
+            }
+          ],
+          "referenceIds": []
+        }
+      ],
+      "references": [
+        {
+          "id": "1",
+          "title": "Édouard Vuillard · Woman in a Striped Dress · NGA",
+          "url": "https://www.nga.gov/artworks/61388-woman-striped-dress",
+          "note": "1895，National Gallery of Art, Washington，1983.1.38。Courtesy National Gallery of Art, Washington。原作仅通过官方链接引用。",
+          "accessedAt": "2026-10-13"
+        }
+      ],
+      "relatedWorks": [],
+      "bodyCharacterCount": 956,
+      "bodyCjkCharacterCount": 704,
+      "readingMinutes": 4
     }
   ]
 }
