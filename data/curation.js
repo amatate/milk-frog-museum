@@ -9,7 +9,7 @@ window.MUSEUM_CURATION = {
     "tagline": "从一张脸，看到它周围的规则"
   },
   "statistics": {
-    "mainWorks": 224,
+    "mainWorks": 284,
     "halls": 5,
     "earlierVersions": 6,
     "additionalViews": 7,
@@ -23,7 +23,7 @@ window.MUSEUM_CURATION = {
     "title": "奶蛙现代艺术馆",
     "titleEn": "Milk Frog Museum of Modern Art",
     "subtitle": "从一张脸，看到它周围的规则",
-    "intro": "从镜中的背影到失去水的瓷砖，从一枚未读标记到只剩黄色的方块，224件作品追问：一个角色可以改变多少，仍与原来的自己发生关系？沿五个展厅观看，也可按媒介和编号查阅。",
+    "intro": "从镜中的背影到失去水的瓷砖，从一枚未读标记到只剩黄色的方块，284件作品追问：一个角色可以改变多少，仍与原来的自己发生关系？沿五个展厅观看，也可按媒介和编号查阅。",
     "headline": "一只熟悉的身体，\n世界不再严丝合缝。",
     "featuredId": "011-incompatible-lunch",
     "statement": "先认出它，再看它与周围事物的关系。每一次改写，都要说明哪些线索被保住，哪些规则被改变。",
@@ -36,7 +36,7 @@ window.MUSEUM_CURATION = {
       "本项目的创作、筛选、展签与研究彼此相关。策展文本可以提出读法，不能替作品证明观众已经被治愈、冒犯或说服。研究区继续追问这些判断如何取证；版本对照则让部分选择留在图像之间，而不是只留在一段解释里。"
     ],
     "rightsNote": "本站展示奶蛙题材的AI辅助图像与数字三维再创作，不代表角色权利方、历史作品作者或收藏机构。相关角色与被引用作品的权利归各自权利人；本馆不为第三方内容授予开放许可。历史参考以来源链接说明，不再发行其参考原图。",
-    "editionNote": "网页展示版；不含完整分辨率下载。",
+    "editionNote": "网页展示版；本次60件采用作品附经批准公开的生成原PNG，其余旧展品保持展示图。",
     "archiveNote": "八月旧作归档：20 件作品、6 张早期版本；旧作题名与修订关系保留，展签与解读在本次归档时补充。"
   },
   "home": {
@@ -134,6 +134,15 @@ window.MUSEUM_CURATION = {
       "052-one-extra-expression",
       "156-the-stones-do-not-answer",
       "169-another-gaze-in-the-boxes",
+      "mfm-20261013-new30-m1",
+      "mfm-20261013-new30-m3",
+      "mfm-20261013-new30-w2",
+      "mfm-20261013-diverse30-r3",
+      "mfm-20261013-diverse30-n3",
+      "mfm-20261013-diverse30-ca3",
+      "mfm-20261013-diverse30-a1",
+      "mfm-20261013-diverse30-e1",
+      "mfm-20261013-diverse30-e2",
       "wave-loop-01",
       "033-between-two-hands",
       "037-time-to-watch-the-fish",
@@ -204,6 +213,24 @@ window.MUSEUM_CURATION = {
       "173-saturn-with-a-broken-effigy",
       "175-the-wind-passes-beneath-the-parasol",
       "202-lower-the-shoulder-a-little",
+      "mfm-20261013-new30-b2",
+      "mfm-20261013-new30-m2",
+      "mfm-20261013-new30-k1",
+      "mfm-20261013-new30-k3",
+      "mfm-20261013-new30-c3",
+      "mfm-20261013-new30-h1",
+      "mfm-20261013-new30-h2",
+      "mfm-20261013-new30-h3",
+      "mfm-20261013-new30-d1",
+      "mfm-20261013-new30-d3",
+      "mfm-20261013-diverse30-r1",
+      "mfm-20261013-diverse30-r2",
+      "mfm-20261013-diverse30-ca2",
+      "mfm-20261013-diverse30-a2",
+      "mfm-20261013-diverse30-cj2",
+      "mfm-20261013-diverse30-lb1",
+      "mfm-20261013-diverse30-lb3",
+      "mfm-20261013-diverse30-co1",
       "006-night-diner",
       "034-the-last-bus-with-a-tomato-plant",
       "078-the-rain-catches-up-on-the-bridge",
@@ -269,6 +296,20 @@ window.MUSEUM_CURATION = {
       "181-the-garden-on-the-back-of-cardboard",
       "194-the-button-moon-opened-its-mouth",
       "195-the-paper-puppet-remained-after-the-curtain-call",
+      "mfm-20261013-new30-c1",
+      "mfm-20261013-new30-c2",
+      "mfm-20261013-new30-klee-01",
+      "mfm-20261013-new30-d2",
+      "mfm-20261013-new30-i1",
+      "mfm-20261013-new30-i2",
+      "mfm-20261013-diverse30-n1",
+      "mfm-20261013-diverse30-n2",
+      "mfm-20261013-diverse30-a3",
+      "mfm-20261013-diverse30-cj1",
+      "mfm-20261013-diverse30-cj3",
+      "mfm-20261013-diverse30-yo1",
+      "mfm-20261013-diverse30-lb2",
+      "mfm-20261013-diverse30-co3",
       "archive-marilyn-one",
       "archive-marilyn-nine",
       "archive-diptych",
@@ -300,6 +341,12 @@ window.MUSEUM_CURATION = {
       "120-a-little-red-where-i-rolled",
       "126-a-little-sand-between-us",
       "164-one-line-through-four-places",
+      "mfm-20261013-new30-w1",
+      "mfm-20261013-new30-w3",
+      "mfm-20261013-new30-k2",
+      "mfm-20261013-new30-i3",
+      "mfm-20261013-diverse30-yo2",
+      "mfm-20261013-diverse30-co2",
       "archive-little-sun",
       "archive-laughter-and-andy",
       "archive-yellow-square",
@@ -331,7 +378,20 @@ window.MUSEUM_CURATION = {
       "190-someone-catches-it-in-every-direction",
       "191-a-pulse-presses-beyond-the-frame",
       "205-meeting-you-from-here",
-      "206-a-little-space-remains-between"
+      "206-a-little-space-remains-between",
+      "mfm-20261013-new30-b1",
+      "mfm-20261013-new30-b3",
+      "mfm-20261013-new30-pollock-01",
+      "mfm-20261013-new30-pollock-02",
+      "mfm-20261013-new30-pollock-03",
+      "mfm-20261013-new30-klee-02",
+      "mfm-20261013-new30-klee-03",
+      "mfm-20261013-diverse30-he1",
+      "mfm-20261013-diverse30-he2",
+      "mfm-20261013-diverse30-he3",
+      "mfm-20261013-diverse30-ca1",
+      "mfm-20261013-diverse30-e3",
+      "mfm-20261013-diverse30-yo3"
     ],
     "halls": [
       {
@@ -401,6 +461,22 @@ window.MUSEUM_CURATION = {
               "156-the-stones-do-not-answer",
               "169-another-gaze-in-the-boxes"
             ]
+          },
+          {
+            "id": "identity-20261013",
+            "title": "10月13日的新问题",
+            "description": "新增采用作品继续核对身体、材料与空间关系；AI概念场景不等同实际制作。",
+            "workIds": [
+              "mfm-20261013-new30-m1",
+              "mfm-20261013-new30-m3",
+              "mfm-20261013-new30-w2",
+              "mfm-20261013-diverse30-r3",
+              "mfm-20261013-diverse30-n3",
+              "mfm-20261013-diverse30-ca3",
+              "mfm-20261013-diverse30-a1",
+              "mfm-20261013-diverse30-e1",
+              "mfm-20261013-diverse30-e2"
+            ]
           }
         ],
         "workIds": [
@@ -431,7 +507,7 @@ window.MUSEUM_CURATION = {
           "156-the-stones-do-not-answer",
           "169-another-gaze-in-the-boxes"
         ],
-        "workCount": 26
+        "workCount": 35
       },
       {
         "id": "gesture",
@@ -543,6 +619,31 @@ window.MUSEUM_CURATION = {
               "175-the-wind-passes-beneath-the-parasol",
               "202-lower-the-shoulder-a-little"
             ]
+          },
+          {
+            "id": "gesture-20261013",
+            "title": "10月13日的新问题",
+            "description": "新增采用作品继续核对身体、材料与空间关系；AI概念场景不等同实际制作。",
+            "workIds": [
+              "mfm-20261013-new30-b2",
+              "mfm-20261013-new30-m2",
+              "mfm-20261013-new30-k1",
+              "mfm-20261013-new30-k3",
+              "mfm-20261013-new30-c3",
+              "mfm-20261013-new30-h1",
+              "mfm-20261013-new30-h2",
+              "mfm-20261013-new30-h3",
+              "mfm-20261013-new30-d1",
+              "mfm-20261013-new30-d3",
+              "mfm-20261013-diverse30-r1",
+              "mfm-20261013-diverse30-r2",
+              "mfm-20261013-diverse30-ca2",
+              "mfm-20261013-diverse30-a2",
+              "mfm-20261013-diverse30-cj2",
+              "mfm-20261013-diverse30-lb1",
+              "mfm-20261013-diverse30-lb3",
+              "mfm-20261013-diverse30-co1"
+            ]
           }
         ],
         "workIds": [
@@ -617,7 +718,7 @@ window.MUSEUM_CURATION = {
           "175-the-wind-passes-beneath-the-parasol",
           "202-lower-the-shoulder-a-little"
         ],
-        "workCount": 70
+        "workCount": 88
       },
       {
         "id": "everyday",
@@ -738,6 +839,27 @@ window.MUSEUM_CURATION = {
               "194-the-button-moon-opened-its-mouth",
               "195-the-paper-puppet-remained-after-the-curtain-call"
             ]
+          },
+          {
+            "id": "everyday-20261013",
+            "title": "10月13日的新问题",
+            "description": "新增采用作品继续核对身体、材料与空间关系；AI概念场景不等同实际制作。",
+            "workIds": [
+              "mfm-20261013-new30-c1",
+              "mfm-20261013-new30-c2",
+              "mfm-20261013-new30-klee-01",
+              "mfm-20261013-new30-d2",
+              "mfm-20261013-new30-i1",
+              "mfm-20261013-new30-i2",
+              "mfm-20261013-diverse30-n1",
+              "mfm-20261013-diverse30-n2",
+              "mfm-20261013-diverse30-a3",
+              "mfm-20261013-diverse30-cj1",
+              "mfm-20261013-diverse30-cj3",
+              "mfm-20261013-diverse30-yo1",
+              "mfm-20261013-diverse30-lb2",
+              "mfm-20261013-diverse30-co3"
+            ]
           }
         ],
         "workIds": [
@@ -807,7 +929,7 @@ window.MUSEUM_CURATION = {
           "194-the-button-moon-opened-its-mouth",
           "195-the-paper-puppet-remained-after-the-curtain-call"
         ],
-        "workCount": 65
+        "workCount": 79
       },
       {
         "id": "reproduction",
@@ -887,6 +1009,19 @@ window.MUSEUM_CURATION = {
               "126-a-little-sand-between-us",
               "164-one-line-through-four-places"
             ]
+          },
+          {
+            "id": "reproduction-20261013",
+            "title": "10月13日的新问题",
+            "description": "新增采用作品继续核对身体、材料与空间关系；AI概念场景不等同实际制作。",
+            "workIds": [
+              "mfm-20261013-new30-w1",
+              "mfm-20261013-new30-w3",
+              "mfm-20261013-new30-k2",
+              "mfm-20261013-new30-i3",
+              "mfm-20261013-diverse30-yo2",
+              "mfm-20261013-diverse30-co2"
+            ]
           }
         ],
         "workIds": [
@@ -922,7 +1057,7 @@ window.MUSEUM_CURATION = {
           "126-a-little-sand-between-us",
           "164-one-line-through-four-places"
         ],
-        "workCount": 31
+        "workCount": 37
       },
       {
         "id": "abstraction",
@@ -997,6 +1132,26 @@ window.MUSEUM_CURATION = {
               "205-meeting-you-from-here",
               "206-a-little-space-remains-between"
             ]
+          },
+          {
+            "id": "abstraction-20261013",
+            "title": "10月13日的新问题",
+            "description": "新增采用作品继续核对身体、材料与空间关系；AI概念场景不等同实际制作。",
+            "workIds": [
+              "mfm-20261013-new30-b1",
+              "mfm-20261013-new30-b3",
+              "mfm-20261013-new30-pollock-01",
+              "mfm-20261013-new30-pollock-02",
+              "mfm-20261013-new30-pollock-03",
+              "mfm-20261013-new30-klee-02",
+              "mfm-20261013-new30-klee-03",
+              "mfm-20261013-diverse30-he1",
+              "mfm-20261013-diverse30-he2",
+              "mfm-20261013-diverse30-he3",
+              "mfm-20261013-diverse30-ca1",
+              "mfm-20261013-diverse30-e3",
+              "mfm-20261013-diverse30-yo3"
+            ]
           }
         ],
         "workIds": [
@@ -1033,7 +1188,7 @@ window.MUSEUM_CURATION = {
           "205-meeting-you-from-here",
           "206-a-little-space-remains-between"
         ],
-        "workCount": 32
+        "workCount": 45
       }
     ]
   },
@@ -1533,7 +1688,7 @@ window.MUSEUM_CURATION = {
       "hallPosition": 26,
       "sequencePosition": 26,
       "previousWorkId": "156-the-stones-do-not-answer",
-      "nextWorkId": "wave-loop-01"
+      "nextWorkId": "mfm-20261013-new30-m1"
     },
     {
       "workId": "wave-loop-01",
@@ -1550,8 +1705,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 27,
-      "previousWorkId": "169-another-gaze-in-the-boxes",
+      "sequencePosition": 36,
+      "previousWorkId": "mfm-20261013-diverse30-e2",
       "nextWorkId": "033-between-two-hands"
     },
     {
@@ -1569,7 +1724,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 2,
-      "sequencePosition": 28,
+      "sequencePosition": 37,
       "previousWorkId": "wave-loop-01",
       "nextWorkId": "037-time-to-watch-the-fish"
     },
@@ -1588,7 +1743,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 3,
-      "sequencePosition": 29,
+      "sequencePosition": 38,
       "previousWorkId": "033-between-two-hands",
       "nextWorkId": "038-i-heard-you"
     },
@@ -1607,7 +1762,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 4,
-      "sequencePosition": 30,
+      "sequencePosition": 39,
       "previousWorkId": "037-time-to-watch-the-fish",
       "nextWorkId": "123-one-fingertip-away"
     },
@@ -1626,7 +1781,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 5,
-      "sequencePosition": 31,
+      "sequencePosition": 40,
       "previousWorkId": "038-i-heard-you",
       "nextWorkId": "131-hold-this-flat-stone-first"
     },
@@ -1645,7 +1800,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 6,
-      "sequencePosition": 32,
+      "sequencePosition": 41,
       "previousWorkId": "123-one-fingertip-away",
       "nextWorkId": "146-hold-one-nail-straight"
     },
@@ -1664,7 +1819,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 7,
-      "sequencePosition": 33,
+      "sequencePosition": 42,
       "previousWorkId": "131-hold-this-flat-stone-first",
       "nextWorkId": "171-a-red-leaf-passes-before-the-nose"
     },
@@ -1683,7 +1838,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 8,
-      "sequencePosition": 34,
+      "sequencePosition": 43,
       "previousWorkId": "146-hold-one-nail-straight",
       "nextWorkId": "232-back-turned-still-see-you"
     },
@@ -1702,7 +1857,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 9,
-      "sequencePosition": 35,
+      "sequencePosition": 44,
       "previousWorkId": "171-a-red-leaf-passes-before-the-nose",
       "nextWorkId": "003-milkmaid-frog"
     },
@@ -1721,7 +1876,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 36,
+      "sequencePosition": 45,
       "previousWorkId": "232-back-turned-still-see-you",
       "nextWorkId": "004-dance-milk-frogs"
     },
@@ -1741,7 +1896,7 @@ window.MUSEUM_CURATION = {
       "relatedReading": [
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 37,
+      "sequencePosition": 46,
       "previousWorkId": "003-milkmaid-frog",
       "nextWorkId": "026-the-tables-turn-to-skip-rope"
     },
@@ -1759,7 +1914,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 38,
+      "sequencePosition": 47,
       "previousWorkId": "004-dance-milk-frogs",
       "nextWorkId": "039-peeled-halfway",
       "hallPosition": 12
@@ -1779,7 +1934,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 13,
-      "sequencePosition": 39,
+      "sequencePosition": 48,
       "previousWorkId": "026-the-tables-turn-to-skip-rope",
       "nextWorkId": "049-mount-fuji-through-the-tub"
     },
@@ -1798,7 +1953,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 14,
-      "sequencePosition": 40,
+      "sequencePosition": 49,
       "previousWorkId": "039-peeled-halfway",
       "nextWorkId": "056-one-step-turns-the-wind"
     },
@@ -1817,7 +1972,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 15,
-      "sequencePosition": 41,
+      "sequencePosition": 50,
       "previousWorkId": "049-mount-fuji-through-the-tub",
       "nextWorkId": "061-the-belly-reaches-the-finish-first"
     },
@@ -1836,7 +1991,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 16,
-      "sequencePosition": 42,
+      "sequencePosition": 51,
       "previousWorkId": "056-one-step-turns-the-wind",
       "nextWorkId": "064-the-roundest-rider"
     },
@@ -1855,7 +2010,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 17,
-      "sequencePosition": 43,
+      "sequencePosition": 52,
       "previousWorkId": "061-the-belly-reaches-the-finish-first",
       "nextWorkId": "066-the-mountains-swing-too"
     },
@@ -1874,7 +2029,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 18,
-      "sequencePosition": 44,
+      "sequencePosition": 53,
       "previousWorkId": "064-the-roundest-rider",
       "nextWorkId": "074-light-flowers-heavy-basket"
     },
@@ -1893,7 +2048,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 19,
-      "sequencePosition": 45,
+      "sequencePosition": 54,
       "previousWorkId": "066-the-mountains-swing-too",
       "nextWorkId": "077-give-the-needle-a-push"
     },
@@ -1912,7 +2067,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 20,
-      "sequencePosition": 46,
+      "sequencePosition": 55,
       "previousWorkId": "074-light-flowers-heavy-basket",
       "nextWorkId": "084-two-lights-in-the-garden"
     },
@@ -1931,7 +2086,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 21,
-      "sequencePosition": 47,
+      "sequencePosition": 56,
       "previousWorkId": "077-give-the-needle-a-push",
       "nextWorkId": "089-four-positions-in-one-boat"
     },
@@ -1950,7 +2105,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 22,
-      "sequencePosition": 48,
+      "sequencePosition": 57,
       "previousWorkId": "084-two-lights-in-the-garden",
       "nextWorkId": "090-autumn-reaches-the-broom"
     },
@@ -1969,7 +2124,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 23,
-      "sequencePosition": 49,
+      "sequencePosition": 58,
       "previousWorkId": "089-four-positions-in-one-boat",
       "nextWorkId": "091-hold-this-breeze-together"
     },
@@ -1988,7 +2143,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 24,
-      "sequencePosition": 50,
+      "sequencePosition": 59,
       "previousWorkId": "090-autumn-reaches-the-broom",
       "nextWorkId": "092-a-small-harvest-close-to-the-ground"
     },
@@ -2007,7 +2162,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 25,
-      "sequencePosition": 51,
+      "sequencePosition": 60,
       "previousWorkId": "091-hold-this-breeze-together",
       "nextWorkId": "094-tie-the-flowerpot-together"
     },
@@ -2026,7 +2181,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 26,
-      "sequencePosition": 52,
+      "sequencePosition": 61,
       "previousWorkId": "092-a-small-harvest-close-to-the-ground",
       "nextWorkId": "098-do-not-touch-this-breath-yet"
     },
@@ -2045,7 +2200,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 27,
-      "sequencePosition": 53,
+      "sequencePosition": 62,
       "previousWorkId": "094-tie-the-flowerpot-together",
       "nextWorkId": "101-the-ball-is-still-in-sunlight"
     },
@@ -2064,7 +2219,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 28,
-      "sequencePosition": 54,
+      "sequencePosition": 63,
       "previousWorkId": "098-do-not-touch-this-breath-yet",
       "nextWorkId": "105-stand-the-other-way-for-a-while"
     },
@@ -2083,7 +2238,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 29,
-      "sequencePosition": 55,
+      "sequencePosition": 64,
       "previousWorkId": "101-the-ball-is-still-in-sunlight",
       "nextWorkId": "106-this-letter-can-reach"
     },
@@ -2102,7 +2257,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 30,
-      "sequencePosition": 56,
+      "sequencePosition": 65,
       "previousWorkId": "105-stand-the-other-way-for-a-while",
       "nextWorkId": "109-hold-this-beat"
     },
@@ -2121,7 +2276,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 31,
-      "sequencePosition": 57,
+      "sequencePosition": 66,
       "previousWorkId": "106-this-letter-can-reach",
       "nextWorkId": "110-wings-left-in-the-snow"
     },
@@ -2140,7 +2295,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 32,
-      "sequencePosition": 58,
+      "sequencePosition": 67,
       "previousWorkId": "109-hold-this-beat",
       "nextWorkId": "113-one-cherry-higher"
     },
@@ -2159,7 +2314,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 33,
-      "sequencePosition": 59,
+      "sequencePosition": 68,
       "previousWorkId": "110-wings-left-in-the-snow",
       "nextWorkId": "116-pulling-the-white-line-into-a-curve"
     },
@@ -2178,7 +2333,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 34,
-      "sequencePosition": 60,
+      "sequencePosition": 69,
       "previousWorkId": "113-one-cherry-higher",
       "nextWorkId": "117-one-roll-a-longer-sheet-of-dough"
     },
@@ -2197,7 +2352,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 35,
-      "sequencePosition": 61,
+      "sequencePosition": 70,
       "previousWorkId": "116-pulling-the-white-line-into-a-curve",
       "nextWorkId": "119-hold-this-hole-for-now"
     },
@@ -2216,7 +2371,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 36,
-      "sequencePosition": 62,
+      "sequencePosition": 71,
       "previousWorkId": "117-one-roll-a-longer-sheet-of-dough",
       "nextWorkId": "121-a-fingertip-against-the-heavens"
     },
@@ -2235,7 +2390,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 37,
-      "sequencePosition": 63,
+      "sequencePosition": 72,
       "previousWorkId": "119-hold-this-hole-for-now",
       "nextWorkId": "122-tighten-this-one-first"
     },
@@ -2254,7 +2409,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 38,
-      "sequencePosition": 64,
+      "sequencePosition": 73,
       "previousWorkId": "121-a-fingertip-against-the-heavens",
       "nextWorkId": "124-a-breath-held-a-little-longer"
     },
@@ -2273,7 +2428,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 39,
-      "sequencePosition": 65,
+      "sequencePosition": 74,
       "previousWorkId": "122-tighten-this-one-first",
       "nextWorkId": "125-turn-the-basket-sideways-first"
     },
@@ -2292,7 +2447,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 40,
-      "sequencePosition": 66,
+      "sequencePosition": 75,
       "previousWorkId": "124-a-breath-held-a-little-longer",
       "nextWorkId": "128-where-the-air-escapes"
     },
@@ -2311,7 +2466,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 41,
-      "sequencePosition": 67,
+      "sequencePosition": 76,
       "previousWorkId": "125-turn-the-basket-sideways-first",
       "nextWorkId": "134-the-feet-rise-before-the-bell-rings"
     },
@@ -2330,7 +2485,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 42,
-      "sequencePosition": 68,
+      "sequencePosition": 77,
       "previousWorkId": "128-where-the-air-escapes",
       "nextWorkId": "136-up-this-step-together"
     },
@@ -2349,7 +2504,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 43,
-      "sequencePosition": 69,
+      "sequencePosition": 78,
       "previousWorkId": "134-the-feet-rise-before-the-bell-rings",
       "nextWorkId": "140-twisting-the-blue-together"
     },
@@ -2368,7 +2523,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 44,
-      "sequencePosition": 70,
+      "sequencePosition": 79,
       "previousWorkId": "136-up-this-step-together",
       "nextWorkId": "141-this-foot-still-falls-short"
     },
@@ -2387,7 +2542,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 45,
-      "sequencePosition": 71,
+      "sequencePosition": 80,
       "previousWorkId": "140-twisting-the-blue-together",
       "nextWorkId": "143-the-pencil-is-still-long"
     },
@@ -2406,7 +2561,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 46,
-      "sequencePosition": 72,
+      "sequencePosition": 81,
       "previousWorkId": "141-this-foot-still-falls-short",
       "nextWorkId": "145-give-this-handful-to-the-earth"
     },
@@ -2425,7 +2580,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 47,
-      "sequencePosition": 73,
+      "sequencePosition": 82,
       "previousWorkId": "143-the-pencil-is-still-long",
       "nextWorkId": "147-the-bread-is-a-little-wider-than-the-slot"
     },
@@ -2444,7 +2599,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 48,
-      "sequencePosition": 74,
+      "sequencePosition": 83,
       "previousWorkId": "145-give-this-handful-to-the-earth",
       "nextWorkId": "148-oars-at-the-water-s-surface"
     },
@@ -2463,7 +2618,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 49,
-      "sequencePosition": 75,
+      "sequencePosition": 84,
       "previousWorkId": "147-the-bread-is-a-little-wider-than-the-slot",
       "nextWorkId": "149-let-the-rain-reach-my-face"
     },
@@ -2482,7 +2637,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 50,
-      "sequencePosition": 76,
+      "sequencePosition": 85,
       "previousWorkId": "148-oars-at-the-water-s-surface",
       "nextWorkId": "157-the-ball-is-still-near-the-hands"
     },
@@ -2501,7 +2656,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 51,
-      "sequencePosition": 77,
+      "sequencePosition": 86,
       "previousWorkId": "149-let-the-rain-reach-my-face",
       "nextWorkId": "166-the-wind-turns-pages-into-the-sky"
     },
@@ -2520,7 +2675,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 52,
-      "sequencePosition": 78,
+      "sequencePosition": 87,
       "previousWorkId": "157-the-ball-is-still-near-the-hands",
       "nextWorkId": "167-passing-over-your-back"
     },
@@ -2539,7 +2694,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 53,
-      "sequencePosition": 79,
+      "sequencePosition": 88,
       "previousWorkId": "166-the-wind-turns-pages-into-the-sky",
       "nextWorkId": "184-sweeping-dusk-to-my-feet"
     },
@@ -2558,7 +2713,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 54,
-      "sequencePosition": 80,
+      "sequencePosition": 89,
       "previousWorkId": "167-passing-over-your-back",
       "nextWorkId": "186-hold-the-guitar-close"
     },
@@ -2577,7 +2732,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 55,
-      "sequencePosition": 81,
+      "sequencePosition": 90,
       "previousWorkId": "184-sweeping-dusk-to-my-feet",
       "nextWorkId": "187-walking-together-empty-handed"
     },
@@ -2596,7 +2751,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 56,
-      "sequencePosition": 82,
+      "sequencePosition": 91,
       "previousWorkId": "186-hold-the-guitar-close",
       "nextWorkId": "008-rural-portrait"
     },
@@ -2615,7 +2770,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 83,
+      "sequencePosition": 92,
       "previousWorkId": "187-walking-together-empty-handed",
       "nextWorkId": "007-golden-embrace"
     },
@@ -2634,7 +2789,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 84,
+      "sequencePosition": 93,
       "previousWorkId": "008-rural-portrait",
       "nextWorkId": "044-that-sound-on-the-bridge"
     },
@@ -2653,7 +2808,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 59,
-      "sequencePosition": 85,
+      "sequencePosition": 94,
       "previousWorkId": "007-golden-embrace",
       "nextWorkId": "046-half-my-scarf-for-you"
     },
@@ -2672,7 +2827,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 60,
-      "sequencePosition": 86,
+      "sequencePosition": 95,
       "previousWorkId": "044-that-sound-on-the-bridge",
       "nextWorkId": "076-leave-the-sound-outside-the-veil"
     },
@@ -2691,7 +2846,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 61,
-      "sequencePosition": 87,
+      "sequencePosition": 96,
       "previousWorkId": "046-half-my-scarf-for-you",
       "nextWorkId": "081-one-burr-at-a-time"
     },
@@ -2710,7 +2865,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 62,
-      "sequencePosition": 88,
+      "sequencePosition": 97,
       "previousWorkId": "076-leave-the-sound-outside-the-veil",
       "nextWorkId": "095-wash-this-foot-first"
     },
@@ -2729,7 +2884,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 63,
-      "sequencePosition": 89,
+      "sequencePosition": 98,
       "previousWorkId": "081-one-burr-at-a-time",
       "nextWorkId": "097-almost-an-embrace"
     },
@@ -2748,7 +2903,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 64,
-      "sequencePosition": 90,
+      "sequencePosition": 99,
       "previousWorkId": "095-wash-this-foot-first",
       "nextWorkId": "112-lend-me-your-shoulder-for-a-moment"
     },
@@ -2767,7 +2922,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 65,
-      "sequencePosition": 91,
+      "sequencePosition": 100,
       "previousWorkId": "097-almost-an-embrace",
       "nextWorkId": "170-neither-of-us-is-holding-the-red"
     },
@@ -2786,7 +2941,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 66,
-      "sequencePosition": 92,
+      "sequencePosition": 101,
       "previousWorkId": "112-lend-me-your-shoulder-for-a-moment",
       "nextWorkId": "172-ophelia"
     },
@@ -2805,7 +2960,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 67,
-      "sequencePosition": 93,
+      "sequencePosition": 102,
       "previousWorkId": "170-neither-of-us-is-holding-the-red",
       "nextWorkId": "173-saturn-with-a-broken-effigy"
     },
@@ -2824,7 +2979,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 68,
-      "sequencePosition": 94,
+      "sequencePosition": 103,
       "previousWorkId": "172-ophelia",
       "nextWorkId": "175-the-wind-passes-beneath-the-parasol"
     },
@@ -2843,7 +2998,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 69,
-      "sequencePosition": 95,
+      "sequencePosition": 104,
       "previousWorkId": "173-saturn-with-a-broken-effigy",
       "nextWorkId": "202-lower-the-shoulder-a-little"
     },
@@ -2862,9 +3017,9 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 70,
-      "sequencePosition": 96,
+      "sequencePosition": 105,
       "previousWorkId": "175-the-wind-passes-beneath-the-parasol",
-      "nextWorkId": "006-night-diner"
+      "nextWorkId": "mfm-20261013-new30-b2"
     },
     {
       "workId": "006-night-diner",
@@ -2881,8 +3036,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 97,
-      "previousWorkId": "202-lower-the-shoulder-a-little",
+      "sequencePosition": 124,
+      "previousWorkId": "mfm-20261013-diverse30-co1",
       "nextWorkId": "034-the-last-bus-with-a-tomato-plant"
     },
     {
@@ -2900,7 +3055,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 2,
-      "sequencePosition": 98,
+      "sequencePosition": 125,
       "previousWorkId": "006-night-diner",
       "nextWorkId": "078-the-rain-catches-up-on-the-bridge"
     },
@@ -2919,7 +3074,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 3,
-      "sequencePosition": 99,
+      "sequencePosition": 126,
       "previousWorkId": "034-the-last-bus-with-a-tomato-plant",
       "nextWorkId": "104-cold-weather-home-first"
     },
@@ -2938,7 +3093,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 4,
-      "sequencePosition": 100,
+      "sequencePosition": 127,
       "previousWorkId": "078-the-rain-catches-up-on-the-bridge",
       "nextWorkId": "114-let-this-note-sit-for-a-while"
     },
@@ -2957,7 +3112,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 5,
-      "sequencePosition": 101,
+      "sequencePosition": 128,
       "previousWorkId": "104-cold-weather-home-first",
       "nextWorkId": "150-the-door-opens-a-face-appears"
     },
@@ -2976,7 +3131,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 6,
-      "sequencePosition": 102,
+      "sequencePosition": 129,
       "previousWorkId": "114-let-this-note-sit-for-a-while",
       "nextWorkId": "179-no-next-song"
     },
@@ -2995,7 +3150,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 7,
-      "sequencePosition": 103,
+      "sequencePosition": 130,
       "previousWorkId": "150-the-door-opens-a-face-appears",
       "nextWorkId": "002-sleeping-milk-frog"
     },
@@ -3014,7 +3169,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 104,
+      "sequencePosition": 131,
       "previousWorkId": "179-no-next-song",
       "nextWorkId": "014-zipper-lunch"
     },
@@ -3033,7 +3188,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 105,
+      "sequencePosition": 132,
       "previousWorkId": "002-sleeping-milk-frog",
       "nextWorkId": "032-an-unfamiliar-pair"
     },
@@ -3052,7 +3207,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 10,
-      "sequencePosition": 106,
+      "sequencePosition": 133,
       "previousWorkId": "014-zipper-lunch",
       "nextWorkId": "036-the-wind-took-the-first-bite"
     },
@@ -3071,7 +3226,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 11,
-      "sequencePosition": 107,
+      "sequencePosition": 134,
       "previousWorkId": "032-an-unfamiliar-pair",
       "nextWorkId": "048-this-page-belongs-to-the-cat"
     },
@@ -3090,7 +3245,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 12,
-      "sequencePosition": 108,
+      "sequencePosition": 135,
       "previousWorkId": "036-the-wind-took-the-first-bite",
       "nextWorkId": "083-leave-the-path-for-a-moment"
     },
@@ -3109,7 +3264,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 13,
-      "sequencePosition": 109,
+      "sequencePosition": 136,
       "previousWorkId": "048-this-page-belongs-to-the-cat",
       "nextWorkId": "099-lend-the-umbrella-to-the-bun-first"
     },
@@ -3128,7 +3283,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 14,
-      "sequencePosition": 110,
+      "sequencePosition": 137,
       "previousWorkId": "083-leave-the-path-for-a-moment",
       "nextWorkId": "111-let-the-paper-fly-a-little-longer"
     },
@@ -3147,7 +3302,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 15,
-      "sequencePosition": 111,
+      "sequencePosition": 138,
       "previousWorkId": "099-lend-the-umbrella-to-the-bun-first",
       "nextWorkId": "115-each-sits-by-the-water"
     },
@@ -3166,7 +3321,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 16,
-      "sequencePosition": 112,
+      "sequencePosition": 139,
       "previousWorkId": "111-let-the-paper-fly-a-little-longer",
       "nextWorkId": "118-at-this-page"
     },
@@ -3185,7 +3340,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 17,
-      "sequencePosition": 113,
+      "sequencePosition": 140,
       "previousWorkId": "115-each-sits-by-the-water",
       "nextWorkId": "130-even-yellow-falls-quiet"
     },
@@ -3204,7 +3359,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 18,
-      "sequencePosition": 114,
+      "sequencePosition": 141,
       "previousWorkId": "118-at-this-page",
       "nextWorkId": "135-a-breath-between-the-seaweeds"
     },
@@ -3223,7 +3378,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 19,
-      "sequencePosition": 115,
+      "sequencePosition": 142,
       "previousWorkId": "130-even-yellow-falls-quiet",
       "nextWorkId": "153-sitting-for-a-while-inside-the-round-shadow"
     },
@@ -3242,7 +3397,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 20,
-      "sequencePosition": 116,
+      "sequencePosition": 143,
       "previousWorkId": "135-a-breath-between-the-seaweeds",
       "nextWorkId": "158-a-circle-of-water-for-each"
     },
@@ -3261,7 +3416,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 21,
-      "sequencePosition": 117,
+      "sequencePosition": 144,
       "previousWorkId": "153-sitting-for-a-while-inside-the-round-shadow",
       "nextWorkId": "archive-listening-room"
     },
@@ -3280,7 +3435,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 118,
+      "sequencePosition": 145,
       "previousWorkId": "158-a-circle-of-water-for-each",
       "nextWorkId": "029-two-books-taller-today"
     },
@@ -3298,7 +3453,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 119,
+      "sequencePosition": 146,
       "previousWorkId": "archive-listening-room",
       "nextWorkId": "020-uncreased-place",
       "hallPosition": 23
@@ -3317,7 +3472,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 120,
+      "sequencePosition": 147,
       "previousWorkId": "029-two-books-taller-today",
       "nextWorkId": "023-knot-the-empty-seat",
       "hallPosition": 24
@@ -3336,7 +3491,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 121,
+      "sequencePosition": 148,
       "previousWorkId": "020-uncreased-place",
       "nextWorkId": "013-shadow-stairs",
       "hallPosition": 25
@@ -3356,7 +3511,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 122,
+      "sequencePosition": 149,
       "previousWorkId": "023-knot-the-empty-seat",
       "nextWorkId": "010-water-left"
     },
@@ -3375,7 +3530,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "relatedReading": [],
-      "sequencePosition": 123,
+      "sequencePosition": 150,
       "previousWorkId": "013-shadow-stairs",
       "nextWorkId": "022-only-one-bowl"
     },
@@ -3393,7 +3548,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 124,
+      "sequencePosition": 151,
       "previousWorkId": "010-water-left",
       "nextWorkId": "018-handmade-rain",
       "hallPosition": 28
@@ -3413,7 +3568,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 125,
+      "sequencePosition": 152,
       "previousWorkId": "022-only-one-bowl",
       "nextWorkId": "021-planing-sunlight"
     },
@@ -3431,7 +3586,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 126,
+      "sequencePosition": 153,
       "previousWorkId": "018-handmade-rain",
       "nextWorkId": "024-keep-dusk-for-tomorrow",
       "hallPosition": 30
@@ -3450,7 +3605,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 127,
+      "sequencePosition": 154,
       "previousWorkId": "021-planing-sunlight",
       "nextWorkId": "025-lay-down-the-fence",
       "hallPosition": 31
@@ -3469,7 +3624,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 128,
+      "sequencePosition": 155,
       "previousWorkId": "024-keep-dusk-for-tomorrow",
       "nextWorkId": "011-incompatible-lunch",
       "hallPosition": 32
@@ -3489,7 +3644,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "relatedReading": [],
-      "sequencePosition": 129,
+      "sequencePosition": 156,
       "previousWorkId": "025-lay-down-the-fence",
       "nextWorkId": "031-after-the-rain-the-boat-remains"
     },
@@ -3508,7 +3663,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 34,
-      "sequencePosition": 130,
+      "sequencePosition": 157,
       "previousWorkId": "011-incompatible-lunch",
       "nextWorkId": "047-the-sofa-enters-the-jungle"
     },
@@ -3527,7 +3682,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 35,
-      "sequencePosition": 131,
+      "sequencePosition": 158,
       "previousWorkId": "031-after-the-rain-the-boat-remains",
       "nextWorkId": "065-the-sea-runs-off-the-page"
     },
@@ -3546,7 +3701,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 36,
-      "sequencePosition": 132,
+      "sequencePosition": 159,
       "previousWorkId": "047-the-sofa-enters-the-jungle",
       "nextWorkId": "067-the-room-comes-unstitched"
     },
@@ -3565,7 +3720,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 37,
-      "sequencePosition": 133,
+      "sequencePosition": 160,
       "previousWorkId": "065-the-sea-runs-off-the-page",
       "nextWorkId": "071-roll-the-distance-closer"
     },
@@ -3584,7 +3739,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 38,
-      "sequencePosition": 134,
+      "sequencePosition": 161,
       "previousWorkId": "067-the-room-comes-unstitched",
       "nextWorkId": "072-time-softens-first"
     },
@@ -3603,7 +3758,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 39,
-      "sequencePosition": 135,
+      "sequencePosition": 162,
       "previousWorkId": "071-roll-the-distance-closer",
       "nextWorkId": "088-a-river-through-the-map"
     },
@@ -3622,7 +3777,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 40,
-      "sequencePosition": 136,
+      "sequencePosition": 163,
       "previousWorkId": "072-time-softens-first",
       "nextWorkId": "100-this-page-opens-by-itself"
     },
@@ -3641,7 +3796,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 41,
-      "sequencePosition": 137,
+      "sequencePosition": 164,
       "previousWorkId": "088-a-river-through-the-map",
       "nextWorkId": "108-leave-the-door-ajar"
     },
@@ -3660,7 +3815,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 42,
-      "sequencePosition": 138,
+      "sequencePosition": 165,
       "previousWorkId": "100-this-page-opens-by-itself",
       "nextWorkId": "132-through-the-space-between-mountains"
     },
@@ -3679,7 +3834,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 43,
-      "sequencePosition": 139,
+      "sequencePosition": 166,
       "previousWorkId": "108-leave-the-door-ajar",
       "nextWorkId": "137-make-a-little-room-for-the-belly"
     },
@@ -3698,7 +3853,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 44,
-      "sequencePosition": 140,
+      "sequencePosition": 167,
       "previousWorkId": "132-through-the-space-between-mountains",
       "nextWorkId": "138-an-echo-in-an-empty-shell"
     },
@@ -3717,7 +3872,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 45,
-      "sequencePosition": 141,
+      "sequencePosition": 168,
       "previousWorkId": "137-make-a-little-room-for-the-belly",
       "nextWorkId": "139-a-little-room-between-umbrellas"
     },
@@ -3736,7 +3891,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 46,
-      "sequencePosition": 142,
+      "sequencePosition": 169,
       "previousWorkId": "138-an-echo-in-an-empty-shell",
       "nextWorkId": "151-different-light-at-one-table"
     },
@@ -3755,7 +3910,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 47,
-      "sequencePosition": 143,
+      "sequencePosition": 170,
       "previousWorkId": "139-a-little-room-between-umbrellas",
       "nextWorkId": "152-two-streams-of-yellow-passing"
     },
@@ -3774,7 +3929,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 48,
-      "sequencePosition": 144,
+      "sequencePosition": 171,
       "previousWorkId": "151-different-light-at-one-table",
       "nextWorkId": "155-someone-on-every-level"
     },
@@ -3793,7 +3948,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 49,
-      "sequencePosition": 145,
+      "sequencePosition": 172,
       "previousWorkId": "152-two-streams-of-yellow-passing",
       "nextWorkId": "159-the-footprints-almost-come-back"
     },
@@ -3812,7 +3967,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 50,
-      "sequencePosition": 146,
+      "sequencePosition": 173,
       "previousWorkId": "155-someone-on-every-level",
       "nextWorkId": "160-only-this-patch-of-ground-beneath-the-umbrellas"
     },
@@ -3831,7 +3986,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 51,
-      "sequencePosition": 147,
+      "sequencePosition": 174,
       "previousWorkId": "159-the-footprints-almost-come-back",
       "nextWorkId": "161-four-windows-four-directions"
     },
@@ -3850,7 +4005,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 52,
-      "sequencePosition": 148,
+      "sequencePosition": 175,
       "previousWorkId": "160-only-this-patch-of-ground-beneath-the-umbrellas",
       "nextWorkId": "163-two-distances-across-the-red"
     },
@@ -3869,7 +4024,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 53,
-      "sequencePosition": 149,
+      "sequencePosition": 176,
       "previousWorkId": "161-four-windows-four-directions",
       "nextWorkId": "185-a-shadow-needs-no-pass"
     },
@@ -3888,7 +4043,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 54,
-      "sequencePosition": 150,
+      "sequencePosition": 177,
       "previousWorkId": "163-two-distances-across-the-red",
       "nextWorkId": "198-a-voice-caught-in-vertical-lines"
     },
@@ -3907,7 +4062,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 55,
-      "sequencePosition": 151,
+      "sequencePosition": 178,
       "previousWorkId": "185-a-shadow-needs-no-pass",
       "nextWorkId": "199-a-line-of-light-beneath-the-feet"
     },
@@ -3926,7 +4081,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 56,
-      "sequencePosition": 152,
+      "sequencePosition": 179,
       "previousWorkId": "198-a-voice-caught-in-vertical-lines",
       "nextWorkId": "200-the-bird-is-still-attached-to-a-string"
     },
@@ -3945,7 +4100,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 57,
-      "sequencePosition": 153,
+      "sequencePosition": 180,
       "previousWorkId": "199-a-line-of-light-beneath-the-feet",
       "nextWorkId": "201-another-eye-above-the-ridge"
     },
@@ -3964,7 +4119,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 58,
-      "sequencePosition": 154,
+      "sequencePosition": 181,
       "previousWorkId": "200-the-bird-is-still-attached-to-a-string",
       "nextWorkId": "012-late-yellow"
     },
@@ -3984,7 +4139,7 @@ window.MUSEUM_CURATION = {
       "relatedReading": [
         "simple-forms-complex-expression"
       ],
-      "sequencePosition": 155,
+      "sequencePosition": 182,
       "previousWorkId": "201-another-eye-above-the-ridge",
       "nextWorkId": "015-sleep-loading"
     },
@@ -4003,7 +4158,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 156,
+      "sequencePosition": 183,
       "previousWorkId": "012-late-yellow",
       "nextWorkId": "142-red-holds-the-room-together"
     },
@@ -4022,7 +4177,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 61,
-      "sequencePosition": 157,
+      "sequencePosition": 184,
       "previousWorkId": "015-sleep-loading",
       "nextWorkId": "180-flower-colors-grow-from-the-palm"
     },
@@ -4041,7 +4196,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 62,
-      "sequencePosition": 158,
+      "sequencePosition": 185,
       "previousWorkId": "142-red-holds-the-room-together",
       "nextWorkId": "181-the-garden-on-the-back-of-cardboard"
     },
@@ -4060,7 +4215,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 63,
-      "sequencePosition": 159,
+      "sequencePosition": 186,
       "previousWorkId": "180-flower-colors-grow-from-the-palm",
       "nextWorkId": "194-the-button-moon-opened-its-mouth"
     },
@@ -4079,7 +4234,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 64,
-      "sequencePosition": 160,
+      "sequencePosition": 187,
       "previousWorkId": "181-the-garden-on-the-back-of-cardboard",
       "nextWorkId": "195-the-paper-puppet-remained-after-the-curtain-call"
     },
@@ -4098,9 +4253,9 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 65,
-      "sequencePosition": 161,
+      "sequencePosition": 188,
       "previousWorkId": "194-the-button-moon-opened-its-mouth",
-      "nextWorkId": "archive-marilyn-one"
+      "nextWorkId": "mfm-20261013-new30-c1"
     },
     {
       "workId": "archive-marilyn-one",
@@ -4117,8 +4272,8 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 162,
-      "previousWorkId": "195-the-paper-puppet-remained-after-the-curtain-call",
+      "sequencePosition": 203,
+      "previousWorkId": "mfm-20261013-diverse30-co3",
       "nextWorkId": "archive-marilyn-nine"
     },
     {
@@ -4136,7 +4291,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 163,
+      "sequencePosition": 204,
       "previousWorkId": "archive-marilyn-one",
       "nextWorkId": "archive-diptych"
     },
@@ -4155,7 +4310,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 164,
+      "sequencePosition": 205,
       "previousWorkId": "archive-marilyn-nine",
       "nextWorkId": "archive-thirty-two"
     },
@@ -4174,7 +4329,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 165,
+      "sequencePosition": 206,
       "previousWorkId": "archive-diptych",
       "nextWorkId": "archive-screen-test"
     },
@@ -4193,7 +4348,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 166,
+      "sequencePosition": 207,
       "previousWorkId": "archive-thirty-two",
       "nextWorkId": "054-who-gets-the-strawberry"
     },
@@ -4212,7 +4367,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 6,
-      "sequencePosition": 167,
+      "sequencePosition": 208,
       "previousWorkId": "archive-screen-test",
       "nextWorkId": "162-one-circle-has-eyes"
     },
@@ -4231,7 +4386,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 7,
-      "sequencePosition": 168,
+      "sequencePosition": 209,
       "previousWorkId": "054-who-gets-the-strawberry",
       "nextWorkId": "192-one-position-grew-eyes"
     },
@@ -4250,7 +4405,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 8,
-      "sequencePosition": 169,
+      "sequencePosition": 210,
       "previousWorkId": "162-one-circle-has-eyes",
       "nextWorkId": "archive-peaches"
     },
@@ -4269,7 +4424,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 170,
+      "sequencePosition": 211,
       "previousWorkId": "192-one-position-grew-eyes",
       "nextWorkId": "archive-peach-passion"
     },
@@ -4288,7 +4443,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 171,
+      "sequencePosition": 212,
       "previousWorkId": "archive-peaches",
       "nextWorkId": "050-the-signature"
     },
@@ -4307,7 +4462,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 11,
-      "sequencePosition": 172,
+      "sequencePosition": 213,
       "previousWorkId": "archive-peach-passion",
       "nextWorkId": "174-youth-still-unfilled"
     },
@@ -4326,7 +4481,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 12,
-      "sequencePosition": 173,
+      "sequencePosition": 214,
       "previousWorkId": "050-the-signature",
       "nextWorkId": "188-the-yellow-that-refuses-to-deflate"
     },
@@ -4345,7 +4500,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 13,
-      "sequencePosition": 174,
+      "sequencePosition": 215,
       "previousWorkId": "174-youth-still-unfilled",
       "nextWorkId": "189-the-gift-is-larger-than-the-plinth"
     },
@@ -4364,7 +4519,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 14,
-      "sequencePosition": 175,
+      "sequencePosition": 216,
       "previousWorkId": "188-the-yellow-that-refuses-to-deflate",
       "nextWorkId": "archive-algorithm-belly"
     },
@@ -4383,7 +4538,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 176,
+      "sequencePosition": 217,
       "previousWorkId": "189-the-gift-is-larger-than-the-plinth",
       "nextWorkId": "archive-beautiful-frog"
     },
@@ -4402,7 +4557,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 177,
+      "sequencePosition": 218,
       "previousWorkId": "archive-algorithm-belly",
       "nextWorkId": "archive-higher-traffic"
     },
@@ -4421,7 +4576,7 @@ window.MUSEUM_CURATION = {
         "abstract-culture-platforms-and-commerce",
         "nailoong-milk-frog-origins"
       ],
-      "sequencePosition": 178,
+      "sequencePosition": 219,
       "previousWorkId": "archive-beautiful-frog",
       "nextWorkId": "063-an-unfinished-version-of-me"
     },
@@ -4440,7 +4595,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 18,
-      "sequencePosition": 179,
+      "sequencePosition": 220,
       "previousWorkId": "archive-higher-traffic",
       "nextWorkId": "069-the-erased-place-lights-up"
     },
@@ -4459,7 +4614,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 19,
-      "sequencePosition": 180,
+      "sequencePosition": 221,
       "previousWorkId": "063-an-unfinished-version-of-me",
       "nextWorkId": "082-three-bodies-one-arrangement"
     },
@@ -4478,7 +4633,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 20,
-      "sequencePosition": 181,
+      "sequencePosition": 222,
       "previousWorkId": "069-the-erased-place-lights-up",
       "nextWorkId": "102-this-copy-is-a-little-long"
     },
@@ -4497,7 +4652,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 21,
-      "sequencePosition": 182,
+      "sequencePosition": 223,
       "previousWorkId": "082-three-bodies-one-arrangement",
       "nextWorkId": "133-the-eye-has-reached-the-ground"
     },
@@ -4516,7 +4671,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 22,
-      "sequencePosition": 183,
+      "sequencePosition": 224,
       "previousWorkId": "102-this-copy-is-a-little-long",
       "nextWorkId": "176-no-blank-space-inside"
     },
@@ -4535,7 +4690,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 23,
-      "sequencePosition": 184,
+      "sequencePosition": 225,
       "previousWorkId": "133-the-eye-has-reached-the-ground",
       "nextWorkId": "177-arrows-through-the-belly"
     },
@@ -4554,7 +4709,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 24,
-      "sequencePosition": 185,
+      "sequencePosition": 226,
       "previousWorkId": "176-no-blank-space-inside",
       "nextWorkId": "183-a-rim-of-yellow-held-by-rust"
     },
@@ -4573,7 +4728,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 25,
-      "sequencePosition": 186,
+      "sequencePosition": 227,
       "previousWorkId": "177-arrows-through-the-belly",
       "nextWorkId": "196-one-side-settles-the-other-sinks"
     },
@@ -4592,7 +4747,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 26,
-      "sequencePosition": 187,
+      "sequencePosition": 228,
       "previousWorkId": "183-a-rim-of-yellow-held-by-rust",
       "nextWorkId": "019-numbers-wait-for-me"
     },
@@ -4611,7 +4766,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "abstract-culture-platforms-and-commerce"
       ],
-      "sequencePosition": 188,
+      "sequencePosition": 229,
       "previousWorkId": "196-one-side-settles-the-other-sinks",
       "nextWorkId": "087-before-the-last-tile-falls"
     },
@@ -4630,7 +4785,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 28,
-      "sequencePosition": 189,
+      "sequencePosition": 230,
       "previousWorkId": "019-numbers-wait-for-me",
       "nextWorkId": "120-a-little-red-where-i-rolled"
     },
@@ -4649,7 +4804,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 29,
-      "sequencePosition": 190,
+      "sequencePosition": 231,
       "previousWorkId": "087-before-the-last-tile-falls",
       "nextWorkId": "126-a-little-sand-between-us"
     },
@@ -4668,7 +4823,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 30,
-      "sequencePosition": 191,
+      "sequencePosition": 232,
       "previousWorkId": "120-a-little-red-where-i-rolled",
       "nextWorkId": "164-one-line-through-four-places"
     },
@@ -4687,9 +4842,9 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 31,
-      "sequencePosition": 192,
+      "sequencePosition": 233,
       "previousWorkId": "126-a-little-sand-between-us",
-      "nextWorkId": "archive-little-sun"
+      "nextWorkId": "mfm-20261013-new30-w1"
     },
     {
       "workId": "archive-little-sun",
@@ -4706,8 +4861,8 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 193,
-      "previousWorkId": "164-one-line-through-four-places",
+      "sequencePosition": 240,
+      "previousWorkId": "mfm-20261013-diverse30-co2",
       "nextWorkId": "archive-laughter-and-andy"
     },
     {
@@ -4725,7 +4880,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 194,
+      "sequencePosition": 241,
       "previousWorkId": "archive-little-sun",
       "nextWorkId": "archive-yellow-square"
     },
@@ -4744,7 +4899,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 195,
+      "sequencePosition": 242,
       "previousWorkId": "archive-laughter-and-andy",
       "nextWorkId": "107-eyes-grow-into-the-field"
     },
@@ -4763,7 +4918,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 4,
-      "sequencePosition": 196,
+      "sequencePosition": 243,
       "previousWorkId": "archive-yellow-square",
       "nextWorkId": "203-the-outline-has-not-settled"
     },
@@ -4782,7 +4937,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 5,
-      "sequencePosition": 197,
+      "sequencePosition": 244,
       "previousWorkId": "107-eyes-grow-into-the-field",
       "nextWorkId": "204-recognized-before-coming-together"
     },
@@ -4801,7 +4956,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 6,
-      "sequencePosition": 198,
+      "sequencePosition": 245,
       "previousWorkId": "203-the-outline-has-not-settled",
       "nextWorkId": "207-a-face-rises-from-the-thick-paint"
     },
@@ -4820,7 +4975,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 7,
-      "sequencePosition": 199,
+      "sequencePosition": 246,
       "previousWorkId": "204-recognized-before-coming-together",
       "nextWorkId": "archive-yellow-order"
     },
@@ -4839,7 +4994,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 200,
+      "sequencePosition": 247,
       "previousWorkId": "207-a-face-rises-from-the-thick-paint",
       "nextWorkId": "archive-laughing-broadway"
     },
@@ -4858,7 +5013,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 201,
+      "sequencePosition": 248,
       "previousWorkId": "archive-yellow-order",
       "nextWorkId": "archive-grid-unruly"
     },
@@ -4877,7 +5032,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 202,
+      "sequencePosition": 249,
       "previousWorkId": "archive-laughing-broadway",
       "nextWorkId": "040-when-the-red-circle-passes"
     },
@@ -4896,7 +5051,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 11,
-      "sequencePosition": 203,
+      "sequencePosition": 250,
       "previousWorkId": "archive-grid-unruly",
       "nextWorkId": "041-one-tile-short"
     },
@@ -4915,7 +5070,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 12,
-      "sequencePosition": 204,
+      "sequencePosition": 251,
       "previousWorkId": "040-when-the-red-circle-passes",
       "nextWorkId": "055-the-stripes-take-a-detour"
     },
@@ -4934,7 +5089,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 13,
-      "sequencePosition": 205,
+      "sequencePosition": 252,
       "previousWorkId": "041-one-tile-short",
       "nextWorkId": "060-the-body-learns-geometry"
     },
@@ -4953,7 +5108,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 14,
-      "sequencePosition": 206,
+      "sequencePosition": 253,
       "previousWorkId": "055-the-stripes-take-a-detour",
       "nextWorkId": "068-the-city-dances-into-me"
     },
@@ -4972,7 +5127,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 15,
-      "sequencePosition": 207,
+      "sequencePosition": 254,
       "previousWorkId": "060-the-body-learns-geometry",
       "nextWorkId": "144-after-white-light-parts"
     },
@@ -4991,7 +5146,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 16,
-      "sequencePosition": 208,
+      "sequencePosition": 255,
       "previousWorkId": "068-the-city-dances-into-me",
       "nextWorkId": "154-a-flower-amid-the-colors"
     },
@@ -5010,7 +5165,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 17,
-      "sequencePosition": 209,
+      "sequencePosition": 256,
       "previousWorkId": "144-after-white-light-parts",
       "nextWorkId": "193-two-eyes-after-the-spin"
     },
@@ -5029,7 +5184,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 18,
-      "sequencePosition": 210,
+      "sequencePosition": 257,
       "previousWorkId": "154-a-flower-amid-the-colors",
       "nextWorkId": "016-shadow-check-in"
     },
@@ -5048,7 +5203,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 211,
+      "sequencePosition": 258,
       "previousWorkId": "193-two-eyes-after-the-spin",
       "nextWorkId": "017-eye-at-low-tide"
     },
@@ -5067,7 +5222,7 @@ window.MUSEUM_CURATION = {
         "simple-forms-complex-expression",
         "ai-remix-selective-mismatch"
       ],
-      "sequencePosition": 212,
+      "sequencePosition": 259,
       "previousWorkId": "016-shadow-check-in",
       "nextWorkId": "057-four-ways-down"
     },
@@ -5086,7 +5241,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 21,
-      "sequencePosition": 213,
+      "sequencePosition": 260,
       "previousWorkId": "017-eye-at-low-tide",
       "nextWorkId": "062-much-more-beyond-the-slope"
     },
@@ -5105,7 +5260,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 22,
-      "sequencePosition": 214,
+      "sequencePosition": 261,
       "previousWorkId": "057-four-ways-down",
       "nextWorkId": "070-the-body-emerges-from-night"
     },
@@ -5124,7 +5279,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 23,
-      "sequencePosition": 215,
+      "sequencePosition": 262,
       "previousWorkId": "062-much-more-beyond-the-slope",
       "nextWorkId": "073-heavier-than-the-mountain-today"
     },
@@ -5143,7 +5298,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 24,
-      "sequencePosition": 216,
+      "sequencePosition": 263,
       "previousWorkId": "070-the-body-emerges-from-night",
       "nextWorkId": "075-the-flock-is-watching-me-too"
     },
@@ -5162,7 +5317,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 25,
-      "sequencePosition": 217,
+      "sequencePosition": 264,
       "previousWorkId": "073-heavier-than-the-mountain-today",
       "nextWorkId": "079-a-small-body-between-the-branches"
     },
@@ -5181,7 +5336,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 26,
-      "sequencePosition": 218,
+      "sequencePosition": 265,
       "previousWorkId": "075-the-flock-is-watching-me-too",
       "nextWorkId": "093-this-one-does-not-fit-the-pocket"
     },
@@ -5200,7 +5355,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 27,
-      "sequencePosition": 219,
+      "sequencePosition": 266,
       "previousWorkId": "079-a-small-body-between-the-branches",
       "nextWorkId": "103-even-the-empty-seats-listen"
     },
@@ -5219,7 +5374,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 28,
-      "sequencePosition": 220,
+      "sequencePosition": 267,
       "previousWorkId": "093-this-one-does-not-fit-the-pocket",
       "nextWorkId": "190-someone-catches-it-in-every-direction"
     },
@@ -5238,7 +5393,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 29,
-      "sequencePosition": 221,
+      "sequencePosition": 268,
       "previousWorkId": "103-even-the-empty-seats-listen",
       "nextWorkId": "191-a-pulse-presses-beyond-the-frame"
     },
@@ -5257,7 +5412,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 30,
-      "sequencePosition": 222,
+      "sequencePosition": 269,
       "previousWorkId": "190-someone-catches-it-in-every-direction",
       "nextWorkId": "205-meeting-you-from-here"
     },
@@ -5276,7 +5431,7 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 31,
-      "sequencePosition": 223,
+      "sequencePosition": 270,
       "previousWorkId": "191-a-pulse-presses-beyond-the-frame",
       "nextWorkId": "206-a-little-space-remains-between"
     },
@@ -5295,8 +5450,1108 @@ window.MUSEUM_CURATION = {
         "ai-remix-selective-mismatch"
       ],
       "hallPosition": 32,
-      "sequencePosition": 224,
+      "sequencePosition": 271,
       "previousWorkId": "205-meeting-you-from-here",
+      "nextWorkId": "mfm-20261013-new30-b1"
+    },
+    {
+      "workId": "mfm-20261013-new30-m1",
+      "number": "P239",
+      "title": "画布没有替它站稳",
+      "primaryHallId": "identity",
+      "clusterId": "identity-20261013",
+      "route": "#/work/mfm-20261013-new30-m1",
+      "lookFor": "图像连续时，身体还需要真实支撑吗？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 27,
+      "sequencePosition": 27,
+      "previousWorkId": "169-another-gaze-in-the-boxes",
+      "nextWorkId": "mfm-20261013-new30-m3"
+    },
+    {
+      "workId": "mfm-20261013-new30-m3",
+      "number": "P241",
+      "title": "白天停在肚皮上",
+      "primaryHallId": "identity",
+      "clusterId": "identity-20261013",
+      "route": "#/work/mfm-20261013-new30-m3",
+      "lookFor": "同一身体能否同时属于昼夜两套光线？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 28,
+      "sequencePosition": 28,
+      "previousWorkId": "mfm-20261013-new30-m1",
+      "nextWorkId": "mfm-20261013-new30-w2"
+    },
+    {
+      "workId": "mfm-20261013-new30-w2",
+      "number": "P243",
+      "title": "金色很大，脸很小",
+      "primaryHallId": "identity",
+      "clusterId": "identity-20261013",
+      "route": "#/work/mfm-20261013-new30-w2",
+      "lookFor": "金地的崇高能否把一张亲近的脸推远？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 29,
+      "sequencePosition": 29,
+      "previousWorkId": "mfm-20261013-new30-m3",
+      "nextWorkId": "mfm-20261013-diverse30-r3"
+    },
+    {
+      "workId": "mfm-20261013-diverse30-r3",
+      "number": "P268",
+      "title": "还没从石头里出来",
+      "primaryHallId": "identity",
+      "clusterId": "identity-20261013",
+      "route": "#/work/mfm-20261013-diverse30-r3",
+      "lookFor": "未完成的粗石是否也成为身体的支撑",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 30,
+      "sequencePosition": 30,
+      "previousWorkId": "mfm-20261013-new30-w2",
+      "nextWorkId": "mfm-20261013-diverse30-n3"
+    },
+    {
+      "workId": "mfm-20261013-diverse30-n3",
+      "number": "P274",
+      "title": "空房间先亮起来",
+      "primaryHallId": "identity",
+      "clusterId": "identity-20261013",
+      "route": "#/work/mfm-20261013-diverse30-n3",
+      "lookFor": "空心的身体能否以光的范围而不是体积占据空间？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 31,
+      "sequencePosition": 31,
+      "previousWorkId": "mfm-20261013-diverse30-r3",
+      "nextWorkId": "mfm-20261013-diverse30-ca3"
+    },
+    {
+      "workId": "mfm-20261013-diverse30-ca3",
+      "number": "P277",
+      "title": "影子已经走远",
+      "primaryHallId": "identity",
+      "clusterId": "identity-20261013",
+      "route": "#/work/mfm-20261013-diverse30-ca3",
+      "lookFor": "薄片转侧后，投影能否接管身体的完整形状？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [
+        "journal-2026-10-13-hands-before-glass"
+      ],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 32,
+      "sequencePosition": 32,
+      "previousWorkId": "mfm-20261013-diverse30-n3",
+      "nextWorkId": "mfm-20261013-diverse30-a1"
+    },
+    {
+      "workId": "mfm-20261013-diverse30-a1",
+      "number": "P278",
+      "title": "把目光还给谁",
+      "primaryHallId": "identity",
+      "clusterId": "identity-20261013",
+      "route": "#/work/mfm-20261013-diverse30-a1",
+      "lookFor": "站立凝视与弧形观众群，谁在承受观看？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 33,
+      "sequencePosition": 33,
+      "previousWorkId": "mfm-20261013-diverse30-ca3",
+      "nextWorkId": "mfm-20261013-diverse30-e1"
+    },
+    {
+      "workId": "mfm-20261013-diverse30-e1",
+      "number": "P281",
+      "title": "潮水先带走脚",
+      "primaryHallId": "identity",
+      "clusterId": "identity-20261013",
+      "route": "#/work/mfm-20261013-diverse30-e1",
+      "lookFor": "自然力量能否在同一身体的不同部位造成不同的消失速度？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 34,
+      "sequencePosition": 34,
+      "previousWorkId": "mfm-20261013-diverse30-a1",
+      "nextWorkId": "mfm-20261013-diverse30-e2"
+    },
+    {
+      "workId": "mfm-20261013-diverse30-e2",
+      "number": "P282",
+      "title": "树没有留下脸",
+      "primaryHallId": "identity",
+      "clusterId": "identity-20261013",
+      "route": "#/work/mfm-20261013-diverse30-e2",
+      "lookFor": "身体缺席后，树皮连续的纹理能否容纳身份而不成为雕像？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [
+        "journal-2026-10-13-hands-before-glass"
+      ],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 35,
+      "sequencePosition": 35,
+      "previousWorkId": "mfm-20261013-diverse30-e1",
+      "nextWorkId": "wave-loop-01"
+    },
+    {
+      "workId": "mfm-20261013-new30-b2",
+      "number": "P237",
+      "title": "托不住的光",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-20261013",
+      "route": "#/work/mfm-20261013-new30-b2",
+      "lookFor": "神圣是否也是肉身承担的负担",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [
+        "journal-2026-10-13-hands-before-glass"
+      ],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 71,
+      "sequencePosition": 106,
+      "previousWorkId": "202-lower-the-shoulder-a-little",
+      "nextWorkId": "mfm-20261013-new30-m2"
+    },
+    {
+      "workId": "mfm-20261013-new30-m2",
+      "number": "P240",
+      "title": "沉的那部分先浮起来",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-20261013",
+      "route": "#/work/mfm-20261013-new30-m2",
+      "lookFor": "石化是增加重量，还是取消身体对地面的服从？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 72,
+      "sequencePosition": 107,
+      "previousWorkId": "mfm-20261013-new30-b2",
+      "nextWorkId": "mfm-20261013-new30-k1"
+    },
+    {
+      "workId": "mfm-20261013-new30-k1",
+      "number": "P245",
+      "title": "悬在呼吸中间",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-20261013",
+      "route": "#/work/mfm-20261013-new30-k1",
+      "lookFor": "悬浮被看成安心还是被留住？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 73,
+      "sequencePosition": 108,
+      "previousWorkId": "mfm-20261013-new30-m2",
+      "nextWorkId": "mfm-20261013-new30-k3"
+    },
+    {
+      "workId": "mfm-20261013-new30-k3",
+      "number": "P247",
+      "title": "把空气铸住",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-20261013",
+      "route": "#/work/mfm-20261013-new30-k3",
+      "lookFor": "坚硬金属保留泄气褶皱时，轻与重能否同时出现？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [
+        "journal-2026-10-13-hands-before-glass"
+      ],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 74,
+      "sequencePosition": 109,
+      "previousWorkId": "mfm-20261013-new30-k1",
+      "nextWorkId": "mfm-20261013-new30-c3"
+    },
+    {
+      "workId": "mfm-20261013-new30-c3",
+      "number": "P250",
+      "title": "还没有量完的拥抱",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-20261013",
+      "route": "#/work/mfm-20261013-new30-c3",
+      "lookFor": "测量架能固定距离，能否替短手臂完成接触？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 75,
+      "sequencePosition": 110,
+      "previousWorkId": "mfm-20261013-new30-k3",
+      "nextWorkId": "mfm-20261013-new30-h1"
+    },
+    {
+      "workId": "mfm-20261013-new30-h1",
+      "number": "P257",
+      "title": "身体让出一条路",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-20261013",
+      "route": "#/work/mfm-20261013-new30-h1",
+      "lookFor": "身体轮廓何时同时成为公共通道",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 76,
+      "sequencePosition": 111,
+      "previousWorkId": "mfm-20261013-new30-c3",
+      "nextWorkId": "mfm-20261013-new30-h2"
+    },
+    {
+      "workId": "mfm-20261013-new30-h2",
+      "number": "P258",
+      "title": "最后一只手停住了",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-20261013",
+      "route": "#/work/mfm-20261013-new30-h2",
+      "lookFor": "亲密接触的节奏如何在最后一个空隙中断",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 77,
+      "sequencePosition": 112,
+      "previousWorkId": "mfm-20261013-new30-h1",
+      "nextWorkId": "mfm-20261013-new30-h3"
+    },
+    {
+      "workId": "mfm-20261013-new30-h3",
+      "number": "P259",
+      "title": "大家都在动，它没有",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-20261013",
+      "route": "#/work/mfm-20261013-new30-h3",
+      "lookFor": "群体节奏如何把静止的身体挤出来",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 78,
+      "sequencePosition": 113,
+      "previousWorkId": "mfm-20261013-new30-h2",
+      "nextWorkId": "mfm-20261013-new30-d1"
+    },
+    {
+      "workId": "mfm-20261013-new30-d1",
+      "number": "P260",
+      "title": "把脚拉近一点",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-20261013",
+      "route": "#/work/mfm-20261013-new30-d1",
+      "lookFor": "短臂如何绕过宽腹接近脚；陡俯视把调整动作压成难读但可信的身体结。",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [
+        "journal-2026-10-13-hands-before-glass"
+      ],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 79,
+      "sequencePosition": 114,
+      "previousWorkId": "mfm-20261013-new30-h3",
+      "nextWorkId": "mfm-20261013-new30-d3"
+    },
+    {
+      "workId": "mfm-20261013-new30-d3",
+      "number": "P262",
+      "title": "走出画面的一拍",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-20261013",
+      "route": "#/work/mfm-20261013-new30-d3",
+      "lookFor": "动作的主体被裁掉，留下的身体如何用视线和重量反应，让画外动作成立。",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 80,
+      "sequencePosition": 115,
+      "previousWorkId": "mfm-20261013-new30-d1",
+      "nextWorkId": "mfm-20261013-diverse30-r1"
+    },
+    {
+      "workId": "mfm-20261013-diverse30-r1",
+      "number": "P266",
+      "title": "脚已经走了",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-20261013",
+      "route": "#/work/mfm-20261013-diverse30-r1",
+      "lookFor": "动作如何先于仍沉重的身体",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 81,
+      "sequencePosition": 116,
+      "previousWorkId": "mfm-20261013-new30-d3",
+      "nextWorkId": "mfm-20261013-diverse30-r2"
+    },
+    {
+      "workId": "mfm-20261013-diverse30-r2",
+      "number": "P267",
+      "title": "还差一指宽",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-20261013",
+      "route": "#/work/mfm-20261013-diverse30-r2",
+      "lookFor": "两只未触及的掌能否围出庇护",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 82,
+      "sequencePosition": 117,
+      "previousWorkId": "mfm-20261013-diverse30-r1",
+      "nextWorkId": "mfm-20261013-diverse30-ca2"
+    },
+    {
+      "workId": "mfm-20261013-diverse30-ca2",
+      "number": "P276",
+      "title": "差一点碰响",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-20261013",
+      "route": "#/work/mfm-20261013-diverse30-ca2",
+      "lookFor": "将碰未碰的空隙如何把静止图像变为一次等待？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 83,
+      "sequencePosition": 118,
+      "previousWorkId": "mfm-20261013-diverse30-r2",
+      "nextWorkId": "mfm-20261013-diverse30-a2"
+    },
+    {
+      "workId": "mfm-20261013-diverse30-a2",
+      "number": "P279",
+      "title": "这一粒还没放下",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-20261013",
+      "route": "#/work/mfm-20261013-diverse30-a2",
+      "lookFor": "重复的短小动作，如何把看不见的时间变成可见积累？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 84,
+      "sequencePosition": 119,
+      "previousWorkId": "mfm-20261013-diverse30-ca2",
+      "nextWorkId": "mfm-20261013-diverse30-cj2"
+    },
+    {
+      "workId": "mfm-20261013-diverse30-cj2",
+      "number": "P285",
+      "title": "风先通过",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-20261013",
+      "route": "#/work/mfm-20261013-diverse30-cj2",
+      "lookFor": "遮挡如何显出无形风而不把身体变成道具？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 85,
+      "sequencePosition": 120,
+      "previousWorkId": "mfm-20261013-diverse30-a2",
+      "nextWorkId": "mfm-20261013-diverse30-lb1"
+    },
+    {
+      "workId": "mfm-20261013-diverse30-lb1",
+      "number": "P290",
+      "title": "缝好了，还不能走",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-20261013",
+      "route": "#/work/mfm-20261013-diverse30-lb1",
+      "lookFor": "修补之后的线能否从照料变成牵制？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 86,
+      "sequencePosition": 121,
+      "previousWorkId": "mfm-20261013-diverse30-cj2",
+      "nextWorkId": "mfm-20261013-diverse30-lb3"
+    },
+    {
+      "workId": "mfm-20261013-diverse30-lb3",
+      "number": "P292",
+      "title": "抱住一块空地方",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-20261013",
+      "route": "#/work/mfm-20261013-diverse30-lb3",
+      "lookFor": "短臂缝在一起以后，能否让缺席有重量？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 87,
+      "sequencePosition": 122,
+      "previousWorkId": "mfm-20261013-diverse30-lb1",
+      "nextWorkId": "mfm-20261013-diverse30-co1"
+    },
+    {
+      "workId": "mfm-20261013-diverse30-co1",
+      "number": "P293",
+      "title": "凳子先坐下了",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-20261013",
+      "route": "#/work/mfm-20261013-diverse30-co1",
+      "lookFor": "承重器具变软而身体保持硬，重力先改变谁？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 88,
+      "sequencePosition": 123,
+      "previousWorkId": "mfm-20261013-diverse30-lb3",
+      "nextWorkId": "006-night-diner"
+    },
+    {
+      "workId": "mfm-20261013-new30-c1",
+      "number": "P248",
+      "title": "影子先到了门口",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-20261013",
+      "route": "#/work/mfm-20261013-new30-c1",
+      "lookFor": "影子比身体先进入空广场，等待发生在哪里？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 66,
+      "sequencePosition": 189,
+      "previousWorkId": "195-the-paper-puppet-remained-after-the-curtain-call",
+      "nextWorkId": "mfm-20261013-new30-c2"
+    },
+    {
+      "workId": "mfm-20261013-new30-c2",
+      "number": "P249",
+      "title": "基座上空着一个下午",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-20261013",
+      "route": "#/work/mfm-20261013-new30-c2",
+      "lookFor": "纪念碑的尺度，怎样使地面的身体像被放下？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 67,
+      "sequencePosition": 190,
+      "previousWorkId": "mfm-20261013-new30-c1",
+      "nextWorkId": "mfm-20261013-new30-klee-01"
+    },
+    {
+      "workId": "mfm-20261013-new30-klee-01",
+      "number": "P254",
+      "title": "阶梯没有接上",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-20261013",
+      "route": "#/work/mfm-20261013-new30-klee-01",
+      "lookFor": "色面相接的建筑能否通过身体卡住的一刻显出深度，而不靠透视或花纹掩盖宽体？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [
+        "journal-2026-10-13-hands-before-glass"
+      ],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 68,
+      "sequencePosition": 191,
+      "previousWorkId": "mfm-20261013-new30-c2",
+      "nextWorkId": "mfm-20261013-new30-d2"
+    },
+    {
+      "workId": "mfm-20261013-new30-d2",
+      "number": "P261",
+      "title": "熨斗停下以后",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-20261013",
+      "route": "#/work/mfm-20261013-new30-d2",
+      "lookFor": "重复劳动停下的一刻，前臂承重如何让圆身体出现疲劳而非可爱摆拍。",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 69,
+      "sequencePosition": 192,
+      "previousWorkId": "mfm-20261013-new30-klee-01",
+      "nextWorkId": "mfm-20261013-new30-i1"
+    },
+    {
+      "workId": "mfm-20261013-new30-i1",
+      "number": "P263",
+      "title": "入口比肚子小",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-20261013",
+      "route": "#/work/mfm-20261013-new30-i1",
+      "lookFor": "可压缩纸身体遇上不可协商的入口：挤压真正发生在腹部而非仅仅贴材质。",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [
+        "journal-2026-10-13-hands-before-glass"
+      ],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 70,
+      "sequencePosition": 193,
+      "previousWorkId": "mfm-20261013-new30-d2",
+      "nextWorkId": "mfm-20261013-new30-i2"
+    },
+    {
+      "workId": "mfm-20261013-new30-i2",
+      "number": "P264",
+      "title": "勺子在等它坐下",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-20261013",
+      "route": "#/work/mfm-20261013-new30-i2",
+      "lookFor": "熟悉的进食器具变成承重家具，身体的自重和被吞食感能否同时出现。",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 71,
+      "sequencePosition": 194,
+      "previousWorkId": "mfm-20261013-new30-i1",
+      "nextWorkId": "mfm-20261013-diverse30-n1"
+    },
+    {
+      "workId": "mfm-20261013-diverse30-n1",
+      "number": "P272",
+      "title": "水替石头呼吸",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-20261013",
+      "route": "#/work/mfm-20261013-diverse30-n1",
+      "lookFor": "水的连续表面如何让沉重身体有流动节奏？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [
+        "journal-2026-10-13-hands-before-glass"
+      ],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 72,
+      "sequencePosition": 195,
+      "previousWorkId": "mfm-20261013-new30-i2",
+      "nextWorkId": "mfm-20261013-diverse30-n2"
+    },
+    {
+      "workId": "mfm-20261013-diverse30-n2",
+      "number": "P273",
+      "title": "身体低于脚步",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-20261013",
+      "route": "#/work/mfm-20261013-diverse30-n2",
+      "lookFor": "身体成为可行走地形后，亲近是否从拥抱变为绕行？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 73,
+      "sequencePosition": 196,
+      "previousWorkId": "mfm-20261013-diverse30-n1",
+      "nextWorkId": "mfm-20261013-diverse30-a3"
+    },
+    {
+      "workId": "mfm-20261013-diverse30-a3",
+      "number": "P280",
+      "title": "门口慢了一步",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-20261013",
+      "route": "#/work/mfm-20261013-diverse30-a3",
+      "lookFor": "谁的身体决定观众进入空间的速度？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 74,
+      "sequencePosition": 197,
+      "previousWorkId": "mfm-20261013-diverse30-n2",
+      "nextWorkId": "mfm-20261013-diverse30-cj1"
+    },
+    {
+      "workId": "mfm-20261013-diverse30-cj1",
+      "number": "P284",
+      "title": "海岸借走了身体",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-20261013",
+      "route": "#/work/mfm-20261013-diverse30-cj1",
+      "lookFor": "包覆能否把角色体量变成地形？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 75,
+      "sequencePosition": 198,
+      "previousWorkId": "mfm-20261013-diverse30-a3",
+      "nextWorkId": "mfm-20261013-diverse30-cj3"
+    },
+    {
+      "workId": "mfm-20261013-diverse30-cj3",
+      "number": "P286",
+      "title": "边界在这里转弯",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-20261013",
+      "route": "#/work/mfm-20261013-diverse30-cj3",
+      "lookFor": "景观尺度的边界能否为小身体改道？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 76,
+      "sequencePosition": 199,
+      "previousWorkId": "mfm-20261013-diverse30-cj1",
+      "nextWorkId": "mfm-20261013-diverse30-yo1"
+    },
+    {
+      "workId": "mfm-20261013-diverse30-yo1",
+      "number": "P287",
+      "title": "下一步留给你",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-20261013",
+      "route": "#/work/mfm-20261013-diverse30-yo1",
+      "lookFor": "观众足迹如何把空白变成共同时间？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 77,
+      "sequencePosition": 200,
+      "previousWorkId": "mfm-20261013-diverse30-cj3",
+      "nextWorkId": "mfm-20261013-diverse30-lb2"
+    },
+    {
+      "workId": "mfm-20261013-diverse30-lb2",
+      "number": "P291",
+      "title": "把里面留给肚子",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-20261013",
+      "route": "#/work/mfm-20261013-diverse30-lb2",
+      "lookFor": "庇护被留给一块身体碎片，身体本身还能被收容吗？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [
+        "journal-2026-10-13-hands-before-glass"
+      ],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 78,
+      "sequencePosition": 201,
+      "previousWorkId": "mfm-20261013-diverse30-yo1",
+      "nextWorkId": "mfm-20261013-diverse30-co3"
+    },
+    {
+      "workId": "mfm-20261013-diverse30-co3",
+      "number": "P295",
+      "title": "这么大的身体，只夹住一点白",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-20261013",
+      "route": "#/work/mfm-20261013-diverse30-co3",
+      "lookFor": "纪念碑尺度的身体执行微小家务时，力量是否变得徒劳？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 79,
+      "sequencePosition": 202,
+      "previousWorkId": "mfm-20261013-diverse30-lb2",
+      "nextWorkId": "archive-marilyn-one"
+    },
+    {
+      "workId": "mfm-20261013-new30-w1",
+      "number": "P242",
+      "title": "黑版晚到了一步",
+      "primaryHallId": "reproduction",
+      "clusterId": "reproduction-20261013",
+      "route": "#/work/mfm-20261013-new30-w1",
+      "lookFor": "轮廓与颜色失去同步后，哪个仍然是身体？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 32,
+      "sequencePosition": 234,
+      "previousWorkId": "164-one-line-through-four-places",
+      "nextWorkId": "mfm-20261013-new30-w3"
+    },
+    {
+      "workId": "mfm-20261013-new30-w3",
+      "number": "P244",
+      "title": "笑脸长成了墙",
+      "primaryHallId": "reproduction",
+      "clusterId": "reproduction-20261013",
+      "route": "#/work/mfm-20261013-new30-w3",
+      "lookFor": "身体被用成环境时，人还会逐个看它吗？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 33,
+      "sequencePosition": 235,
+      "previousWorkId": "mfm-20261013-new30-w1",
+      "nextWorkId": "mfm-20261013-new30-k2"
+    },
+    {
+      "workId": "mfm-20261013-new30-k2",
+      "number": "P246",
+      "title": "永远没有拆封的早晨",
+      "primaryHallId": "reproduction",
+      "clusterId": "reproduction-20261013",
+      "route": "#/work/mfm-20261013-new30-k2",
+      "lookFor": "保护崭新之物的光能否变成隔绝？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 34,
+      "sequencePosition": 236,
+      "previousWorkId": "mfm-20261013-new30-w3",
+      "nextWorkId": "mfm-20261013-new30-i3"
+    },
+    {
+      "workId": "mfm-20261013-new30-i3",
+      "number": "P265",
+      "title": "腹片还在往外走",
+      "primaryHallId": "reproduction",
+      "clusterId": "reproduction-20261013",
+      "route": "#/work/mfm-20261013-new30-i3",
+      "lookFor": "地面与腹片共享同一材料，支撑物被卷走时，身体的完整性如何连带失去。",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 35,
+      "sequencePosition": 237,
+      "previousWorkId": "mfm-20261013-new30-k2",
+      "nextWorkId": "mfm-20261013-diverse30-yo2"
+    },
+    {
+      "workId": "mfm-20261013-diverse30-yo2",
+      "number": "P288",
+      "title": "还缺中间这一片",
+      "primaryHallId": "reproduction",
+      "clusterId": "reproduction-20261013",
+      "route": "#/work/mfm-20261013-diverse30-yo2",
+      "lookFor": "共同修补是否必须恢复原形？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 36,
+      "sequencePosition": 238,
+      "previousWorkId": "mfm-20261013-new30-i3",
+      "nextWorkId": "mfm-20261013-diverse30-co2"
+    },
+    {
+      "workId": "mfm-20261013-diverse30-co2",
+      "number": "P294",
+      "title": "擦掉的地方留下自己",
+      "primaryHallId": "reproduction",
+      "clusterId": "reproduction-20261013",
+      "route": "#/work/mfm-20261013-diverse30-co2",
+      "lookFor": "擦除工具在完成任务时失去自身，纪念碑怎样显示耗损？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 37,
+      "sequencePosition": 239,
+      "previousWorkId": "mfm-20261013-diverse30-yo2",
+      "nextWorkId": "archive-little-sun"
+    },
+    {
+      "workId": "mfm-20261013-new30-b1",
+      "number": "P236",
+      "title": "少算了一次呼吸",
+      "primaryHallId": "abstraction",
+      "clusterId": "abstraction-20261013",
+      "route": "#/work/mfm-20261013-new30-b1",
+      "lookFor": "柔软身体如何被部件计量吞没，脸还完整而呼吸无法入账",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 33,
+      "sequencePosition": 272,
+      "previousWorkId": "206-a-little-space-remains-between",
+      "nextWorkId": "mfm-20261013-new30-b3"
+    },
+    {
+      "workId": "mfm-20261013-new30-b3",
+      "number": "P238",
+      "title": "喉咙里的回声",
+      "primaryHallId": "abstraction",
+      "clusterId": "abstraction-20261013",
+      "route": "#/work/mfm-20261013-new30-b3",
+      "lookFor": "被覆盖的声音如何在身体之外重新出现",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 34,
+      "sequencePosition": 273,
+      "previousWorkId": "mfm-20261013-new30-b1",
+      "nextWorkId": "mfm-20261013-new30-pollock-01"
+    },
+    {
+      "workId": "mfm-20261013-new30-pollock-01",
+      "number": "P251",
+      "title": "噪声留出一口气",
+      "primaryHallId": "abstraction",
+      "clusterId": "abstraction-20261013",
+      "route": "#/work/mfm-20261013-new30-pollock-01",
+      "lookFor": "密度差能否让身体成为颜料运动中暂时成立的空隙，而不是被滴画覆盖的吉祥物？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [
+        "journal-2026-10-13-hands-before-glass"
+      ],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 35,
+      "sequencePosition": 274,
+      "previousWorkId": "mfm-20261013-new30-b3",
+      "nextWorkId": "mfm-20261013-new30-pollock-02"
+    },
+    {
+      "workId": "mfm-20261013-new30-pollock-02",
+      "number": "P252",
+      "title": "线松开以后",
+      "primaryHallId": "abstraction",
+      "clusterId": "abstraction-20261013",
+      "route": "#/work/mfm-20261013-new30-pollock-02",
+      "lookFor": "一根承重的黑线离开身体后，负形能否同时被读成重量和逃逸？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 36,
+      "sequencePosition": 275,
+      "previousWorkId": "mfm-20261013-new30-pollock-01",
+      "nextWorkId": "mfm-20261013-new30-pollock-03"
+    },
+    {
+      "workId": "mfm-20261013-new30-pollock-03",
+      "number": "P253",
+      "title": "重量往下流",
+      "primaryHallId": "abstraction",
+      "clusterId": "abstraction-20261013",
+      "route": "#/work/mfm-20261013-new30-pollock-03",
+      "lookFor": "重力造成的积聚能否成为身体的重量，让眼睛仍在上方而腹部向下失去边界？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 37,
+      "sequencePosition": 276,
+      "previousWorkId": "mfm-20261013-new30-pollock-02",
+      "nextWorkId": "mfm-20261013-new30-klee-02"
+    },
+    {
+      "workId": "mfm-20261013-new30-klee-02",
+      "number": "P255",
+      "title": "肚子里的静音键",
+      "primaryHallId": "abstraction",
+      "clusterId": "abstraction-20261013",
+      "route": "#/work/mfm-20261013-new30-klee-02",
+      "lookFor": "身体变为发声机构时，细线的机械牵引和柔软腹部能否产生不安，而不变成可爱机器人？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 38,
+      "sequencePosition": 277,
+      "previousWorkId": "mfm-20261013-new30-pollock-03",
+      "nextWorkId": "mfm-20261013-new30-klee-03"
+    },
+    {
+      "workId": "mfm-20261013-new30-klee-03",
+      "number": "P256",
+      "title": "一格白光托住腹部",
+      "primaryHallId": "abstraction",
+      "clusterId": "abstraction-20261013",
+      "route": "#/work/mfm-20261013-new30-klee-03",
+      "lookFor": "渐变色块可以承受一个身体的重量吗？亮格究竟是支撑还是缺口，能否保持可见歧义？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 39,
+      "sequencePosition": 278,
+      "previousWorkId": "mfm-20261013-new30-klee-02",
+      "nextWorkId": "mfm-20261013-diverse30-he1"
+    },
+    {
+      "workId": "mfm-20261013-diverse30-he1",
+      "number": "P269",
+      "title": "风从肚子穿过去",
+      "primaryHallId": "abstraction",
+      "clusterId": "abstraction-20261013",
+      "route": "#/work/mfm-20261013-diverse30-he1",
+      "lookFor": "体积被掏走后，身体还能否留住场地",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 40,
+      "sequencePosition": 279,
+      "previousWorkId": "mfm-20261013-new30-klee-03",
+      "nextWorkId": "mfm-20261013-diverse30-he2"
+    },
+    {
+      "workId": "mfm-20261013-diverse30-he2",
+      "number": "P270",
+      "title": "弦没有替它呼吸",
+      "primaryHallId": "abstraction",
+      "clusterId": "abstraction-20261013",
+      "route": "#/work/mfm-20261013-diverse30-he2",
+      "lookFor": "薄线的张力如何替代宽腹的体积",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 41,
+      "sequencePosition": 280,
+      "previousWorkId": "mfm-20261013-diverse30-he1",
+      "nextWorkId": "mfm-20261013-diverse30-he3"
+    },
+    {
+      "workId": "mfm-20261013-diverse30-he3",
+      "number": "P271",
+      "title": "两半之间的潮线",
+      "primaryHallId": "abstraction",
+      "clusterId": "abstraction-20261013",
+      "route": "#/work/mfm-20261013-diverse30-he3",
+      "lookFor": "相隔的曲面是否能组成共同的身体",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 42,
+      "sequencePosition": 281,
+      "previousWorkId": "mfm-20261013-diverse30-he2",
+      "nextWorkId": "mfm-20261013-diverse30-ca1"
+    },
+    {
+      "workId": "mfm-20261013-diverse30-ca1",
+      "number": "P275",
+      "title": "一口气的重量",
+      "primaryHallId": "abstraction",
+      "clusterId": "abstraction-20261013",
+      "route": "#/work/mfm-20261013-diverse30-ca1",
+      "lookFor": "角色拆成互相承重的部件后，身份依赖轮廓还是平衡？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 43,
+      "sequencePosition": 282,
+      "previousWorkId": "mfm-20261013-diverse30-he3",
+      "nextWorkId": "mfm-20261013-diverse30-e3"
+    },
+    {
+      "workId": "mfm-20261013-diverse30-e3",
+      "number": "P283",
+      "title": "风把肚子翻了过来",
+      "primaryHallId": "abstraction",
+      "clusterId": "abstraction-20261013",
+      "route": "#/work/mfm-20261013-diverse30-e3",
+      "lookFor": "风能否让身体负形的边界离地，而不把身体重新实体化？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 44,
+      "sequencePosition": 283,
+      "previousWorkId": "mfm-20261013-diverse30-ca1",
+      "nextWorkId": "mfm-20261013-diverse30-yo3"
+    },
+    {
+      "workId": "mfm-20261013-diverse30-yo3",
+      "number": "P289",
+      "title": "等到它不再像我",
+      "primaryHallId": "abstraction",
+      "clusterId": "abstraction-20261013",
+      "route": "#/work/mfm-20261013-diverse30-yo3",
+      "lookFor": "水迹蒸发能否成为一项参与式指令？",
+      "placementRationale": "沿本厅的问题继续比较这件作品的形体、材料或空间关系。",
+      "analyzedIn": [],
+      "relatedReading": [
+        "ai-remix-selective-mismatch"
+      ],
+      "hallPosition": 45,
+      "sequencePosition": 284,
+      "previousWorkId": "mfm-20261013-diverse30-e3",
       "nextWorkId": null
     }
   ],

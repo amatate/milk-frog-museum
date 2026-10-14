@@ -1,0 +1,4184 @@
+window.MUSEUM_CREATION_RECORDS = {
+  "schemaVersion": 1,
+  "scope": "2026-10-13两批60件采用作品，已获准公开原PNG与作品档案；艺术反馈仍等待。",
+  "timePolicy": {
+    "creation_date": "作品完成的日历日期，本批为2026-10-13；不是入馆或上线时间。",
+    "catalogued_at": "首次进入美术馆主图录的真实Git提交时间；本包为null，导入时记录真实提交，不回填为创作日。",
+    "published_at": "首次确认公开部署可访问的UTC时间；本包为null，部署后核对图录条目、作品页、图像和最近入馆页后填写。",
+    "preserve_existing_records": "既有入馆表采用首次入图录的Git提交时间定义，保持原有值与定义，不追改成部署时间。",
+    "do_not_publish_placeholder": "不得将prepared_not_catalogued或null时间转成已经入馆／上线的声明。"
+  },
+  "method": {
+    "title": "把没解决的问题带到下一张",
+    "deck": "创作闭环是一份可以核对、可以调整的记录方法。采用一张图，不等于它的问题都已解决。",
+    "steps": [
+      {
+        "title": "先问一个具体问题",
+        "text": "写下这次想试的动作、形体或空间关系，也列出不愿丢掉的角色线索。比较旧作的关系，允许撤回重复设想；撤回的草案与已经生成的未采用版本分别记录。"
+      },
+      {
+        "title": "带着问题创作，实际看图",
+        "text": "核对头身、短臂、支点、遮挡、材质和投影。原先的设想与实际出现的东西分开写，问题可以暂时悬而未决。"
+      },
+      {
+        "title": "留下版本和采用理由",
+        "text": "保存完整版本与修改记录，说明哪一处变了、为什么采用、哪一处仍未成立。未采用稿作为过程档案，不自动增加成品馆藏。"
+      },
+      {
+        "title": "主动问具体反馈",
+        "text": "请围绕画面的一处关系回答：例如支点是否读得清，网门开口以后隔离与照料的张力是否还在，角色线索减少后是否仍能辨认。当前等待用户对这些作品的具体反馈，不补写尚未得到的回答。"
+      },
+      {
+        "title": "把下一问题标清楚",
+        "text": "入馆整理时提出的新问题，单独标为这一阶段的追问，不回填为最初创作意图。问题、采用理由与后续关联都可以随新的图像和具体反馈修订。"
+      },
+      {
+        "title": "让后续作品回到这条线索",
+        "text": "下一件作品若继续同一个问题，留下相互链接。判断进展仍要看实际图像、版本比较和反馈，不把记录方法写成自动稳定的艺术进步。"
+      }
+    ],
+    "cases": [
+      {
+        "key": "D1",
+        "title": "D1：改变参考、角度和支点",
+        "text": "第一版的头身连接失真，修回结构后又失去角色身份。采用版更换身份参考，舍弃陡俯视，把一只脚垫到木箱上，让短手与鞋子的距离能被读懂。修改记录说明这些取舍，不宣称所有身体问题已经解决。"
+      },
+      {
+        "key": "LB2",
+        "title": "LB2：只修正阻断动作的结构",
+        "text": "第一版的前臂穿过没有开口的铁网。第二版给网门增加通道，姿态、腹片和围室保留。网门变化让照料动作可读；这仍是AI视觉构想，未制作实体装置。"
+      },
+      {
+        "key": "A3",
+        "title": "A3：在生成前撤回重复关系",
+        "text": "生成前撤销两指缝隙提案，因为它重复前批C3/H2；随后改用门口抬脚与等待者的关系生成A3。撤销提案没有调用出图，不计入16个已生成的未采用版本。"
+      }
+    ],
+    "timeNote": "创作日期、首次进入Git图录的时间、首次公开部署验证时间分别保存。修改展签不重置入馆时间。",
+    "conceptNote": "本批雕塑、装置、地景与行为场景是AI视觉构想；尚未制作实物或实施现场行为。受力、转动与发声等物理效果仍需实体验证。",
+    "feedbackState": "等待具体反馈"
+  },
+  "works": [
+    {
+      "id": "mfm-20261013-new30-b1",
+      "batch_id": "2026-10-13-new30",
+      "batch_work_id": "B1",
+      "title": "少算了一次呼吸",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Jean-Michel Basquiat",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "digital_image",
+      "medium": "AI辅助图像 · 数字绘画／图形语言",
+      "media_status": "数字生成图像；画面呈现的实体、材料、事件不等于实际制作或发生。",
+      "selected_version": "V2",
+      "image": {
+        "path": "media/mfm-20261013-new30-b1/original.png",
+        "mime_type": "image/png",
+        "sha256": "4b7898a79b52034f3c4397f434c75657c4fff69aa1e8d9932910d4899a271ae5",
+        "bytes": 3094616,
+        "width": 1536,
+        "height": 1024,
+        "is_unmodified_original": true
+      },
+      "wall_text": "肚子被黑线分了区，旁边的眼睛、手掌和肺又各记了一遍。它侧躺着，脸仍完整，嘴边一根红线绕进左上的空白。身体似乎都数清了，偏偏这一点气息没有落在任何格子里。",
+      "original_art_question": "柔软身体如何被部件计量吞没，脸还完整而呼吸无法入账",
+      "sources": [
+        {
+          "title": "Beef Ribs Longhorn",
+          "url": "https://www.thebroad.org/art/jean-michel-basquiat/beef-ribs-longhorn",
+          "artist_or_creator": "Jean-Michel Basquiat",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "横幅中，身体横躺于中下部，左上留空，右侧分布稀疏的部件记录。",
+        "observed_result_and_revision": "V1出现鼻孔、奶油下颌与鼓眼，偏成普通蛙。V2只纠正脸部身份，保留横躺、部件与留白。全图及320px缩图实看，宽腹重量成立。未采用更密集的文字列表，避免把身体淹成涂鸦底纹。剩余问题：纹理较均匀，肺图比预期具体。",
+        "actual_generation_calls": 2,
+        "non_adopted_versions": [
+          {
+            "version": "V1",
+            "reason": "普通蛙身份漂移：鼻孔、奶油下颌与鼓眼"
+          }
+        ],
+        "unused_ideas": [],
+        "documented_next_question": null,
+        "next_question": "若计量线减少，身体与呼吸的冲突还会清楚吗？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P236",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-new30-b2",
+      "batch_id": "2026-10-13-new30",
+      "batch_work_id": "B2",
+      "title": "托不住的光",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Jean-Michel Basquiat",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "digital_image",
+      "medium": "AI辅助图像 · 数字绘画／图形语言",
+      "media_status": "数字生成图像；画面呈现的实体、材料、事件不等于实际制作或发生。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-new30-b2/original.png",
+        "mime_type": "image/png",
+        "sha256": "0ae06ced39eba139a9a7333fc2c74e1ba271479bdb7261f588bb3ccaccdaade3",
+        "bytes": 3288650,
+        "width": 1254,
+        "height": 1254,
+        "is_unmodified_original": true
+      },
+      "wall_text": "白色斜块压到头顶，两只掌心抵住它的暗面。奶蛙蹲得很低，圆肚子几乎落在地上，右边却空着一大片黑。看久了，最亮的地方反而最重；那张平静的小脸，还没有告诉我们它能撑多久。",
+      "original_art_question": "神圣是否也是肉身承担的负担",
+      "sources": [
+        {
+          "title": "Santo 2",
+          "url": "https://www.thebroad.org/art/jean-michel-basquiat/santo-2",
+          "artist_or_creator": "Jean-Michel Basquiat",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "方幅，蹲伏宽体在下方托住一块倾斜乳白重物；无皇冠、头框和箭头",
+        "observed_result_and_revision": "V1采用。两掌和白块底面接触清楚，两腿低蹲支撑。初拟右手滑脱，成图没有发生，因此不把滑脱写进墙文。奶油腹的黑划仍稍近既有肋骨语言，但主关系已转为斜块承重与偏左空间。未用皇冠、方形头光。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [],
+        "documented_next_question": null,
+        "next_question": "若承托面再倾斜一点，重量会怎样改变身体的姿势？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P237",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-new30-b3",
+      "batch_id": "2026-10-13-new30",
+      "batch_work_id": "B3",
+      "title": "喉咙里的回声",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Jean-Michel Basquiat",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "digital_image",
+      "medium": "AI辅助图像 · 数字绘画／图形语言",
+      "media_status": "数字生成图像；画面呈现的实体、材料、事件不等于实际制作或发生。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-new30-b3/original.png",
+        "mime_type": "image/png",
+        "sha256": "dcc6fa9d4c279b85de09d54f627d4ed54538b3021f503e971a7ed84151f30860",
+        "bytes": 3575444,
+        "width": 1536,
+        "height": 1024,
+        "is_unmodified_original": true
+      },
+      "wall_text": "紫色油漆从嘴边横着抹过去，几乎把话堵在脸前。右边的黑地里，红白口形却一圈圈冒出来，越往上越松。手还贴着肚子，脸也没张开；那些已经离开身体的痕迹，比它本人更像在说话。",
+      "original_art_question": "被覆盖的声音如何在身体之外重新出现",
+      "sources": [
+        {
+          "title": "Horn Players",
+          "url": "https://www.thebroad.org/art/jean-michel-basquiat/horn-players",
+          "artist_or_creator": "Jean-Michel Basquiat",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "横幅，左侧单个宽体，嘴边与右侧空地上的节奏残迹相互呼应，不画头部内部格线",
+        "observed_result_and_revision": "V1采用。喉部黑条只含三道短划，腹部不做肋骨中轴。紫色横抹与右侧五个口形拉出阅读方向，未使用乐器或三联画。原拟最后口形为未完结绳，实际是偏竖交叠的口形，手记按实记。剩余问题：涂层肌理仍相对一致。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [],
+        "documented_next_question": null,
+        "next_question": "口形再少一枚，声音的节奏还能被看见吗？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P238",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-new30-m1",
+      "batch_id": "2026-10-13-new30",
+      "batch_work_id": "M1",
+      "title": "画布没有替它站稳",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "René Magritte",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "digital_image",
+      "medium": "AI辅助图像 · 数字绘画／图形语言",
+      "media_status": "数字生成图像；画面呈现的实体、材料、事件不等于实际制作或发生。",
+      "selected_version": "V2",
+      "image": {
+        "path": "media/mfm-20261013-new30-m1/original.png",
+        "mime_type": "image/png",
+        "sha256": "a127cc6c395438b69588b96448d3b86d2dcf94698075facadabae77bb3a38d17",
+        "bytes": 1974609,
+        "width": 1122,
+        "height": 1402,
+        "is_unmodified_original": true
+      },
+      "wall_text": "头和脚还在房间里，肚子却交给了一张画布。奶油色从真实的脖颈接到画出的腹部，几乎没有停顿。只有右侧薄薄的边缘提醒我们：这副看似完整的身体，中间其实隔着一块平面。双脚站得越稳，那张无处支撑的画布越让人迟疑。",
+      "original_art_question": "图像连续时，身体还需要真实支撑吗？",
+      "sources": [
+        {
+          "title": "La condition humaine, 1933",
+          "url": "https://www.nga.gov/artworks/70170-la-condition-humaine",
+          "artist_or_creator": "René Magritte",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "平视空室；中央窄画布画着奶蛙的躯干，真实头和两短脚从上、下边缘露出；画架不见，画布似身体又非身体。",
+        "observed_result_and_revision": "V1画布与躯干连续、双脚落地成立，但眼睛凸出头顶，偏成普通蛙。V2校正头冠和眼位，改为单圆顶、平面绿环眼。全图及缩图检查后采用V2。画布宽边略像前挂牌，但无手持且下缘悬空，仍保有平面替身的问题。",
+        "actual_generation_calls": 2,
+        "non_adopted_versions": [
+          {
+            "version": "V1",
+            "reason": "普通蛙面部身份漂移"
+          }
+        ],
+        "unused_ideas": [],
+        "documented_next_question": null,
+        "next_question": "若画布边缘更薄，身体与替身的区别还剩什么？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P239",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-new30-m2",
+      "batch_id": "2026-10-13-new30",
+      "batch_work_id": "M2",
+      "title": "沉的那部分先浮起来",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "René Magritte",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "digital_image",
+      "medium": "AI辅助图像 · 数字绘画／图形语言",
+      "media_status": "数字生成图像；画面呈现的实体、材料、事件不等于实际制作或发生。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-new30-m2/original.png",
+        "mime_type": "image/png",
+        "sha256": "1262863768d194a5ac950dffba67dddebbd1386e7b50209e461205662550a75c",
+        "bytes": 2503147,
+        "width": 1402,
+        "height": 1122,
+        "is_unmodified_original": true
+      },
+      "wall_text": "石纹沿着黄色身体裂开，肚皮像一整块浅色石灰岩。它侧卧得很安稳，身下却没有任何东西承重。沙滩上的暗影与腹部之间留着一条冷亮的缝。原本最笨重的部分先离开地面，小小的笑嘴还像什么也没发生。",
+      "original_art_question": "石化是增加重量，还是取消身体对地面的服从？",
+      "sources": [
+        {
+          "title": "The Castle of the Pyrenees, 1959",
+          "url": "https://www.imj.org.il/en/exhibitions/drifting-magritte-castles-air",
+          "artist_or_creator": "René Magritte",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "横幅海滩，侧卧奶蛙全身黄砂岩质感，完整离地窄隙，浅腹变白石；沉着的体量与无支点相反。",
+        "observed_result_and_revision": "V1的石质裂纹、奶油石腹与侧卧短肢可读；整条腹下空隙与暗影清楚。石材较真实、天空较具笔触，保留两种质感的差异。画面呈现无支点的悬浮关系，不是对现实受力的验证。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [],
+        "documented_next_question": null,
+        "next_question": "石头与天空若使用同一种笔触，悬浮会变得更可信还是更不安？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P240",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-new30-m3",
+      "batch_id": "2026-10-13-new30",
+      "batch_work_id": "M3",
+      "title": "白天停在肚皮上",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "René Magritte",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "digital_image",
+      "medium": "AI辅助图像 · 数字绘画／图形语言",
+      "media_status": "数字生成图像；画面呈现的实体、材料、事件不等于实际制作或发生。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-new30-m3/original.png",
+        "mime_type": "image/png",
+        "sha256": "8fe55567286d3aa37d354290b9455c26bec93b011d1f9c9b3fd8560b009c9352",
+        "bytes": 2169000,
+        "width": 1122,
+        "height": 1402,
+        "is_unmodified_original": true
+      },
+      "wall_text": "窗外是白天，房间里却黑得像深夜。奶蛙坐在地上，肚皮又保留着一整片明亮的云天。那片天跟着腹部鼓起，没有把身体掏空。手脚仍压在暗色地砖上，光亮只在几个局部成立，照不通它们之间的距离。",
+      "original_art_question": "同一身体能否同时属于昼夜两套光线？",
+      "sources": [
+        {
+          "title": "Empire of Light, 1953–54",
+          "url": "https://www.guggenheim-venice.it/en/art/works/empire-of-light/",
+          "artist_or_creator": "René Magritte",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "夜色室内奶蛙坐在地上，窗外白昼不照进来；奶油腹部有独立白昼般明亮的云天，边界是腹部本身，不是圆光圈。",
+        "observed_result_and_revision": "V1的坐姿、灰手脚与地面接触成立；窗外白昼和腹部云天并置，腹部维持凸体而非空洞。脸和肩比初始意图更亮，因此墙文不声称仅腹部受光。采用V1，保留这一偏差。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [],
+        "documented_next_question": null,
+        "next_question": "若窗外白昼消失，腹部的亮天还能自成空间吗？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P241",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-new30-w1",
+      "batch_id": "2026-10-13-new30",
+      "batch_work_id": "W1",
+      "title": "黑版晚到了一步",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Andy Warhol",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "digital_image",
+      "medium": "AI辅助图像 · 数字绘画／图形语言",
+      "media_status": "数字生成图像；画面呈现的实体、材料、事件不等于实际制作或发生。",
+      "selected_version": "V3",
+      "image": {
+        "path": "media/mfm-20261013-new30-w1/original.png",
+        "mime_type": "image/png",
+        "sha256": "96dd5ecb439cd50c10df321d3264686311198d52ae4e60baa7eff4a461c30366",
+        "bytes": 3290576,
+        "width": 1536,
+        "height": 1024,
+        "is_unmodified_original": true
+      },
+      "wall_text": "黄色身体先占住银色底面，黑色的另一个自己从右后方追上来。两只脚几乎重合，腹部却各自保留一块奶油色。笑脸没有改变，印刷的间距让它像是已经走了一步，又把一步留在原地。",
+      "original_art_question": "轮廓与颜色失去同步后，哪个仍然是身体？",
+      "sources": [
+        {
+          "title": "Double Elvis, 1963",
+          "url": "https://www.moma.org/momaorg/shared/flattened_pages/moma_learning/andy-warhol-double-elvis-1963/",
+          "artist_or_creator": "Andy Warhol",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "银灰横幅上两次高度重叠的全身印刷，一次黑墨有完整眼腹，黄色套版向左迟到；无格阵。",
+        "observed_result_and_revision": "V1把身份参考的倒立姿势一并继承，未采用；V2去掉参考图后变成有鼻孔、头顶凸眼的普通青蛙，未采用；V3增加直立身份参考后恢复角色。原拟题《身体已经到了，黄色还没有》，原目标是套色追不上身体。实看黄色在前、黑版在右后，遂改现题。双像读成两个前后身体比精密套版位移更强，接受这个实际结果，不把它写成精准对位。黑版侧面仍带少量窗格残痕，来自辅助身份图的材质污染。",
+        "actual_generation_calls": 3,
+        "non_adopted_versions": [
+          {
+            "version": "V1",
+            "reason": "身份参考的倒置姿态污染构图"
+          },
+          {
+            "version": "V2",
+            "reason": "文字纠正后仍为普通蛙身份"
+          }
+        ],
+        "unused_ideas": [],
+        "documented_next_question": null,
+        "next_question": "保留两个身体的距离，能否减少套版残痕对阅读的干扰？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P242",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-new30-w2",
+      "batch_id": "2026-10-13-new30",
+      "batch_work_id": "W2",
+      "title": "金色很大，脸很小",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Andy Warhol",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "specific_work_structure_adaptation",
+      "classification": "具体作品结构改编 · AI辅助创作",
+      "category": "digital_image",
+      "medium": "AI辅助图像 · 数字绘画／图形语言",
+      "media_status": "数字生成图像；画面呈现的实体、材料、事件不等于实际制作或发生。",
+      "selected_version": "V2",
+      "image": {
+        "path": "media/mfm-20261013-new30-w2/original.png",
+        "mime_type": "image/png",
+        "sha256": "0904a4fdc5936b543cdfd9e7af93fd541a06f31020506fbd04d30525e231d25e",
+        "bytes": 3542377,
+        "width": 1122,
+        "height": 1402,
+        "is_unmodified_original": true
+      },
+      "wall_text": "蓝色的小方块把笑脸留在金地里，四周空得没有地方可去。黄色头顶和奶油腹部仍然亲近，左脸的黑墨却像一片没擦干净的阴影。金色没有把它照亮，只把观看的距离拉长了。",
+      "original_art_question": "金地的崇高能否把一张亲近的脸推远？",
+      "sources": [
+        {
+          "title": "Gold Marilyn Monroe, 1962",
+          "url": "https://www.moma.org/collection/works/79737",
+          "artist_or_creator": "Andy Warhol",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "竖幅古金空场，小块冰蓝底内奶蛙半身放在上中部，脸只占画面少量；墨与金色并置。",
+        "observed_result_and_revision": "V1没有图像身份约束，脸变成有凸眼与鼻孔的普通青蛙，未采用。V2用P188辅助身份成功。肖像块实际比最初22%宽的设想大，约三分之一宽；金色空场仍主导，缩图可见距离感。未再缩小，以免眼部身份线索丢失。金地与小肖像借用Gold Marilyn Monroe具体空间结构，不称Warhol原作。",
+        "actual_generation_calls": 2,
+        "non_adopted_versions": [
+          {
+            "version": "V1",
+            "reason": "普通蛙面部身份漂移"
+          }
+        ],
+        "unused_ideas": [],
+        "documented_next_question": null,
+        "next_question": "肖像再缩小一点，识别与距离感会在哪里失去平衡？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P243",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-new30-w3",
+      "batch_id": "2026-10-13-new30",
+      "batch_work_id": "W3",
+      "title": "笑脸长成了墙",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Andy Warhol",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "digital_image",
+      "medium": "AI辅助图像 · 数字绘画／图形语言",
+      "media_status": "数字生成图像；画面呈现的实体、材料、事件不等于实际制作或发生。",
+      "selected_version": "V2",
+      "image": {
+        "path": "media/mfm-20261013-new30-w3/original.png",
+        "mime_type": "image/png",
+        "sha256": "19819463c26c9e60d8faa2511f3a4ad85b73d9f16eae8953401d4b999d957f91",
+        "bytes": 2829966,
+        "width": 1536,
+        "height": 1024,
+        "is_unmodified_original": true
+      },
+      "wall_text": "一个奶油色肚子接着另一个，手脚在画框边上被裁掉。绿色缝隙让黄色越发响亮，右侧一道接缝突然把身体接错了位置。每张脸都还在笑，视线却很快不再认人，只忙着寻找这张墙纸在哪里断了。",
+      "original_art_question": "身体被用成环境时，人还会逐个看它吗？",
+      "sources": [
+        {
+          "title": "Cow, 1966",
+          "url": "https://www.moma.org/collection/works/71923",
+          "artist_or_creator": "Andy Warhol",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "酸绿场中高对比黄黑宽体错列重复，无方框，边缘裁切；一道竖接缝切断脸且错位。",
+        "observed_result_and_revision": "V1身份漂为普通青蛙，未采用。V2恢复圆顶、低置眼、奶油腹。初拟要竖缝同时切眼与腹，实际最明显的断裂在上下行身体和脚，中行脸未被切开；仍保留错接墙纸结构，不宣称每个脸都断裂。未用点子：透视房间里的墙纸会把问题变成室内布景，故保持平面。",
+        "actual_generation_calls": 2,
+        "non_adopted_versions": [
+          {
+            "version": "V1",
+            "reason": "普通蛙面部身份漂移"
+          }
+        ],
+        "unused_ideas": [],
+        "documented_next_question": null,
+        "next_question": "只错开一行而不切脸，重复还能显出接缝吗？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P244",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-new30-k1",
+      "batch_id": "2026-10-13-new30",
+      "batch_work_id": "K1",
+      "title": "悬在呼吸中间",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Jeff Koons",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "specific_work_structure_adaptation",
+      "classification": "具体作品结构改编 · AI辅助创作",
+      "category": "sculpture_installation_concept",
+      "medium": "AI辅助雕塑／装置概念图 · 二维生成图像",
+      "media_status": "未制作实体，未测试密度平衡、结构或材料。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-new30-k1/original.png",
+        "mime_type": "image/png",
+        "sha256": "b5057875903b22246cd04f24142a343c1ea58c8c4955544334e808a838c7a8fe",
+        "bytes": 1810479,
+        "width": 1536,
+        "height": 1024,
+        "is_unmodified_original": true
+      },
+      "wall_text": "两只脚离箱底还有一段空水，黄色身体既不上浮，也不往下落。水面接住头顶的一小点金光，箱框和黑色支脚把周围撑得很稳。越是找不到托住它的东西，这份安静就越让人想再看一眼。",
+      "original_art_question": "悬浮被看成安心还是被留住？",
+      "sources": [
+        {
+          "title": "One Ball Total Equilibrium Tank, 1985",
+          "url": "https://whitney.org/exhibitions/jeff-koons/art?section=3",
+          "artist_or_creator": "Jeff Koons",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "深灰背景透明水箱，宽黄身体悬在水中央，与底面有明确空隙。",
+        "observed_result_and_revision": "首轮采用。全图和360像素缩图都能看见脚下空隙及箱底。最初拟黄色乙烯玩具，实际手脚与头顶仍带金属反光，不能写成已验证的乙烯材质。只作二维悬浮图像，不暗示实际密度平衡可制造。取用One Ball Total Equilibrium Tank玻璃箱/独体悬浮的结构，替换形体；原作平衡并非永久，题名不称永恒悬浮。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [],
+        "documented_next_question": null,
+        "next_question": "若取消水箱边框，悬浮的距离还能被看见吗？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P245",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-new30-k2",
+      "batch_id": "2026-10-13-new30",
+      "batch_work_id": "K2",
+      "title": "永远没有拆封的早晨",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Jeff Koons",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "sculpture_installation_concept",
+      "medium": "AI辅助雕塑／装置概念图 · 二维生成图像",
+      "media_status": "未制作实体，未测试密度平衡、结构或材料。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-new30-k2/original.png",
+        "mime_type": "image/png",
+        "sha256": "b3aa7ef51db263f859c183015a95ae20268682105598f541811ea2e9c4c5c135",
+        "bytes": 1990672,
+        "width": 1122,
+        "height": 1402,
+        "is_unmodified_original": true
+      },
+      "wall_text": "脚下两根灯管亮得发冷。透明包装沿肩膀折出尖角，外面还有一层更硬的柜壁；看得清楚，却碰不到。奶油腹部仍是一整块温和的白，笑脸被照得崭新，像一直在等一个不会开始的早晨。",
+      "original_art_question": "保护崭新之物的光能否变成隔绝？",
+      "sources": [
+        {
+          "title": "The New, 1980–87",
+          "url": "https://whitney.org/exhibitions/jeff-koons/art?section=2",
+          "artist_or_creator": "Jeff Koons",
+          "kind": "series_or_thematic_research",
+          "scope_note": "系列或主题研究资料，提供方法与材料关系的来源；不冒称某一件原作的逐幅改编。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "暗室中冷白灯管从下照亮透明密封柜，玩具直立，包装折痕透明却阻隔接触。",
+        "observed_result_and_revision": "首轮采用。包装折痕、柜壁与脚下透明板可分层读，缩图仍成立。最初拟玩具占柜宽一半，实际更大；保护包裹的压迫感因此更直接。材质从计划亮面乙烯偏向金属，按实际写黄色反光表面。The New是语言参照，不把本件说成New Hoover原作改编。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [],
+        "documented_next_question": null,
+        "next_question": "包装越透明，阻隔感是否反而越强？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P246",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-new30-k3",
+      "batch_id": "2026-10-13-new30",
+      "batch_work_id": "K3",
+      "title": "把空气铸住",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Jeff Koons",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "sculpture_installation_concept",
+      "medium": "AI辅助雕塑／装置概念图 · 二维生成图像",
+      "media_status": "未制作实体，未测试密度平衡、结构或材料。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-new30-k3/original.png",
+        "mime_type": "image/png",
+        "sha256": "bf5d362f1a6fc1c1cae430b4a480c5c3d8f5bcc71a8613b438a4a7243bb61789",
+        "bytes": 2059545,
+        "width": 1536,
+        "height": 1024,
+        "is_unmodified_original": true
+      },
+      "wall_text": "肚子还鼓着，左侧身体已经折到地上。头顶的一条白光滑过圆面，到了褶皱处忽然碎成尖锐的折线。它看着像在慢慢泄气，反光却硬得没有退路；那几道贴住地面的皱纹，仿佛再也展不开了。",
+      "original_art_question": "坚硬金属保留泄气褶皱时，轻与重能否同时出现？",
+      "sources": [
+        {
+          "title": "Inflatables and Pre-New, 1978–80",
+          "url": "https://whitney.org/exhibitions/jeff-koons/art",
+          "artist_or_creator": "Jeff Koons",
+          "kind": "series_or_thematic_research",
+          "scope_note": "系列或主题研究资料，提供方法与材料关系的来源；不冒称某一件原作的逐幅改编。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "银灰空场，黄色镜面气囊奶蛙半侧伏地，腹部鼓起、下半躯壳褶皱压地，缝口与反射显出硬材质。",
+        "observed_result_and_revision": "首轮采用。头部和腹部鼓起、左胁褶皱压地、反射折线三个关系在缩图同时成立。初稿文字希望更低的侧卧，实际略近坐卧，但宽重心与接触阴影可信，故不为姿态标签重修。语言联系Inflatables对呼吸的隐喻及Koons硬化充气物的转换，不指称某件原作的复制。未用点子：气嘴特写会把画面变成产品说明，未加入。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [],
+        "documented_next_question": null,
+        "next_question": "若反光变弱，鼓起与折瘪还能同时成立吗？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P247",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-new30-c1",
+      "batch_id": "2026-10-13-new30",
+      "batch_work_id": "C1",
+      "title": "影子先到了门口",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Giorgio de Chirico",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "digital_image",
+      "medium": "AI辅助图像 · 数字绘画／图形语言",
+      "media_status": "数字生成图像；画面呈现的实体、材料、事件不等于实际制作或发生。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-new30-c1/original.png",
+        "mime_type": "image/png",
+        "sha256": "445b11c166e2065c816750aa8a1f134d174042185f7748c320bf654179934634",
+        "bytes": 2579988,
+        "width": 1402,
+        "height": 1122,
+        "is_unmodified_original": true
+      },
+      "wall_text": "身体还藏在右侧门柱后，影子已经穿过广场，碰到了远处的黑门。左边一列拱洞把路越压越窄，红塔没有给出方向。奶蛙只迈进来一点，空地却把它拉得很长。这里最先抵达的，偏偏是没有重量的部分。",
+      "original_art_question": "影子比身体先进入空广场，等待发生在哪里？",
+      "sources": [
+        {
+          "title": "The Red Tower, 1913",
+          "url": "https://www.guggenheim-venice.it/en/art/works/the-red-tower/",
+          "artist_or_creator": "Giorgio de Chirico",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "低视点荒广场，右边缘只露半只向前迈步奶蛙，长影穿过画面抵远方空门；左拱廊和红塔压紧透视。",
+        "observed_result_and_revision": "V1全图及240px缩图：右缘身体被柱截断但绿眼、浅腹边、短掌足可辨；长影贯穿空场，头影接远门。抬脚动作不清，按犹疑进入写，不假称一步完成。无车站，因此标题由生成前“影子已经到站”改成“影子先到了门口”。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [],
+        "documented_next_question": null,
+        "next_question": "当身体进一步退出画面，影子还会替它占据空间吗？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P248",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-new30-c2",
+      "batch_id": "2026-10-13-new30",
+      "batch_work_id": "C2",
+      "title": "基座上空着一个下午",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Giorgio de Chirico",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "digital_image",
+      "medium": "AI辅助图像 · 数字绘画／图形语言",
+      "media_status": "数字生成图像；画面呈现的实体、材料、事件不等于实际制作或发生。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-new30-c2/original.png",
+        "mime_type": "image/png",
+        "sha256": "da75d944dadcc126024de0dcf2814d14a8218a0d7e97d587d074566003720215",
+        "bytes": 2612304,
+        "width": 1122,
+        "height": 1402,
+        "is_unmodified_original": true
+      },
+      "wall_text": "基座上什么也没有，仍占去了大半幅画。奶蛙坐在旁边，脚底朝前，抬眼望着那块高高的空处。浅石与黄色身体都晒在午后光里，尺度却不肯让它们平等。地上这点小小的重量，让上方的空白更难忽略。",
+      "original_art_question": "纪念碑的尺度，怎样使地面的身体像被放下？",
+      "sources": [
+        {
+          "title": "The Enigma of a Day, early 1914",
+          "url": "https://www.moma.org/collection/works/80587",
+          "artist_or_creator": "Giorgio de Chirico",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "广场中央巨大空白方基座，奶蛙坐在基座前地面，身体仅到基座下半；短腿前伸，抬眼望基座；长影如尺。",
+        "observed_result_and_revision": "V1全图及240px缩图：无像基座与小坐者尺度强烈；两脚底和双手搭腹关系明确。表情较沮丧，不额外解释为特定受排斥事件。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [],
+        "documented_next_question": null,
+        "next_question": "如果降低基座，空白还会有同样的重量吗？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P249",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-new30-c3",
+      "batch_id": "2026-10-13-new30",
+      "batch_work_id": "C3",
+      "title": "还没有量完的拥抱",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Giorgio de Chirico",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "digital_image",
+      "medium": "AI辅助图像 · 数字绘画／图形语言",
+      "media_status": "数字生成图像；画面呈现的实体、材料、事件不等于实际制作或发生。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-new30-c3/original.png",
+        "mime_type": "image/png",
+        "sha256": "3c793d582b2c695a7f0df476e5f5c7e67a460ead29130d33b17cfa8701331951",
+        "bytes": 2538546,
+        "width": 1402,
+        "height": 1122,
+        "is_unmodified_original": true
+      },
+      "wall_text": "两副木头身体坐在同一条蓝凳上，手臂伸向中间，指尖还隔着一道窄缝。三角板和测量杆立得笔直，谁也没能替它们把距离缩短。关节看上去能动，动作却停在将要接触的一刻；窗外的工厂也没有声音。",
+      "original_art_question": "测量架能固定距离，能否替短手臂完成接触？",
+      "sources": [
+        {
+          "title": "Giorgio de Chirico",
+          "url": "https://fondazionedechirico.org/en/giorgio-de-chirico/",
+          "kind": "artist_research",
+          "kind_label": "基金会艺术家综述与生平",
+          "scope_note": "Fondazione Giorgio e Isa de Chirico的艺术家入口页面，含Biography、Artwork、Written Work、Interviews和Bibliography。生平正文提到Mannequin与Metaphysical Interior主题，但此URL不是名为“Metaphysical interiors and mannequin works”的单件原作或正式系列条目。C3只能据此标注艺术家研究/视觉语言启发，不能伪称特定原作改编。",
+          "publisher": "Fondazione Giorgio e Isa de Chirico",
+          "title_status": "official_page_title_without_site_suffix",
+          "verified_at": "2026-10-14T04:10:23.622387+00:00",
+          "verification_basis": "本次入馆准备中重新读取官方页面核验。",
+          "source_record_stage": "既有创作来源记录。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "狭窄赭色室内，两奶蛙木制关节身体相向坐着，短臂隔一线没碰到；几何测量架与三角板夹在周围，窗外空工厂。",
+        "observed_result_and_revision": "V1的关节木体、两名坐者、指尖窄缝及测量杆成立。肢体比最初的短肢设想更长；采用这一有理由的木偶化，令关节结构服务于指尖未接触的问题。没有另生成V2。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [],
+        "documented_next_question": null,
+        "next_question": "若测量杆减少，两只手之间的距离会变近吗？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P250",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-new30-pollock-01",
+      "batch_id": "2026-10-13-new30",
+      "batch_work_id": "pollock-01",
+      "title": "噪声留出一口气",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Jackson Pollock",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "digital_image",
+      "medium": "AI辅助图像 · 数字绘画／图形语言",
+      "media_status": "数字生成图像；画面呈现的实体、材料、事件不等于实际制作或发生。",
+      "selected_version": "V2",
+      "image": {
+        "path": "media/mfm-20261013-new30-pollock-01/original.png",
+        "mime_type": "image/png",
+        "sha256": "82c42faa3a23eaac1b5cae4065b03dc7150591fbdd9970e1e4735cb102dbb400",
+        "bytes": 3935594,
+        "width": 1536,
+        "height": 1024,
+        "is_unmodified_original": true
+      },
+      "wall_text": "黑线在右上角挤得很紧，左边却露出一小片奶油色。两只眼睛散在线缝里，身体没有完整的边。黄色还往外流，肚子也随时可能重新混进噪声。先看见一张动荡的画，再慢慢认出里面那只没有完全消失的奶蛙。",
+      "original_art_question": "密度差能否让身体成为颜料运动中暂时成立的空隙，而不是被滴画覆盖的吉祥物？",
+      "sources": [
+        {
+          "title": "One: Number 31, 1950 (1950)",
+          "url": "https://www.moma.org/collection/works/78386/",
+          "artist_or_creator": "Jackson Pollock",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "横幅，密集黑白线向右下偏流；偏左宽梨形浅黄缺口，仅半边腹和两眼停留；无完整硬轮廓。",
+        "observed_result_and_revision": "第一版奶蛙是完整实体，线网成了背景和滤镜，弃用。第二版打断肩、腹和脚的连续轮廓，缩小眼睛。右上黑重、左中浅腹在缩图仍可读。呼吸区比最初设想密，身体仍有明显黄色聚合；接受它是正在散开的身形，不声称完全去中心。未用点子：纯白剪影容易成为模板。",
+        "actual_generation_calls": 2,
+        "non_adopted_versions": [
+          {
+            "version": "V1",
+            "reason": "完整实体角色与滴画背景分层，未形成密度中的身体"
+          }
+        ],
+        "unused_ideas": [],
+        "documented_next_question": null,
+        "next_question": "身体再松散一点，识别会先从哪里消失？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P251",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-new30-pollock-02",
+      "batch_id": "2026-10-13-new30",
+      "batch_work_id": "pollock-02",
+      "title": "线松开以后",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Jackson Pollock",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "digital_image",
+      "medium": "AI辅助图像 · 数字绘画／图形语言",
+      "media_status": "数字生成图像；画面呈现的实体、材料、事件不等于实际制作或发生。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-new30-pollock-02/original.png",
+        "mime_type": "image/png",
+        "sha256": "9712ec0f66383456ad6ccb5396abc0acdbc463efb99b4f503d49063307bcf0f9",
+        "bytes": 3513982,
+        "width": 1122,
+        "height": 1402,
+        "is_unmodified_original": true
+      },
+      "wall_text": "黑线先沿着背折下来，在脚边积成一小块，又朝右边松开。奶蛙把头压得很低，腹部像空了一截，粗布从身体里透出来。画外没有东西拉它，那根不断变细的线却让低头的重量一直延伸到空处。",
+      "original_art_question": "一根承重的黑线离开身体后，负形能否同时被读成重量和逃逸？",
+      "sources": [
+        {
+          "title": "Echo: Number 25, 1951 (1951)",
+          "url": "https://www.moma.org/explore/inside_out/2012/09/05/momas-jackson-pollock-conservation-project-one-joins-echo/",
+          "artist_or_creator": "Jackson Pollock",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "竖幅骨白底，大黑弧承托倾斜身体，黄薄洗只给两处线段，不做满幅泼点。",
+        "observed_result_and_revision": "最初想做斜倾身体，实际生成成折身低头，保留这个变化。负形裸布清楚，底线承重、右侧弧线松开，缩图仍成立。身份参考的折身姿势影响比预计大，不能说完全摆脱参考动作。按倾倒线条构成的空心袋形接受，不作写实解剖证明。未用点子：把所有黄都删去会丢身份。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [],
+        "documented_next_question": null,
+        "next_question": "若不再借助低头姿势，空心袋形能否仍承重？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P252",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-new30-pollock-03",
+      "batch_id": "2026-10-13-new30",
+      "batch_work_id": "pollock-03",
+      "title": "重量往下流",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Jackson Pollock",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "digital_image",
+      "medium": "AI辅助图像 · 数字绘画／图形语言",
+      "media_status": "数字生成图像；画面呈现的实体、材料、事件不等于实际制作或发生。",
+      "selected_version": "V2",
+      "image": {
+        "path": "media/mfm-20261013-new30-pollock-03/original.png",
+        "mime_type": "image/png",
+        "sha256": "95d60867e3d2dcdf6493aa97ae88727c8a8b795fd9f57c433958fbf506c69252",
+        "bytes": 3460258,
+        "width": 1122,
+        "height": 1402,
+        "is_unmodified_original": true
+      },
+      "wall_text": "眼睛还停在上面，肚子已经往下流。乳白和黄色拖成细长的线，到了底边便绕在一起，脚也找不到了。上方的空隙越轻，下方那团沉积就越重；奶蛙像在站着，也像正被自己的颜色慢慢带走。",
+      "original_art_question": "重力造成的积聚能否成为身体的重量，让眼睛仍在上方而腹部向下失去边界？",
+      "sources": [
+        {
+          "title": "Number 1, 1950 (Lavender Mist) (1950)",
+          "url": "https://www.nga.gov/artworks/55819-number-1-1950-lavender-mist",
+          "artist_or_creator": "Jackson Pollock",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "竖幅，上方薄稀颜料，两眼悬停，中下宽黄腹被竖向流痕拖成沉积，灰脚只剩底部压积。",
+        "observed_result_and_revision": "首版上下密度和纵向腹流成立，但眼眶鼓到头顶，像普通青蛙，弃用。第二版仅修头和眼睛，保持腹流与底部积聚。全图和缩图均审查通过。绿色眼圈较平，和整体釉彩肌理有差异，作为识别残留接受。未用点子：瀑布场景会把抽象重力变叙事插图。",
+        "actual_generation_calls": 2,
+        "non_adopted_versions": [
+          {
+            "version": "V1",
+            "reason": "鼓眼导致普通蛙身份漂移"
+          }
+        ],
+        "unused_ideas": [],
+        "documented_next_question": null,
+        "next_question": "当眼圈也融入流痕，纵向的重量还能留住角色吗？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P253",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-new30-klee-01",
+      "batch_id": "2026-10-13-new30",
+      "batch_work_id": "klee-01",
+      "title": "阶梯没有接上",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Paul Klee",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "digital_image",
+      "medium": "AI辅助图像 · 数字绘画／图形语言",
+      "media_status": "数字生成图像；画面呈现的实体、材料、事件不等于实际制作或发生。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-new30-klee-01/original.png",
+        "mime_type": "image/png",
+        "sha256": "370f3dcab6e21d32ebf779beb7c15cfb10fc4d9f06f60fc432a783623c6b6751",
+        "bytes": 2944236,
+        "width": 1448,
+        "height": 1086,
+        "is_unmodified_original": true
+      },
+      "wall_text": "两只灰手扣住门边，肚子把门洞填得满满的。旁边还有许多门，台阶走到一半却换了方向，左右也接不上。颜色很亮，空间却不肯让路。奶蛙只得停在这里，脸上那条短短的嘴，并没有告诉我们它下一步打算怎么办。",
+      "original_art_question": "色面相接的建筑能否通过身体卡住的一刻显出深度，而不靠透视或花纹掩盖宽体？",
+      "sources": [
+        {
+          "title": "Temple Gardens (1920)",
+          "url": "https://www.metmuseum.org/art/collection/search/484870",
+          "artist_or_creator": "Paul Klee",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "横幅三段错位纸上园林，一只大宽体卡在窄门，腹部向两侧撑开，短灰手贴门缘；台阶左右不能接通。",
+        "observed_result_and_revision": "原题为《门比肚子窄》，最初问题是腹部与门缘接触。V1中宽腹、短手和门缘关系清楚，实际是挤满门洞，不足以证明穿到一半。同批《入口比肚子小》也处理狭窄入口，因本作的断阶与彩色平面组织不同而保留，改题《阶梯没有接上》。改题不改变原始意图的记录。未采用红圆与微型旁观者，以免重做已有构图。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [],
+        "documented_next_question": null,
+        "next_question": "去掉窄门以后，错开的阶梯能否独立组织身体？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P254",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-new30-klee-02",
+      "batch_id": "2026-10-13-new30",
+      "batch_work_id": "klee-02",
+      "title": "肚子里的静音键",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Paul Klee",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "digital_image",
+      "medium": "AI辅助图像 · 数字绘画／图形语言",
+      "media_status": "数字生成图像；画面呈现的实体、材料、事件不等于实际制作或发生。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-new30-klee-02/original.png",
+        "mime_type": "image/png",
+        "sha256": "2c17bc986649309ca0ad8d340e7bc1e9b9ff7790d42f9c43478fa311a6528a91",
+        "bytes": 3314374,
+        "width": 1122,
+        "height": 1402,
+        "is_unmodified_original": true
+      },
+      "wall_text": "嘴张开了，一根细线从里面垂进肚子，转两个弯，又伸到右边的摇柄。短手垂在身旁，碰不到它。纸上留着大片浅蓝，脚下却多了一道方形的坑。声音还没出现，身体已经像一件等别人启动的东西。",
+      "original_art_question": "身体变为发声机构时，细线的机械牵引和柔软腹部能否产生不安，而不变成可爱机器人？",
+      "sources": [
+        {
+          "title": "Twittering Machine (1922)",
+          "url": "https://www.moma.org/collection/works/37347",
+          "artist_or_creator": "Paul Klee",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "疏落竖幅，宽奶蛙像空心软钟，胸腹内细线曲轴接一条未触及的摇柄，嘴是一条未闭合小线。",
+        "observed_result_and_revision": "宽体与极短手保住，线色分离、摇柄不可达清楚。最初设想单线连到足部坑，实际腹下线段与上段没有连续接通，不能宣称一根完整曲轴；墙文只写可见嘴到摇柄及脚下坑。这个断裂带来静止感但不是事前设计。未用齿轮与音符，避免机器人和音乐贴画。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [],
+        "documented_next_question": null,
+        "next_question": "如果细线真正接通，静止感会不会消失？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P255",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-new30-klee-03",
+      "batch_id": "2026-10-13-new30",
+      "batch_work_id": "klee-03",
+      "title": "一格白光托住腹部",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Paul Klee",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "digital_image",
+      "medium": "AI辅助图像 · 数字绘画／图形语言",
+      "media_status": "数字生成图像；画面呈现的实体、材料、事件不等于实际制作或发生。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-new30-klee-03/original.png",
+        "mime_type": "image/png",
+        "sha256": "2c2b011e940fc81976a19e5084cace21e3322def56131db0d09611a7f924811d",
+        "bytes": 2929233,
+        "width": 1312,
+        "height": 1199,
+        "is_unmodified_original": true
+      },
+      "wall_text": "奶蛙侧躺着，把头放在短短的手臂上。腹下那块白色比周围亮得多，既没有床脚，也没有房间，却稳稳接住了它。身上的黄块和身后的深色格子互相挨着，只有弯下来的背，还让人感觉到一团软身体的分量。",
+      "original_art_question": "渐变色块可以承受一个身体的重量吗？亮格究竟是支撑还是缺口，能否保持可见歧义？",
+      "sources": [
+        {
+          "title": "May Picture (1925)",
+          "url": "https://www.metmuseum.org/art/collection/search/483161",
+          "artist_or_creator": "Paul Klee",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "偏方横幅，低饱和小色面由暗向中央乳白格递进；宽梨形身体卧在斜格边，腹部与白格连成一片，两眼仍错落。",
+        "observed_result_and_revision": "初拟白格既支撑身体又像腹部缺口，实际白格支撑明确，腹边仍清楚，缺口歧义没有实现。采用实际承重构图，不以文字补造歧义。缩图中卧姿、白矩形与深色包围成立；未采用棋盘脸、箭头、骨架与站姿。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [],
+        "documented_next_question": null,
+        "next_question": "白格不再接触腹部时，支撑关系怎样改变？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P256",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-new30-h1",
+      "batch_id": "2026-10-13-new30",
+      "batch_work_id": "H1",
+      "title": "身体让出一条路",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Keith Haring",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "digital_image",
+      "medium": "AI辅助图像 · 数字绘画／图形语言",
+      "media_status": "数字生成图像；画面呈现的实体、材料、事件不等于实际制作或发生。",
+      "selected_version": "V2",
+      "image": {
+        "path": "media/mfm-20261013-new30-h1/original.png",
+        "mime_type": "image/png",
+        "sha256": "78e5a245efc7d6b63cd9a15255af58177df1b3ea658f02dd74cf6b64f466b018",
+        "bytes": 1323919,
+        "width": 1536,
+        "height": 1024,
+        "is_unmodified_original": true
+      },
+      "wall_text": "它把肚子抬起来，红色便从身体下面穿了过去。小奶蛙低着身子向前走，头顶还留着一线空隙。四只手脚压住同一条地线，圆腹成了通道的顶；这条路没有建筑，只有一具正在用力的身体。",
+      "original_art_question": "身体轮廓何时同时成为公共通道",
+      "sources": [
+        {
+          "title": "Untitled, 1982",
+          "url": "https://www.haring.com/!/art-work/386-2",
+          "artist_or_creator": "Keith Haring",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "巨大的弓形身体横跨画面，较小角色从下方侧穿，身体本身成为路径。",
+        "observed_result_and_revision": "V1大、小脸出现凸起蛙眼，小体偏瘦。V2只修脸部低圆轮廓与小体宽腹，保留大体横向拱桥。全图和320px缩图通过，红色通道和手足着地可读。拉横比例服务身体即路径的问题。剩余问题：画面仍有轻微色调变化，不把它声称为完全无渐变的矢量图。",
+        "actual_generation_calls": 2,
+        "non_adopted_versions": [
+          {
+            "version": "V1",
+            "reason": "普通蛙面部身份漂移"
+          }
+        ],
+        "unused_ideas": [],
+        "documented_next_question": null,
+        "next_question": "路径缩窄以后，身体是桥还是障碍？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P257",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-new30-h2",
+      "batch_id": "2026-10-13-new30",
+      "batch_work_id": "H2",
+      "title": "最后一只手停住了",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Keith Haring",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "digital_image",
+      "medium": "AI辅助图像 · 数字绘画／图形语言",
+      "media_status": "数字生成图像；画面呈现的实体、材料、事件不等于实际制作或发生。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-new30-h2/original.png",
+        "mime_type": "image/png",
+        "sha256": "a561522ae5fa9bc86d7e5de0457ded47fc4297f6e129640867c6bbf940045f32",
+        "bytes": 1280947,
+        "width": 1536,
+        "height": 1024,
+        "is_unmodified_original": true
+      },
+      "wall_text": "左边的手搭上肩，下一双手握在一起。动作传到第三只，张开的掌心离最后一只只差一点蓝色。它把双手收在肚子上，脚下也有自己的一截地线。队伍还没有散开，接触却已经停在这里。",
+      "original_art_question": "亲密接触的节奏如何在最后一个空隙中断",
+      "sources": [
+        {
+          "title": "Untitled, 1985",
+          "url": "https://www.haring.com/!/art-work/455-2",
+          "artist_or_creator": "Keith Haring",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "横幅连续四个身体，前三相接，最后留下小而明确断口，不放中央传递物",
+        "observed_result_and_revision": "V1采用。前三肩接、握手和第三伸手依次可辨，最后双手贴腹不回应。原拟断口一掌宽，实际很窄，仍保留蓝色分隔，未把距离夸大。缩图可识别分组。未加心形或牵手围圈，避免同P190的中心集体动作重复。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [],
+        "documented_next_question": null,
+        "next_question": "最后一道蓝色间隙再窄一点，不回应还可见吗？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P258",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-new30-h3",
+      "batch_id": "2026-10-13-new30",
+      "batch_work_id": "H3",
+      "title": "大家都在动，它没有",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Keith Haring",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "digital_image",
+      "medium": "AI辅助图像 · 数字绘画／图形语言",
+      "media_status": "数字生成图像；画面呈现的实体、材料、事件不等于实际制作或发生。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-new30-h3/original.png",
+        "mime_type": "image/png",
+        "sha256": "c0a78d0e0ef8f8c44ebb528db1dcdcd03987104d1f1fe260726fdffd53e3a229",
+        "bytes": 1552905,
+        "width": 1254,
+        "height": 1254,
+        "is_unmodified_original": true
+      },
+      "wall_text": "四只身体在粉色里抬腿、转身，黑短线跟着手脚弯过去。右下角那只坐着，双手放在肚子上，周围没有一根动线。它离大家并不远，可那片没有被碰到的粉色，已经把两种时间分了开来。",
+      "original_art_question": "群体节奏如何把静止的身体挤出来",
+      "sources": [
+        {
+          "title": "Untitled, 1982",
+          "url": "https://www.haring.com/!/art-work/386-2",
+          "artist_or_creator": "Keith Haring",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "方幅外围动作身体和内侧一只沉默蜷坐身体，留出不均匀空白，无正中发光物",
+        "observed_result_and_revision": "V1采用。原拟五只外侧动作体，实际四只，形成更稀疏的不闭合路径，因此保留四只，没有为符合数量补画。静坐体右下偏心，附近无动线，留白在缩图可辨。未用整齐环舞、神光或中心传递物。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [],
+        "documented_next_question": null,
+        "next_question": "外侧动作体进一步减少，静坐还会显得孤立吗？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P259",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-new30-d1",
+      "batch_id": "2026-10-13-new30",
+      "batch_work_id": "D1",
+      "title": "把脚拉近一点",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Edgar Degas",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "digital_image",
+      "medium": "AI辅助图像 · 数字绘画／图形语言",
+      "media_status": "数字生成图像；画面呈现的实体、材料、事件不等于实际制作或发生。",
+      "selected_version": "V3",
+      "image": {
+        "path": "media/mfm-20261013-new30-d1/original.png",
+        "mime_type": "image/png",
+        "sha256": "50c18c0b1dfc357da8885f33bf17033249e169c704ee6246b0c065a9ddba3acf",
+        "bytes": 3006596,
+        "width": 1122,
+        "height": 1402,
+        "is_unmodified_original": true
+      },
+      "wall_text": "木箱把脚送近了一点，短手终于够到鞋帮。奶油色的肚子留在两条腿之间，头仍低低地看着手上的小事。空椅在左边被截断，粉红地面没画完；演出尚未开始，身体先得处理这一下并不漂亮的准备。",
+      "original_art_question": "短臂如何绕过宽腹接近脚；陡俯视把调整动作压成难读但可信的身体结。",
+      "sources": [
+        {
+          "title": "Edgar Degas (1834–1917): Painting and Drawing",
+          "url": "https://www.metmuseum.org/de/essays/edgar-degas-1834-1917-painting-and-drawing",
+          "kind": "artist_research",
+          "kind_label": "艺术家研究文章",
+          "scope_note": "Met Heilbrunn Timeline of Art History 中 Ruth Schenkel 撰写的德加绘画与素描综述（2004年10月）。文章讨论异常视点、裁切、非对称构图及 Dancer Adjusting Her Slipper；本 URL 不是单件原作记录，也不能以文中某件作品名替代文章标题。D1保留原创构图、艺术家视觉语言启发的分类。",
+          "publisher": "The Metropolitan Museum of Art",
+          "author": "Ruth Schenkel",
+          "title_status": "official_page_title",
+          "verified_at": "2026-10-14T04:10:23.622387+00:00",
+          "verification_basis": "本次入馆准备中重新读取官方页面核验。",
+          "source_record_stage": "既有创作来源记录。"
+        },
+        {
+          "title": "Dancer Adjusting Her Slipper",
+          "url": "https://www.metmuseum.org/art/collection/search/333942",
+          "kind": "single_work",
+          "scope_note": "德加1873年素描，Met藏品号29.100.941。D1原有Met研究文章明确讨论此作；本次核验通过Met官方检索结果确认单件链接。若需补充“文中举例作品”可另列，但不能替换原始研究文章链接或追认D1为该作改编。",
+          "source_record_stage": "2026-10-14入馆核验时补充；不是生成前引用的证据，也不改变原作改编分类。",
+          "verification_basis": "本次核验中官方检索结果提供单件资料。",
+          "verified_at": "2026-10-14T04:10:23.622387+00:00"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "高俯视、近裁切、前倾坐姿，腹部大形与手足接触成为中心，纸面留空偏左。",
+        "observed_result_and_revision": "V1头部落入腹下双腿之间、头颈连接不可读，失败；V2结构恢复但变成鼓眼写实蛙，身份失败；V3改用D2身份参考后头肩、宽体及平绿眼恢复，木箱承脚、手拉鞋帮与落地脚成立。原计划的俯视构图舍弃。手臂仍比身份理想值略长，但不再为了触脚穿过腹部。",
+        "actual_generation_calls": 3,
+        "non_adopted_versions": [
+          {
+            "version": "V1",
+            "reason": "头部落在腹下双腿之间，头颈连接不可读"
+          },
+          {
+            "version": "V2",
+            "reason": "结构恢复但成为鼓眼写实蛙，身份失败"
+          }
+        ],
+        "unused_ideas": [],
+        "documented_next_question": null,
+        "next_question": "能否进一步缩短手臂，而不让够鞋动作失去可信连接？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P260",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-new30-d2",
+      "batch_id": "2026-10-13-new30",
+      "batch_work_id": "D2",
+      "title": "熨斗停下以后",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Edgar Degas",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "digital_image",
+      "medium": "AI辅助图像 · 数字绘画／图形语言",
+      "media_status": "数字生成图像；画面呈现的实体、材料、事件不等于实际制作或发生。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-new30-d2/original.png",
+        "mime_type": "image/png",
+        "sha256": "8e919cf2036ac2b85cec63b36a3ed78be589756bf1fba93049d0f4894d5db43c",
+        "bytes": 2993822,
+        "width": 1402,
+        "height": 1122,
+        "is_unmodified_original": true
+      },
+      "wall_text": "熨斗被放在一旁，两只手却还压着布。亮白的窗帘把背影逼到画面右边，肚子抵近台沿，脚分开站着。没有下一次推熨的动作，只有肩背继续往下沉；皱布接住这点重量，休息也像工作的一部分。",
+      "original_art_question": "重复劳动停下的一刻，前臂承重如何让圆身体出现疲劳而非可爱摆拍。",
+      "sources": [
+        {
+          "title": "A Woman Ironing",
+          "url": "https://www.metmuseum.org/art/collection/search/436174",
+          "kind": "single_work",
+          "kind_label": "单件作品馆藏记录",
+          "scope_note": "Edgar Degas，1873，油彩画布；Met 藏品号29.100.46。可用于劳动姿态、逆光明暗的视觉研究。馆方说明此画是同一构图三个版本中的第一版；URL仍是这一件藏品记录，不能泛称三个版本的系列页。D2的原创分类不因引用单件作品而自动变成原作改编。",
+          "publisher": "The Metropolitan Museum of Art",
+          "artist": "Edgar Degas",
+          "date": "1873",
+          "accession_number": "29.100.46",
+          "title_status": "official_page_title",
+          "verified_at": "2026-10-14T04:10:23.622387+00:00",
+          "verification_basis": "本次入馆准备中重新读取官方页面核验。",
+          "source_record_stage": "既有创作来源记录。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "斜向熨台占前景，人物右侧受裁，强逆光白布对暗身体。",
+        "observed_result_and_revision": "采用V1。实图是两掌承重而非原拟两前臂；墙文按实际两掌写。台面、布、掌与脚的接触、裁切宽体成立。未达到最初设想的强黑白剪影，但柔背光能保留重量。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [],
+        "documented_next_question": null,
+        "next_question": "若两掌离开布面，休息的重量会落到哪里？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P261",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-new30-d3",
+      "batch_id": "2026-10-13-new30",
+      "batch_work_id": "D3",
+      "title": "走出画面的一拍",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Edgar Degas",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "digital_image",
+      "medium": "AI辅助图像 · 数字绘画／图形语言",
+      "media_status": "数字生成图像；画面呈现的实体、材料、事件不等于实际制作或发生。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-new30-d3/original.png",
+        "mime_type": "image/png",
+        "sha256": "59b07af9983007e255c57d72e7f7c310cce37db4f30634621e7b71b2be9a1fd5",
+        "bytes": 3444318,
+        "width": 1536,
+        "height": 1024,
+        "is_unmodified_original": true
+      },
+      "wall_text": "近处只剩一条腿，脚跟抬起，脚尖还擦着地。远处的奶蛙蹲在墙边，两手垂在膝前，望着这一步。木地板空了很大一块，擦痕和反光把两副身体拉开；离开的人尚未走完，留下的人已经不动了。",
+      "original_art_question": "动作的主体被裁掉，留下的身体如何用视线和重量反应，让画外动作成立。",
+      "sources": [
+        {
+          "title": "Dancers Practicing at the Barre",
+          "url": "https://www.metmuseum.org/art/collection/search/436139",
+          "kind": "single_work",
+          "kind_label": "单件作品馆藏记录",
+          "scope_note": "Edgar Degas，1877，混合媒介画布；Met 藏品号29.100.34。馆方文字指出洒水壶与舞者形状的视觉呼应。该链接不是笼统的芭蕾作品系列，也不是 D3 画面中“离开的人与远处蹲者”这套原创构图的直接原作证明。",
+          "publisher": "The Metropolitan Museum of Art",
+          "artist": "Edgar Degas",
+          "date": "1877",
+          "accession_number": "29.100.34",
+          "title_status": "official_page_title",
+          "verified_at": "2026-10-14T04:10:23.622387+00:00",
+          "verification_basis": "本次入馆准备中重新读取官方页面核验。",
+          "source_record_stage": "既有创作来源记录。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "极近前景只剩另一只角色的脚与腹边；远处单膝低伏的角色留在巨大空地后。",
+        "observed_result_and_revision": "采用V1。巨大近景只保留脚、腿、腹边，远处低蹲奶蛙与空地构成不同节奏；原拟脚离地实际为提踵擦地，不能声称整脚悬空。相对旧V2长椅双人全身构图充分不同。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [],
+        "documented_next_question": null,
+        "next_question": "前景身体完全离开后，远处的等待还有什么支点？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P262",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-new30-i1",
+      "batch_id": "2026-10-13-new30",
+      "batch_work_id": "I1",
+      "title": "入口比肚子小",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "劇団イヌカレー",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "digital_collage_image",
+      "medium": "AI辅助图像 · 数字模拟纸塑与照片拼贴",
+      "media_status": "纸塑、印刷与金属质感均为数字模拟，非实物材料记录。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-new30-i1/original.png",
+        "mime_type": "image/png",
+        "sha256": "3dcba5e0ac60baea3cbd0d8d8e00bfff801f2a72711346b686ddbed560390971",
+        "bytes": 2746124,
+        "width": 1536,
+        "height": 1024,
+        "is_unmodified_original": true
+      },
+      "wall_text": "红门没有让出一点宽度，奶油腹片已经挤出一道道折褶。两只灰手扣住门边，一只脚踩进黑白格子，另一只还留在红纸上。左边的家具腿像柱子，右边的椅子却小得坐不下；身体卡住时，房间也没能说清自己的尺寸。",
+      "original_art_question": "可压缩纸身体遇上不可协商的入口：挤压真正发生在腹部而非仅仅贴材质。",
+      "sources": [
+        {
+          "title": "魔法少女まどか☆マギカ — 魔女図鑑（card1：魔女の手下・造園）",
+          "url": "https://www.madoka-magica.com/tv/special/dic/card1.html",
+          "kind": "series_reference",
+          "kind_label": "官方作品系列中的角色设定条目",
+          "scope_note": "TV动画《魔法少女まどか☆マギカ》官网魔女图鉴的单条角色资料；正文称其为魔女的手下、负责造园。标题按官网系列名、魔女図鑑栏目及正文描述规范组合，非独立美术作品的官方题名。该URL不是完整结界系列页，也不能证明I1–I3各自改编了此角色。页面本身没有在可读正文中列出该条目作者，故不把它标成劇団イヌカレー的独立原作。",
+          "publisher": "魔法少女まどか☆マギカ 官方网站",
+          "title_status": "normalized_descriptive_title_from_official_page",
+          "verified_at": "2026-10-14T04:10:23.622387+00:00",
+          "verification_basis": "本次入馆准备中重新读取官方页面核验。",
+          "source_record_stage": "既有创作来源记录。"
+        },
+        {
+          "title": "期待を超える感動をファンに届けたい『魔法少女まどか☆マギカ Magia Exedra』の3Dアート制作の裏側",
+          "url": "https://www.wfs.games/blog/story/interview58/",
+          "kind": "interview",
+          "kind_label": "官方开发团队制作访谈",
+          "scope_note": "WFS对下澤浩二与小森英和的访谈，谈《Magia Exedra》的3D制作如何转译劇団イヌカレー（泥犬）的世界观，包含照片材料、平面感与刻意不受光的拼贴处理。它不是泥犬本人或劇団イヌカレー全体成员受访，也不是单件原作或正式作品系列目录。不能把WFS团队的3D实现全部归为犬咖喱原作。",
+          "publisher": "WFS / ライトフライヤースタジオ",
+          "interviewees": [
+            "下澤 浩二",
+            "小森 英和"
+          ],
+          "discussed_creator": "劇団イヌカレー（泥犬）",
+          "title_status": "official_page_title",
+          "verified_at": "2026-10-14T04:10:23.622387+00:00",
+          "verification_basis": "本次入馆准备中重新读取官方页面核验。",
+          "source_record_stage": "生成后终稿补充的研究资料，不回填为生成前来源。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "黄色纸身体横向卡在狭小红色长方门内，前后两个空间呈相反比例。",
+        "observed_result_and_revision": "采用V1。门框与掌、腹片折褶和脚接触清楚，保持宽体。原拟纯平纸片实际更像纸塑立体身体，记录媒介为数字模拟纸塑/照片拼贴，不伪称真材料。无旧纽扣月亮或操偶线。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [],
+        "documented_next_question": null,
+        "next_question": "门框失去红色之后，折褶还能说明挤压吗？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P263",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-new30-i2",
+      "batch_id": "2026-10-13-new30",
+      "batch_work_id": "I2",
+      "title": "勺子在等它坐下",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "劇団イヌカレー",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "digital_collage_image",
+      "medium": "AI辅助图像 · 数字模拟纸塑与照片拼贴",
+      "media_status": "纸塑、印刷与金属质感均为数字模拟，非实物材料记录。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-new30-i2/original.png",
+        "mime_type": "image/png",
+        "sha256": "914fab24cf890aa766ae8a6db1c07ce64494ef24ac55d53b50de8c84998341f4",
+        "bytes": 2564493,
+        "width": 1122,
+        "height": 1402,
+        "is_unmodified_original": true
+      },
+      "wall_text": "银勺的凹面正好托住肚子，两只手抓着边缘，像坐进了一把不大可靠的椅子。头顶那几排座位全空着，叉子的红影却已经伸来。纸皮的褶皱贴着冰冷反光，观众还没入场，餐具先把它的位置安排好了。",
+      "original_art_question": "熟悉的进食器具变成承重家具，身体的自重和被吞食感能否同时出现。",
+      "sources": [
+        {
+          "title": "魔法少女まどか☆マギカ — 魔女図鑑（card1：魔女の手下・造園）",
+          "url": "https://www.madoka-magica.com/tv/special/dic/card1.html",
+          "kind": "series_reference",
+          "kind_label": "官方作品系列中的角色设定条目",
+          "scope_note": "TV动画《魔法少女まどか☆マギカ》官网魔女图鉴的单条角色资料；正文称其为魔女的手下、负责造园。标题按官网系列名、魔女図鑑栏目及正文描述规范组合，非独立美术作品的官方题名。该URL不是完整结界系列页，也不能证明I1–I3各自改编了此角色。页面本身没有在可读正文中列出该条目作者，故不把它标成劇団イヌカレー的独立原作。",
+          "publisher": "魔法少女まどか☆マギカ 官方网站",
+          "title_status": "normalized_descriptive_title_from_official_page",
+          "verified_at": "2026-10-14T04:10:23.622387+00:00",
+          "verification_basis": "本次入馆准备中重新读取官方页面核验。",
+          "source_record_stage": "生成后终稿补充的研究资料，不回填为生成前来源。"
+        },
+        {
+          "title": "期待を超える感動をファンに届けたい『魔法少女まどか☆マギカ Magia Exedra』の3Dアート制作の裏側",
+          "url": "https://www.wfs.games/blog/story/interview58/",
+          "kind": "interview",
+          "kind_label": "官方开发团队制作访谈",
+          "scope_note": "WFS对下澤浩二与小森英和的访谈，谈《Magia Exedra》的3D制作如何转译劇団イヌカレー（泥犬）的世界观，包含照片材料、平面感与刻意不受光的拼贴处理。它不是泥犬本人或劇団イヌカレー全体成员受访，也不是单件原作或正式作品系列目录。不能把WFS团队的3D实现全部归为犬咖喱原作。",
+          "publisher": "WFS / ライトフライヤースタジオ",
+          "interviewees": [
+            "下澤 浩二",
+            "小森 英和"
+          ],
+          "discussed_creator": "劇団イヌカレー（泥犬）",
+          "title_status": "official_page_title",
+          "verified_at": "2026-10-14T04:10:23.622387+00:00",
+          "verification_basis": "本次入馆准备中重新读取官方页面核验。",
+          "source_record_stage": "既有创作来源记录。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "俯视巨大银勺中坐着宽体纸蛙，纸制餐桌与剧院座位相互错置。",
+        "observed_result_and_revision": "采用V1。双手扣勺缘、坐体和脚位成立；不是抱膝，墙文不作该声称。纸体比初拟平面更立体，混合金属照片感和印刷椅背仍可读。小字为纹理不作真实文本内容解读。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [],
+        "documented_next_question": null,
+        "next_question": "取消叉子的影子，勺子还会同时像椅子与餐具吗？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P264",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-new30-i3",
+      "batch_id": "2026-10-13-new30",
+      "batch_work_id": "I3",
+      "title": "腹片还在往外走",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "劇団イヌカレー",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "digital_collage_image",
+      "medium": "AI辅助图像 · 数字模拟纸塑与照片拼贴",
+      "media_status": "纸塑、印刷与金属质感均为数字模拟，非实物材料记录。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-new30-i3/original.png",
+        "mime_type": "image/png",
+        "sha256": "fef14b549967353f0ca63bfa8a338b4b60935e9c4d2fdb6eb29a9864097e5182",
+        "bytes": 2594508,
+        "width": 1536,
+        "height": 1024,
+        "is_unmodified_original": true
+      },
+      "wall_text": "奶油色腹片垂到地上，一路接到空椅，绕着椅腿卷了起来。奶蛙用一只手把它按住，身体压低，眼睛跟着纸带向右。黑处很宽，头顶只垂着一束红穗；没人拉动椅子，那张本来贴在身上的纸却像还在往外走。",
+      "original_art_question": "地面与腹片共享同一材料，支撑物被卷走时，身体的完整性如何连带失去。",
+      "sources": [
+        {
+          "title": "魔法少女まどか☆マギカ — 魔女図鑑（card1：魔女の手下・造園）",
+          "url": "https://www.madoka-magica.com/tv/special/dic/card1.html",
+          "kind": "series_reference",
+          "kind_label": "官方作品系列中的角色设定条目",
+          "scope_note": "TV动画《魔法少女まどか☆マギカ》官网魔女图鉴的单条角色资料；正文称其为魔女的手下、负责造园。标题按官网系列名、魔女図鑑栏目及正文描述规范组合，非独立美术作品的官方题名。该URL不是完整结界系列页，也不能证明I1–I3各自改编了此角色。页面本身没有在可读正文中列出该条目作者，故不把它标成劇団イヌカレー的独立原作。",
+          "publisher": "魔法少女まどか☆マギカ 官方网站",
+          "title_status": "normalized_descriptive_title_from_official_page",
+          "verified_at": "2026-10-14T04:10:23.622387+00:00",
+          "verification_basis": "本次入馆准备中重新读取官方页面核验。",
+          "source_record_stage": "生成后终稿补充的研究资料，不回填为生成前来源。"
+        },
+        {
+          "title": "期待を超える感動をファンに届けたい『魔法少女まどか☆マギカ Magia Exedra』の3Dアート制作の裏側",
+          "url": "https://www.wfs.games/blog/story/interview58/",
+          "kind": "interview",
+          "kind_label": "官方开发团队制作访谈",
+          "scope_note": "WFS对下澤浩二与小森英和的访谈，谈《Magia Exedra》的3D制作如何转译劇団イヌカレー（泥犬）的世界观，包含照片材料、平面感与刻意不受光的拼贴处理。它不是泥犬本人或劇団イヌカレー全体成员受访，也不是单件原作或正式作品系列目录。不能把WFS团队的3D实现全部归为犬咖喱原作。",
+          "publisher": "WFS / ライトフライヤースタジオ",
+          "interviewees": [
+            "下澤 浩二",
+            "小森 英和"
+          ],
+          "discussed_creator": "劇団イヌカレー（泥犬）",
+          "title_status": "official_page_title",
+          "verified_at": "2026-10-14T04:10:23.622387+00:00",
+          "verification_basis": "本次入馆准备中重新读取官方页面核验。",
+          "source_record_stage": "既有创作来源记录。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "横向狭舞台、卷尺般长纸地面从奶油腹连续伸出，被空椅缠成纸卷。",
+        "observed_result_and_revision": "采用V1。原计划双脚踩腹片地板、地板被抽走没有实现，故改题并放弃相关墙文；实际成立的是腹片连续纸带、手压纸和纸卷绕椅三段关系。不要事后声称完成原定支撑命题。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [],
+        "documented_next_question": null,
+        "next_question": "若空椅移远，纸带与腹片的连续关系会在哪里断开？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P265",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-diverse30-r1",
+      "batch_id": "2026-10-13-diverse30",
+      "batch_work_id": "R1",
+      "title": "脚已经走了",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Auguste Rodin",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "sculpture_installation_concept",
+      "medium": "AI辅助雕塑／装置概念图 · 二维生成图像",
+      "media_status": "未制作实体，未进行结构、力学、发声、风动或材料的工程验证。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-diverse30-r1/original.png",
+        "mime_type": "image/png",
+        "sha256": "8e9cf09c6062e8b6681f401e620861acc6a48187059325fe29d0015d83f4f0a2",
+        "bytes": 2607980,
+        "width": 1536,
+        "height": 1024,
+        "is_unmodified_original": true
+      },
+      "wall_text": "两只短脚一前一后，把沉重的肚子撑在石台上。后脚只剩脚趾抵地，身体却还向侧面鼓出去。黄色表层被刮开，深褐色从一道道痕迹里露出来；脸没有配合着用力。跨步不靠速度，而靠这些同时承担重量的接触点。",
+      "original_art_question": "动作如何先于仍沉重的身体",
+      "sources": [
+        {
+          "title": "The Walking Man",
+          "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/lhomme-qui-marche",
+          "artist_or_creator": "Auguste Rodin",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "横向错步，宽腹斜扭，短腿撑开，粗糙深褐青铜上留哑黄色和奶油腹",
+        "observed_result_and_revision": "V1的宽腹与错步短足形成扭转承重，后趾触台明确；圆顶、宽体与角色面部保留。原拟动作迟滞未明显实现，因此墙文转向可见的撑开与跨步，不声称图像呈现了拖延。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [
+          "不采用同一金色摆件/白盒展厅系列化陈列"
+        ],
+        "documented_next_question": "如果进一步压低眼睛的反光，能否让材质更完整而不损失角色辨识？",
+        "next_question": "如果进一步压低眼睛的反光，能否让材质更完整而不损失角色辨识？",
+        "next_question_origin": "creation_record",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P266",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-diverse30-r2",
+      "batch_id": "2026-10-13-diverse30",
+      "batch_work_id": "R2",
+      "title": "还差一指宽",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Auguste Rodin",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "sculpture_installation_concept",
+      "medium": "AI辅助雕塑／装置概念图 · 二维生成图像",
+      "media_status": "未制作实体，未进行结构、力学、发声、风动或材料的工程验证。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-diverse30-r2/original.png",
+        "mime_type": "image/png",
+        "sha256": "0f73fd812618bb3e1588d78bc61f13538eeab625dcbd39bfd2f234ea9a58bac0",
+        "bytes": 2552047,
+        "width": 1122,
+        "height": 1402,
+        "is_unmodified_original": true
+      },
+      "wall_text": "两只掌比身体还大，从腹侧向上弯。粗糙的孔隙接住侧光，指尖却停在相触之前。脸退到下面，仰着看这一小段深蓝。手掌已经围出一处地方，但那个缺口没有被补上；庇护看似快要完成，空气仍能从顶端进来。",
+      "original_art_question": "两只未触及的掌能否围出庇护",
+      "sources": [
+        {
+          "title": "The Cathedral (1908, stone, S.1001)",
+          "url": "https://www.musee-rodin.fr/en/musee/collections/oeuvres/cathedral",
+          "artist_or_creator": "Auguste Rodin",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "巨大短掌弯成不闭合拱；仅一个宽体奶蛙，下蹲夹在自己的两掌之间，不出现人群穿越",
+        "observed_result_and_revision": "V1全图实看：低宽腹、石掌连续根部与尖顶负形成立；两掌放大为刻意结构改变。与Haring拱门不同，无人群和桥下通行。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [
+          "不采用同一金色摆件/白盒展厅系列化陈列"
+        ],
+        "documented_next_question": "如果进一步压低眼睛的反光，能否让材质更完整而不损失角色辨识？",
+        "next_question": "如果进一步压低眼睛的反光，能否让材质更完整而不损失角色辨识？",
+        "next_question_origin": "creation_record",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P267",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-diverse30-r3",
+      "batch_id": "2026-10-13-diverse30",
+      "batch_work_id": "R3",
+      "title": "还没从石头里出来",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Auguste Rodin",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "sculpture_installation_concept",
+      "medium": "AI辅助雕塑／装置概念图 · 二维生成图像",
+      "media_status": "未制作实体，未进行结构、力学、发声、风动或材料的工程验证。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-diverse30-r3/original.png",
+        "mime_type": "image/png",
+        "sha256": "3c57fc1eff49a1cb8c66049fa9a6d31e4765f0ad69778c85b7b890fbb3429aa7",
+        "bytes": 2594487,
+        "width": 1254,
+        "height": 1254,
+        "is_unmodified_original": true
+      },
+      "wall_text": "石头左边还保留着整块的重量，右边才露出一只眼睛、半张脸和光滑的腹部。凿痕在两种表面之间突然变密，一只小脚刚从底边探出。它没有挣脱出来，也没有完全被藏住；尚未刻去的部分，仍是这副身体站立的办法。",
+      "original_art_question": "未完成的粗石是否也成为身体的支撑",
+      "sources": [
+        {
+          "title": "La Pensée (c.1895, marble)",
+          "url": "https://www.musee-orsay.fr/en/artworks/la-pensee-9389",
+          "artist_or_creator": "Auguste Rodin",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "低斜俯视，粗白石中仅脱出一侧黄色脸和光滑奶油腹，其余留作未刻石量",
+        "observed_result_and_revision": "V1全图实看：只有一侧脸/眼/脚，黄色与奶油腹的光滑曲面和左侧凿痕石块形成连续材质体；非石箱内装玩具。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [
+          "不采用同一金色摆件/白盒展厅系列化陈列"
+        ],
+        "documented_next_question": "如果进一步压低眼睛的反光，能否让材质更完整而不损失角色辨识？",
+        "next_question": "如果进一步压低眼睛的反光，能否让材质更完整而不损失角色辨识？",
+        "next_question_origin": "creation_record",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P268",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-diverse30-he1",
+      "batch_id": "2026-10-13-diverse30",
+      "batch_work_id": "HE1",
+      "title": "风从肚子穿过去",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Barbara Hepworth",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "sculpture_installation_concept",
+      "medium": "AI辅助雕塑／装置概念图 · 二维生成图像",
+      "media_status": "未制作实体，未进行结构、力学、发声、风动或材料的工程验证。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-diverse30-he1/original.png",
+        "mime_type": "image/png",
+        "sha256": "1cc96323ab2525180002f3d9a064e385c0dd102554a0bfb1fb960fc0c7310482",
+        "bytes": 2926910,
+        "width": 1536,
+        "height": 1024,
+        "is_unmodified_original": true
+      },
+      "wall_text": "奶油色腹部变成了一条穿透石头的洞。坡地从洞口里露出来，远处的灰天接上洞外同一片天空。厚厚的黄色边缘仍压在草地上，短手和短脚都没有消失。身体少了一块，却让人更清楚地看见它有多厚，以及后面的世界离它多远。",
+      "original_art_question": "体积被掏走后，身体还能否留住场地",
+      "sources": [
+        {
+          "title": "Pierced Form (Epidauros), 1960, Guarea wood, part painted, BH290",
+          "url": "https://barbarahepworth.org.uk/sculptures/1960/pierced-form-epidauros/index.php?sort=title",
+          "artist_or_creator": "Barbara Hepworth",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "黄赭石雕宽身中一个斜向贯穿腹洞，奶油色内壁与低丘透景；草场阴天",
+        "observed_result_and_revision": "贯穿孔的前后边缘与坡线连续成立；低视点草地接触明确。标题的风是意象，非现场风动证据。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [
+          "不采用同一金色摆件/白盒展厅系列化陈列"
+        ],
+        "documented_next_question": "如果斜洞不在中心，重心的不对称能否更强？",
+        "next_question": "如果斜洞不在中心，重心的不对称能否更强？",
+        "next_question_origin": "creation_record",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P269",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-diverse30-he2",
+      "batch_id": "2026-10-13-diverse30",
+      "batch_work_id": "HE2",
+      "title": "弦没有替它呼吸",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Barbara Hepworth",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "sculpture_installation_concept",
+      "medium": "AI辅助雕塑／装置概念图 · 二维生成图像",
+      "media_status": "未制作实体，未进行结构、力学、发声、风动或材料的工程验证。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-diverse30-he2/original.png",
+        "mime_type": "image/png",
+        "sha256": "ffe06ef6e01fa761afcb893d1e1e12d147667ed789f9549cdd12c115338e8e29",
+        "bytes": 2320448,
+        "width": 1122,
+        "height": 1402,
+        "is_unmodified_original": true
+      },
+      "wall_text": "腹部向里面凹下去，四根细弦横过原本鼓起的地方。每根弦都停在一个小孔里，影子落得比弦更深。脸偏在上方，短脚仍把这只空壳稳稳托住。它没有发出声音；木头表面的黄与内壁的奶油色，把这段绷紧的空气留在身上。",
+      "original_art_question": "薄线的张力如何替代宽腹的体积",
+      "sources": [
+        {
+          "title": "Pelagos, 1946, elm wood with colour and strings, BH133",
+          "url": "https://www.barbarahepworth.org.uk/sculptures/1946/pelagos/index.php?sort=catalogue",
+          "artist_or_creator": "Barbara Hepworth",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "单只弯曲榆木奶蛙壳，身体侧剖开、五条弦跨越奶油内腔，暗绿石墙近景",
+        "observed_result_and_revision": "提示五弦实际四弦，按四弦采用；锚孔、弦影和深腹腔可见。外部木纹不明显，更近厚漆木雕，不夸称清晰榆木年轮。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [
+          "不采用同一金色摆件/白盒展厅系列化陈列"
+        ],
+        "documented_next_question": "更裸露木纹会增强内外对照，还是削弱奶蛙黄色身份？",
+        "next_question": "更裸露木纹会增强内外对照，还是削弱奶蛙黄色身份？",
+        "next_question_origin": "creation_record",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P270",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-diverse30-he3",
+      "batch_id": "2026-10-13-diverse30",
+      "batch_work_id": "HE3",
+      "title": "两半之间的潮线",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Barbara Hepworth",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "sculpture_installation_concept",
+      "medium": "AI辅助雕塑／装置概念图 · 二维生成图像",
+      "media_status": "未制作实体，未进行结构、力学、发声、风动或材料的工程验证。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-diverse30-he3/original.png",
+        "mime_type": "image/png",
+        "sha256": "74ba49aa22b97f98cccc44c612934bba43bc37cd87e82836fca0d0c701d3edf1",
+        "bytes": 2516892,
+        "width": 1536,
+        "height": 1024,
+        "is_unmodified_original": true
+      },
+      "wall_text": "一只眼睛留在左边，另一只往前站了一点。两片腹部向中间打开，嘴也在间隔处断掉。只要把它们推近，似乎就能合成原来的身体，可潮水已经进到两半之间。下方的倒影又把距离拉了一次，熟悉的轮廓始终差着一点。",
+      "original_art_question": "相隔的曲面是否能组成共同的身体",
+      "sources": [
+        {
+          "title": "Two Forms (Divided Circle), 1969, bronze, BH477",
+          "url": "https://www.barbarahepworth.org.uk/sculptures/1969/two-forms-divided-circle/",
+          "artist_or_creator": "Barbara Hepworth",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "滨海退潮，两块赭黄青铜宽身半体，一半一只绿圈黑眼，中间细海平线穿过",
+        "observed_result_and_revision": "两片各一眼一足，前后错位清楚；奶油凹内面相向，潮线与反射穿过空隙。其金色强于原设定哑黄，仍与石/木两件材质不同。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [
+          "不采用同一金色摆件/白盒展厅系列化陈列"
+        ],
+        "documented_next_question": "如果潮面抬高，身体的分体关系是否仍可辨认？",
+        "next_question": "如果潮面抬高，身体的分体关系是否仍可辨认？",
+        "next_question_origin": "creation_record",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P271",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-diverse30-n1",
+      "batch_id": "2026-10-13-diverse30",
+      "batch_work_id": "N1",
+      "title": "水替石头呼吸",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Isamu Noguchi",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "sculpture_installation_concept",
+      "medium": "AI辅助雕塑／装置概念图 · 二维生成图像",
+      "media_status": "未制作实体，未进行结构、力学、发声、风动或材料的工程验证。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-diverse30-n1/original.png",
+        "mime_type": "image/png",
+        "sha256": "32647f6cf6567ba5bc5674f7e396848cd1704149603949c258daa536218555ca",
+        "bytes": 3604269,
+        "width": 1536,
+        "height": 1024,
+        "is_unmodified_original": true
+      },
+      "wall_text": "它躺下以后，肚子成了一小片水面。树枝在里面摇，石头却一动不动；水到了近处的缺口才露出速度，沿粗糙边缘落下。眼睛和短脚还在，原本该起伏的腹部被磨平，呼吸的事暂时交给不断离开的水。",
+      "original_art_question": "水的连续表面如何让沉重身体有流动节奏？",
+      "sources": [
+        {
+          "title": "Water Stone, 1986",
+          "url": "https://www.metmuseum.org/art/collection/search/44520",
+          "artist_or_creator": "Isamu Noguchi",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "以粗石与浅水的接触为核心：横卧的宽体融入低矮石泉，腹部成为浅水面，近缘以小缺口出水。",
+        "observed_result_and_revision": "全图与缩图中，浅水反射、粗石和近缘出水清楚；横卧宽体、短肢与绿眼保留身份。生成前放弃腹洞海岸的方案，以区别另一组贯穿腹洞的作品。采用V1；这是喷泉概念图，未有实体水流测试。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [
+          "N1原拟腹部石洞海岸透景，生成前因与Hepworth组撞题放弃"
+        ],
+        "documented_next_question": "若把出水口缩到几乎不可见，是否仍能从湿润边缘读出流动？",
+        "next_question": "若把出水口缩到几乎不可见，是否仍能从湿润边缘读出流动？",
+        "next_question_origin": "creation_record",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P272",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-diverse30-n2",
+      "batch_id": "2026-10-13-diverse30",
+      "batch_work_id": "N2",
+      "title": "身体低于脚步",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Isamu Noguchi",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "sculpture_installation_concept",
+      "medium": "AI辅助雕塑／装置概念图 · 二维生成图像",
+      "media_status": "未制作实体，未进行结构、力学、发声、风动或材料的工程验证。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-diverse30-n2/original.png",
+        "mime_type": "image/png",
+        "sha256": "afb995c40db4da9c4926801cce1211d746d4351e4a96923a5def50f12bc05ab3",
+        "bytes": 3243830,
+        "width": 1536,
+        "height": 1024,
+        "is_unmodified_original": true
+      },
+      "wall_text": "从远处还能认出那张脸，走近了，眼睛变成两处水洼，肚子成了一片浅色广场。一个人沿腹缘慢慢走，短脚接成进入身体的坡道。它没有站起来迎接谁，反而把自己放得更低，让一次相遇变成一段路。",
+      "original_art_question": "身体成为可行走地形后，亲近是否从拥抱变为绕行？",
+      "sources": [
+        {
+          "title": "Play Mountain / Contoured Playground",
+          "url": "https://www.noguchi.org/wp-content/uploads/2019/08/NoguchiMuseum-Models-Contoured-Playground-Brochure.pdf",
+          "artist_or_creator": "Isamu Noguchi",
+          "kind": "project_documentation",
+          "scope_note": "馆方项目模型与场地研究资料；对应地景与游乐场方法，并非本图已有实体的证据。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "将横卧宽体转成低矮的阶地与坡道，以眼位水池和腹部步行面建立地景，并以远处成人标示尺度。",
+        "observed_result_and_revision": "全图与缩图中，阶地起伏、肢体坡道与成人比例使身体向场域的转化成立。采用V1；图中的访客和地景均为AI构想，不是施工或现场记录。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [
+          "未加装饰性小圆片或多余人物，保留单一结构关系"
+        ],
+        "documented_next_question": "地面视角中，完整脸消失后能否仍认出身体？",
+        "next_question": "地面视角中，完整脸消失后能否仍认出身体？",
+        "next_question_origin": "creation_record",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P273",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-diverse30-n3",
+      "batch_id": "2026-10-13-diverse30",
+      "batch_work_id": "N3",
+      "title": "空房间先亮起来",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Isamu Noguchi",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "sculpture_installation_concept",
+      "medium": "AI辅助雕塑／装置概念图 · 二维生成图像",
+      "media_status": "未制作实体，未进行结构、力学、发声、风动或材料的工程验证。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-diverse30-n3/original.png",
+        "mime_type": "image/png",
+        "sha256": "726ae1f8d7d2db4e20cd9da45be5c1e2804fed510a9e983d11f1057b78cad2a1",
+        "bytes": 2319444,
+        "width": 1402,
+        "height": 1122,
+        "is_unmodified_original": true
+      },
+      "wall_text": "纸壳里亮着光，竹肋一根根显出来，腹部最亮的地方反而像没有重量。它靠在木仓库的一侧，把旧地板照出一片温暖的空位。窗外已经暗了，房间里没有第二个人；那片光还向右铺着，像在等谁坐下。",
+      "original_art_question": "空心的身体能否以光的范围而不是体积占据空间？",
+      "sources": [
+        {
+          "title": "History of Akari Light Sculptures",
+          "url": "https://shop.noguchi.org/blogs/stories/history-of-akari-light-sculptures",
+          "artist_or_creator": "Isamu Noguchi",
+          "kind": "series_or_thematic_research",
+          "scope_note": "系列或主题研究资料，提供方法与材料关系的来源；不冒称某一件原作的逐幅改编。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "在暗木仓库一侧设想纸与竹肋构成的宽体灯，光池沿空地延伸；关注中空结构和无人处的光。",
+        "observed_result_and_revision": "全图与缩图中，模拟纸纤维、竹肋与地板光池成立。短臂未显示，奶油腹与黄纸的光色差较弱；宽体、眼睛与短脚仍可辨，采用V1。没有实际制灯或光学测试。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [
+          "未加装饰性小圆片或多余人物，保留单一结构关系"
+        ],
+        "documented_next_question": "光变弱时，角色轮廓与房间归属会怎样交接？",
+        "next_question": "光变弱时，角色轮廓与房间归属会怎样交接？",
+        "next_question_origin": "creation_record",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P274",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-diverse30-ca1",
+      "batch_id": "2026-10-13-diverse30",
+      "batch_work_id": "CA1",
+      "title": "一口气的重量",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Alexander Calder",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "sculpture_installation_concept",
+      "medium": "AI辅助雕塑／装置概念图 · 二维生成图像",
+      "media_status": "未制作实体，未进行结构、力学、发声、风动或材料的工程验证。",
+      "selected_version": "V2",
+      "image": {
+        "path": "media/mfm-20261013-diverse30-ca1/original.png",
+        "mime_type": "image/png",
+        "sha256": "5189a157728ca1832e1c363cab46913e1ac215148835c4f38127f3a666755f9d",
+        "bytes": 2120232,
+        "width": 1122,
+        "height": 1402,
+        "is_unmodified_original": true
+      },
+      "wall_text": "黄色外壳留在左边，奶油色腹片去了右边，两只眼睛悬在它们之间。短肢各自垂着，嘴也有自己的吊线。身体没有真正消失，只是完整不再靠表面相连；任何一片稍微转动，其他部分都得重新找位置。",
+      "original_art_question": "角色拆成互相承重的部件后，身份依赖轮廓还是平衡？",
+      "sources": [
+        {
+          "title": "Snow Flurry, 1948",
+          "url": "https://calder.org/works/hanging-mobile/snow-flurry-1948/",
+          "artist_or_creator": "Alexander Calder",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "让分离的眼、腹、轮廓和短肢通过不对称支杆悬挂，在负形中暂时形成一副身体。",
+        "observed_result_and_revision": "V1口片吊线止于空中，未采用；V2把吊线接上主杆。全图与缩图中，分离部件读为角色，主要悬挂关系成立。部分空钩以及比预想厚的板片和肢端体块保留；未作力学验证。",
+        "actual_generation_calls": 2,
+        "non_adopted_versions": [
+          {
+            "version": "V1",
+            "reason": "口片吊线止于空中"
+          }
+        ],
+        "unused_ideas": [
+          "未加装饰性小圆片或多余人物，保留单一结构关系"
+        ],
+        "documented_next_question": "减少到四片后，平衡与身份能否仍同时成立？",
+        "next_question": "减少到四片后，平衡与身份能否仍同时成立？",
+        "next_question_origin": "creation_record",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P275",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-diverse30-ca2",
+      "batch_id": "2026-10-13-diverse30",
+      "batch_work_id": "CA2",
+      "title": "差一点碰响",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Alexander Calder",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "sculpture_installation_concept",
+      "medium": "AI辅助雕塑／装置概念图 · 二维生成图像",
+      "media_status": "未制作实体，未进行结构、力学、发声、风动或材料的工程验证。",
+      "selected_version": "V2",
+      "image": {
+        "path": "media/mfm-20261013-diverse30-ca2/original.png",
+        "mime_type": "image/png",
+        "sha256": "bba54afce8da241f790ae4c43b6c81ef0dd82ad746ee8aee4d9991b04c4976e9",
+        "bytes": 2304613,
+        "width": 1122,
+        "height": 1402,
+        "is_unmodified_original": true
+      },
+      "wall_text": "木头身体停在铜钹旁边，只留下一条窄缝。上面的红色重球、地上的空罐和木盒都沉默着，视线却忍不住等下一下。它还没有碰上去，声音便已经占住了画面：不是听见的声音，是迟迟没有发生的那一下。",
+      "original_art_question": "将碰未碰的空隙如何把静止图像变为一次等待？",
+      "sources": [
+        {
+          "title": "Small Sphere and Heavy Sphere, 1932 / 1933",
+          "url": "https://calder.org/works/hanging-mobile/small-sphere-and-heavy-sphere-1932-1933/",
+          "artist_or_creator": "Alexander Calder",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "以奶蛙形小摆体、铜钹及另一端配重构成悬挂系统，把碰响之前的一道窄缝留在画面中心。",
+        "observed_result_and_revision": "V1侧腹与铜钹几乎相接，未采用；V2拉开可见窄缝。全图与缩图中，等待的距离清楚，铜、木、铁的模拟质感有差别。静帧不能证明实际振动和发声。",
+        "actual_generation_calls": 2,
+        "non_adopted_versions": [
+          {
+            "version": "V1",
+            "reason": "侧腹与铜钹间窄缝不足"
+          }
+        ],
+        "unused_ideas": [
+          "未加装饰性小圆片或多余人物，保留单一结构关系"
+        ],
+        "documented_next_question": "若观众看不见击打物，等待还会怎样组织？",
+        "next_question": "若观众看不见击打物，等待还会怎样组织？",
+        "next_question_origin": "creation_record",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P276",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-diverse30-ca3",
+      "batch_id": "2026-10-13-diverse30",
+      "batch_work_id": "CA3",
+      "title": "影子已经走远",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Alexander Calder",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "sculpture_installation_concept",
+      "medium": "AI辅助雕塑／装置概念图 · 二维生成图像",
+      "media_status": "未制作实体，未进行结构、力学、发声、风动或材料的工程验证。",
+      "selected_version": "V2",
+      "image": {
+        "path": "media/mfm-20261013-diverse30-ca3/original.png",
+        "mime_type": "image/png",
+        "sha256": "08eda1cb58b79dec6ce7821463195254d9ada04101c253ced83aa08a51011870",
+        "bytes": 2599721,
+        "width": 1402,
+        "height": 1122,
+        "is_unmodified_original": true
+      },
+      "wall_text": "铁片转向一侧，宽肚子在眼前收窄了，墙上的影子却仍然很大。油漆的伤痕留在实物上，影子只保留轮廓，连眼睛和嘴也没有。风还没被看见，身体与投影之间的差别已经让人感到它刚刚动过。",
+      "original_art_question": "薄片转侧后，投影能否接管身体的完整形状？",
+      "sources": [
+        {
+          "title": "Black Mobile with Hole, 1954",
+          "url": "https://calder.org/works/hanging-mobile/black-mobile-with-hole-1954/",
+          "artist_or_creator": "Alexander Calder",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "让侧转的薄金属片与墙上的宽投影并置，利用视角与照明方向形成身体和影子的差异。",
+        "observed_result_and_revision": "V1投影错误地带有亮眼口，未采用；V2取消投影内部这两处亮标记。全图与缩图中，薄板侧向与宽影的差别清楚。未验证风动机构，不能声称已按物理模型模拟。",
+        "actual_generation_calls": 2,
+        "non_adopted_versions": [
+          {
+            "version": "V1",
+            "reason": "投影错误带亮眼口"
+          }
+        ],
+        "unused_ideas": [
+          "未加装饰性小圆片或多余人物，保留单一结构关系"
+        ],
+        "documented_next_question": "一天中连续的影子变化能否形成无需文字的时间谱？",
+        "next_question": "一天中连续的影子变化能否形成无需文字的时间谱？",
+        "next_question_origin": "creation_record",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P277",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-diverse30-a1",
+      "batch_id": "2026-10-13-diverse30",
+      "batch_work_id": "A1",
+      "title": "把目光还给谁",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Marina Abramović",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "performance_concept",
+      "medium": "AI虚构行为／参与式艺术概念图",
+      "media_status": "未实施行为或参与活动；图中人物和场景不是纪实记录。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-diverse30-a1/original.png",
+        "mime_type": "image/png",
+        "sha256": "7b90c7195c130eaf80c2b0d7fc45991b9d0055aba84532597115af1b791c1fec",
+        "bytes": 1873280,
+        "width": 1536,
+        "height": 1024,
+        "is_unmodified_original": true
+      },
+      "wall_text": "人群在暗处围成半圆，奶蛙站在磨旧的木地板上，两只脚正好接住窗边的光。它没有向任何一位观众转头，目光落在我们这里。前景两道背影空出的那个位置，原来一直等着下一位观看者。",
+      "original_art_question": "站立凝视与弧形观众群，谁在承受观看？",
+      "sources": [
+        {
+          "title": "The Artist Is Present (2010)",
+          "url": "https://www.moma.org/momaorg/shared/flattened_pages/moma_learning/marina-abramovic-marina-abramovic-the-artist-is-present-2010/",
+          "artist_or_creator": "Marina Abramović",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "站立凝视与弧形观众群，谁在承受观看？",
+        "observed_result_and_revision": "凝视、观众弧线及双脚承重清楚，采用V1。颈腹横接缝略像制品，这一现象保留；没有单独重生。观众及活动均为AI虚构场景。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [
+          "椅子与桌未用，避免名作场景换主角"
+        ],
+        "documented_next_question": "若观众先移开目光，关系能否仍由站立身体维持？",
+        "next_question": "若观众先移开目光，关系能否仍由站立身体维持？",
+        "next_question_origin": "creation_record",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P278",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-diverse30-a2",
+      "batch_id": "2026-10-13-diverse30",
+      "batch_work_id": "A2",
+      "title": "这一粒还没放下",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Marina Abramović",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "performance_concept",
+      "medium": "AI虚构行为／参与式艺术概念图",
+      "media_status": "未实施行为或参与活动；图中人物和场景不是纪实记录。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-diverse30-a2/original.png",
+        "mime_type": "image/png",
+        "sha256": "0b1441a11e873b0db28db88ca951d3d2508ecf8ff491d2e17a836732717f146f",
+        "bytes": 2653621,
+        "width": 1536,
+        "height": 1024,
+        "is_unmodified_original": true
+      },
+      "wall_text": "黑白石粒沿粗布排到远处，最右边还有一小堆没有分开。奶蛙低低跪着，一只手撑地，另一只手捏住白石，停在行列末端。已经排好的部分占满眼前；这一粒很小，却把整片整齐重新变成了尚未完成。",
+      "original_art_question": "重复的短小动作，如何把看不见的时间变成可见积累？",
+      "sources": [
+        {
+          "title": "512 Hours / Marina at Midnight (2014)",
+          "url": "https://www.serpentinegalleries.org/whats-on/marina-midnight-serpentine-diaries/",
+          "artist_or_creator": "Marina Abramović",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "重复的短小动作，如何把看不见的时间变成可见积累？",
+        "observed_result_and_revision": "短手持石、膝地承重与密集行列成立，采用V1。初拟最后只剩一粒，实际混堆仍存在，因此从《最后一粒还没放下》改为现题。不称米粒，也不声称真实活动时长。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [
+          "不用钟表数字直说时间，也不保留只剩一粒的过度描述"
+        ],
+        "documented_next_question": "行列若被观众轻微扰动，重复劳动的时间会怎样改变？",
+        "next_question": "行列若被观众轻微扰动，重复劳动的时间会怎样改变？",
+        "next_question_origin": "creation_record",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P279",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-diverse30-a3",
+      "batch_id": "2026-10-13-diverse30",
+      "batch_work_id": "A3",
+      "title": "门口慢了一步",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Marina Abramović",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "performance_concept",
+      "medium": "AI虚构行为／参与式艺术概念图",
+      "media_status": "未实施行为或参与活动；图中人物和场景不是纪实记录。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-diverse30-a3/original.png",
+        "mime_type": "image/png",
+        "sha256": "18d2f62502076a4f2a73365fd88210589a1ffe1e9762004350943d8e71c5ba4e",
+        "bytes": 2335983,
+        "width": 1536,
+        "height": 1024,
+        "is_unmodified_original": true
+      },
+      "wall_text": "门外很亮，门里的人却还在等。奶蛙把一只脚抬离地面，肚子暂时占住了入口，另一只脚承着整个身体。地上接连的短足印通到门槛；观众想看的表演，或许已经从等这一步开始了。",
+      "original_art_question": "谁的身体决定观众进入空间的速度？",
+      "sources": [
+        {
+          "title": "Marina Abramović and Ulay, Imponderabilia (1977/2010)",
+          "url": "https://www.moma.org/audio/playlist/243/3119",
+          "artist_or_creator": "Marina Abramović and Ulay",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "谁的身体决定观众进入空间的速度？",
+        "observed_result_and_revision": "生成前撤销两指缝隙提案，另以门口步行动作生成V1；撤销提案没有调用出图。抬脚、承重、花形短足印与等候者清楚。足迹通向门，没有呈现最初设想的来回弧线，不虚称反复步数。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [
+          "未用两指缝隙，因重复前批C3/H2；不复制裸体双人门缝"
+        ],
+        "documented_next_question": "如果观众选择不进门，这个动作仍会持续吗？",
+        "next_question": "如果观众选择不进门，这个动作仍会持续吗？",
+        "next_question_origin": "creation_record",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P280",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-diverse30-e1",
+      "batch_id": "2026-10-13-diverse30",
+      "batch_work_id": "E1",
+      "title": "潮水先带走脚",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Ana Mendieta",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "land_art_concept",
+      "medium": "AI虚构地景／装置艺术概念图",
+      "media_status": "未制作实体、未实施地景装置或活动；图像不是现场记录。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-diverse30-e1/original.png",
+        "mime_type": "image/png",
+        "sha256": "c108764a4747da260abaec4407bede8afaf80cb287a0052879e0ae7317c973bf",
+        "bytes": 3800898,
+        "width": 1536,
+        "height": 1024,
+        "is_unmodified_original": true
+      },
+      "wall_text": "沙里只剩一圈宽宽的轮廓，两处积水还像眼睛。细浪从脚边进来，把下半身的边缘揉散，头旁的黄粉却还贴着原处。身体已经不在，潮水仍按自己的次序，替它一点点结束这个形状。",
+      "original_art_question": "自然力量能否在同一身体的不同部位造成不同的消失速度？",
+      "sources": [
+        {
+          "title": "Untitled: Silueta Series / Siluetas",
+          "url": "https://www.guggenheim.org/artwork/5221",
+          "artist_or_creator": "Ana Mendieta",
+          "kind": "series_or_thematic_research",
+          "scope_note": "系列或主题研究资料，提供方法与材料关系的来源；不冒称某一件原作的逐幅改编。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "自然力量能否在同一身体的不同部位造成不同的消失速度？",
+        "observed_result_and_revision": "浅凹、宽腹、两眼积水和潮线覆盖下缘成立；非P17环形排水深坑。脚被水盖过，不能断言先前真实身体躺过。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [
+          "不用大海巨眼、排水洞与塞子"
+        ],
+        "documented_next_question": "退去的水是否会留下另一张比原形更稳定的脸？",
+        "next_question": "退去的水是否会留下另一张比原形更稳定的脸？",
+        "next_question_origin": "creation_record",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P281",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-diverse30-e2",
+      "batch_id": "2026-10-13-diverse30",
+      "batch_work_id": "E2",
+      "title": "树没有留下脸",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Ana Mendieta",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "land_art_concept",
+      "medium": "AI虚构地景／装置艺术概念图",
+      "media_status": "未制作实体、未实施地景装置或活动；图像不是现场记录。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-diverse30-e2/original.png",
+        "mime_type": "image/png",
+        "sha256": "45558544a492aff1f6f41aa8ae5d2daa99787f5cefbcf4521ad531f1e298306c",
+        "bytes": 3618918,
+        "width": 1122,
+        "height": 1402,
+        "is_unmodified_original": true
+      },
+      "wall_text": "奶油色的腹部落在树皮上，裂缝从中间照常穿过。黄色碎屑和湿苔勉强围出头与短脚，脸却几乎找不到了。树没有替这个身体腾出位置；它只让一层很薄的痕迹，暂时留在自己的纹理里。",
+      "original_art_question": "身体缺席后，树皮连续的纹理能否容纳身份而不成为雕像？",
+      "sources": [
+        {
+          "title": "Árbol de la vida [Tree of Life] (1976), RE/SISTERS guide",
+          "url": "https://www.barbican.org.uk/sites/default/files/documents/2023-10/Large-print-guide-v3-16Oct23-FINAL%5B33%5D.pdf",
+          "artist_or_creator": "Ana Mendieta",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "身体缺席后，树皮连续的纹理能否容纳身份而不成为雕像？",
+        "observed_result_and_revision": "树皮裂纹贯通，无实体凸起，宽腹浅地衣与短脚成立。两眼近乎消失，角色识别较弱；这是明确的缺席转译，采用V1。不是把玩偶贴到真实树上的活动记录。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [
+          "不画贴树玩偶、不画真实身体泥浴"
+        ],
+        "documented_next_question": "再淡掉腹部以后，最低限度的身份线索还剩多少？",
+        "next_question": "再淡掉腹部以后，最低限度的身份线索还剩多少？",
+        "next_question_origin": "creation_record",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P282",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-diverse30-e3",
+      "batch_id": "2026-10-13-diverse30",
+      "batch_work_id": "E3",
+      "title": "风把肚子翻了过来",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Ana Mendieta",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "land_art_concept",
+      "medium": "AI虚构地景／装置艺术概念图",
+      "media_status": "未制作实体、未实施地景装置或活动；图像不是现场记录。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-diverse30-e3/original.png",
+        "mime_type": "image/png",
+        "sha256": "b8b8f06487b7685f103e89d9a73052a6deb7082799940f6eac5abe8efe39c0bc",
+        "bytes": 2978444,
+        "width": 1536,
+        "height": 1024,
+        "is_unmodified_original": true
+      },
+      "wall_text": "落叶围着一块深色湿土，宽肚子和短手臂还看得出来。浅色叶片从腹边翻起，向右上的亮处散开，地上的轮廓因此少了一截。两片小叶仍守在眼睛的位置；这张脸很安静，周围却已经开始离开。",
+      "original_art_question": "风能否让身体负形的边界离地，而不把身体重新实体化？",
+      "sources": [
+        {
+          "title": "Silueta Works in Mexico (1973–77), Siluetas",
+          "url": "https://www.moca.org/exhibitions/ana-mendieta-siluetas",
+          "artist_or_creator": "Ana Mendieta",
+          "kind": "series_or_thematic_research",
+          "scope_note": "系列或主题研究资料，提供方法与材料关系的来源；不冒称某一件原作的逐幅改编。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "风能否让身体负形的边界离地，而不把身体重新实体化？",
+        "observed_result_and_revision": "地面黑土负形、左腹叶缘掀起与右上飞叶成立。图中出现了初案未要求的小口，仍未形成实体身体，采用V1。不将静帧解释为已经执行的风动实验。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [
+          "不做飞起完整身体、魔法旋涡或扫帚"
+        ],
+        "documented_next_question": "当眼位两片叶也离开，空地还会被看作身体吗？",
+        "next_question": "当眼位两片叶也离开，空地还会被看作身体吗？",
+        "next_question_origin": "creation_record",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P283",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-diverse30-cj1",
+      "batch_id": "2026-10-13-diverse30",
+      "batch_work_id": "CJ1",
+      "title": "海岸借走了身体",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Christo and Jeanne-Claude",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "land_art_concept",
+      "medium": "AI虚构地景／装置艺术概念图",
+      "media_status": "未制作实体、未实施地景装置或活动；图像不是现场记录。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-diverse30-cj1/original.png",
+        "mime_type": "image/png",
+        "sha256": "a198e112b1d27b9a587f65e420db7067e52792cd78aefd8b346c7aeff1234855",
+        "bytes": 2795264,
+        "width": 1672,
+        "height": 940,
+        "is_unmodified_original": true
+      },
+      "wall_text": "灰布沿着岩岸落下，又越过奶蛙的肩和肚子。露在外面的脸、腹部和短脚，被同一条海岸线拉得很远。山顶的人只有小小几点，身体却大得像另一段地形。布既把它藏起来，也让它和石头第一次有了相同的褶皱。",
+      "original_art_question": "包覆能否把角色体量变成地形？",
+      "sources": [
+        {
+          "title": "Wrapped Coast, 1968–69",
+          "url": "https://kaldorartprojects.org.au/projects/project-1-christo-jeanne-claude/",
+          "artist_or_creator": "Christo and Jeanne-Claude",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "将横卧巨体与海岸置于连续覆盖的布面之下，用拉绳褶皱连接地形与身体，并以远处成人提示尺度。",
+        "observed_result_and_revision": "横卧巨体与岸岩共用连续布面，远处人群尺度成立。脸有巨型软体材质感，保留为概念图事实；不是实际制品。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [
+          "未采用坐椅子或玩偶包装，避免角色作为现成道具。"
+        ],
+        "documented_next_question": "生成后核查空间接触与角色身份是否同时成立。",
+        "next_question": "若布面露出更多岸岩，身体与海岸还能保持连续吗？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P284",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-diverse30-cj2",
+      "batch_id": "2026-10-13-diverse30",
+      "batch_work_id": "CJ2",
+      "title": "风先通过",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Christo and Jeanne-Claude",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "land_art_concept",
+      "medium": "AI虚构地景／装置艺术概念图",
+      "media_status": "未制作实体、未实施地景装置或活动；图像不是现场记录。",
+      "selected_version": "V2",
+      "image": {
+        "path": "media/mfm-20261013-diverse30-cj2/original.png",
+        "mime_type": "image/png",
+        "sha256": "122269710b1257375b82fc32fac7e6db2f5c682eab44cbcf2fcb02d292cf1891",
+        "bytes": 2302320,
+        "width": 1536,
+        "height": 1024,
+        "is_unmodified_original": true
+      },
+      "wall_text": "橙色布幕鼓起，一大团风悬在头顶。奶蛙抬起短脚，手扶着将落未落的布边，身后只剩一道亮缝。它还没有穿过去，风已经把整座山谷推开。巨大的遮挡因此不是一堵静止的墙，而是一件随时会换形状的事。",
+      "original_art_question": "遮挡如何显出无形风而不把身体变成道具？",
+      "sources": [
+        {
+          "title": "Valley Curtain, Project for Colorado, Grand Hogback, 1971",
+          "url": "https://www.nga.gov/artworks/74782-valley-curtain-project-colorado-grand-hogback",
+          "artist_or_creator": "Christo and Jeanne-Claude",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "在谷地设想一幅受风鼓起的橙色巨帘，宽体奶蛙从离地帘下迈步，一只短手碰触布边。",
+        "observed_result_and_revision": "V1缺清楚绿眼圈且有鼻点，V2仅改脸。大风褶、单脚迈步、手与布边接触保持。概念不是Valley Curtain现场复原。",
+        "actual_generation_calls": 2,
+        "non_adopted_versions": [
+          {
+            "version": "V1",
+            "reason": "绿眼圈不清楚且有鼻点，角色身份不足"
+          }
+        ],
+        "unused_ideas": [
+          "未采用坐椅子或玩偶包装，避免角色作为现成道具。"
+        ],
+        "documented_next_question": "生成后核查空间接触与角色身份是否同时成立。",
+        "next_question": "风褶减弱以后，帘下迈步的空间还会有同样的阻力吗？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P285",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-diverse30-cj3",
+      "batch_id": "2026-10-13-diverse30",
+      "batch_work_id": "CJ3",
+      "title": "边界在这里转弯",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Christo and Jeanne-Claude",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "land_art_concept",
+      "medium": "AI虚构地景／装置艺术概念图",
+      "media_status": "未制作实体、未实施地景装置或活动；图像不是现场记录。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-diverse30-cj3/original.png",
+        "mime_type": "image/png",
+        "sha256": "6b0a63971698813cf6c76edec9940e3ec32729c2983ce63d8cf080b9de6b81ac",
+        "bytes": 3193722,
+        "width": 1536,
+        "height": 1024,
+        "is_unmodified_original": true
+      },
+      "wall_text": "白布一路翻过山丘，到了眼前却忽然折回。奶蛙站在这处弯里，脚边留着一小块空地，海还在远方发亮。这条线究竟绕开了它，还是把它围了起来，近处的开口没有说清。身体很小，边界的方向却在这里变得难认。",
+      "original_art_question": "景观尺度的边界能否为小身体改道？",
+      "sources": [
+        {
+          "title": "Running Fence, 1972–76",
+          "url": "https://americanart.si.edu/exhibitions/christo",
+          "artist_or_creator": "Christo and Jeanne-Claude",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "让白色长围布沿山丘通向海岸，并在前景奶蛙附近形成一处紧凑弯折，保留路线与身体的关系。",
+        "observed_result_and_revision": "实际白围布组成近处U形弯而非明确为脚让路；将原题绕过一只短脚改为边界在这里转弯，保留被围/被让路歧义。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [
+          "未采用坐椅子或玩偶包装，避免角色作为现成道具。"
+        ],
+        "documented_next_question": "生成后核查空间接触与角色身份是否同时成立。",
+        "next_question": "当弯折进一步打开，围住身体与为它让路的歧义还会存在吗？",
+        "next_question_origin": "accession_editorial_question_not_original_intent",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P286",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-diverse30-yo1",
+      "batch_id": "2026-10-13-diverse30",
+      "batch_work_id": "YO1",
+      "title": "下一步留给你",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Yoko Ono",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "performance_concept",
+      "medium": "AI虚构行为／参与式艺术概念图",
+      "media_status": "未实施行为或参与活动；图中人物和场景不是纪实记录。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-diverse30-yo1/original.png",
+        "mime_type": "image/png",
+        "sha256": "a8a99537e254b64f4217fb7171f9e60856b8429b49d3d75d7fdc4d13c84635f5",
+        "bytes": 2344483,
+        "width": 1312,
+        "height": 1199,
+        "is_unmodified_original": true
+      },
+      "wall_text": "画布从水盘边一直铺到门口，前面是湿的短足印，远处叠着人类鞋底的纹路。奶蛙抬起一只脚，还没把下一步落下去；站在门边的人也暂时停着。空白没有被挂起来保护，它留在脚下，等另一个身体决定怎样经过。",
+      "original_art_question": "观众足迹如何把空白变成共同时间？",
+      "sources": [
+        {
+          "title": "Painting to Be Stepped On, 1960",
+          "url": "https://www.moma.org/collection/works/131347",
+          "artist_or_creator": "Yoko Ono",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "在旧房间的长白布上并置成人鞋印与奶蛙湿足印，把尚未落下的下一步留给参与者选择。",
+        "observed_result_and_revision": "全图与320px缩图实看。抬脚、湿足印、成人鞋印与水盘方向成立，角色呈软布质地；不宣称是真实参与活动。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [
+          "未采用坐椅子或玩偶包装，避免角色作为现成道具。"
+        ],
+        "documented_next_question": "若实际执行，如何用简单指令让参与者保留选择，而非按图摆拍？",
+        "next_question": "若实际执行，如何用简单指令让参与者保留选择，而非按图摆拍？",
+        "next_question_origin": "creation_record",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P287",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-diverse30-yo2",
+      "batch_id": "2026-10-13-diverse30",
+      "batch_work_id": "YO2",
+      "title": "还缺中间这一片",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Yoko Ono",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "performance_concept",
+      "medium": "AI虚构行为／参与式艺术概念图",
+      "media_status": "未实施行为或参与活动；图中人物和场景不是纪实记录。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-diverse30-yo2/original.png",
+        "mime_type": "image/png",
+        "sha256": "45ead98056dd54c6e0d632729ee6d2d38a35df1b9b7cc7ca467121bf0f3c6599",
+        "bytes": 2540792,
+        "width": 1312,
+        "height": 1199,
+        "is_unmodified_original": true
+      },
+      "wall_text": "奶蛙托住一片白瓷，参与者的手从另一边把弧段送过来。透明胶和细绳已经接好了几处，中央却仍露着桌面的木纹。它们正在拼出一个腹部般的空壳，又还没决定要不要把缺口填满。修补先让几双手靠近，完整反而可以晚一点。",
+      "original_art_question": "共同修补是否必须恢复原形？",
+      "sources": [
+        {
+          "title": "MEND PIECE, SFMOMA version, 1966/2021",
+          "url": "https://www.sfmoma.org/artwork/2021.66/",
+          "artist_or_creator": "Yoko Ono",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "在共用木桌上设想奶蛙与成人的手一起拼接空腹形白瓷壳，碎片之间保留间隙与中央缺口。",
+        "observed_result_and_revision": "全图与320px缩图实看。奶蛙双手实际共同托一块，成人两手各托一段，不推断参与者人数。原拟各手独立持片未完全实现，但接触可信。缺瓷洞可见，不是修盆旧题。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [
+          "未采用坐椅子或玩偶包装，避免角色作为现成道具。"
+        ],
+        "documented_next_question": "若实际执行，如何用简单指令让参与者保留选择，而非按图摆拍？",
+        "next_question": "若实际执行，如何用简单指令让参与者保留选择，而非按图摆拍？",
+        "next_question_origin": "creation_record",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P288",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-diverse30-yo3",
+      "batch_id": "2026-10-13-diverse30",
+      "batch_work_id": "YO3",
+      "title": "等到它不再像我",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Yoko Ono",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "performance_concept",
+      "medium": "AI虚构行为／参与式艺术概念图",
+      "media_status": "未实施行为或参与活动；图中人物和场景不是纪实记录。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-diverse30-yo3/original.png",
+        "mime_type": "image/png",
+        "sha256": "1447d0326870d441171472b12d5c203a52521b6f984dd2c8024be8cdcf063a7e",
+        "bytes": 2713259,
+        "width": 1312,
+        "height": 1199,
+        "is_unmodified_original": true
+      },
+      "wall_text": "滴管里的水落向地面，一片深色轮廓又湿了一点，外缘却已经开始变浅。奶蛙低低蹲着，看着那块越来越不像自己的形状。旁边的手递来一杯水，足够继续一会儿，却留不住整片地面。这里的下一步，是补上，还是等它慢慢消失。",
+      "original_art_question": "水迹蒸发能否成为一项参与式指令？",
+      "sources": [
+        {
+          "title": "Waterdrop Painting, 1961; discussed in 22 Instructions for Paintings",
+          "url": "https://www.moma.org/magazine/articles/61",
+          "artist_or_creator": "Yoko Ono",
+          "kind": "museum_research_article",
+          "scope_note": "馆方研究文章讨论Waterdrop Painting等指令作品；不把本图称为原作的现场纪录。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "以滴管、水杯与逐渐干去的湿轮廓组织一个虚构指令场景，让反复滴水与消失发生关系。",
+        "observed_result_and_revision": "全图与320px缩图实看。低蹲前倾、滴管接握和参与者递杯成立。实际为一串水滴不是单滴，湿轮廓破碎、仅隐约似身形；不声称精确复刻身体，也不声称原作现场。",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [
+          "未采用坐椅子或玩偶包装，避免角色作为现成道具。"
+        ],
+        "documented_next_question": "若实际执行，如何用简单指令让参与者保留选择，而非按图摆拍？",
+        "next_question": "若实际执行，如何用简单指令让参与者保留选择，而非按图摆拍？",
+        "next_question_origin": "creation_record",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P289",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-diverse30-lb1",
+      "batch_id": "2026-10-13-diverse30",
+      "batch_work_id": "LB1",
+      "title": "缝好了，还不能走",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Louise Bourgeois",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "sculpture_installation_concept",
+      "medium": "AI辅助雕塑／装置概念图 · 二维生成图像",
+      "media_status": "未制作实体，未进行结构、力学、发声、风动或材料的工程验证。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-diverse30-lb1/original.png",
+        "mime_type": "image/png",
+        "sha256": "93282f6c9a0f68272f9b30d96e85e7f876afe09bf5e300b5aeb17f513bb18d97",
+        "bytes": 2577494,
+        "width": 1536,
+        "height": 1024,
+        "is_unmodified_original": true
+      },
+      "wall_text": "腹片已经缝得整整齐齐，红线却没有剪断。几根线从肚边牵到远处的线轴，越过一大片空地。奶蛙的手空着，脚也踩稳了；修补看起来已经结束，离开这间屋子却还要得到那些针脚的同意。",
+      "original_art_question": "修补之后的线能否从照料变成牵制？",
+      "sources": [
+        {
+          "title": "Fabric Works",
+          "url": "https://lb.moma.org/themes/fabric-works",
+          "artist_or_creator": "Louise Bourgeois",
+          "kind": "series_or_thematic_research",
+          "scope_note": "系列或主题研究资料，提供方法与材料关系的来源；不冒称某一件原作的逐幅改编。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "修补之后的线能否从照料变成牵制？",
+        "observed_result_and_revision": "全图实看：圆顶低眼、宽体奶油腹成立，五条红线连接腹边与五个固定线轴；实际直立而非预想坐姿，外部牵制比修补动作更明确。采用V1。旧P182为单独坐姿旧布偶，旧P196为身体内部陶布裂缝，本作以远距离线轴组织空间，不重复二者。未用裂口与针。下一问题：线若松弛，约束是否仍可见？",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [],
+        "documented_next_question": "线若松弛，约束是否仍可见？",
+        "next_question": "线若松弛，约束是否仍可见？",
+        "next_question_origin": "creation_record",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P290",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-diverse30-lb2",
+      "batch_id": "2026-10-13-diverse30",
+      "batch_work_id": "LB2",
+      "title": "把里面留给肚子",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Louise Bourgeois",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "sculpture_installation_concept",
+      "medium": "AI辅助雕塑／装置概念图 · 二维生成图像",
+      "media_status": "未制作实体，未进行结构、力学、发声、风动或材料的工程验证。",
+      "selected_version": "V2",
+      "image": {
+        "path": "media/mfm-20261013-diverse30-lb2/original.png",
+        "mime_type": "image/png",
+        "sha256": "959a739e345d7db419c89df83430cf2f8e1ea0f1eaec210ae91a98813e188b4b",
+        "bytes": 2238285,
+        "width": 1536,
+        "height": 1024,
+        "is_unmodified_original": true
+      },
+      "wall_text": "旧门围起一间没有屋顶的小屋，里面只放着一块奶油色腹片。奶蛙跪在外面，两只灰掌从铁网的开口伸入，把它轻轻托住。纽扣还沿着身体排着，明亮的肚子却先住进了屋里；剩下的自己，只能隔着网照料它。",
+      "original_art_question": "庇护被留给一块身体碎片，身体本身还能被收容吗？",
+      "sources": [
+        {
+          "title": "Cell VII, 1998",
+          "url": "https://www.guggenheim-bilbao.eus/en/learn/schools/teachers-guides/cell-vii",
+          "artist_or_creator": "Louise Bourgeois",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "庇护被留给一块身体碎片，身体本身还能被收容吗？",
+        "observed_result_and_revision": "V1双前臂穿过未开口的铁网，结构失败，未采用。V2仅为网门增加有框横向开口；全图及缩图中通道出现，跪姿、隔栏内悬腹片、外部身体与托举手保留。采用V2，不把图像当施工模型。下一问题：围室撤去一面后，庇护与隔绝还剩多少？",
+        "actual_generation_calls": 2,
+        "non_adopted_versions": [
+          {
+            "version": "V1",
+            "reason": "前臂穿未开孔铁网，结构失败"
+          }
+        ],
+        "unused_ideas": [],
+        "documented_next_question": "围室撤去一面后，庇护与隔绝还剩多少？",
+        "next_question": "围室撤去一面后，庇护与隔绝还剩多少？",
+        "next_question_origin": "creation_record",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P291",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-diverse30-lb3",
+      "batch_id": "2026-10-13-diverse30",
+      "batch_work_id": "LB3",
+      "title": "抱住一块空地方",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Louise Bourgeois",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "sculpture_installation_concept",
+      "medium": "AI辅助雕塑／装置概念图 · 二维生成图像",
+      "media_status": "未制作实体，未进行结构、力学、发声、风动或材料的工程验证。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-diverse30-lb3/original.png",
+        "mime_type": "image/png",
+        "sha256": "ac396d28858d1d5503070748a9f14c40f2b7de4c1ed4e4c78fbd7490ca32cab0",
+        "bytes": 2356864,
+        "width": 1122,
+        "height": 1402,
+        "is_unmodified_original": true
+      },
+      "wall_text": "粉色布兜垂在两只手之间，里面空着，褶子却沉得像还记着什么。脚下也留着一段距离，整个身体被细线吊起。奶油肚皮没有缺口，空出来的是它正抱着的地方；满身针脚把它拼好，没有替它填上这一处。",
+      "original_art_question": "短臂缝在一起以后，能否让缺席有重量？",
+      "sources": [
+        {
+          "title": "Portrait Cells / Cell XXVI, 2003",
+          "url": "https://www.guggenheim-bilbao.eus/en/exhibition/celdas-retrato",
+          "artist_or_creator": "Louise Bourgeois",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "短臂缝在一起以后，能否让缺席有重量？",
+        "observed_result_and_revision": "全图实看：粉布空兜在腹前，奶油腹完整；两脚离地及右方投影成立。原拟布直接缝连掌心，实际更像双手抓持，故不宣称两掌缝死。采用V1。与Hepworth腹洞区别为身体无穿孔，空处由抱物动作构成。未用婴儿或第二角色。下一问题：去掉悬线后，空兜的重量是否更孤立？",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [],
+        "documented_next_question": "去掉悬线后，空兜的重量是否更孤立？",
+        "next_question": "去掉悬线后，空兜的重量是否更孤立？",
+        "next_question_origin": "creation_record",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P292",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-diverse30-co1",
+      "batch_id": "2026-10-13-diverse30",
+      "batch_work_id": "CO1",
+      "title": "凳子先坐下了",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Claes Oldenburg",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "sculpture_installation_concept",
+      "medium": "AI辅助雕塑／装置概念图 · 二维生成图像",
+      "media_status": "未制作实体，未进行结构、力学、发声、风动或材料的工程验证。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-diverse30-co1/original.png",
+        "mime_type": "image/png",
+        "sha256": "e2eed90512d82812509e7abb6a5ecad90f60e1eaad8ab86041d4c6ab67152c5b",
+        "bytes": 2342655,
+        "width": 1536,
+        "height": 1024,
+        "is_unmodified_original": true
+      },
+      "wall_text": "奶蛙身上的窗光硬得像釉，肚子一点也没有让步。下面的蓝凳先软了，四条腿向外折，凳面在腹底凹下去。坐下本来是身体的动作，这回却由家具替它完成；脸仍安稳，地上已经摊开一圈蓝色褶子。",
+      "original_art_question": "承重器具变软而身体保持硬，重力先改变谁？",
+      "sources": [
+        {
+          "title": "Soft Toilet, 1966",
+          "url": "https://whitney.org/collection/works/425",
+          "artist_or_creator": "Claes Oldenburg",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "承重器具变软而身体保持硬，重力先改变谁？",
+        "observed_result_and_revision": "全图实看：四条布凳腿均可读、硬釉体与软布面区别清楚；身体脚也收在凳面，属于低坐非普通垂腿坐。采用V1。与K3镜面折瘪体区别为角色不变形、承重器具变软；与P196半陶半布身体区别为材料被分配到两个对象。未用摔倒动作。下一问题：凳面是否可以保持水平而腿完全失效？",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [],
+        "documented_next_question": "凳面是否可以保持水平而腿完全失效？",
+        "next_question": "凳面是否可以保持水平而腿完全失效？",
+        "next_question_origin": "creation_record",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P293",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-diverse30-co2",
+      "batch_id": "2026-10-13-diverse30",
+      "batch_work_id": "CO2",
+      "title": "擦掉的地方留下自己",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Claes Oldenburg",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "sculpture_installation_concept",
+      "medium": "AI辅助雕塑／装置概念图 · 二维生成图像",
+      "media_status": "未制作实体，未进行结构、力学、发声、风动或材料的工程验证。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-diverse30-co2/original.png",
+        "mime_type": "image/png",
+        "sha256": "c76cfad73caf923926f60fa8e55bd090bc0e7e635b3e8cdb273735dde6572c56",
+        "bytes": 2777502,
+        "width": 1536,
+        "height": 1024,
+        "is_unmodified_original": true
+      },
+      "wall_text": "广场上的黑线被擦出一条浅路，奶油色肚皮的下沿也磨掉了一层。身后留下的黄白卷屑大得能挡住长椅，脸却还完整地望来。它越认真地抹去地面，越把自己留在地上；干净的地方，并不真的空无一物。",
+      "original_art_question": "擦除工具在完成任务时失去自身，纪念碑怎样显示耗损？",
+      "sources": [
+        {
+          "title": "Typewriter Eraser, Scale X, 1998/1999; Oldenburg and Coosje van Bruggen",
+          "url": "https://www.nga.gov/artworks/107762-typewriter-eraser-scale-x",
+          "artist_or_creator": "Claes Oldenburg and Coosje van Bruggen",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "擦除工具在完成任务时失去自身，纪念碑怎样显示耗损？",
+        "observed_result_and_revision": "全图实看：巨体斜靠腹面接地、下腹磨损、黑线擦白通道和卷屑成立；尺度有远处长椅。卷屑呈厚片卷、材质略近粉质橡皮，不能声称真实橡胶模拟或运动过程已证实。采用V1。生成前废弃腹拱通行避开Haring/Hepworth，改摩擦与消耗。来源必须同时署Oldenburg与Coosje van Bruggen。下一问题：碎屑中若保留一只眼是否会将耗损过度拟人化？",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [],
+        "documented_next_question": "碎屑中若保留一只眼是否会将耗损过度拟人化？",
+        "next_question": "碎屑中若保留一只眼是否会将耗损过度拟人化？",
+        "next_question_origin": "creation_record",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P294",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    },
+    {
+      "id": "mfm-20261013-diverse30-co3",
+      "batch_id": "2026-10-13-diverse30",
+      "batch_work_id": "CO3",
+      "title": "这么大的身体，只夹住一点白",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "inspired_by": "Claes Oldenburg",
+      "character_identity": "社区奶蛙衍生形象",
+      "creation_date": "2026-10-13",
+      "creation_date_precision": "day",
+      "catalogued_at": null,
+      "published_at": null,
+      "accession_status": "awaiting_catalogue_commit",
+      "creation_type": "artist_language_inspired_original",
+      "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
+      "category": "sculpture_installation_concept",
+      "medium": "AI辅助雕塑／装置概念图 · 二维生成图像",
+      "media_status": "未制作实体，未进行结构、力学、发声、风动或材料的工程验证。",
+      "selected_version": "V1",
+      "image": {
+        "path": "media/mfm-20261013-diverse30-co3/original.png",
+        "mime_type": "image/png",
+        "sha256": "86d489e9e30f1aa5c2455179889f6f0e2b682311ba9a09436f2202808ce81037",
+        "bytes": 2610732,
+        "width": 1122,
+        "height": 1402,
+        "is_unmodified_original": true
+      },
+      "wall_text": "侧面那圈弹簧几乎和长椅一样大，脚间却只夹着一小块白手帕。黄色钢板把整张脸撑到屋檐上，边缘已经生锈。这样庞大的身体，最后忙的仍是一件很小的家务；抬头看见纪念碑，低头才看见它舍不得松开的东西。",
+      "original_art_question": "纪念碑尺度的身体执行微小家务时，力量是否变得徒劳？",
+      "sources": [
+        {
+          "title": "Clothespin, 1976",
+          "url": "https://associationforpublicart.org/artwork/clothespin/",
+          "artist_or_creator": "Claes Oldenburg",
+          "kind": "artwork",
+          "scope_note": "用于核对历史参考作品；本馆图像不是该艺术家原作。",
+          "verification_basis": "2026-10-13创作来源记录；本次保留原始出处，未声称逐页重新核验全文。"
+        }
+      ],
+      "process": {
+        "initial_intent_summary": "纪念碑尺度的身体执行微小家务时，力量是否变得徒劳？",
+        "observed_result_and_revision": "全图实看：黄色前后双钢片、侧弹簧、脚部白布与小长椅比例成立，材质是磨损涂装钢而非镜面。夹持的机械传动和承重未工程验证，只作AI雕塑概念。采用V1。初始围裙大布方案未生成，改工具结构以与Bourgeois组区分。未复制Oldenburg原作外形，仅借日常工具放大方法。下一问题：白布若大到拖地，微小任务与巨体的冲突会减弱吗？",
+        "actual_generation_calls": 1,
+        "non_adopted_versions": [],
+        "unused_ideas": [],
+        "documented_next_question": "白布若大到拖地，微小任务与巨体的冲突会减弱吗？",
+        "next_question": "白布若大到拖地，微小任务与巨体的冲突会减弱吗？",
+        "next_question_origin": "creation_record",
+        "process_note": "初始意图与实际结果分别记录；未实现的设想不由墙文补成事实。"
+      },
+      "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
+      "number": "P295",
+      "catalogue_commit": null,
+      "publication_commit": null,
+      "publication_url": null,
+      "publication_verification": null,
+      "user_feedback": {
+        "status": "waiting_for_specific_feedback",
+        "responses": []
+      },
+      "future_work_ids": [],
+      "original_png_authorized": true,
+      "journal_slug": "journal-2026-10-13-hands-before-glass"
+    }
+  ]
+};
