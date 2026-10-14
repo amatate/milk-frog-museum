@@ -70,8 +70,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "digital_image",
@@ -118,9 +118,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P236",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-new30-b1",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "4b7898a79b52034f3c4397f434c75657c4fff69aa1e8d9932910d4899a271ae5",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -140,8 +152,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "digital_image",
@@ -183,9 +195,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P237",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-new30-b2",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "0ae06ced39eba139a9a7333fc2c74e1ba271479bdb7261f588bb3ccaccdaade3",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -205,8 +229,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "digital_image",
@@ -248,9 +272,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P238",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-new30-b3",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "dcc6fa9d4c279b85de09d54f627d4ed54538b3021f503e971a7ed84151f30860",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -270,8 +306,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "digital_image",
@@ -318,9 +354,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P239",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-new30-m1",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "a127cc6c395438b69588b96448d3b86d2dcf94698075facadabae77bb3a38d17",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -340,8 +388,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "digital_image",
@@ -383,9 +431,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P240",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-new30-m2",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "1262863768d194a5ac950dffba67dddebbd1386e7b50209e461205662550a75c",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -405,8 +465,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "digital_image",
@@ -448,9 +508,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P241",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-new30-m3",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "8fe55567286d3aa37d354290b9455c26bec93b011d1f9c9b3fd8560b009c9352",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -470,8 +542,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "digital_image",
@@ -522,9 +594,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P242",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-new30-w1",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "96dd5ecb439cd50c10df321d3264686311198d52ae4e60baa7eff4a461c30366",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -544,8 +628,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "specific_work_structure_adaptation",
       "classification": "具体作品结构改编 · AI辅助创作",
       "category": "digital_image",
@@ -592,9 +676,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P243",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-new30-w2",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "0904a4fdc5936b543cdfd9e7af93fd541a06f31020506fbd04d30525e231d25e",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -614,8 +710,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "digital_image",
@@ -662,9 +758,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P244",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-new30-w3",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "19819463c26c9e60d8faa2511f3a4ad85b73d9f16eae8953401d4b999d957f91",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -684,8 +792,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "specific_work_structure_adaptation",
       "classification": "具体作品结构改编 · AI辅助创作",
       "category": "sculpture_installation_concept",
@@ -727,9 +835,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P245",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-new30-k1",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "b5057875903b22246cd04f24142a343c1ea58c8c4955544334e808a838c7a8fe",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -749,8 +869,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "sculpture_installation_concept",
@@ -792,9 +912,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P246",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-new30-k2",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "b3aa7ef51db263f859c183015a95ae20268682105598f541811ea2e9c4c5c135",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -814,8 +946,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "sculpture_installation_concept",
@@ -857,9 +989,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P247",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-new30-k3",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "bf5d362f1a6fc1c1cae430b4a480c5c3d8f5bcc71a8613b438a4a7243bb61789",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -879,8 +1023,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "digital_image",
@@ -922,9 +1066,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P248",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-new30-c1",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "445b11c166e2065c816750aa8a1f134d174042185f7748c320bf654179934634",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -944,8 +1100,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "digital_image",
@@ -987,9 +1143,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P249",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-new30-c2",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "da75d944dadcc126024de0dcf2814d14a8218a0d7e97d587d074566003720215",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -1009,8 +1177,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "digital_image",
@@ -1056,9 +1224,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P250",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-new30-c3",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "3c793d582b2c695a7f0df476e5f5c7e67a460ead29130d33b17cfa8701331951",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -1078,8 +1258,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "digital_image",
@@ -1126,9 +1306,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P251",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-new30-pollock-01",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "82c42faa3a23eaac1b5cae4065b03dc7150591fbdd9970e1e4735cb102dbb400",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -1148,8 +1340,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "digital_image",
@@ -1191,9 +1383,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P252",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-new30-pollock-02",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "9712ec0f66383456ad6ccb5396abc0acdbc463efb99b4f503d49063307bcf0f9",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -1213,8 +1417,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "digital_image",
@@ -1261,9 +1465,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P253",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-new30-pollock-03",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "95d60867e3d2dcdf6493aa97ae88727c8a8b795fd9f57c433958fbf506c69252",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -1283,8 +1499,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "digital_image",
@@ -1326,9 +1542,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P254",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-new30-klee-01",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "370f3dcab6e21d32ebf779beb7c15cfb10fc4d9f06f60fc432a783623c6b6751",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -1348,8 +1576,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "digital_image",
@@ -1391,9 +1619,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P255",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-new30-klee-02",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "2c17bc986649309ca0ad8d340e7bc1e9b9ff7790d42f9c43478fa311a6528a91",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -1413,8 +1653,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "digital_image",
@@ -1456,9 +1696,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P256",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-new30-klee-03",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "2c2b011e940fc81976a19e5084cace21e3322def56131db0d09611a7f924811d",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -1478,8 +1730,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "digital_image",
@@ -1526,9 +1778,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P257",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-new30-h1",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "78e5a245efc7d6b63cd9a15255af58177df1b3ea658f02dd74cf6b64f466b018",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -1548,8 +1812,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "digital_image",
@@ -1591,9 +1855,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P258",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-new30-h2",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "a561522ae5fa9bc86d7e5de0457ded47fc4297f6e129640867c6bbf940045f32",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -1613,8 +1889,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "digital_image",
@@ -1656,9 +1932,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P259",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-new30-h3",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "c0a78d0e0ef8f8c44ebb528db1dcdcd03987104d1f1fe260726fdffd53e3a229",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -1678,8 +1966,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "digital_image",
@@ -1744,9 +2032,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P260",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-new30-d1",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "50c18c0b1dfc357da8885f33bf17033249e169c704ee6246b0c065a9ddba3acf",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -1766,8 +2066,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "digital_image",
@@ -1816,9 +2116,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P261",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-new30-d2",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "8e919cf2036ac2b85cec63b36a3ed78be589756bf1fba93049d0f4894d5db43c",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -1838,8 +2150,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "digital_image",
@@ -1888,9 +2200,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P262",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-new30-d3",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "59b07af9983007e255c57d72e7f7c310cce37db4f30634621e7b71b2be9a1fd5",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -1910,8 +2234,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "digital_collage_image",
@@ -1974,9 +2298,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P263",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-new30-i1",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "3dcba5e0ac60baea3cbd0d8d8e00bfff801f2a72711346b686ddbed560390971",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -1996,8 +2332,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "digital_collage_image",
@@ -2060,9 +2396,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P264",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-new30-i2",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "914fab24cf890aa766ae8a6db1c07ce64494ef24ac55d53b50de8c84998341f4",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -2082,8 +2430,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "digital_collage_image",
@@ -2146,9 +2494,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P265",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-new30-i3",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "fef14b549967353f0ca63bfa8a338b4b60935e9c4d2fdb6eb29a9864097e5182",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -2168,8 +2528,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "sculpture_installation_concept",
@@ -2213,9 +2573,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P266",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-diverse30-r1",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "8e9cf09c6062e8b6681f401e620861acc6a48187059325fe29d0015d83f4f0a2",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -2235,8 +2607,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "sculpture_installation_concept",
@@ -2280,9 +2652,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P267",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-diverse30-r2",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "0f73fd812618bb3e1588d78bc61f13538eeab625dcbd39bfd2f234ea9a58bac0",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -2302,8 +2686,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "sculpture_installation_concept",
@@ -2347,9 +2731,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P268",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-diverse30-r3",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "3c57fc1eff49a1cb8c66049fa9a6d31e4765f0ad69778c85b7b890fbb3429aa7",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -2369,8 +2765,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "sculpture_installation_concept",
@@ -2414,9 +2810,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P269",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-diverse30-he1",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "1cc96323ab2525180002f3d9a064e385c0dd102554a0bfb1fb960fc0c7310482",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -2436,8 +2844,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "sculpture_installation_concept",
@@ -2481,9 +2889,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P270",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-diverse30-he2",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "ffe06ef6e01fa761afcb893d1e1e12d147667ed789f9549cdd12c115338e8e29",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -2503,8 +2923,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "sculpture_installation_concept",
@@ -2548,9 +2968,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P271",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-diverse30-he3",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "74ba49aa22b97f98cccc44c612934bba43bc37cd87e82836fca0d0c701d3edf1",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -2570,8 +3002,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "sculpture_installation_concept",
@@ -2615,9 +3047,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P272",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-diverse30-n1",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "32647f6cf6567ba5bc5674f7e396848cd1704149603949c258daa536218555ca",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -2637,8 +3081,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "sculpture_installation_concept",
@@ -2682,9 +3126,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P273",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-diverse30-n2",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "afb995c40db4da9c4926801cce1211d746d4351e4a96923a5def50f12bc05ab3",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -2704,8 +3160,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "sculpture_installation_concept",
@@ -2749,9 +3205,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P274",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-diverse30-n3",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "726ae1f8d7d2db4e20cd9da45be5c1e2804fed510a9e983d11f1057b78cad2a1",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -2771,8 +3239,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "sculpture_installation_concept",
@@ -2821,9 +3289,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P275",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-diverse30-ca1",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "5189a157728ca1832e1c363cab46913e1ac215148835c4f38127f3a666755f9d",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -2843,8 +3323,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "sculpture_installation_concept",
@@ -2893,9 +3373,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P276",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-diverse30-ca2",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "bba54afce8da241f790ae4c43b6c81ef0dd82ad746ee8aee4d9991b04c4976e9",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -2915,8 +3407,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "sculpture_installation_concept",
@@ -2965,9 +3457,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P277",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-diverse30-ca3",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "08eda1cb58b79dec6ce7821463195254d9ada04101c253ced83aa08a51011870",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -2987,8 +3491,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "performance_concept",
@@ -3032,9 +3536,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P278",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-diverse30-a1",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "7b90c7195c130eaf80c2b0d7fc45991b9d0055aba84532597115af1b791c1fec",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -3054,8 +3570,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "performance_concept",
@@ -3099,9 +3615,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P279",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-diverse30-a2",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "0b1441a11e873b0db28db88ca951d3d2508ecf8ff491d2e17a836732717f146f",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -3121,8 +3649,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "performance_concept",
@@ -3166,9 +3694,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P280",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-diverse30-a3",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "18d2f62502076a4f2a73365fd88210589a1ffe1e9762004350943d8e71c5ba4e",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -3188,8 +3728,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "land_art_concept",
@@ -3233,9 +3773,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P281",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-diverse30-e1",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "c108764a4747da260abaec4407bede8afaf80cb287a0052879e0ae7317c973bf",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -3255,8 +3807,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "land_art_concept",
@@ -3300,9 +3852,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P282",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-diverse30-e2",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "45558544a492aff1f6f41aa8ae5d2daa99787f5cefbcf4521ad531f1e298306c",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -3322,8 +3886,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "land_art_concept",
@@ -3367,9 +3931,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P283",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-diverse30-e3",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "b8b8f06487b7685f103e89d9a73052a6deb7082799940f6eac5abe8efe39c0bc",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -3389,8 +3965,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "land_art_concept",
@@ -3434,9 +4010,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P284",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-diverse30-cj1",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "a198e112b1d27b9a587f65e420db7067e52792cd78aefd8b346c7aeff1234855",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -3456,8 +4044,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "land_art_concept",
@@ -3506,9 +4094,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P285",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-diverse30-cj2",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "122269710b1257375b82fc32fac7e6db2f5c682eab44cbcf2fcb02d292cf1891",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -3528,8 +4128,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "land_art_concept",
@@ -3573,9 +4173,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P286",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-diverse30-cj3",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "6b0a63971698813cf6c76edec9940e3ec32729c2983ce63d8cf080b9de6b81ac",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -3595,8 +4207,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "performance_concept",
@@ -3640,9 +4252,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P287",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-diverse30-yo1",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "a8a99537e254b64f4217fb7171f9e60856b8429b49d3d75d7fdc4d13c84635f5",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -3662,8 +4286,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "performance_concept",
@@ -3707,9 +4331,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P288",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-diverse30-yo2",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "45ead98056dd54c6e0d632729ee6d2d38a35df1b9b7cc7ca467121bf0f3c6599",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -3729,8 +4365,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "performance_concept",
@@ -3774,9 +4410,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P289",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-diverse30-yo3",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "1447d0326870d441171472b12d5c203a52521b6f984dd2c8024be8cdcf063a7e",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -3796,8 +4444,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "sculpture_installation_concept",
@@ -3839,9 +4487,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P290",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-diverse30-lb1",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "93282f6c9a0f68272f9b30d96e85e7f876afe09bf5e300b5aeb17f513bb18d97",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -3861,8 +4521,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "sculpture_installation_concept",
@@ -3909,9 +4569,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P291",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-diverse30-lb2",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "959a739e345d7db419c89df83430cf2f8e1ea0f1eaec210ae91a98813e188b4b",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -3931,8 +4603,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "sculpture_installation_concept",
@@ -3974,9 +4646,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P292",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-diverse30-lb3",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "ac396d28858d1d5503070748a9f14c40f2b7de4c1ed4e4c78fbd7490ca32cab0",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -3996,8 +4680,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "sculpture_installation_concept",
@@ -4039,9 +4723,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P293",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-diverse30-co1",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "e2eed90512d82812509e7abb6a5ecad90f60e1eaad8ab86041d4c6ab67152c5b",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -4061,8 +4757,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "sculpture_installation_concept",
@@ -4104,9 +4800,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P294",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-diverse30-co2",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "c76cfad73caf923926f60fa8e55bd090bc0e7e635b3e8cdb273735dde6572c56",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
@@ -4126,8 +4834,8 @@ window.MUSEUM_CREATION_RECORDS = {
       "creation_date": "2026-10-13",
       "creation_date_precision": "day",
       "catalogued_at": "2026-10-14T06:51:42Z",
-      "published_at": null,
-      "accession_status": "catalogued_pending_public_verification",
+      "published_at": "2026-10-14T09:56:13Z",
+      "accession_status": "published_verified",
       "creation_type": "artist_language_inspired_original",
       "classification": "艺术家视觉语言启发的原创构图 · AI辅助创作",
       "category": "sculpture_installation_concept",
@@ -4169,9 +4877,21 @@ window.MUSEUM_CREATION_RECORDS = {
       "rights_note": "奶蛙为社区衍生角色。相关角色与参考作品的权利归各自权利人；本馆不为其授予开放许可。本图不是所列艺术家本人作品，也不代表合作、认可或授权。历史参考仅以链接注明，不在本包重发参考原图。",
       "number": "P295",
       "catalogue_commit": "6c60dc805fa2a97e20da237d928d512c4fc111e2",
-      "publication_commit": null,
-      "publication_url": null,
-      "publication_verification": null,
+      "publication_commit": "84b98b3200c0961fce2d2054c33e2e88c8cd5002",
+      "publication_url": "https://amatate.github.io/milk-frog-museum/#/work/mfm-20261013-diverse30-co3",
+      "publication_verification": {
+        "verified_at": "2026-10-14T09:56:13Z",
+        "pages_run": "https://github.com/amatate/milk-frog-museum/actions/runs/38545089153",
+        "original_png_sha256": "86d489e9e30f1aa5c2455179889f6f0e2b682311ba9a09436f2202808ce81037",
+        "original_png_http_200_and_byte_exact": true,
+        "desktop_and_virtual_viewports": [
+          1440,
+          390,
+          320
+        ],
+        "large_assets_from_independent_HTTP_verified_bytes": true,
+        "physical_phone_tested": false
+      },
       "user_feedback": {
         "status": "waiting_for_specific_feedback",
         "responses": []
