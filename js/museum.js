@@ -144,6 +144,7 @@
   function essayBlocks(blocks) {
     return blocks.map(block => {
       if(block.type==='paragraph') return journalParagraph(block);
+      if(block.type==='heading') return `<h3 class="journal-subheading">${escape(block.text)}</h3>`;
       if(block.type==='comparison') return `<div class="journal-comparison">${block.columns.map(column=>`<div class="journal-version">${essayBlocks(column.blocks)}</div>`).join('')}</div>`;
       const f=block.figure;
       return `<figure class="article-figure" data-work-number="${escape(f.workNumber)}"><img src="${escape(f.image)}" width="${f.width}" height="${f.height}" alt="${escape(f.alt)}" loading="lazy"><figcaption><strong>${escape(f.label)}</strong><span>${escape(f.caption)}</span><small>${escape(f.medium)} · ${escape(f.exhibitNote)}</small></figcaption></figure>`;
