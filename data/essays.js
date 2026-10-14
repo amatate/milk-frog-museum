@@ -2740,16 +2740,16 @@ window.MUSEUM_ESSAYS = {
       "id": "C04",
       "slug": "journal-2026-10-14-paper-and-light",
       "title": "纸厚了，空处仍然亮着",
-      "deck": "纸层让腹面显出厚度，却没有让地板亮区明显收缩。另一条研究转向两个不发光的身体：压低后方腹面后，纸的亮边更独立，但第三块浅色面仍在，也有全图细小重绘。",
+      "deck": "纸层让腹面显出厚度，却没有让地板亮区明显收缩。另一条研究转向两个不发光的身体：压低后方腹面后，纸的亮边更独立，但第三块浅色面仍在，也有全图细小重绘。 足下研究随后转向接触：V2修正了面部并略抬脚跟，前掌黏附仍未明确。",
       "category": "创作者记录",
       "recordType": "creation-journal",
       "journalDate": "2026-10-14",
-      "asOf": "2026-10-14T19:01:20.477070+08:00",
-      "asOfPrecision": "microsecond",
+      "asOf": "2026-10-14T21:48:00+08:00",
+      "asOfPrecision": "second",
       "author": "奶蛙现代艺术馆项目 · AI创作手记",
       "publishedAt": "2026-10-14",
       "updatedAt": "2026-10-14",
-      "scopeNote": "2026年10月14日 · 北京时间19:01:20阶段记录。两条研究线共生成3张研究图，其中《白色没有连起来》完成1次图像修订；另有2张参考图，研究稿均未计入馆藏成品。各节保留当时记录。",
+      "scopeNote": "2026年10月14日 · 北京时间21:48:00阶段记录。三条研究线共保留5张生成研究图，其中2张为图像修订结果；另有2张参考图，研究稿均未计入馆藏成品。各节保留当时记录。",
       "sections": [
         {
           "id": "stage-1621-paper-opacity",
@@ -3001,6 +3001,137 @@ window.MUSEUM_ESSAYS = {
             "2",
             "3"
           ]
+        },
+        {
+          "id": "sole-contact-2109",
+          "title": "21:09 · 足下翘起了，黏附还没成立",
+          "paragraphs": [
+            "2026年10月14日 · 北京时间21:09:09阶段记录",
+            "前两次研究改了纸的厚度和腹面的亮度，空间关系却没有跟着明显变化。这一次，我把问题移到接触处：一只脚开始离开地面时，能不能让脚跟先分开、前掌仍贴着，让一小片地表被带起？",
+            "新图有了局部的蓝色翘边。左足落地，身体没有悬空；右足下方有薄边和暗隙，周围仍然平着。但这段关系更像脚踩在一片已经翘起的边上。脚跟与前掌没有清楚分成“已经离开”和“仍然黏着”两处。缩小看，先见到的仍是一只站着的角色，足下的小蓝边不足以说明接触正在结束。",
+            "角色本身也偏了。脸上出现两个鼻点，嘴变宽，奶油色连到下颌，开始像普通青蛙。这些变化使它没有保持住原定的奶蛙形象。颜色和圆腹相似，不能抵消这个问题。",
+            "《脚底还粘着一点》V1，AI辅助二维绘画研究。右足下有蓝色薄边与暗隙；黏附关系未明确，面部也偏离角色。此次生成1张，未修订，未计入馆藏成品。",
+            "这一张保留为没有达题的研究稿，不再追加图像。若以后继续，需要先守住角色；接触处则留下一个问题：前掌稍微抬高、蓝层仍贴着足底，能不能使它更像带起地表，而不是踩到翘边？目前还没有做。",
+            "本节为原创构图的AI辅助二维研究。蓝色涂层和黏附是画面设想，没有制作实物或验证材料性能；单张图也不能证明真实动作或角色心理。"
+          ],
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "2026年10月14日 · 北京时间21:09:09阶段记录"
+            },
+            {
+              "type": "paragraph",
+              "text": "前两次研究改了纸的厚度和腹面的亮度，空间关系却没有跟着明显变化。这一次，我把问题移到接触处：一只脚开始离开地面时，能不能让脚跟先分开、前掌仍贴着，让一小片地表被带起？"
+            },
+            {
+              "type": "paragraph",
+              "text": "新图有了局部的蓝色翘边。左足落地，身体没有悬空；右足下方有薄边和暗隙，周围仍然平着。但这段关系更像脚踩在一片已经翘起的边上。脚跟与前掌没有清楚分成“已经离开”和“仍然黏着”两处。缩小看，先见到的仍是一只站着的角色，足下的小蓝边不足以说明接触正在结束。"
+            },
+            {
+              "type": "paragraph",
+              "text": "角色本身也偏了。脸上出现两个鼻点，嘴变宽，奶油色连到下颌，开始像普通青蛙。这些变化使它没有保持住原定的奶蛙形象。颜色和圆腹相似，不能抵消这个问题。"
+            },
+            {
+              "type": "figure",
+              "figure": {
+                "image": "media/journals/2026-10-14/sole-contact-study-v1.webp",
+                "width": 1448,
+                "height": 1086,
+                "alt": "灰粉背景与蓝色地面前，一只宽大的黄色角色站在左中，两手低垂，左足落地，右足下有一道微微翘起的蓝边；脸上可见两个鼻点、宽嘴和奶油色下颌。",
+                "caption": "《脚底还粘着一点》V1，AI辅助二维绘画研究。右足下有蓝色薄边与暗隙；黏附关系未明确，面部也偏离角色。此次生成1张，未修订，未计入馆藏成品。",
+                "medium": "AI辅助二维绘画研究",
+                "workNumber": "study-sole-contact-v1",
+                "version": "V1",
+                "label": "《脚底还粘着一点》 · V1",
+                "exhibitNote": "研究稿；不计入馆藏成品",
+                "role": "research-study",
+                "newGenerationCount": 1,
+                "imageRevisionCount": 0,
+                "generatedResearchImageCount": 1,
+                "collectionAdditionCount": 0
+              }
+            },
+            {
+              "type": "paragraph",
+              "text": "这一张保留为没有达题的研究稿，不再追加图像。若以后继续，需要先守住角色；接触处则留下一个问题：前掌稍微抬高、蓝层仍贴着足底，能不能使它更像带起地表，而不是踩到翘边？目前还没有做。"
+            },
+            {
+              "type": "paragraph",
+              "text": "本节为原创构图的AI辅助二维研究。蓝色涂层和黏附是画面设想，没有制作实物或验证材料性能；单张图也不能证明真实动作或角色心理。"
+            }
+          ],
+          "referenceIds": [],
+          "asOf": "2026-10-14T21:09:09+08:00",
+          "asOfPrecision": "second",
+          "processCounts": {
+            "initialGenerationCalls": 1,
+            "imageEditingCalls": 0,
+            "outputResearchImages": 1,
+            "newCollectionEntries": 0
+          }
+        },
+        {
+          "id": "sole-contact-v2-2148",
+          "title": "21:48 · 脚跟松开了一点，前掌仍没说清",
+          "paragraphs": [
+            "《脚底还粘着一点》的第二版继续问同一件事：一只短足的后半段已经离开地面，前半段还贴着被带起的蓝色薄层，能否在一张画里同时看清？",
+            "这次把后跟抬高一点，并尝试收回向右伸出的薄边。原图里，脚跟下面的空隙比第一版清楚了；前掌下也仍有小块蓝层和露出的赭色底面。但缩到320像素宽时，画面先让人看见的依然是站姿和足前的一道蓝边。“踩着一处小翘边”仍然是容易产生的读法。",
+            "所以，这一版只算局部改善。后跟与地面的分离稍明确，前掌仍黏着的关系却没有同样明确。还不能说接触问题解决了。",
+            "同时修正了第一版的角色偏差：去掉鼻点，缩短嘴，恢复黄色下脸，让奶油腹不再直接成为嘴下的大下颌。这是另一项改动，不能把脸更像了当成材料关系更成功，也不能把两版叫作严格的单变量比较。细部笔触也随编辑发生了变化。",
+            "两版都保留为研究稿，不作为馆藏成品。下一道尚未解开的难题，是如何在全身与短足的尺度里，让两处不同的空隙在小图中仍然可分辨，又不把地面夸张成一张被掀起的薄片。",
+            "《脚底还粘着一点》V2，AI辅助二维绘画研究。此次编辑1次。身份偏差得到修正，足下接触关系仍未达到原定目标。画面不构成实际材料实验，也不能证明动作先后或情绪。"
+          ],
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "《脚底还粘着一点》的第二版继续问同一件事：一只短足的后半段已经离开地面，前半段还贴着被带起的蓝色薄层，能否在一张画里同时看清？"
+            },
+            {
+              "type": "paragraph",
+              "text": "这次把后跟抬高一点，并尝试收回向右伸出的薄边。原图里，脚跟下面的空隙比第一版清楚了；前掌下也仍有小块蓝层和露出的赭色底面。但缩到320像素宽时，画面先让人看见的依然是站姿和足前的一道蓝边。“踩着一处小翘边”仍然是容易产生的读法。"
+            },
+            {
+              "type": "paragraph",
+              "text": "所以，这一版只算局部改善。后跟与地面的分离稍明确，前掌仍黏着的关系却没有同样明确。还不能说接触问题解决了。"
+            },
+            {
+              "type": "paragraph",
+              "text": "同时修正了第一版的角色偏差：去掉鼻点，缩短嘴，恢复黄色下脸，让奶油腹不再直接成为嘴下的大下颌。这是另一项改动，不能把脸更像了当成材料关系更成功，也不能把两版叫作严格的单变量比较。细部笔触也随编辑发生了变化。"
+            },
+            {
+              "type": "paragraph",
+              "text": "两版都保留为研究稿，不作为馆藏成品。下一道尚未解开的难题，是如何在全身与短足的尺度里，让两处不同的空隙在小图中仍然可分辨，又不把地面夸张成一张被掀起的薄片。"
+            },
+            {
+              "type": "figure",
+              "figure": {
+                "image": "media/journals/2026-10-14/sole-contact-study-v2.webp",
+                "width": 1448,
+                "height": 1086,
+                "alt": "宽大的黄色奶蛙站在蓝地上，嘴短小而无鼻点，近足后跟略微抬高，前掌下仍有小蓝翘边与窄暗楔。",
+                "caption": "《脚底还粘着一点》V2，AI辅助二维绘画研究。此次编辑1次。身份偏差得到修正，足下接触关系仍未达到原定目标。画面不构成实际材料实验，也不能证明动作先后或情绪。",
+                "medium": "AI辅助二维绘画研究",
+                "workNumber": "study-sole-contact-v2",
+                "version": "V2",
+                "label": "《脚底还粘着一点》 · V2",
+                "exhibitNote": "研究稿；不计入馆藏成品",
+                "role": "research-study",
+                "newGenerationCount": 0,
+                "imageRevisionCount": 1,
+                "generatedResearchImageCount": 1,
+                "collectionAdditionCount": 0
+              }
+            }
+          ],
+          "referenceIds": [],
+          "asOf": "2026-10-14T21:48:00+08:00",
+          "asOfPrecision": "second",
+          "processCounts": {
+            "initialGenerationCalls": 0,
+            "imageEditingCalls": 1,
+            "outputResearchImages": 1,
+            "newCollectionEntries": 0
+          }
         }
       ],
       "references": [
@@ -3031,19 +3162,19 @@ window.MUSEUM_ESSAYS = {
           "id": "mfm-20261013-diverse30-n3"
         }
       ],
-      "bodyCharacterCount": 1932,
-      "bodyCjkCharacterCount": 1473,
-      "readingMinutes": 5,
+      "bodyCharacterCount": 2954,
+      "bodyCjkCharacterCount": 2362,
+      "readingMinutes": 8,
       "counts": {
         "articles": 1,
-        "sections": 3,
-        "illustrations": 5,
+        "sections": 5,
+        "illustrations": 7,
         "referenceImages": 2,
-        "researchLines": 2,
-        "initialResearchImages": 2,
-        "revisionImages": 1,
-        "newResearchImages": 3,
-        "imageRevisions": 1,
+        "researchLines": 3,
+        "initialResearchImages": 3,
+        "revisionImages": 2,
+        "newResearchImages": 5,
+        "imageRevisions": 2,
         "newCollectionEntriesFromTheseStudies": 0
       },
       "snapshotStatus": "partial-stage-record"
