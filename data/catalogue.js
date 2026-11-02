@@ -3,7 +3,7 @@ window.MUSEUM_CATALOGUE = {
   "museum": {
     "title": "奶蛙现代艺术馆",
     "subtitle": "从一张脸，看到它周围的规则",
-    "intro": "从镜中的背影到失去水的瓷砖，从一枚未读标记到只剩黄色的方块，284件作品追问：一个角色可以改变多少，仍与原来的自己发生关系？沿五个展厅观看，也可按媒介和编号查阅。",
+    "intro": "从镜中的背影到失去水的瓷砖，从一枚未读标记到只剩黄色的方块，349件作品追问：一个角色可以改变多少，仍与原来的自己发生关系？沿五个展厅观看，也可按媒介和编号查阅。",
     "rightsNote": "本站展示奶蛙题材的AI辅助图像与数字三维再创作，不代表角色权利方、历史作品作者或收藏机构。相关角色与被引用作品的权利归各自权利人；本馆不为第三方内容授予开放许可。历史参考以来源链接说明，不再发行其参考原图。 本馆新增作品分别标明官方奶龙形象的非官方二创、社区奶蛙或奶蛋样本；馆方项目身份不等同角色创作者。",
     "headline": "一只熟悉的身体，\n世界不再严丝合缝。",
     "featuredId": "011-incompatible-lunch",
@@ -15,7 +15,7 @@ window.MUSEUM_CATALOGUE = {
       "“失配”指那些能被具体指出的关系偏移：身体完整而空间不连续，地面坚硬而形状如水，轮廓向前而色块落后。它也需要相对稳定的作品作对照。《倒牛奶的奶蛙》里的手、壶与奶流必须配合，《相拥的奶蛙》的环抱必须在体量上成立。全馆因而保留劳动、亲近和停顿，不把一切都归为错误或荒诞。",
       "本项目的创作、筛选、展签与研究彼此相关。策展文本可以提出读法，不能替作品证明观众已经被治愈、冒犯或说服。研究区继续追问这些判断如何取证；版本对照则让部分选择留在图像之间，而不是只留在一段解释里。"
     ],
-    "editionNote": "网页展示版；本次60件采用作品附经批准公开的生成原PNG，其余旧展品保持展示图。",
+    "editionNote": "网页展示版；本次补入89幅已完成作品，按65个展示单元呈现：58件单作与7组共31幅组内定稿。另保留推水V1作同题版本对照。每幅新入馆定稿提供原PNG。",
     "archiveNote": "八月旧作归档：20 件作品、6 张早期版本；旧作题名与修订关系保留，展签与解读在本次归档时补充。",
     "inspiration": {
       "title": "奶蛙博物馆 · MUSÉE DU MILK FROG",
@@ -12004,6 +12004,2729 @@ window.MUSEUM_CATALOGUE = {
       "width": 1122,
       "height": 1402,
       "extraViews": []
+    },
+    {
+      "year": "2026",
+      "type": "image",
+      "image": "media/mfm-20261018-n01/original.png",
+      "thumbnail": "media/mfm-20261018-n01/art-thumb.webp",
+      "width": 1024,
+      "height": 1536,
+      "alt": "红色的路在浅色小岛前停住，留下一道没有接上的缝。奶蛙站着没有动，周围的蓝色刻线先绕开了它。",
+      "completionStatus": "completed",
+      "id": "mfm-20261019-overnight-threshold",
+      "number": "P296",
+      "title": "门内外与远近",
+      "titleEn": "",
+      "medium": "AI辅助二维作品组 · 6幅独立定稿",
+      "creationDate": "2026-10-18",
+      "wallText": "路没有接上，走廊里的身体越走越大，门开着却仍隔着空地。距离不只由透视决定，也由那些接不上、跨不过的边界决定。",
+      "interpretation": [
+        "这些画以同一组问题并置，不是同一张画的多个版本。每张原图、采用版本及具体来源保留在各自详情页。"
+      ],
+      "tags": [
+        "组作",
+        "独立定稿",
+        "2026年11月入馆"
+      ],
+      "source": {},
+      "sources": [],
+      "extraViews": [],
+      "memberIds": [
+        "mfm-20261018-n01",
+        "mfm-20261019-n46",
+        "mfm-20261019-n48",
+        "mfm-20261019-n50",
+        "mfm-20261019-n55",
+        "mfm-20261019-n58"
+      ],
+      "groupKind": "finalized-series",
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 组内每幅都是独立定稿；主馆藏按一组展示单元计数，不把图像数量与展示单元混为一谈。"
+    },
+    {
+      "id": "mfm-20261019-a02",
+      "title": "纸片还没回到原位",
+      "titleEn": "",
+      "number": "P297",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "脸留在上面，手落到左边，乳白腹片偏向右下。灰色从它们中间穿过去，蓝白纸片占住了接回身体的位置。仍认得出它，却无法照原样拼回。",
+      "alt": "脸留在上面，手落到左边，乳白腹片偏向右下。灰色从它们中间穿过去，蓝白纸片占住了接回身体的位置。仍认得出它，却无法照原样拼回。",
+      "interpretation": [],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Untitled (Collage with Squares Arranged according to the Law of Chance)",
+        "artist": "Jean (Hans) Arp",
+        "date": "1916–1917"
+      },
+      "sources": [
+        {
+          "title": "Untitled (Collage with Squares Arranged according to the Law of Chance)",
+          "url": "https://www.moma.org/collection/works/37013"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-a02/original.png",
+      "original": "media/mfm-20261019-a02/original.png",
+      "thumbnail": "media/mfm-20261019-a02/art-thumb.webp",
+      "width": 1024,
+      "height": 1536,
+      "extraViews": [],
+      "originalSha256": "00c5e08f5453691906e7ed9e9bea28dcdbf716916ddb1947c0e2b579cdb60316"
+    },
+    {
+      "id": "mfm-20261019-a03",
+      "title": "五个形之间的空处",
+      "titleEn": "",
+      "number": "P298",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "小圆靠近右边的大形，缝隙收得很窄。左下却留出一大片纸白。黄色斜过来，与另外四个形各自带着不同方向的擦痕，没有谁需要站在地上。",
+      "alt": "小圆靠近右边的大形，缝隙收得很窄。左下却留出一大片纸白。黄色斜过来，与另外四个形各自带着不同方向的擦痕，没有谁需要站在地上。",
+      "interpretation": [],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Objects Arranged According to the Law of Chance",
+        "artist": "Jean (Hans) Arp",
+        "date": "1930"
+      },
+      "sources": [
+        {
+          "title": "Objects Arranged According to the Law of Chance",
+          "url": "https://www.moma.org/collection/works/80912"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-a03/original.png",
+      "original": "media/mfm-20261019-a03/original.png",
+      "thumbnail": "media/mfm-20261019-a03/art-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "extraViews": [],
+      "originalSha256": "cd3be1bb5e9678df0dd43666b736f3285b25de4130140d8eca0bc39238410719"
+    },
+    {
+      "id": "mfm-20261019-a04",
+      "title": "一张脸后面还有黄色",
+      "titleEn": "",
+      "number": "P299",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V1",
+      "creationDate": "2026-10-19",
+      "wallText": "红色横过来，黄色在它下面又出现。黑色前景向下凹，露出半片乳白腹部。小脸留在上沿，身体已经铺成后面那片被遮住的地景。",
+      "alt": "红色横过来，黄色在它下面又出现。黑色前景向下凹，露出半片乳白腹部。小脸留在上沿，身体已经铺成后面那片被遮住的地景。",
+      "interpretation": [],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Forest",
+        "artist": "Jean (Hans) Arp",
+        "date": "1916"
+      },
+      "sources": [
+        {
+          "title": "Forest",
+          "url": "https://www.clevelandart.org/art/1970.52"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V1。",
+      "image": "media/mfm-20261019-a04/original.png",
+      "original": "media/mfm-20261019-a04/original.png",
+      "thumbnail": "media/mfm-20261019-a04/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": [],
+      "originalSha256": "f5fa59e5b40ee312521f9be9b3e5ed0dd72fd166a4fece2d1acfbcd3449398a7"
+    },
+    {
+      "id": "mfm-20261019-d01",
+      "title": "帽沿停在手里",
+      "titleEn": "",
+      "number": "P300",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "斜桌和裁出画面的帽子挤向前景。奶蛙侧坐着，两只灰手托住帽沿。圆钝的身体被帽子、帘布和桌边围住，动作只在手与帽沿接触的地方慢下来。",
+      "alt": "斜桌和裁出画面的帽子挤向前景。奶蛙侧坐着，两只灰手托住帽沿。圆钝的身体被帽子、帘布和桌边围住，动作只在手与帽沿接触的地方慢下来。",
+      "interpretation": [],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "The Millinery Shop",
+        "artist": "Edgar Degas",
+        "date": "1879–1886"
+      },
+      "sources": [
+        {
+          "title": "The Millinery Shop",
+          "url": "https://www.artic.edu/artworks/14572/the-millinery-shop"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-d01/original.png",
+      "original": "media/mfm-20261019-d01/original.png",
+      "thumbnail": "media/mfm-20261019-d01/art-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "extraViews": [],
+      "originalSha256": "77fa63b2551f4556c1f2cc7bf139b44f6e8cc6159eed45e6ae80dad5d313f43f"
+    },
+    {
+      "id": "mfm-20261019-d03",
+      "title": "一个向外，一个向花",
+      "titleEn": "",
+      "number": "P301",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V1",
+      "creationDate": "2026-10-19",
+      "wallText": "左边望向画外，右边前倾看手里的花，灰手握住细细的花茎。同一间房里，两种注意各有去处；墙面的交叉短笔和红椅的宽擦，把它们留在一起。",
+      "alt": "左边望向画外，右边前倾看手里的花，灰手握住细细的花茎。同一间房里，两种注意各有去处；墙面的交叉短笔和红椅的宽擦，把它们留在一起。",
+      "interpretation": [],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Two Women",
+        "artist": "Edgar Degas",
+        "date": "约1878–1880"
+      },
+      "sources": [
+        {
+          "title": "Two Women",
+          "url": "https://www.nga.gov/artworks/168819-two-women"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V1。",
+      "image": "media/mfm-20261019-d03/original.png",
+      "original": "media/mfm-20261019-d03/original.png",
+      "thumbnail": "media/mfm-20261019-d03/art-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "extraViews": [],
+      "originalSha256": "9434e743c4f7b64f6d96a0dd11644eba3bb2b16e47dcf51879c2cb988aebe383"
+    },
+    {
+      "id": "mfm-20261019-d04",
+      "title": "站在画前的背影",
+      "titleEn": "",
+      "number": "P302",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V1",
+      "creationDate": "2026-10-19",
+      "wallText": "柱子挡住近处读册的人，奶蛙背向我们看画，手里的伞斜落到地面。狭长画幅把背影、画框和伞杆挤在一起，黄色成为安静站立的一道边。",
+      "alt": "柱子挡住近处读册的人，奶蛙背向我们看画，手里的伞斜落到地面。狭长画幅把背影、画框和伞杆挤在一起，黄色成为安静站立的一道边。",
+      "interpretation": [],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Mary Cassatt at the Louvre: The Paintings Gallery",
+        "artist": "Edgar Degas",
+        "date": "1879–1880"
+      },
+      "sources": [
+        {
+          "title": "Mary Cassatt at the Louvre: The Paintings Gallery",
+          "url": "https://www.nga.gov/artworks/33364-mary-cassatt-louvre-paintings-gallery"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V1。",
+      "image": "media/mfm-20261019-d04/original.png",
+      "original": "media/mfm-20261019-d04/original.png",
+      "thumbnail": "media/mfm-20261019-d04/art-thumb.webp",
+      "width": 793,
+      "height": 1983,
+      "extraViews": [],
+      "originalSha256": "68b8c0d69e84760f59f9cf52612686775e11ca24c07abd3fd75b0cdc13cf73c5"
+    },
+    {
+      "id": "mfm-20261019-k03",
+      "title": "被两边挤出的轮廓",
+      "titleEn": "",
+      "number": "P303",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "右边三道紫灰色的弧向里收，左边的深蓝也凹进来。黄色顺着两边弯过去，脸从上端露出。没有站稳的脚，身体却在两侧的挤压中找到轮廓。",
+      "alt": "右边三道紫灰色的弧向里收，左边的深蓝也凹进来。黄色顺着两边弯过去，脸从上端露出。没有站稳的脚，身体却在两侧的挤压中找到轮廓。",
+      "interpretation": [],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Baroque Centaur (Barocker Kentaur)",
+        "artist": "Paul Klee",
+        "date": "1939"
+      },
+      "sources": [
+        {
+          "title": "Baroque Centaur (Barocker Kentaur)",
+          "url": "https://www.nga.gov/artworks/130830-baroque-centaur-barocker-kentaur"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-k03/original.png",
+      "original": "media/mfm-20261019-k03/original.png",
+      "thumbnail": "media/mfm-20261019-k03/art-thumb.webp",
+      "width": 1024,
+      "height": 1536,
+      "extraViews": [],
+      "originalSha256": "f5852071523eff90eb4ee4594b07fa2eb9c490e352b0fba54418ff01ade65e7d"
+    },
+    {
+      "id": "mfm-20261019-k04",
+      "title": "脸的两边各有重量",
+      "titleEn": "",
+      "number": "P304",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "左边浅色斜下来，碰到眼圈；右边的赭黄从眼睛下面掠过。短短的嘴，一端清楚，一端被颜色收住。脸没有换表情，两边的颜料却各自用了不同的力。",
+      "alt": "左边浅色斜下来，碰到眼圈；右边的赭黄从眼睛下面掠过。短短的嘴，一端清楚，一端被颜色收住。脸没有换表情，两边的颜料却各自用了不同的力。",
+      "interpretation": [],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Senecio (Baldgreis)",
+        "artist": "Paul Klee",
+        "date": "1922"
+      },
+      "sources": [
+        {
+          "title": "Senecio (Baldgreis)",
+          "url": "https://ci.kunstmuseumbasel.ch/en/museum/blog/2024/58"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-k04/original.png",
+      "original": "media/mfm-20261019-k04/original.png",
+      "thumbnail": "media/mfm-20261019-k04/art-thumb.webp",
+      "width": 1254,
+      "height": 1254,
+      "extraViews": [],
+      "originalSha256": "d6140da6cc5fba9b9661571cd3c7da2a063ef03f7fd5a9eae0a11da87506d992"
+    },
+    {
+      "id": "mfm-20261019-k05",
+      "title": "目光向上停了一下",
+      "titleEn": "",
+      "number": "P305",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "两只眼睛向上、向中间挪了一点。那里有一只赭红色的鸟，翅膀还清楚，腹部的一半已经沉进黄色。嘴没有动，目光却不再望向画外。",
+      "alt": "两只眼睛向上、向中间挪了一点。那里有一只赭红色的鸟，翅膀还清楚，腹部的一半已经沉进黄色。嘴没有动，目光却不再望向画外。",
+      "interpretation": [],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Cat and Bird",
+        "artist": "Paul Klee",
+        "date": "1928"
+      },
+      "sources": [
+        {
+          "title": "Cat and Bird",
+          "url": "https://www.moma.org/collection/works/79456"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-k05/original.png",
+      "original": "media/mfm-20261019-k05/original.png",
+      "thumbnail": "media/mfm-20261019-k05/art-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "extraViews": [],
+      "originalSha256": "7313097d3aad919c6e38885908722fa3eb0e092a319890b32f6f7112a0107162"
+    },
+    {
+      "id": "mfm-20261019-mu01",
+      "title": "窗光经过脚边",
+      "titleEn": "",
+      "number": "P306",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "房间已经暗了，窗外的蓝色还没有退去。奶蛙坐在沙发边，双手落在膝前。地板上的窗光比它更亮；光从脚边经过，它只是坐着。",
+      "alt": "房间已经暗了，窗外的蓝色还没有退去。奶蛙坐在沙发边，双手落在膝前。地板上的窗光比它更亮；光从脚边经过，它只是坐着。",
+      "interpretation": [],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Night in Saint-Cloud",
+        "artist": "Edvard Munch",
+        "date": "1890"
+      },
+      "sources": [
+        {
+          "title": "Night in Saint-Cloud",
+          "url": "https://www.nasjonalmuseet.no/en/collection/object/NG.M.01111"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-mu01/original.png",
+      "original": "media/mfm-20261019-mu01/original.png",
+      "thumbnail": "media/mfm-20261019-mu01/art-thumb.webp",
+      "width": 1024,
+      "height": 1536,
+      "extraViews": [],
+      "originalSha256": "a49baa8cee18fdfa1843422b60f7c1fd5026373271b968427a6e765438867a15"
+    },
+    {
+      "id": "mfm-20261019-mu02",
+      "title": "岸线绕过手边",
+      "titleEn": "",
+      "number": "P307",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "脸和托腮的灰手留在右下角，胸腹退出画面。弯曲的岸线重新伸向远处，水面与小人占据视野。近处没有展开的身体，把空间让给了那道长长的弯。",
+      "alt": "脸和托腮的灰手留在右下角，胸腹退出画面。弯曲的岸线重新伸向远处，水面与小人占据视野。近处没有展开的身体，把空间让给了那道长长的弯。",
+      "interpretation": [],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Melancholy",
+        "artist": "Edvard Munch",
+        "date": "推定1892"
+      },
+      "sources": [
+        {
+          "title": "Melancholy",
+          "url": "https://www.nasjonalmuseet.no/en/collection/object/NG.M.02813"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-mu02/original.png",
+      "original": "media/mfm-20261019-mu02/original.png",
+      "thumbnail": "media/mfm-20261019-mu02/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": [],
+      "originalSha256": "c20962fadd64dccce74d604767e043fc1c585ffbbf1a23514741916cad62ec89"
+    },
+    {
+      "id": "mfm-20261019-mu04",
+      "title": "展开的手臂，收拢的身体",
+      "titleEn": "",
+      "number": "P308",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V1",
+      "creationDate": "2026-10-19",
+      "wallText": "两只灰手接住头顶，长臂撑成一道拱；左下的人却蜷成暗团。树干在前后竖起，把展开与收拢隔在同一片林子里，两种姿态互相照见。",
+      "alt": "两只灰手接住头顶，长臂撑成一道拱；左下的人却蜷成暗团。树干在前后竖起，把展开与收拢隔在同一片林子里，两种姿态互相照见。",
+      "interpretation": [],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Ashes",
+        "artist": "Edvard Munch",
+        "date": "1895"
+      },
+      "sources": [
+        {
+          "title": "Ashes",
+          "url": "https://www.nasjonalmuseet.no/en/collection/object/NG.M.00809"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V1。",
+      "image": "media/mfm-20261019-mu04/original.png",
+      "original": "media/mfm-20261019-mu04/original.png",
+      "thumbnail": "media/mfm-20261019-mu04/art-thumb.webp",
+      "width": 1478,
+      "height": 1064,
+      "extraViews": [],
+      "originalSha256": "9fd50b1677618cfb4f0f79680fbcb5c3ac6da75f74d34a2a49ab38ec262d6510"
+    },
+    {
+      "id": "mfm-20261019-n07",
+      "title": "黄色被拉开一点",
+      "titleEn": "",
+      "number": "P309",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "色面与厚薄笔触；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "灰手捏住帘边，花墙从斜口里露出来。背上的黄往右慢慢混进帘子，剩下那条抬起的手臂，把身体从房间里牵出来。",
+      "alt": "灰手捏住帘边，花墙从斜口里露出来。背上的黄往右慢慢混进帘子，剩下那条抬起的手臂，把身体从房间里牵出来。",
+      "interpretation": [
+        "帘子遮住部分身体，下体细节不能完整核实。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "The Yellow Curtain",
+        "artist": "Edouard Vuillard",
+        "date": "c. 1893"
+      },
+      "sources": [
+        {
+          "title": "The Yellow Curtain",
+          "url": "https://www.nga.gov/artworks/52239-yellow-curtain"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-n07/original.png",
+      "original": "media/mfm-20261019-n07/original.png",
+      "thumbnail": "media/mfm-20261019-n07/art-thumb.webp",
+      "width": 1327,
+      "height": 1186,
+      "extraViews": [],
+      "originalSha256": "31fd77c6ab0ab7289f900b491a23b5bf37e84365afa1e96423bb8bc0d874fd10"
+    },
+    {
+      "id": "mfm-20261019-n10",
+      "title": "这一圈还没有走完",
+      "titleEn": "",
+      "number": "P310",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "木刻构图转译；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V5",
+      "creationDate": "2026-10-19",
+      "wallText": "高墙上没有天空，六个黄色身体沿着地面的弧线走。前面那一只朝外看，脚仍留在圈里。墙边站着的人不用走。",
+      "alt": "高墙上没有天空，六个黄色身体沿着地面的弧线走。前面那一只朝外看，脚仍留在圈里。墙边站着的人不用走。",
+      "interpretation": [
+        "远处小体与侧背视有简化，不把绕圈静态图说成实际运动记录。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Prisoners Exercising / Prisoners Round",
+        "artist": "Vincent van Gogh",
+        "date": ""
+      },
+      "sources": [
+        {
+          "title": "Prisoners Exercising / Prisoners Round",
+          "url": "https://gallery.pushkinmuseum.art/artists/g/gogh_v/the_prison_courtyard.php"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V5。",
+      "image": "media/mfm-20261019-n10/original.png",
+      "original": "media/mfm-20261019-n10/original.png",
+      "thumbnail": "media/mfm-20261019-n10/art-thumb.webp",
+      "width": 1122,
+      "height": 1402,
+      "extraViews": [],
+      "originalSha256": "e1c7e9a8a97c006b64257bbb2614572505f18d50b0b273c253ed291460e231c0"
+    },
+    {
+      "id": "mfm-20261019-n15",
+      "title": "他们看见的那一边",
+      "titleEn": "",
+      "number": "P311",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "水粉构图关系转译；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V3",
+      "creationDate": "2026-10-19",
+      "wallText": "黄色的身体停在铁梁之间，一只背向我们，一只转向栏边。远处只从缝里露出一点，蓝灰色的大斜线却先挡住视线。",
+      "alt": "黄色的身体停在铁梁之间，一只背向我们，一只转向栏边。远处只从缝里露出一点，蓝灰色的大斜线却先挡住视线。",
+      "interpretation": [
+        "画面为静态AI绘画，不据单张图像断言角色内心或时间过程。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "On the Pont de l’Europe / Sur le pont de l’Europe",
+        "artist": "Gustave Caillebotte",
+        "date": ""
+      },
+      "sources": [
+        {
+          "title": "On the Pont de l’Europe / Sur le pont de l’Europe",
+          "url": "https://kimbellart.org/collection/ap-198201"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V3。",
+      "image": "media/mfm-20261019-n15/original.png",
+      "original": "media/mfm-20261019-n15/original.png",
+      "thumbnail": "media/mfm-20261019-n15/art-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "extraViews": [],
+      "originalSha256": "6bba0080bdd1111a52147360efc4b35003ce28f03d26f235321536dd57a634c2"
+    },
+    {
+      "id": "mfm-20261019-n18",
+      "title": "只动这一片",
+      "titleEn": "",
+      "number": "P312",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "水粉构图关系转译；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "一只灰手留着几张牌，另一只靠近最右边那一片。身体很大，动的地方很小。褐色里空着那么多位置，目光还是落在纸边上。",
+      "alt": "一只灰手留着几张牌，另一只靠近最右边那一片。身体很大，动的地方很小。褐色里空着那么多位置，目光还是落在纸边上。",
+      "interpretation": [
+        "画面为静态AI绘画，不据单张图像断言角色内心或时间过程。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "The House of Cards",
+        "artist": "Jean Siméon Chardin",
+        "date": "probably 1737"
+      },
+      "sources": [
+        {
+          "title": "The House of Cards",
+          "url": "https://www.nga.gov/artworks/97-house-cards"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-n18/original.png",
+      "original": "media/mfm-20261019-n18/original.png",
+      "thumbnail": "media/mfm-20261019-n18/art-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "extraViews": [],
+      "originalSha256": "a734b94fbcf53ca2fb80936de12bb8912d2d87f51fd458c3eb29b6f73695f252"
+    },
+    {
+      "id": "mfm-20261019-n20",
+      "title": "这一小段坐得稳",
+      "titleEn": "",
+      "number": "P313",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "色面油画构图转译；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "奶蛙坐在静物旁的一小段边缘，双腿垂到下方。水果和瓶子忽然显得很大，桌布折出另一个方向；熟悉的身体成了量桌面的尺。",
+      "alt": "奶蛙坐在静物旁的一小段边缘，双腿垂到下方。水果和瓶子忽然显得很大，桌布折出另一个方向；熟悉的身体成了量桌面的尺。",
+      "interpretation": [
+        "角色尺寸相对静物刻意缩小，部分手部细节受尺度限制。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "The Basket of Apples",
+        "artist": "Paul Cézanne",
+        "date": "c.1893"
+      },
+      "sources": [
+        {
+          "title": "The Basket of Apples",
+          "url": "https://www.artic.edu/artworks/111436/the-basket-of-apples"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-n20/original.png",
+      "original": "media/mfm-20261019-n20/original.png",
+      "thumbnail": "media/mfm-20261019-n20/art-thumb.webp",
+      "width": 1402,
+      "height": 1122,
+      "extraViews": [],
+      "originalSha256": "b39f3e5d7670124830b72b7cb5e7a9f01dde2855fb0ab99a4282378ea0ed2b5b"
+    },
+    {
+      "id": "mfm-20261019-n28",
+      "title": "网从这一边沉下去",
+      "titleEn": "",
+      "number": "P314",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "限色木刻转译；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V1",
+      "creationDate": "2026-10-19",
+      "wallText": "灰手牵住同一道网边。银色的鱼往右下聚，船板斜着挡在前面，浪纹又从另一边切过来。网外还有海，手里只有这一小段。",
+      "alt": "灰手牵住同一道网边。银色的鱼往右下聚，船板斜着挡在前面，浪纹又从另一边切过来。网外还有海，手里只有这一小段。",
+      "interpretation": [
+        "船与网遮挡局部下体，不作全身比例验证。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "The Herring Net",
+        "artist": "Winslow Homer",
+        "date": "1885"
+      },
+      "sources": [
+        {
+          "title": "The Herring Net",
+          "url": "https://archive.artic.edu/homer_exhb/artwork/25865"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V1。",
+      "image": "media/mfm-20261019-n28/original.png",
+      "original": "media/mfm-20261019-n28/original.png",
+      "thumbnail": "media/mfm-20261019-n28/art-thumb.webp",
+      "width": 1599,
+      "height": 984,
+      "extraViews": [],
+      "originalSha256": "c3d83f8dd800dd24184825aa1bf4d2e2a84db8a45044870f9ecded07bead84da"
+    },
+    {
+      "id": "mfm-20261019-n32",
+      "title": "空地把两种节奏分开",
+      "titleEn": "",
+      "number": "P315",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "限色孔版石版转译；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V1",
+      "creationDate": "2026-10-19",
+      "wallText": "左边挤着几只等待的身体，手都低低放着。右边的两只把手臂抬起来，中间留出一块不规整的地板。空地没有动作，却把两种节奏分得很清楚。",
+      "alt": "左边挤着几只等待的身体，手都低低放着。右边的两只把手臂抬起来，中间留出一块不规整的地板。空地没有动作，却把两种节奏分得很清楚。",
+      "interpretation": [
+        "远体表情与手足经过缩略；关注空地与不同姿态的关系。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "The Rehearsal of the Ballet Onstage",
+        "artist": "Edgar Degas",
+        "date": "ca. 1874"
+      },
+      "sources": [
+        {
+          "title": "The Rehearsal of the Ballet Onstage",
+          "url": "https://www.metmuseum.org/art/collection/search/436155"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V1。",
+      "image": "media/mfm-20261019-n32/original.png",
+      "original": "media/mfm-20261019-n32/original.png",
+      "thumbnail": "media/mfm-20261019-n32/art-thumb.webp",
+      "width": 1452,
+      "height": 1083,
+      "extraViews": [],
+      "originalSha256": "8400afb57b8a1581380f6a916573e76f00a0cc187210fce97237634a34dc0182"
+    },
+    {
+      "id": "mfm-20261019-n41",
+      "title": "栏边停下来的三块黄",
+      "titleEn": "",
+      "number": "P316",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "蜡笔与不透明色面构图转译；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "栏杆一直斜着往远处走，三块黄色在近处停住。树很大，水里的暗影也很大。它们靠在一起，留给水面同一个方向。",
+      "alt": "栏杆一直斜着往远处走，三块黄色在近处停住。树很大，水里的暗影也很大。它们靠在一起，留给水面同一个方向。",
+      "interpretation": [
+        "三体以背视为主，脸部和腹部不可见。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "The Girls on the Bridge / Pikene på broen",
+        "artist": "Edvard Munch",
+        "date": "Probably 1901 (official Antagelig 1901)"
+      },
+      "sources": [
+        {
+          "title": "The Girls on the Bridge / Pikene på broen",
+          "url": "https://www.nasjonalmuseet.no/en/collection/object/NG.M.00844"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-n41/original.png",
+      "original": "media/mfm-20261019-n41/original.png",
+      "thumbnail": "media/mfm-20261019-n41/art-thumb.webp",
+      "width": 1199,
+      "height": 1312,
+      "extraViews": [],
+      "originalSha256": "b1acf0d2dd322e4ccfb2f5a88222baa71613630870be37f5dfcbbf71375016fe"
+    },
+    {
+      "id": "mfm-20261019-n49",
+      "title": "同一个姿势，落在两张表面上",
+      "titleEn": "",
+      "number": "P317",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "错视静物与画中画的二维转译试验；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V3",
+      "creationDate": "2026-10-19",
+      "wallText": "同一个姿势，上面留在线里，下面落进黄色。布边卷起一点，纸角也翘着，空着的木板把两张图隔开。",
+      "alt": "同一个姿势，上面留在线里，下面落进黄色。布边卷起一点，纸角也翘着，空着的木板把两张图隔开。",
+      "interpretation": [
+        "画中画与错视表面是AI绘画模拟，不是实物画布或版画。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Trompe l’oeil with Palettes and Miniature",
+        "artist": "Attributed to Jean François de Le Motte",
+        "date": ""
+      },
+      "sources": [
+        {
+          "title": "Trompe l’oeil with Palettes and Miniature",
+          "url": "https://www.metmuseum.org/art/collection/search/436347"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V3。",
+      "image": "media/mfm-20261019-n49/original.png",
+      "original": "media/mfm-20261019-n49/original.png",
+      "thumbnail": "media/mfm-20261019-n49/art-thumb.webp",
+      "width": 1117,
+      "height": 1408,
+      "extraViews": [],
+      "originalSha256": "a040afb92e3e2419c0613fad9394e71cd2e511e2512a016a11b728e3dc570b26"
+    },
+    {
+      "id": "mfm-20261019-n51",
+      "title": "挤在开场以前",
+      "titleEn": "",
+      "number": "P318",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "有限色面水粉式构图转译；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V3",
+      "creationDate": "2026-10-19",
+      "wallText": "琴颈斜穿过几只手，红布压在下面。两个背影把中间的脸挤近了，后面那一张又从高处露出来。",
+      "alt": "琴颈斜穿过几只手，红布压在下面。两个背影把中间的脸挤近了，后面那一张又从高处露出来。",
+      "interpretation": [
+        "人物相互遮挡，手与乐器局部不可见，不声称正在实际演奏。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "The Musicians",
+        "artist": "Caravaggio (Michelangelo Merisi)",
+        "date": "1597"
+      },
+      "sources": [
+        {
+          "title": "The Musicians",
+          "url": "https://www.metmuseum.org/art/collection/search/435844"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V3。",
+      "image": "media/mfm-20261019-n51/original.png",
+      "original": "media/mfm-20261019-n51/original.png",
+      "thumbnail": "media/mfm-20261019-n51/art-thumb.webp",
+      "width": 1423,
+      "height": 1105,
+      "extraViews": [],
+      "originalSha256": "e8fb23f62bc119e37a95a82f3a9ed8c4cf6bf5e712eb32e76cb73fa420a8e8ac"
+    },
+    {
+      "id": "mfm-20261019-n56",
+      "title": "灯排得很齐，背影没有",
+      "titleEn": "",
+      "number": "P319",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "点彩与分色笔触构图转译；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V1",
+      "creationDate": "2026-10-19",
+      "wallText": "灯一盏接一盏，间隔差不多。下面的背影高低错开，中间那只握着长号站定。小色点到处都在，整幅却很安静。",
+      "alt": "灯一盏接一盏，间隔差不多。下面的背影高低错开，中间那只握着长号站定。小色点到处都在，整幅却很安静。",
+      "interpretation": [
+        "点描尺度使远处身体与手足较为简化。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Circus Sideshow (Parade de cirque)",
+        "artist": "Georges Seurat",
+        "date": "1887–88"
+      },
+      "sources": [
+        {
+          "title": "Circus Sideshow (Parade de cirque)",
+          "url": "https://www.metmuseum.org/art/collection/search/437654"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V1。",
+      "image": "media/mfm-20261019-n56/original.png",
+      "original": "media/mfm-20261019-n56/original.png",
+      "thumbnail": "media/mfm-20261019-n56/art-thumb.webp",
+      "width": 1534,
+      "height": 1025,
+      "extraViews": [],
+      "originalSha256": "e0a6e48dd06daf19cbf3bb00d107d7e6af6ff28b245cbbea5042f97559e43703"
+    },
+    {
+      "id": "mfm-20261019-n60",
+      "title": "线网里留出一块黄",
+      "titleEn": "",
+      "number": "P320",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "克利蚀刻线网与有限色岛研究；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V3",
+      "creationDate": "2026-10-19",
+      "wallText": "细线穿过浅色腹片，又从手臂下的空隙伸出去。右掌停在线结上，周围浓黑的碎块到这里松开了一点。",
+      "alt": "细线穿过浅色腹片，又从手臂下的空隙伸出去。右掌停在线结上，周围浓黑的碎块到这里松开了一点。",
+      "interpretation": [
+        "画面为静态AI绘画，不据单张图像断言角色内心或时间过程。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Small World",
+        "artist": "Paul Klee",
+        "date": "1914"
+      },
+      "sources": [
+        {
+          "title": "Small World",
+          "url": "https://www.nga.gov/artworks/153703-small-world"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V3。",
+      "image": "media/mfm-20261019-n60/original.png",
+      "original": "media/mfm-20261019-n60/original.png",
+      "thumbnail": "media/mfm-20261019-n60/art-thumb.webp",
+      "width": 1012,
+      "height": 1554,
+      "extraViews": [],
+      "originalSha256": "5b15a6387077b66903d33fe1e7cc10f3ede4bcb3228154924e4d371b00728d06"
+    },
+    {
+      "id": "mfm-20261019-n64",
+      "title": "手在盆沿停一下",
+      "titleEn": "",
+      "number": "P321",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "彩色干刻线与有限色面转译；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V3",
+      "creationDate": "2026-10-19",
+      "wallText": "一只灰掌搭在盆沿，另一只落进浅蓝里。宽宽的背把蓝墙挡住，柜边那条细花巾一直垂向地面。",
+      "alt": "一只灰掌搭在盆沿，另一只落进浅蓝里。宽宽的背把蓝墙挡住，柜边那条细花巾一直垂向地面。",
+      "interpretation": [
+        "背视主体的脸腹仅由镜中局部提示，不能当作另一完整正面。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Woman Bathing",
+        "artist": "Mary Cassatt",
+        "date": "1890–1891"
+      },
+      "sources": [
+        {
+          "title": "Woman Bathing",
+          "url": "https://www.nga.gov/artworks/46728-woman-bathing"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V3。",
+      "image": "media/mfm-20261019-n64/original.png",
+      "original": "media/mfm-20261019-n64/original.png",
+      "thumbnail": "media/mfm-20261019-n64/art-thumb.webp",
+      "width": 1024,
+      "height": 1536,
+      "extraViews": [],
+      "originalSha256": "20d68cc8de82ac4ae5844b7ecce43a4c85682c0b837121f7492acdcbe858ba9e"
+    },
+    {
+      "id": "mfm-20261019-n65",
+      "title": "雪路中间空着一段",
+      "titleEn": "",
+      "number": "P322",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "木版线色转译；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V4",
+      "creationDate": "2026-10-19",
+      "wallText": "一只在近处，两只留在坡上。屋檐的细线很密，雪路却空出一大段，脚印从这段白里慢慢接过去。",
+      "alt": "一只在近处，两只留在坡上。屋檐的细线很密，雪路却空出一大段，脚印从这段白里慢慢接过去。",
+      "interpretation": [
+        "画面为静态AI绘画，不据单张图像断言角色内心或时间过程。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Evening Snow at Kanbara, from Fifty-three Stations of the Tōkaidō / 東海道五十三次之内 蒲原 夜の雪",
+        "artist": "Utagawa Hiroshige",
+        "date": "ca.1833–34"
+      },
+      "sources": [
+        {
+          "title": "Evening Snow at Kanbara, from Fifty-three Stations of the Tōkaidō / 東海道五十三次之内 蒲原 夜の雪",
+          "url": "https://www.metmuseum.org/art/collection/search/56915"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V4。",
+      "image": "media/mfm-20261019-n65/original.png",
+      "original": "media/mfm-20261019-n65/original.png",
+      "thumbnail": "media/mfm-20261019-n65/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": [],
+      "originalSha256": "e981d3ad559b28e60f33a11e90c9f0a87e8bc1d2032275c22709500bbc2baae8"
+    },
+    {
+      "id": "mfm-20261019-n69",
+      "title": "弯干旁的一处接点",
+      "titleEn": "",
+      "number": "P323",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "油彩断色面转译；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V1",
+      "creationDate": "2026-10-19",
+      "wallText": "树冠都朝左，树干却各有各的弯法。一只灰掌贴在其中一根上，黄色的背在密叶里留下一处慢的地方。",
+      "alt": "树冠都朝左，树干却各有各的弯法。一只灰掌贴在其中一根上，黄色的背在密叶里留下一处慢的地方。",
+      "interpretation": [
+        "枝叶遮住局部腿部；姿势近乎直立，不宣称强烈抗风或拉弯树干。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "The Wind",
+        "artist": "Félix Vallotton",
+        "date": "1910"
+      },
+      "sources": [
+        {
+          "title": "The Wind",
+          "url": "https://www.nga.gov/artworks/66439-wind"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V1。",
+      "image": "media/mfm-20261019-n69/original.png",
+      "original": "media/mfm-20261019-n69/original.png",
+      "thumbnail": "media/mfm-20261019-n69/art-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "extraViews": [],
+      "originalSha256": "92933e79f0bb3b0c16d72827f3e0dbf500fad30d543fb7628337b2cd0c2a078a"
+    },
+    {
+      "id": "mfm-20261019-n70",
+      "title": "红弧经过两块空白",
+      "titleEn": "",
+      "number": "P324",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "五色海报平面转译；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "红色从画外卷进来，落在一高一低的手边。黑形让出两块大小不同的空白，左下那片纸面一直没被填满。",
+      "alt": "红色从画外卷进来，落在一高一低的手边。黑形让出两块大小不同的空白，左下那片纸面一直没被填满。",
+      "interpretation": [
+        "画面为静态AI绘画，不据单张图像断言角色内心或时间过程。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Jane Avril",
+        "artist": "Henri de Toulouse-Lautrec",
+        "date": "1899"
+      },
+      "sources": [
+        {
+          "title": "Jane Avril",
+          "url": "https://www.nga.gov/artworks/42691-jane-avril"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-n70/original.png",
+      "original": "media/mfm-20261019-n70/original.png",
+      "thumbnail": "media/mfm-20261019-n70/art-thumb.webp",
+      "width": 1030,
+      "height": 1526,
+      "extraViews": [],
+      "originalSha256": "53b7408e5aad3e15bb58f5deb49a309b2669bc39917fce1340b74d33c573c532"
+    },
+    {
+      "id": "mfm-20261019-n71",
+      "title": "张开的两臂接住留白",
+      "titleEn": "",
+      "number": "P325",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "细线刻与薄黄洗模拟；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V1",
+      "creationDate": "2026-10-19",
+      "wallText": "细横线铺满身后，几道留白把它切开。双臂沿着亮处展开，一只脚还踩在石边；右下那团密线把轻的身体压回纸上。",
+      "alt": "细横线铺满身后，几道留白把它切开。双臂沿着亮处展开，一只脚还踩在石边；右下那团密线把轻的身体压回纸上。",
+      "interpretation": [
+        "站腿与手指略长；以宽体代替原作人体，削弱了原作肌肉张力。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "The Dance of Albion (Glad Day)",
+        "artist": "William Blake",
+        "date": "c. 1803/1810"
+      },
+      "sources": [
+        {
+          "title": "The Dance of Albion (Glad Day)",
+          "url": "https://www.nga.gov/artworks/11492-dance-albion-glad-day"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V1。",
+      "image": "media/mfm-20261019-n71/original.png",
+      "original": "media/mfm-20261019-n71/original.png",
+      "thumbnail": "media/mfm-20261019-n71/art-thumb.webp",
+      "width": 1064,
+      "height": 1479,
+      "extraViews": [],
+      "originalSha256": "c37b62715dedc7c5facac2687ac1be40728a973925625f6080cb1ca5c6b8746f"
+    },
+    {
+      "id": "mfm-20261019-n75",
+      "title": "手臂越过床沿",
+      "titleEn": "",
+      "number": "P326",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "有限黄灰设色木刻转译；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "格纹绕着床沿转下去，手臂越过它。猫把前爪搭上来，额头刚好碰到灰掌。右下的黑色让这一点接触更轻。",
+      "alt": "格纹绕着床沿转下去，手臂越过它。猫把前爪搭上来，额头刚好碰到灰掌。右下的黑色让这一点接触更轻。",
+      "interpretation": [
+        "画面为静态AI绘画，不据单张图像断言角色内心或时间过程。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "La paresse (Laziness)",
+        "artist": "Félix Vallotton",
+        "date": "1896"
+      },
+      "sources": [
+        {
+          "title": "La paresse (Laziness)",
+          "url": "https://www.nga.gov/artworks/69505-la-paresse-laziness"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-n75/original.png",
+      "original": "media/mfm-20261019-n75/original.png",
+      "thumbnail": "media/mfm-20261019-n75/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": [],
+      "originalSha256": "a759068cee37c221767c28f9629dd00aefb2007ca5b358241e60bca108854622"
+    },
+    {
+      "id": "mfm-20261019-n78",
+      "title": "重量留在近岸",
+      "titleEn": "",
+      "number": "P327",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "干墨淡赭纸本转译；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "灰掌落在横岩上，脚还在近岸。树石的墨很密，背后的水却只剩纸色；山隔着这段空白慢慢升起来。",
+      "alt": "灰掌落在横岩上，脚还在近岸。树石的墨很密，背后的水却只剩纸色；山隔着这段空白慢慢升起来。",
+      "interpretation": [
+        "低饱和淡赭背视，不核验不可见的脸和腹部；新增近岸居者改变原作无人景观。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Woods and Valleys of Mount Yu",
+        "artist": "Ni Zan",
+        "date": "dated 1372"
+      },
+      "sources": [
+        {
+          "title": "Woods and Valleys of Mount Yu",
+          "url": "https://www.metmuseum.org/art/collection/search/45636"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-n78/original.png",
+      "original": "media/mfm-20261019-n78/original.png",
+      "thumbnail": "media/mfm-20261019-n78/art-thumb.webp",
+      "width": 932,
+      "height": 1688,
+      "extraViews": [],
+      "originalSha256": "2c7d195c55ee3f3a54a2ddc99b62929f0e683a73611f082d04ec53b1bc2851a9"
+    },
+    {
+      "year": "2026",
+      "type": "image",
+      "image": "media/mfm-20261019-n61/original.png",
+      "thumbnail": "media/mfm-20261019-n61/art-thumb.webp",
+      "width": 960,
+      "height": 1639,
+      "alt": "上面的石头，里面空着。下面那块墨更重。两处淡黄错开一点，脚下什么也没有；石边还留着一尾小鱼。",
+      "completionStatus": "completed",
+      "id": "mfm-20261019-overnight-bada",
+      "number": "P328",
+      "title": "纸白中的两处轻黄",
+      "titleEn": "",
+      "medium": "AI辅助二维作品组 · 2幅独立定稿",
+      "creationDate": "2026-10-19",
+      "wallText": "淡黄身体落在墨石与纸白之间。一处相互错开，一处分居白石和低岸，留白把两边的距离留给观看者。",
+      "interpretation": [
+        "这些画以同一组问题并置，不是同一张画的多个版本。每张原图、采用版本及具体来源保留在各自详情页。"
+      ],
+      "tags": [
+        "组作",
+        "独立定稿",
+        "2026年11月入馆"
+      ],
+      "source": {},
+      "sources": [],
+      "extraViews": [],
+      "memberIds": [
+        "mfm-20261019-n61",
+        "mfm-20261019-n63"
+      ],
+      "groupKind": "finalized-series",
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 组内每幅都是独立定稿；主馆藏按一组展示单元计数，不把图像数量与展示单元混为一谈。"
+    },
+    {
+      "year": "2026",
+      "type": "image",
+      "image": "media/mfm-20261019-n05/original.png",
+      "thumbnail": "media/mfm-20261019-n05/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "alt": "四只脚各自踩稳，背却靠在一起。它们朝着相反方向看，谁也看不见另一只的表情。屈着的腿把这点依靠留在接触的地方。",
+      "completionStatus": "completed",
+      "id": "mfm-20261019-overnight-contact",
+      "number": "P329",
+      "title": "身体之间的支点",
+      "titleEn": "",
+      "medium": "AI辅助二维作品组 · 5幅独立定稿",
+      "creationDate": "2026-10-19",
+      "wallText": "背靠着背，手绕过腹部，又停在对方的背上。支撑不总来自地面，有时只是一小块身体贴住了另一小块身体。",
+      "interpretation": [
+        "这些画以同一组问题并置，不是同一张画的多个版本。每张原图、采用版本及具体来源保留在各自详情页。"
+      ],
+      "tags": [
+        "组作",
+        "独立定稿",
+        "2026年11月入馆"
+      ],
+      "source": {},
+      "sources": [],
+      "extraViews": [],
+      "memberIds": [
+        "mfm-20261019-n05",
+        "mfm-20261019-n06",
+        "mfm-20261019-n09",
+        "mfm-20261019-n31",
+        "mfm-20261019-n37"
+      ],
+      "groupKind": "finalized-series",
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 组内每幅都是独立定稿；主馆藏按一组展示单元计数，不把图像数量与展示单元混为一谈。"
+    },
+    {
+      "year": "2026",
+      "type": "image",
+      "image": "media/mfm-20261019-n04/original.png",
+      "thumbnail": "media/mfm-20261019-n04/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "alt": "蓝线沿着手臂往下走，到脚边却绕了回来。描画的人也落进这圈轮廓里。纸上还没有画完，谁在里面，已经不像开始时那么分明。",
+      "completionStatus": "completed",
+      "id": "mfm-20261019-overnight-drawing-surface",
+      "number": "P330",
+      "title": "画面留下的位置",
+      "titleEn": "",
+      "medium": "AI辅助二维作品组 · 4幅独立定稿",
+      "creationDate": "2026-10-19",
+      "wallText": "线描到身体，擦痕打开画面，画被拿走，观众又站进被画的位置。谁在看谁，这几幅画轮流把问题推回来。",
+      "interpretation": [
+        "这些画以同一组问题并置，不是同一张画的多个版本。每张原图、采用版本及具体来源保留在各自详情页。"
+      ],
+      "tags": [
+        "组作",
+        "独立定稿",
+        "2026年11月入馆"
+      ],
+      "source": {},
+      "sources": [],
+      "extraViews": [],
+      "memberIds": [
+        "mfm-20261019-n04",
+        "mfm-20261019-n08",
+        "mfm-20261019-n12",
+        "mfm-20261019-n13"
+      ],
+      "groupKind": "finalized-series",
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 组内每幅都是独立定稿；主馆藏按一组展示单元计数，不把图像数量与展示单元混为一谈。"
+    },
+    {
+      "year": "2026",
+      "type": "image",
+      "image": "media/mfm-20261019-n14/original.png",
+      "thumbnail": "media/mfm-20261019-n14/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "alt": "粉色薄片在四个黄色身体之间斜着折起，有一角落得更低。它们没有碰到彼此，却被这一张薄薄的表面连在一起。",
+      "completionStatus": "completed",
+      "id": "mfm-20261019-overnight-flat-space",
+      "number": "P331",
+      "title": "平面稍微松开",
+      "titleEn": "",
+      "medium": "AI辅助二维作品组 · 3幅独立定稿",
+      "creationDate": "2026-10-19",
+      "wallText": "纸角翘起，图面转向，黑色的一边松开。原本贴着画面的东西，开始露出可以被手握住的边。",
+      "interpretation": [
+        "这些画以同一组问题并置，不是同一张画的多个版本。每张原图、采用版本及具体来源保留在各自详情页。"
+      ],
+      "tags": [
+        "组作",
+        "独立定稿",
+        "2026年11月入馆"
+      ],
+      "source": {},
+      "sources": [],
+      "extraViews": [],
+      "memberIds": [
+        "mfm-20261019-n14",
+        "mfm-20261019-n22",
+        "mfm-20261019-n79"
+      ],
+      "groupKind": "finalized-series",
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 组内每幅都是独立定稿；主馆藏按一组展示单元计数，不把图像数量与展示单元混为一谈。"
+    },
+    {
+      "year": "2026",
+      "type": "image",
+      "image": "media/mfm-20261019-n11/original.png",
+      "thumbnail": "media/mfm-20261019-n11/art-thumb.webp",
+      "width": 1086,
+      "height": 1448,
+      "alt": "两只灰手一高一低，槽沿跟着歪了，蓝色的水面却还是平的。低的一头漏下一小股水。它握得住容器，握不住这条横线。",
+      "completionStatus": "completed",
+      "id": "mfm-20261019-overnight-gravity",
+      "number": "P332",
+      "title": "向下不只一种",
+      "titleEn": "",
+      "medium": "AI辅助二维作品组 · 4幅独立定稿",
+      "creationDate": "2026-10-19",
+      "wallText": "水面保持水平，两个方向同时向下，雨落在伞内，影子先聚成一团。熟悉的空间线索，各自出了一个小差错。",
+      "interpretation": [
+        "这些画以同一组问题并置，不是同一张画的多个版本。每张原图、采用版本及具体来源保留在各自详情页。"
+      ],
+      "tags": [
+        "组作",
+        "独立定稿",
+        "2026年11月入馆"
+      ],
+      "source": {},
+      "sources": [],
+      "extraViews": [],
+      "memberIds": [
+        "mfm-20261019-n11",
+        "mfm-20261019-n45",
+        "mfm-20261019-n47",
+        "mfm-20261019-n67"
+      ],
+      "groupKind": "finalized-series",
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 组内每幅都是独立定稿；主馆藏按一组展示单元计数，不把图像数量与展示单元混为一谈。"
+    },
+    {
+      "year": "2026",
+      "type": "image",
+      "image": "media/mfm-20261019-n23/original.png",
+      "thumbnail": "media/mfm-20261019-n23/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "alt": "面团在几双灰手之间，有的摊开，有的留成圆团。桌面很长，手边的事情很小。近处的背影把我们也带到这张桌旁。",
+      "completionStatus": "completed",
+      "id": "mfm-20261019-overnight-hand-material",
+      "number": "P333",
+      "title": "手与材料的接点",
+      "titleEn": "",
+      "medium": "AI辅助二维作品组 · 7幅独立定稿",
+      "creationDate": "2026-10-19",
+      "wallText": "排齐、拢边、卷起、理直。手停在哪里，材料就从哪里改变方向；看似琐碎的动作，把画面的秩序一点点做出来。",
+      "interpretation": [
+        "这些画以同一组问题并置，不是同一张画的多个版本。每张原图、采用版本及具体来源保留在各自详情页。"
+      ],
+      "tags": [
+        "组作",
+        "独立定稿",
+        "2026年11月入馆"
+      ],
+      "source": {},
+      "sources": [],
+      "extraViews": [],
+      "memberIds": [
+        "mfm-20261019-n23",
+        "mfm-20261019-n24",
+        "mfm-20261019-n29",
+        "mfm-20261019-n35",
+        "mfm-20261019-n36",
+        "mfm-20261019-n40",
+        "mfm-20261019-n80"
+      ],
+      "groupKind": "finalized-series",
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 组内每幅都是独立定稿；主馆藏按一组展示单元计数，不把图像数量与展示单元混为一谈。"
+    },
+    {
+      "id": "mfm-20261019-sg01",
+      "title": "树影经过画板和腹部",
+      "titleEn": "",
+      "number": "P334",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "定稿",
+      "creationDate": "2026-10-19",
+      "wallText": "冷影落在黄身上偏绿，经过白腹又变成蓝。手与画板、颜料盒相接，树影却不在身体边缘停下。几片不同的底色，让同一道影子改变了颜色。",
+      "alt": "冷影落在黄身上偏绿，经过白腹又变成蓝。手与画板、颜料盒相接，树影却不在身体边缘停下。几片不同的底色，让同一道影子改变了颜色。",
+      "interpretation": [],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "In the Generalife",
+        "artist": "John Singer Sargent",
+        "date": "1912"
+      },
+      "sources": [
+        {
+          "title": "In the Generalife",
+          "url": "https://www.metmuseum.org/art/collection/search/12116"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：定稿。",
+      "image": "media/mfm-20261019-sg01/original.png",
+      "original": "media/mfm-20261019-sg01/original.png",
+      "thumbnail": "media/mfm-20261019-sg01/art-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "extraViews": [],
+      "originalSha256": "21dfc97da3570564c0a69e1d1f57ec6ee497b3f506daf8c8e4cbf72e31dd78fc"
+    },
+    {
+      "id": "mfm-20261019-tl01",
+      "title": "手臂越过乐池的线",
+      "titleEn": "",
+      "number": "P335",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "黑色披覆压住前景，浅灰乐池退到后面。灰手搭在栏杆上，越过一道细线，把近处的身体和远处的演奏连起来。大片黑色里，黄色显得更加安静。",
+      "alt": "黑色披覆压住前景，浅灰乐池退到后面。灰手搭在栏杆上，越过一道细线，把近处的身体和远处的演奏连起来。大片黑色里，黄色显得更加安静。",
+      "interpretation": [],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Divan Japonais",
+        "artist": "Henri de Toulouse-Lautrec",
+        "date": "1892–1893"
+      },
+      "sources": [
+        {
+          "title": "Divan Japonais",
+          "url": "https://www.metmuseum.org/art/collection/search/334197"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-tl01/original.png",
+      "original": "media/mfm-20261019-tl01/original.png",
+      "thumbnail": "media/mfm-20261019-tl01/art-thumb.webp",
+      "width": 1024,
+      "height": 1536,
+      "extraViews": [],
+      "originalSha256": "60d6339f4a7a071f7fdd3744999d2f541af5a3d176919c2a328d520fca932a0d"
+    },
+    {
+      "id": "mfm-20261019-tl02",
+      "title": "纸停在两只手之间",
+      "titleEn": "",
+      "number": "P336",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "白纸横过黄色身体，两只灰手与纸边交叠。桃色桌面和灰线机器退在周围，纸白独自亮着。动作不是把纸举高，而是在两只手之间停稳。",
+      "alt": "白纸横过黄色身体，两只灰手与纸边交叠。桃色桌面和灰线机器退在周围，纸白独自亮着。动作不是把纸举高，而是在两只手之间停稳。",
+      "interpretation": [],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Cover for L’Estampe originale, first album",
+        "artist": "Henri de Toulouse-Lautrec",
+        "date": "1893"
+      },
+      "sources": [
+        {
+          "title": "Cover for L’Estampe originale, first album",
+          "url": "https://www.metmuseum.org/art/collection/search/340098"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-tl02/original.png",
+      "original": "media/mfm-20261019-tl02/original.png",
+      "thumbnail": "media/mfm-20261019-tl02/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": [],
+      "originalSha256": "b2ef2b1765aac6cc936dbba30c61c938c7d95ec1950d419bea0ee99bd978e65c"
+    },
+    {
+      "id": "mfm-20261019-tl03",
+      "title": "白布展开的一瞬",
+      "titleEn": "",
+      "number": "P337",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V1",
+      "creationDate": "2026-10-19",
+      "wallText": "白布斜着展开，一条腿从布后弯起，另一只脚仍踩着地面。黑色观众排在后方，前景的灰色剪影又近了一层。身体的动作停在落地之前。",
+      "alt": "白布斜着展开，一条腿从布后弯起，另一只脚仍踩着地面。黑色观众排在后方，前景的灰色剪影又近了一层。身体的动作停在落地之前。",
+      "interpretation": [],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Moulin Rouge: La Goulue",
+        "artist": "Henri de Toulouse-Lautrec",
+        "date": "1891"
+      },
+      "sources": [
+        {
+          "title": "Moulin Rouge: La Goulue",
+          "url": "https://www.metmuseum.org/art/collection/search/333990"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V1。",
+      "image": "media/mfm-20261019-tl03/original.png",
+      "original": "media/mfm-20261019-tl03/original.png",
+      "thumbnail": "media/mfm-20261019-tl03/art-thumb.webp",
+      "width": 1024,
+      "height": 1536,
+      "extraViews": [],
+      "originalSha256": "b5290bd386cd9bf23234c697174f17a3f8c75ceae2ef3eae8aec5ccf5ac0343e"
+    },
+    {
+      "id": "mfm-20261027-golconda",
+      "title": "悬停的星期二",
+      "titleEn": "",
+      "number": "P338",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-27",
+      "wallText": "奶蛙像雨点一样排在普通房屋前，远近大小重复着，却看不出是在落下还是停住。鲜黄的身体让整片天空变得密集，日常街景忽然失去平常的重力。",
+      "alt": "奶蛙像雨点一样排在普通房屋前，远近大小重复着，却看不出是在落下还是停住。鲜黄的身体让整片天空变得密集，日常街景忽然失去平常的重力。",
+      "interpretation": [],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Golconda (Golconde)",
+        "artist": "René Magritte",
+        "date": "1953"
+      },
+      "sources": [
+        {
+          "title": "Golconda (Golconde)",
+          "url": "https://www.menil.org/collection/objects/4901-golconda-golcond"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261027-golconda/original.png",
+      "original": "media/mfm-20261027-golconda/original.png",
+      "thumbnail": "media/mfm-20261027-golconda/art-thumb.webp",
+      "width": 1402,
+      "height": 1122,
+      "extraViews": [],
+      "originalSha256": "ec17b1cb62964686fa86aace4b848271889c602729228f20b7abe4d574dae34b"
+    },
+    {
+      "id": "mfm-20261029-laugh",
+      "title": "笑得折了一下",
+      "titleEn": "",
+      "number": "P339",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V1",
+      "creationDate": "2026-10-29",
+      "wallText": "背弯成一整道弧，双臂抱住肚子，两膝跟着折下去，后脚跟也离了地。笑意不只停在脸上，而是把整副身体带向前方，像忽然撑不住的一个停顿。",
+      "alt": "背弯成一整道弧，双臂抱住肚子，两膝跟着折下去，后脚跟也离了地。笑意不只停在脸上，而是把整副身体带向前方，像忽然撑不住的一个停顿。",
+      "interpretation": [],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V1。",
+      "image": "media/mfm-20261029-laugh/original.png",
+      "original": "media/mfm-20261029-laugh/original.png",
+      "thumbnail": "media/mfm-20261029-laugh/art-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "extraViews": [],
+      "originalSha256": "93c40cc7fce4503b45c50e3b6f6633c6f6e07a4226c090977af4971010660a81"
+    },
+    {
+      "id": "mfm-20261029-receipt",
+      "title": "收据铺成了一条路",
+      "titleEn": "",
+      "number": "P340",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V1",
+      "creationDate": "2026-10-29",
+      "wallText": "机器只吐出一张纸，却让房间多了两道转弯。开头几条短线很快停下，剩下的白一路铺到奶蛙脚前。它没有伸手，长长的纸也没有给出下一步。",
+      "alt": "机器只吐出一张纸，却让房间多了两道转弯。开头几条短线很快停下，剩下的白一路铺到奶蛙脚前。它没有伸手，长长的纸也没有给出下一步。",
+      "interpretation": [],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V1。",
+      "image": "media/mfm-20261029-receipt/original.png",
+      "original": "media/mfm-20261029-receipt/original.png",
+      "thumbnail": "media/mfm-20261029-receipt/art-thumb.webp",
+      "width": 1122,
+      "height": 1402,
+      "extraViews": [],
+      "originalSha256": "c1b1c85fb3eb7505a759d3ee128ea1f9c8d20122b8eebf56796cbd1450425238"
+    },
+    {
+      "id": "mfm-20261029-stretch",
+      "title": "把自己慢慢撑开",
+      "titleEn": "",
+      "number": "P341",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V1",
+      "creationDate": "2026-10-29",
+      "wallText": "屁股压在地上，腹面斜着拉长，两条手臂向不同高度展开。一腿伸直，一腿屈起，身体在松开与支撑之间慢慢展开，伸懒腰有了不对称的形状。",
+      "alt": "屁股压在地上，腹面斜着拉长，两条手臂向不同高度展开。一腿伸直，一腿屈起，身体在松开与支撑之间慢慢展开，伸懒腰有了不对称的形状。",
+      "interpretation": [],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V1。",
+      "image": "media/mfm-20261029-stretch/original.png",
+      "original": "media/mfm-20261029-stretch/original.png",
+      "thumbnail": "media/mfm-20261029-stretch/art-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "extraViews": [],
+      "originalSha256": "d9d80d4ec06b5fc7f105ad1a4b8a1f788bc7676ccbe02e465d4b35e33135699a"
+    },
+    {
+      "id": "mfm-20261029-vine",
+      "title": "藤蔓留着不同宽度的空处",
+      "titleEn": "",
+      "number": "P342",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-29",
+      "wallText": "右边的花叶挤近手臂，只留一条窄窄的金缝；左边却空得足够让视线停下来。黄色身体与花叶一起成为色面，藤蔓没有把它围住，疏密之间仍有出口。",
+      "alt": "右边的花叶挤近手臂，只留一条窄窄的金缝；左边却空得足够让视线停下来。黄色身体与花叶一起成为色面，藤蔓没有把它围住，疏密之间仍有出口。",
+      "interpretation": [],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Morning Glories (朝顔図屏風)",
+        "artist": "鈴木其一",
+        "date": "19世纪早期"
+      },
+      "sources": [
+        {
+          "title": "Morning Glories (朝顔図屏風)",
+          "url": "https://www.metmuseum.org/art/collection/search/48982"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261029-vine/original.png",
+      "original": "media/mfm-20261029-vine/original.png",
+      "thumbnail": "media/mfm-20261029-vine/art-thumb.webp",
+      "width": 1774,
+      "height": 887,
+      "extraViews": [],
+      "originalSha256": "42db8b43134f87f9ab11943a49dcf86e24657836cce4aff99e0daadb2b735e49"
+    },
+    {
+      "id": "mfm-20261031-match-step",
+      "title": "火柴前的半步",
+      "titleEn": "",
+      "number": "P343",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-31",
+      "wallText": "火柴横在脚前，杯子却高过身体。抬起的脚还没落下，熟悉的卧室已经变成需要重新估量的地方。云停在墙面上，出路仍是一扇普通的门。",
+      "alt": "脚抬在火柴上方，床、梳、杯形成不相等的尺度。",
+      "interpretation": [
+        "这次的问题：让放大的日用品真正改变跨步的尺度感。",
+        "脚抬在火柴上方，床、梳、杯形成不相等的尺度。",
+        "V2把火柴变为有厚度的障碍，保留未完成的一步；不是原作逐项复制。",
+        "下一问题（尚未实施）：下一步可检验更低的障碍是否仍能让跨步停顿成立。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Les valeurs personnelles (Personal Values)",
+        "artist": "René Magritte",
+        "date": "1952"
+      },
+      "sources": [
+        {
+          "title": "Les valeurs personnelles (Personal Values)",
+          "url": "https://www.sfmoma.org/artwork/98.562/"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261031-match-step/original.png",
+      "original": "media/mfm-20261031-match-step/original.png",
+      "thumbnail": "media/mfm-20261031-match-step/art-thumb.webp",
+      "width": 1402,
+      "height": 1122,
+      "extraViews": [],
+      "originalSha256": "18b83f305e8f01c078fd0fc84c6ba354ca98c9436127741b27c67b611c3b5d9b"
+    },
+    {
+      "id": "mfm-20261031-push-water",
+      "title": "把水推到这一边",
+      "titleEn": "",
+      "number": "P344",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-31",
+      "wallText": "黑色刮片贴住蓝色水面的前沿，红柄把双手和水边连成一条斜线。前后张开的腿撑住身体，身后留下象牙白的空地。去掉反光以后，推水变成了几块颜色之间清楚的接触。",
+      "alt": "刮片下缘贴住水的前沿，红柄连到双手，前后腿撑开。",
+      "interpretation": [
+        "这次的问题：在平涂中让刮片、水边与双手连成可读的推力关系。",
+        "刮片下缘贴住水的前沿，红柄连到双手，前后腿撑开。",
+        "V2去掉渐变和水面反光，接触更清楚；重心强化仅部分实现，是旧题完成变体。",
+        "下一问题（尚未实施）：下一步可单独改变躯干前倾，检验是否出现真正更强的推力。",
+        "V1的红柄把身体连向横向水刮，水分布在刮板两端；V2把蓝水收成画面下方的一道边界，刮板贴住它，后脚伸出、前膝弯曲的方向也更清楚。两图保留为同题版本，不当作两个新题材。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆",
+        "版本对照"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261031-push-water/original.png",
+      "original": "media/mfm-20261031-push-water/original.png",
+      "thumbnail": "media/mfm-20261031-push-water/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": [
+        {
+          "image": "media/mfm-20261031-push-water/earlier-v1.png",
+          "width": 1402,
+          "height": 1122,
+          "caption": "2026年10月30日 · V1。先前完成版本，保留作同题对照；不另计新作品。"
+        }
+      ],
+      "originalSha256": "feb40f4b6cac6b0627573bb6fe720b84124f30f88b2896dae6acedf7cd5bf84b",
+      "versionRelationship": {
+        "type": "completed_variant_of_existing_subject",
+        "earlierDate": "2026-10-30",
+        "earlierTitle": "把水推到这一边",
+        "earlierVersion": "V1",
+        "replacesExistingCatalogueEntry": false
+      }
+    },
+    {
+      "id": "mfm-20261101-paper-ends",
+      "title": "两端之间",
+      "titleEn": "",
+      "number": "P345",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-11-01",
+      "wallText": "红纸带绕到身体两侧，又在身前留下两个分开的切口。灰手各握一端，中间那一小段白色没有被填满。看起来快要围合的东西，仍给自己留着空隙。",
+      "alt": "端点之间留白，两手夹住上缘，两侧转弯通往身体后方。",
+      "interpretation": [
+        "这次的问题：让纸带两个自由端与双手夹持清楚可见。",
+        "端点之间留白，两手夹住上缘，两侧转弯通往身体后方。",
+        "V2从平贴手掌改为夹持；后带连续性仍靠可见两侧推断。",
+        "下一问题（尚未实施）：下一步可测试不对称持带能否增加动作，又不误读成闭环。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261101-paper-ends/original.png",
+      "original": "media/mfm-20261101-paper-ends/original.png",
+      "thumbnail": "media/mfm-20261101-paper-ends/art-thumb.webp",
+      "width": 1024,
+      "height": 1536,
+      "extraViews": [],
+      "originalSha256": "0319d379e4361b322b08a1f09b20358aef19d0566a4ec1a1642558cef09a58a6"
+    },
+    {
+      "id": "mfm-20261101-suspended-train",
+      "title": "火车没有碰到地板",
+      "titleEn": "",
+      "number": "P346",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-11-01",
+      "wallText": "机车从乳白的腹部开口伸出来，轮子离着地板，身旁的手也没有托住它。烟挤在开口上方，墙上的钟仍挂在原处。最不可能的一件事，被安放在最平常的室内。",
+      "alt": "机车伸出腹部开口，车轮与地面、手之间都有空隙。",
+      "interpretation": [
+        "这次的问题：把悬空机车嵌入身体开口，却不让手承担支撑。",
+        "机车伸出腹部开口，车轮与地面、手之间都有空隙。",
+        "V2留下可见的悬空和开口关系；局部体积与趾形并未完全平面化。",
+        "下一问题（尚未实施）：下一步可试更少的明暗是否仍能交代开口深度。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Time Transfixed (La Durée poignardée)",
+        "artist": "René Magritte",
+        "date": "1938"
+      },
+      "sources": [
+        {
+          "title": "Time Transfixed (La Durée poignardée)",
+          "url": "https://archive.artic.edu/modernwing/34181"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261101-suspended-train/original.png",
+      "original": "media/mfm-20261101-suspended-train/original.png",
+      "thumbnail": "media/mfm-20261101-suspended-train/art-thumb.webp",
+      "width": 1122,
+      "height": 1402,
+      "extraViews": [],
+      "originalSha256": "9837cc5c15770ee62c93ab13f35a3ab33c49e22341011785dc103652e53c04a3"
+    },
+    {
+      "id": "mfm-20261102-air-hand",
+      "title": "一只还站在地上",
+      "titleEn": "",
+      "number": "P347",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V1",
+      "creationDate": "2026-11-02",
+      "wallText": "一只奶蛙还站在起伏的地面上，另一只已经整个斜向天空。两只灰手相接，让地上的重量和空中的轻快挤在同一个地方。村庄铺得很远，握住的位置却很近。",
+      "alt": "地面角色双足着地，空中角色四肢张开，手在两者之间相接。",
+      "interpretation": [
+        "这次的问题：用相接的手连接落地者与整身飘起者。",
+        "地面角色双足着地，空中角色四肢张开，手在两者之间相接。",
+        "单张建立轻重对照；厚笔触与圆腹体积仍是画面的一部分。",
+        "下一问题（尚未实施）：下一步可检验减少手的尺寸后，牵引关系是否仍清楚。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Promenade",
+        "artist": "Marc Chagall",
+        "date": "1917 per virtual collection; official2026exhibition says1917–1918"
+      },
+      "sources": [
+        {
+          "title": "Promenade",
+          "url": "https://rusmuseumvrm.ru/data/collections/painting/19_20/zhb_1726/index.php?lang=en"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V1。",
+      "image": "media/mfm-20261102-air-hand/original.png",
+      "original": "media/mfm-20261102-air-hand/original.png",
+      "thumbnail": "media/mfm-20261102-air-hand/art-thumb.webp",
+      "width": 1224,
+      "height": 1285,
+      "extraViews": [],
+      "originalSha256": "a76221cac8fb0a02b39e931003bbeafe7e0b3762070db0af7851dfddebd90691"
+    },
+    {
+      "id": "mfm-20261102-cutline-embrace",
+      "title": "黑处也能抱住自己",
+      "titleEn": "",
+      "number": "P348",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V1",
+      "creationDate": "2026-11-02",
+      "wallText": "身体里面和外面都是黑色，几条黄线仍围出抱膝的姿势。腹部的浅线到了手臂处就停下，膝盖又被灰手挡住。没有填满身体，拥抱也能有前后和重量。",
+      "alt": "腹部线在前景手臂处中断，膝线在灰手处中断。",
+      "interpretation": [
+        "这次的问题：让轮廓的停顿交代抱膝遮挡，即使内外同黑。",
+        "腹部线在前景手臂处中断，膝线在灰手处中断。",
+        "V1已用少量线完成拥抱层次；V2虽暗化手足，未充分改善外轮廓，仍留作研究。",
+        "下一问题（尚未实施）：下一步可测试更少的线段是否仍能保留抱膝的重量。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Nude with Bracelet",
+        "artist": "Henri Matisse",
+        "date": "c.1940",
+        "note": "仅观察刻线与留黑的处理，非具体原作构图改编。"
+      },
+      "sources": [
+        {
+          "title": "Nude with Bracelet",
+          "url": "https://www.clevelandart.org/art/1981.41"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V1。",
+      "image": "media/mfm-20261102-cutline-embrace/original.png",
+      "original": "media/mfm-20261102-cutline-embrace/original.png",
+      "thumbnail": "media/mfm-20261102-cutline-embrace/art-thumb.webp",
+      "width": 1086,
+      "height": 1448,
+      "extraViews": [],
+      "originalSha256": "56717a12900f97ce4f469371d627627c12a6bc5359fd7dd7116cbf7e9244c808"
+    },
+    {
+      "id": "mfm-20261102-dessert-table",
+      "title": "桌子伸到面前",
+      "titleEn": "",
+      "number": "P349",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V1",
+      "creationDate": "2026-11-02",
+      "wallText": "粉红桌面一路伸到眼前，近处的背影把我们也挤进席间。盘子和点心拉开远近，最远的奶蛙反而正面看着我们。这顿饭的安静，来自彼此之间留出的距离。",
+      "alt": "前景背影更大，远处正面角色更小，盘子随桌面退远。",
+      "interpretation": [
+        "这次的问题：用桌面和前景背影拉开远近，不依赖强烈体积。",
+        "前景背影更大，远处正面角色更小，盘子随桌面退远。",
+        "单张已建立观看位置；原作五个人物改为三只奶蛙，桌面更居中。",
+        "下一问题（尚未实施）：下一步可检验偏置桌边是否能增加席间的疏离感。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "The Dessert",
+        "artist": "Milton Avery",
+        "date": "1939"
+      },
+      "sources": [
+        {
+          "title": "The Dessert",
+          "url": "https://www.moma.org/collection/works/78926"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V1。",
+      "image": "media/mfm-20261102-dessert-table/original.png",
+      "original": "media/mfm-20261102-dessert-table/original.png",
+      "thumbnail": "media/mfm-20261102-dessert-table/art-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "extraViews": [],
+      "originalSha256": "90b5f4b385435f9add63d661f2c0c23a9c9289013f4af2855f82af39b1e4412c"
+    },
+    {
+      "id": "mfm-20261102-empty-pan",
+      "title": "空盘先抬起来",
+      "titleEn": "",
+      "number": "P350",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V1",
+      "creationDate": "2026-11-02",
+      "wallText": "右边的盘子载着一块红石，左边空着，却升得更高。奶蛙的手垂在旁边，没有碰秤。蓝色横梁的一点倾斜，让空和重有了可以看见的距离。",
+      "alt": "右盘红石、左盘空置，倾斜横梁和悬线连续，手没有碰秤。",
+      "interpretation": [
+        "这次的问题：不用手扶，通过支点、横梁和悬线显示两盘高低。",
+        "右盘红石、左盘空置，倾斜横梁和悬线连续，手没有碰秤。",
+        "一张已回答静态高低关系；不据此宣称测得质量或发生运动。",
+        "下一问题（尚未实施）：下一步可改变两盘距离，检验重心关系是否仍一眼可读。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V1。",
+      "image": "media/mfm-20261102-empty-pan/original.png",
+      "original": "media/mfm-20261102-empty-pan/original.png",
+      "thumbnail": "media/mfm-20261102-empty-pan/art-thumb.webp",
+      "width": 1122,
+      "height": 1402,
+      "extraViews": [],
+      "originalSha256": "ab5aa7f2979521dfbb564ff0ba4b9957c7a76636d7b746150b17a33620e462ac"
+    },
+    {
+      "id": "mfm-20261102-fold-plane",
+      "title": "右边窄了一点",
+      "titleEn": "",
+      "number": "P351",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V1",
+      "creationDate": "2026-11-02",
+      "wallText": "一道折线从脸经过嘴和腹部，右边的眼睛和身体一起变窄。形状没有换一颗头，只像整张纸轻轻转了过去。小小的压缩，把正面变成了一个有方向的平面。",
+      "alt": "同一道折线穿过嘴与腹部，远侧眼睛和身体一同压窄。",
+      "interpretation": [
+        "这次的问题：用贯穿脸与腹部的整片折转表现朝向，避免额外颈部。",
+        "同一道折线穿过嘴与腹部，远侧眼睛和身体一同压窄。",
+        "单张建立整体平面朝向；保留静止姿势，只检验投影，不冒称动作。",
+        "下一问题（尚未实施）：下一步可检验更轻微的压缩是否仍能传达整片转向。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V1。",
+      "image": "media/mfm-20261102-fold-plane/original.png",
+      "original": "media/mfm-20261102-fold-plane/original.png",
+      "thumbnail": "media/mfm-20261102-fold-plane/art-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "extraViews": [],
+      "originalSha256": "9e051aeb3b3b40ae0a3c16940de34b2a9964355f0d6f3766f27021707a4e200d"
+    },
+    {
+      "id": "mfm-20261102-gray-wedge",
+      "title": "灰色里的一道斜线",
+      "titleEn": "",
+      "number": "P352",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V1",
+      "creationDate": "2026-11-02",
+      "wallText": "大片灰色里，绿楔从窗边斜着切下来。脸上的暗三角和琴上的节拍器接住这道方向；两只手停在谱架边，音乐没有响起来，画面先留下了一次停顿。",
+      "alt": "角色的下半身被粉红钢琴遮住。上半身、乳白腹部和谱架两侧的灰手仍可读，深橄榄三角穿过左脸，与绿色窗楔构成斜线呼应。",
+      "interpretation": [
+        "这次的问题：灰场、绿楔、脸部硬三角与节拍器能否组织平面节奏，同时保留遮挡下的角色身份？",
+        "角色的下半身被粉红钢琴遮住。上半身、乳白腹部和谱架两侧的灰手仍可读，深橄榄三角穿过左脸，与绿色窗楔构成斜线呼应。",
+        "采用V1。身体和房间都由平色造型，不用圆滑明暗模拟体积。角色比原作更大，减少了灰色空场；画中人物改为空椅，原作的人物与艺术品对照也随之改变。手扶谱架，不是正在弹奏琴键。",
+        "下一问题（尚未实施）：缩小角色面积能否增加静场而不失去身体组合？"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "The Piano Lesson",
+        "artist": "Henri Matisse",
+        "date": "1916"
+      },
+      "sources": [
+        {
+          "title": "The Piano Lesson",
+          "url": "https://www.moma.org/collection/works/78908"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V1。",
+      "image": "media/mfm-20261102-gray-wedge/original.png",
+      "original": "media/mfm-20261102-gray-wedge/original.png",
+      "thumbnail": "media/mfm-20261102-gray-wedge/art-thumb.webp",
+      "width": 1173,
+      "height": 1341,
+      "extraViews": [],
+      "originalSha256": "352bf3c8718cc89eda506884da338a544601aed6c4b9215c9e78b94a3bdbc70e"
+    },
+    {
+      "id": "mfm-20261102-lost-edge",
+      "title": "有一边不用描出来",
+      "titleEn": "",
+      "number": "P353",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V1",
+      "creationDate": "2026-11-02",
+      "wallText": "右侧黄色身体融进同色的背景，轮廓不再把它完整圈住。左边的深蓝、乳白的腹部和落地的双脚，接着把这个身体留在画面里。有一边消失了，站立的感觉还在。",
+      "alt": "右侧黄身体与背景相接，左轮廓、腹部与足部补足形体。",
+      "interpretation": [
+        "这次的问题：省去一侧外轮廓，仍让角色作为整体被看见。",
+        "右侧黄身体与背景相接，左轮廓、腹部与足部补足形体。",
+        "同色并置确实让边缘消失；右臂外缘因此无法独立量读。",
+        "下一问题（尚未实施）：下一步可少留一处内部线索，检验辨识会在哪一步变弱。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V1。",
+      "image": "media/mfm-20261102-lost-edge/original.png",
+      "original": "media/mfm-20261102-lost-edge/original.png",
+      "thumbnail": "media/mfm-20261102-lost-edge/art-thumb.webp",
+      "width": 1122,
+      "height": 1402,
+      "extraViews": [],
+      "originalSha256": "fe603717df4194af8c70771e9566c7629029700f5b58f2ef6c5a3a78e85fdd1c"
+    },
+    {
+      "id": "mfm-20261102-lowered-expression",
+      "title": "嘴张着，手垂着",
+      "titleEn": "",
+      "number": "P354",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-11-02",
+      "wallText": "两只手垂到膝间，嘴张成一小块深色。上眼睑遮住部分绿圈，身体仍端坐着；表情没有交代故事，低垂的手先让画面慢下来。",
+      "alt": "蓝色矮座承托宽腹，两足外撇着地，灰手分别悬在膝下。半闭眼、小开口与下垂双臂形成同一个向下的节奏。",
+      "interpretation": [
+        "这次的问题：半闭的眼、小开口与放松的长臂能否共同改变表情，而不增加人的颈部和眉毛？",
+        "蓝色矮座承托宽腹，两足外撇着地，灰手分别悬在膝下。半闭眼、小开口与下垂双臂形成同一个向下的节奏。",
+        "采用V2，减弱眼睑的凸起和前臂圆滑明暗，保留黄与赭的平面分界。前倾仍弱，不以它解释承重变化，也不把单幅静态图当作打哈欠的证明。",
+        "下一问题（尚未实施）：同样的面部信号能否在更倾斜的连续梨形身体中保留？"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261102-lowered-expression/original.png",
+      "original": "media/mfm-20261102-lowered-expression/original.png",
+      "thumbnail": "media/mfm-20261102-lowered-expression/art-thumb.webp",
+      "width": 1145,
+      "height": 1374,
+      "extraViews": [],
+      "originalSha256": "683d60a500ac8a9012d9e64274ddd4b100f990b286d7eab7104426ef74d88110"
+    },
+    {
+      "id": "mfm-20261102-moon-ladder",
+      "title": "梯子停在黑处",
+      "titleEn": "",
+      "number": "P355",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V1",
+      "creationDate": "2026-11-02",
+      "wallText": "梯子伸进大片黑色，顶端并没有碰到月亮。奶蛙小小地站在地面上，正面朝着我们；空出来的距离，比攀登的动作更醒目。",
+      "alt": "梯子止于黑处，月亮偏在另一侧，小角色静立。",
+      "interpretation": [
+        "这次的问题：以黑色空场和梯子、月亮的间隔形成张力。",
+        "梯子止于黑处，月亮偏在另一侧，小角色静立。",
+        "保留三者之间的远隔；不把正面的静立说成向月吠叫。",
+        "下一问题（尚未实施）：下一步可改变梯子高度，检验空场压力如何变化。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Dog Barking at the Moon",
+        "artist": "Joan Miró",
+        "date": "1926"
+      },
+      "sources": [
+        {
+          "title": "Dog Barking at the Moon",
+          "url": "https://www.philamuseum.org/objects/53949"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V1。",
+      "image": "media/mfm-20261102-moon-ladder/original.png",
+      "original": "media/mfm-20261102-moon-ladder/original.png",
+      "thumbnail": "media/mfm-20261102-moon-ladder/art-thumb.webp",
+      "width": 1402,
+      "height": 1122,
+      "extraViews": [],
+      "originalSha256": "d5ff3adb5059d2841a5e621729a199a889f433f4df1b8714bedcc269d97382a9"
+    },
+    {
+      "id": "mfm-20261102-raised-wand",
+      "title": "短棒举起来，杯子还站着",
+      "titleEn": "",
+      "number": "P356",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-11-02",
+      "wallText": "短棒举在半空，杯子、硬币和刀还稳稳留在鱼形桌上。大帽子和繁密的植物把场面推向仪式，奶蛙的神情却很平静。奇事似乎将要发生，也可能只是一直等着。",
+      "alt": "鱼形桌上物件可辨，桌腿与角色双腿没有混成同一组。",
+      "interpretation": [
+        "这次的问题：把象征物与桌子腿、角色腿分开，同时统一绘画色面。",
+        "鱼形桌上物件可辨，桌腿与角色双腿没有混成同一组。",
+        "V2强化宽色面，保存持棒、帽子和桌面物的关系。",
+        "下一问题（尚未实施）：下一步可删去更多背景植物，检验仪式感是否仍在。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "The Surrealist (Le Surréaliste)",
+        "artist": "Victor Brauner",
+        "date": "January 1947"
+      },
+      "sources": [
+        {
+          "title": "The Surrealist (Le Surréaliste)",
+          "url": "https://www.guggenheim-venice.it/en/art/works/the-surrealist/"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261102-raised-wand/original.png",
+      "original": "media/mfm-20261102-raised-wand/original.png",
+      "thumbnail": "media/mfm-20261102-raised-wand/art-thumb.webp",
+      "width": 1086,
+      "height": 1448,
+      "extraViews": [],
+      "originalSha256": "3f802518d31754e2e19cc6b6da81f5058ede5cbeaa84625cf6e2cd60ce854f52"
+    },
+    {
+      "id": "mfm-20261102-reaching-hand",
+      "title": "手先来到近处",
+      "titleEn": "",
+      "number": "P357",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-11-02",
+      "wallText": "伸向我们的灰手比另一只更大，却仍能沿着手腕、肘和肩接回身体。膝上的手留在远处，近处的手先跨出画面的距离。大块黄与赭色取代圆滑的明暗，伸手的意思仍然清楚。",
+      "alt": "近手遮住手腕，手臂可追溯至肩；远手留在膝上。",
+      "interpretation": [
+        "这次的问题：让前伸手的近大远小与肩肘腕连续性同时成立。",
+        "近手遮住手腕，手臂可追溯至肩；远手留在膝上。",
+        "V2把圆滑手臂与指节改成宽色面，伸手仍清楚；牺牲部分手指细节。",
+        "下一问题（尚未实施）：下一步可减小两手尺寸差，检验更克制的透视是否仍可读。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261102-reaching-hand/original.png",
+      "original": "media/mfm-20261102-reaching-hand/original.png",
+      "thumbnail": "media/mfm-20261102-reaching-hand/art-thumb.webp",
+      "width": 1086,
+      "height": 1448,
+      "extraViews": [],
+      "originalSha256": "69d918714dc53c8f1a6bfce1ec0adfecf54bc1d33dd543d87b0fe4d7ce696ded"
+    },
+    {
+      "id": "mfm-20261102-red-transparency",
+      "title": "同一片红经过两种颜色",
+      "titleEn": "",
+      "number": "P358",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-11-02",
+      "wallText": "红色薄片经过黄色手臂时变成橙色，经过蓝椅时又转成紫色。颜色换了，方形的边仍接得上。伸出的手臂把两处重叠连起来，让一张薄片同时拥有几种颜色。",
+      "alt": "黄色手臂处呈橙色，蓝椅处呈紫色，矩形边界连续。",
+      "interpretation": [
+        "这次的问题：一张红薄片跨过两种底色后，仍保持同一张的连续性。",
+        "黄色手臂处呈橙色，蓝椅处呈紫色，矩形边界连续。",
+        "V2修正手臂路由，保留两处叠色；这是绘画惯例，不是光谱测量。",
+        "下一问题（尚未实施）：下一步可减少外框提示，检验仅靠叠色能否接起薄片。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261102-red-transparency/original.png",
+      "original": "media/mfm-20261102-red-transparency/original.png",
+      "thumbnail": "media/mfm-20261102-red-transparency/art-thumb.webp",
+      "width": 1122,
+      "height": 1402,
+      "extraViews": [],
+      "originalSha256": "56295379d255dfa4c4d7e3b753e2454d7922cf0a56c1ab4cd1b72a735342a38d"
+    },
+    {
+      "id": "mfm-20261102-sea-door",
+      "title": "亮处没有走廊",
+      "titleEn": "",
+      "number": "P359",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-11-02",
+      "wallText": "亮门外直接就是海，暗门后才看得到家具。奶蛙站在两种空间之间，还没迈步。墙上那片斜着铺开的阳光，既像邀请，也让门槛显得更突然。",
+      "alt": "海面紧接亮门，左侧暗处有家具，角色停在两者之间。",
+      "interpretation": [
+        "这次的问题：让亮门通向海、暗门通向室内，形成不同的空间邀请。",
+        "海面紧接亮门，左侧暗处有家具，角色停在两者之间。",
+        "V2用较宽笔触统一画面，保留两扇门的差异；加入角色改变了原作空室经验。",
+        "下一问题（尚未实施）：下一步可测试角色位置偏移会如何改变两扇门的吸引力。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Rooms by the Sea",
+        "artist": "Edward Hopper",
+        "date": "1951"
+      },
+      "sources": [
+        {
+          "title": "Rooms by the Sea",
+          "url": "https://artgallery.yale.edu/collections/objects/52939"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261102-sea-door/original.png",
+      "original": "media/mfm-20261102-sea-door/original.png",
+      "thumbnail": "media/mfm-20261102-sea-door/art-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "extraViews": [],
+      "originalSha256": "3f917c2a180921c3819fadba75c23e4a193c243e2306a89e44a9a98825f21011"
+    },
+    {
+      "id": "mfm-20261102-sunflower-petal",
+      "title": "手里的一片",
+      "titleEn": "",
+      "number": "P360",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-11-02",
+      "wallText": "巨大的向日葵横在走廊里，花瓣散到红地毯上。奶蛙手里只留了一小片，远处门缝仍透着细光。比起整个房间的异样，手里这点轻薄的东西显得格外具体。",
+      "alt": "走廊被花朵占据，角色手里的一片与散落花瓣呼应。",
+      "interpretation": [
+        "这次的问题：让巨大花朵与手里小花瓣产生尺度和情绪上的联系。",
+        "走廊被花朵占据，角色手里的一片与散落花瓣呼应。",
+        "V2保留通道、门缝和花瓣关系，气氛更明亮安静；没有复刻原作人物冲突。",
+        "下一问题（尚未实施）：下一步可检验更暗的门缝与更小的持物是否增强不安。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Eine Kleine Nachtmusik",
+        "artist": "Dorothea Tanning",
+        "date": "1943"
+      },
+      "sources": [
+        {
+          "title": "Eine Kleine Nachtmusik",
+          "url": "https://www.dorotheatanning.org/life-and-work/view/64"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261102-sunflower-petal/original.png",
+      "original": "media/mfm-20261102-sunflower-petal/original.png",
+      "thumbnail": "media/mfm-20261102-sunflower-petal/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": [],
+      "originalSha256": "c0d46e88d38bc9369456e2ebd785971572dc63fb79fda6705d9c7a35f03671bc"
     }
   ],
   "groupMembers": [
@@ -12348,6 +15071,1194 @@ window.MUSEUM_CATALOGUE = {
           "caption": "细节：小脸、橄榄色短爪与巨大红章的下缘"
         }
       ]
+    },
+    {
+      "id": "mfm-20261018-n01",
+      "title": "还差一步的路",
+      "titleEn": "",
+      "number": "P296.01",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "减版木刻视觉语言；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V1",
+      "creationDate": "2026-10-18",
+      "wallText": "红色的路在浅色小岛前停住，留下一道没有接上的缝。奶蛙站着没有动，周围的蓝色刻线先绕开了它。",
+      "alt": "红色的路在浅色小岛前停住，留下一道没有接上的缝。奶蛙站着没有动，周围的蓝色刻线先绕开了它。",
+      "interpretation": [
+        "画面为静态AI绘画，不据单张图像断言角色内心或时间过程。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V1。",
+      "image": "media/mfm-20261018-n01/original.png",
+      "original": "media/mfm-20261018-n01/original.png",
+      "thumbnail": "media/mfm-20261018-n01/art-thumb.webp",
+      "width": 1024,
+      "height": 1536,
+      "extraViews": [],
+      "originalSha256": "6e33614626e1a6dd1694eab84d83b7bf8654dbf67a83cf569c67a458a0e302ed"
+    },
+    {
+      "id": "mfm-20261019-n46",
+      "title": "越往里面，越占地方",
+      "titleEn": "",
+      "number": "P296.02",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "限色木刻与海报式平面；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V1",
+      "creationDate": "2026-10-19",
+      "wallText": "门一扇比一扇小，黄色的身体却一只比一只大。砖缝把视线往里面送，最远的那只又把它顶回来。",
+      "alt": "门一扇比一扇小，黄色的身体却一只比一只大。砖缝把视线往里面送，最远的那只又把它顶回来。",
+      "interpretation": [
+        "人物尺度逆着透视增加，是有意设定。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V1。",
+      "image": "media/mfm-20261019-n46/original.png",
+      "original": "media/mfm-20261019-n46/original.png",
+      "thumbnail": "media/mfm-20261019-n46/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": [],
+      "originalSha256": "c4f38f8afd64819b03b6b2fa742b9df726b5c7f06541de0c20d98b8b5ec20dc2"
+    },
+    {
+      "id": "mfm-20261019-n48",
+      "title": "同一张桌子",
+      "titleEn": "",
+      "number": "P296.03",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "不透明水粉色面视觉语言；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "桌布顺着木头爬上去，又从另一边垂下。两个空盘子还在各自面前，同一张桌子把视线挡住了。",
+      "alt": "桌布顺着木头爬上去，又从另一边垂下。两个空盘子还在各自面前，同一张桌子把视线挡住了。",
+      "interpretation": [
+        "画面为静态AI绘画，不据单张图像断言角色内心或时间过程。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-n48/original.png",
+      "original": "media/mfm-20261019-n48/original.png",
+      "thumbnail": "media/mfm-20261019-n48/art-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "extraViews": [],
+      "originalSha256": "48b064538e592a36f99637b5692b76dec06bc33170cf7c91b2a73c314356e720"
+    },
+    {
+      "id": "mfm-20261019-n50",
+      "title": "在里面等一会儿",
+      "titleEn": "",
+      "number": "P296.04",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "平色水粉与少量轮廓视觉语言；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "凳子和地砖都在里面，鱼留在玻璃外。一只转向侧面，另一只正面坐着。隔开它们和海水的，只是几条很直的蓝边。",
+      "alt": "凳子和地砖都在里面，鱼留在玻璃外。一只转向侧面，另一只正面坐着。隔开它们和海水的，只是几条很直的蓝边。",
+      "interpretation": [
+        "画面为静态AI绘画，不据单张图像断言角色内心或时间过程。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-n50/original.png",
+      "original": "media/mfm-20261019-n50/original.png",
+      "thumbnail": "media/mfm-20261019-n50/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": [],
+      "originalSha256": "3d8199b57d2fcf79c9278f043b3a6c948ef0dbe9f2bd0c24cbddbce07fa57247"
+    },
+    {
+      "id": "mfm-20261019-n55",
+      "title": "门开着，空地还在外面",
+      "titleEn": "",
+      "number": "P296.05",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "限色版画与平色视觉语言；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V1",
+      "creationDate": "2026-10-19",
+      "wallText": "门里面，几块黄色挤在一起。门外的背影还隔着一大片浅色地面，砖缝一直通到门槛。",
+      "alt": "门里面，几块黄色挤在一起。门外的背影还隔着一大片浅色地面，砖缝一直通到门槛。",
+      "interpretation": [
+        "画面为静态AI绘画，不据单张图像断言角色内心或时间过程。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V1。",
+      "image": "media/mfm-20261019-n55/original.png",
+      "original": "media/mfm-20261019-n55/original.png",
+      "thumbnail": "media/mfm-20261019-n55/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": [],
+      "originalSha256": "09e8cb2ce8726958d4a681c2c484e639e09c97a83ada06352e89f010b2eae4a4"
+    },
+    {
+      "id": "mfm-20261019-n58",
+      "title": "门两边都还有空地",
+      "titleEn": "",
+      "number": "P296.06",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "限色水粉与干边视觉语言；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "门关着，只挡住身后的一小片黄色。砖缝从两边继续往远处走，空地没有跟着关上。",
+      "alt": "门关着，只挡住身后的一小片黄色。砖缝从两边继续往远处走，空地没有跟着关上。",
+      "interpretation": [
+        "画面为静态AI绘画，不据单张图像断言角色内心或时间过程。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-n58/original.png",
+      "original": "media/mfm-20261019-n58/original.png",
+      "thumbnail": "media/mfm-20261019-n58/art-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "extraViews": [],
+      "originalSha256": "dd0d1d6a858f6d011176f89811ebe22bd1b032139c4a0ccecccf927a32030513"
+    },
+    {
+      "id": "mfm-20261019-n61",
+      "title": "留白里，两处轻轻错开",
+      "titleEn": "",
+      "number": "P328.01",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "水墨淡彩与留白构图转译；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V1",
+      "creationDate": "2026-10-19",
+      "wallText": "上面的石头，里面空着。下面那块墨更重。两处淡黄错开一点，脚下什么也没有；石边还留着一尾小鱼。",
+      "alt": "上面的石头，里面空着。下面那块墨更重。两处淡黄错开一点，脚下什么也没有；石边还留着一尾小鱼。",
+      "interpretation": [
+        "嘴部墨线较厚，足指为简笔；淡黄与留白是水墨转译，不宣称游泳。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Fish and rocks / 魚石圖",
+        "artist": "Bada Shanren (Zhu Da)",
+        "date": "dated 1699"
+      },
+      "sources": [
+        {
+          "title": "Fish and rocks / 魚石圖",
+          "url": "https://www.metmuseum.org/art/collection/search/41491"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V1。",
+      "image": "media/mfm-20261019-n61/original.png",
+      "original": "media/mfm-20261019-n61/original.png",
+      "thumbnail": "media/mfm-20261019-n61/art-thumb.webp",
+      "width": 960,
+      "height": 1639,
+      "extraViews": [],
+      "originalSha256": "db84ec83cf690c327f7721636ad26111264cac45b9f0a31a8deb282639967cd9"
+    },
+    {
+      "id": "mfm-20261019-n63",
+      "title": "白石上和低岸边",
+      "titleEn": "",
+      "number": "P328.02",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "水墨淡彩横幅构图转译；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "荷叶把两边压暗，石头中间却很空。两处淡黄一高一低，小鸟沿着石坡，把它们之间的距离接起来。",
+      "alt": "荷叶把两边压暗，石头中间却很空。两处淡黄一高一低，小鸟沿着石坡，把它们之间的距离接起来。",
+      "interpretation": [
+        "远处身体细节受尺度限制；原作绢墨转为纸墨淡彩视觉模拟。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Birds in a lotus pond / 蓮塘戲禽圖",
+        "artist": "Bada Shanren (Zhu Da)",
+        "date": "ca.1690"
+      },
+      "sources": [
+        {
+          "title": "Birds in a lotus pond / 蓮塘戲禽圖",
+          "url": "https://www.metmuseum.org/art/collection/search/49143"
+        }
+      ],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-n63/original.png",
+      "original": "media/mfm-20261019-n63/original.png",
+      "thumbnail": "media/mfm-20261019-n63/art-thumb.webp",
+      "width": 2172,
+      "height": 724,
+      "extraViews": [],
+      "originalSha256": "c79f2988b4cb7085f6981490ed5352db38f0a7fb5ffc92b5d0ef6354f39a532c"
+    },
+    {
+      "id": "mfm-20261019-n05",
+      "title": "背靠背站起来",
+      "titleEn": "",
+      "number": "P329.01",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "炭笔薄彩；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V4",
+      "creationDate": "2026-10-19",
+      "wallText": "四只脚各自踩稳，背却靠在一起。它们朝着相反方向看，谁也看不见另一只的表情。屈着的腿把这点依靠留在接触的地方。",
+      "alt": "四只脚各自踩稳，背却靠在一起。它们朝着相反方向看，谁也看不见另一只的表情。屈着的腿把这点依靠留在接触的地方。",
+      "interpretation": [
+        "画面为静态AI绘画，不据单张图像断言角色内心或时间过程。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V4。",
+      "image": "media/mfm-20261019-n05/original.png",
+      "original": "media/mfm-20261019-n05/original.png",
+      "thumbnail": "media/mfm-20261019-n05/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": [],
+      "originalSha256": "d55b1ed64997bc3f4adc5c7cf0f1263ef71eb0855c9b3e92e2695295e3434fe1"
+    },
+    {
+      "id": "mfm-20261019-n06",
+      "title": "把手放松一点",
+      "titleEn": "",
+      "number": "P329.02",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "水粉色面；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "两只灰手在黄色身体之间轻轻相接。没有握紧，也没有拉走。坐下和跪低的姿势，把这一点接触放得很慢。",
+      "alt": "两只灰手在黄色身体之间轻轻相接。没有握紧，也没有拉走。坐下和跪低的姿势，把这一点接触放得很慢。",
+      "interpretation": [
+        "画面为静态AI绘画，不据单张图像断言角色内心或时间过程。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-n06/original.png",
+      "original": "media/mfm-20261019-n06/original.png",
+      "thumbnail": "media/mfm-20261019-n06/art-thumb.webp",
+      "width": 1254,
+      "height": 1254,
+      "extraViews": [],
+      "originalSha256": "94ba73f039a457d90a7700172cda2011b798ac77c5e779c4a4fd12c81cd3fe3e"
+    },
+    {
+      "id": "mfm-20261019-n09",
+      "title": "先抱住这里",
+      "titleEn": "",
+      "number": "P329.03",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "剪纸视觉语言；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V3",
+      "creationDate": "2026-10-19",
+      "wallText": "两条手臂绕过肚子，灰手贴在自己身上。嘴角还留着一点平常的弧度，腿安静地折在身前。空白很大，抱住的地方很小。",
+      "alt": "两条手臂绕过肚子，灰手贴在自己身上。嘴角还留着一点平常的弧度，腿安静地折在身前。空白很大，抱住的地方很小。",
+      "interpretation": [
+        "画面为静态AI绘画，不据单张图像断言角色内心或时间过程。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V3。",
+      "image": "media/mfm-20261019-n09/original.png",
+      "original": "media/mfm-20261019-n09/original.png",
+      "thumbnail": "media/mfm-20261019-n09/art-thumb.webp",
+      "width": 1254,
+      "height": 1254,
+      "extraViews": [],
+      "originalSha256": "6de4bbd3b7309d7779810da3058b92a62b872009172113e942aca21cd991a4ab"
+    },
+    {
+      "id": "mfm-20261019-n31",
+      "title": "擦到背上这一块",
+      "titleEn": "",
+      "number": "P329.04",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "蜡笔与不透明平彩；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "白色毛巾贴在黄色背上，下面的小角还松松地垂着。坐着的一只背向我们，另一只把手臂伸过来。两团黄色之间，只留着一小块蓝。",
+      "alt": "白色毛巾贴在黄色背上，下面的小角还松松地垂着。坐着的一只背向我们，另一只把手臂伸过来。两团黄色之间，只留着一小块蓝。",
+      "interpretation": [
+        "画面为静态AI绘画，不据单张图像断言角色内心或时间过程。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-n31/original.png",
+      "original": "media/mfm-20261019-n31/original.png",
+      "thumbnail": "media/mfm-20261019-n31/art-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "extraViews": [],
+      "originalSha256": "3114ef5ea4c0f6c0bf996a67bd21b3b21dcb7fe23ae2b601b83371c5aa7d5528"
+    },
+    {
+      "id": "mfm-20261019-n37",
+      "title": "手臂里面的一小圈",
+      "titleEn": "",
+      "number": "P329.05",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "细线与薄层水粉；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V1",
+      "creationDate": "2026-10-19",
+      "wallText": "猫把自己卷成一小圈，灰色手掌落在它两边。手臂很长，最后也只是放在地上。黄色的身体靠得近，仍给那一小圈留着自己的位置。",
+      "alt": "猫把自己卷成一小圈，灰色手掌落在它两边。手臂很长，最后也只是放在地上。黄色的身体靠得近，仍给那一小圈留着自己的位置。",
+      "interpretation": [
+        "画面为静态AI绘画，不据单张图像断言角色内心或时间过程。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V1。",
+      "image": "media/mfm-20261019-n37/original.png",
+      "original": "media/mfm-20261019-n37/original.png",
+      "thumbnail": "media/mfm-20261019-n37/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": [],
+      "originalSha256": "248ceb6014022a658dc7d8416973ea17ca1aee1cbabea5082a7c8faec829dca0"
+    },
+    {
+      "id": "mfm-20261019-n04",
+      "title": "描到自己这里",
+      "titleEn": "",
+      "number": "P330.01",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "炭线与水粉；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V3",
+      "creationDate": "2026-10-19",
+      "wallText": "蓝线沿着手臂往下走，到脚边却绕了回来。描画的人也落进这圈轮廓里。纸上还没有画完，谁在里面，已经不像开始时那么分明。",
+      "alt": "蓝线沿着手臂往下走，到脚边却绕了回来。描画的人也落进这圈轮廓里。纸上还没有画完，谁在里面，已经不像开始时那么分明。",
+      "interpretation": [
+        "躺姿与背向跪姿改变了足的朝向，不作原版静态比例的精确复制。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V3。",
+      "image": "media/mfm-20261019-n04/original.png",
+      "original": "media/mfm-20261019-n04/original.png",
+      "thumbnail": "media/mfm-20261019-n04/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": [],
+      "originalSha256": "c2014bbac06b5cc20bacc0ce4d8a7987fa5e9473d0287fc250bd077c50b6a058"
+    },
+    {
+      "id": "mfm-20261019-n08",
+      "title": "刚刚擦开的地方",
+      "titleEn": "",
+      "number": "P330.02",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "单版画与白色擦印；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "灰手还贴在那一抹清楚的地方，眼睛和短短的嘴先露出来。身体隔着一层白，仍然站得稳。看清它，只需要这么窄的一道。",
+      "alt": "灰手还贴在那一抹清楚的地方，眼睛和短短的嘴先露出来。身体隔着一层白，仍然站得稳。看清它，只需要这么窄的一道。",
+      "interpretation": [
+        "画面为静态AI绘画，不据单张图像断言角色内心或时间过程。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-n08/original.png",
+      "original": "media/mfm-20261019-n08/original.png",
+      "thumbnail": "media/mfm-20261019-n08/art-thumb.webp",
+      "width": 1122,
+      "height": 1402,
+      "extraViews": [],
+      "originalSha256": "1dddfcb4ce48feeaedc1be94a0a227f16a17a62fe08b221713360ad614c50abe"
+    },
+    {
+      "id": "mfm-20261019-n12",
+      "title": "画拿下来以后",
+      "titleEn": "",
+      "number": "P330.03",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "蛋彩与干擦色块视觉语言；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "画已经拿下来，墙上那块蓝却比四周更深。它抱着画背站在旁边，留下的位置忽然比画更醒目。",
+      "alt": "画已经拿下来，墙上那块蓝却比四周更深。它抱着画背站在旁边，留下的位置忽然比画更醒目。",
+      "interpretation": [
+        "画面为静态AI绘画，不据单张图像断言角色内心或时间过程。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-n12/original.png",
+      "original": "media/mfm-20261019-n12/original.png",
+      "thumbnail": "media/mfm-20261019-n12/art-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "extraViews": [],
+      "originalSha256": "882c1d75a4f86ac2a544753ba134baa9820d03107e0ac3b41571f47c0d1eaae9"
+    },
+    {
+      "id": "mfm-20261019-n13",
+      "title": "这次轮到你别动",
+      "titleEn": "",
+      "number": "P330.04",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "炭线与薄彩；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "它眯起一只眼，把笔竖在脸旁，望过来。膝上的纸只落了几道线，右边还空着。这次，被仔细看着的是画外的人。",
+      "alt": "它眯起一只眼，把笔竖在脸旁，望过来。膝上的纸只落了几道线，右边还空着。这次，被仔细看着的是画外的人。",
+      "interpretation": [
+        "画面为静态AI绘画，不据单张图像断言角色内心或时间过程。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-n13/original.png",
+      "original": "media/mfm-20261019-n13/original.png",
+      "thumbnail": "media/mfm-20261019-n13/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": [],
+      "originalSha256": "73bee74d6d8500ad8633c5e1404a0b7c02f5f122796fd721733db45c66611920"
+    },
+    {
+      "id": "mfm-20261019-n14",
+      "title": "这一角松开以后",
+      "titleEn": "",
+      "number": "P331.01",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "水粉平面色块；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "粉色薄片在四个黄色身体之间斜着折起，有一角落得更低。它们没有碰到彼此，却被这一张薄薄的表面连在一起。",
+      "alt": "粉色薄片在四个黄色身体之间斜着折起，有一角落得更低。它们没有碰到彼此，却被这一张薄薄的表面连在一起。",
+      "interpretation": [
+        "只呈现薄片当前折叠形状，不据单图断言松手的时间过程。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-n14/original.png",
+      "original": "media/mfm-20261019-n14/original.png",
+      "thumbnail": "media/mfm-20261019-n14/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": [],
+      "originalSha256": "6cba13be5635a86dcac0a854cee62c5c1a02f755f223ddf4978ad7cff4e42f2c"
+    },
+    {
+      "id": "mfm-20261019-n22",
+      "title": "从你那边读过来",
+      "titleEn": "",
+      "number": "P331.02",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "平面水粉；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V3",
+      "creationDate": "2026-10-19",
+      "wallText": "树都朝同一边长。坐在这边，天在上面；换到对面，连身体也得歪一歪。另一只手正提起纸角，还没有决定让谁看得方便。",
+      "alt": "树都朝同一边长。坐在这边，天在上面；换到对面，连身体也得歪一歪。另一只手正提起纸角，还没有决定让谁看得方便。",
+      "interpretation": [
+        "画面为静态AI绘画，不据单张图像断言角色内心或时间过程。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V3。",
+      "image": "media/mfm-20261019-n22/original.png",
+      "original": "media/mfm-20261019-n22/original.png",
+      "thumbnail": "media/mfm-20261019-n22/art-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "extraViews": [],
+      "originalSha256": "6cff1ea2d7b4b495f6ed697f93d02d71f6c8a4ac855b1f9578b31deb773181c4"
+    },
+    {
+      "id": "mfm-20261019-n79",
+      "title": "黑色的一边松开了",
+      "titleEn": "",
+      "number": "P331.03",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "硬边纸本色面与翻折平面视觉实验；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "黑色铺得很大，只在左边掀起一小段，露出灰色反面。另一只站在远处的边旁；两者之间，这片黑仍平平地躺着。",
+      "alt": "黑色铺得很大，只在左边掀起一小段，露出灰色反面。另一只站在远处的边旁；两者之间，这片黑仍平平地躺着。",
+      "interpretation": [
+        "掀起黑色平面的超现实实验，不作真实材料性质说明。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-n79/original.png",
+      "original": "media/mfm-20261019-n79/original.png",
+      "thumbnail": "media/mfm-20261019-n79/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": [],
+      "originalSha256": "9df7a54f34d6b44f1565602c25cab7d9b33e7347a4e643fb184f194fdbc5dc81"
+    },
+    {
+      "id": "mfm-20261019-n11",
+      "title": "水面没有跟着歪",
+      "titleEn": "",
+      "number": "P332.01",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "墨线与水粉；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V1",
+      "creationDate": "2026-10-19",
+      "wallText": "两只灰手一高一低，槽沿跟着歪了，蓝色的水面却还是平的。低的一头漏下一小股水。它握得住容器，握不住这条横线。",
+      "alt": "两只灰手一高一低，槽沿跟着歪了，蓝色的水面却还是平的。低的一头漏下一小股水。它握得住容器，握不住这条横线。",
+      "interpretation": [
+        "水平水面与倾斜容器是图像设定，不作物理实验结果。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V1。",
+      "image": "media/mfm-20261019-n11/original.png",
+      "original": "media/mfm-20261019-n11/original.png",
+      "thumbnail": "media/mfm-20261019-n11/art-thumb.webp",
+      "width": 1086,
+      "height": 1448,
+      "extraViews": [],
+      "originalSha256": "430eaa93d9ca6b6083c842fa30436735ee10cd52dd587601c7146e91ceba4f90"
+    },
+    {
+      "id": "mfm-20261019-n45",
+      "title": "这里有两个向下",
+      "titleEn": "",
+      "number": "P332.02",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "限色丝网视觉语言；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "一只把脚放在地上，另一只把脚放在墙上。蓝格子一路接过去，门还端端正正。两边站得都很自然。",
+      "alt": "一只把脚放在地上，另一只把脚放在墙上。蓝格子一路接过去，门还端端正正。两边站得都很自然。",
+      "interpretation": [
+        "两个相异重力方向是有意的超现实空间，不作真实现象说明。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-n45/original.png",
+      "original": "media/mfm-20261019-n45/original.png",
+      "thumbnail": "media/mfm-20261019-n45/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": [],
+      "originalSha256": "d2c109854540b3163a222e9a13b0ed1c05a8b3d5456ed1afdb091e2af421c754"
+    },
+    {
+      "id": "mfm-20261019-n47",
+      "title": "伞里下雨",
+      "titleEn": "",
+      "number": "P332.03",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "剪纸色块与平涂水粉视觉语言；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "伞外的地面还是干的。雨密密地落在伞下面，刚好围住撑伞的这一小块地方。",
+      "alt": "伞外的地面还是干的。雨密密地落在伞下面，刚好围住撑伞的这一小块地方。",
+      "interpretation": [
+        "雨落伞内是超现实设定。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-n47/original.png",
+      "original": "media/mfm-20261019-n47/original.png",
+      "thumbnail": "media/mfm-20261019-n47/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": [],
+      "originalSha256": "8f9f8741acd7087a13a119b1acd2bde40faa6079616c40b528549f459d6248e7"
+    },
+    {
+      "id": "mfm-20261019-n67",
+      "title": "影子先聚在一起·重作",
+      "titleEn": "",
+      "number": "P332.04",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "硬边纸本色面与概括投影；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V1",
+      "creationDate": "2026-10-19",
+      "wallText": "身体、瓶子和罐子，各自留着一点距离。到了地面，灰紫色连成一片；中间那点浅色，像还没被合上的口。",
+      "alt": "身体、瓶子和罐子，各自留着一点距离。到了地面，灰紫色连成一片；中间那点浅色，像还没被合上的口。",
+      "interpretation": [
+        "画面为静态AI绘画，不据单张图像断言角色内心或时间过程。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V1。",
+      "image": "media/mfm-20261019-n67/original.png",
+      "original": "media/mfm-20261019-n67/original.png",
+      "thumbnail": "media/mfm-20261019-n67/art-thumb.webp",
+      "width": 1535,
+      "height": 1024,
+      "extraViews": [],
+      "originalSha256": "65716c9f6b5fc0ab7948b482a032d28165584fd25702236c6ea1176236808246"
+    },
+    {
+      "id": "mfm-20261019-n23",
+      "title": "这一桌慢慢排齐",
+      "titleEn": "",
+      "number": "P333.01",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "限黄干刻线描；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "面团在几双灰手之间，有的摊开，有的留成圆团。桌面很长，手边的事情很小。近处的背影把我们也带到这张桌旁。",
+      "alt": "面团在几双灰手之间，有的摊开，有的留成圆团。桌面很长，手边的事情很小。近处的背影把我们也带到这张桌旁。",
+      "interpretation": [
+        "画面为静态AI绘画，不据单张图像断言角色内心或时间过程。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-n23/original.png",
+      "original": "media/mfm-20261019-n23/original.png",
+      "thumbnail": "media/mfm-20261019-n23/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": [],
+      "originalSha256": "59c9efdf027067e4e52acae10eae79a653adb5de76b5d3cf7a8ec574a3377ed4"
+    },
+    {
+      "id": "mfm-20261019-n24",
+      "title": "整理的时候",
+      "titleEn": "",
+      "number": "P333.02",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "硬边限色图形；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "左边的椅子还朝着同一个方向，右边已经叠在一起。手停在椅背和座面上。两种排列之间，空地显得格外宽。",
+      "alt": "左边的椅子还朝着同一个方向，右边已经叠在一起。手停在椅背和座面上。两种排列之间，空地显得格外宽。",
+      "interpretation": [
+        "椅子遮住部分手和身体，不能看清全部关节接触。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-n24/original.png",
+      "original": "media/mfm-20261019-n24/original.png",
+      "thumbnail": "media/mfm-20261019-n24/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": [],
+      "originalSha256": "9ed60ded7f4fdafec96ba237fb657a38e8ccef350b129c987d119260b25ef32a"
+    },
+    {
+      "id": "mfm-20261019-n29",
+      "title": "拢到这一条边",
+      "titleEn": "",
+      "number": "P333.03",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "炭线与薄层黄彩；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "散开的碎屑到扫帚前挤成一道黑边，簸箕口低低贴住地面。一个身体站着，一个蹲下，让细小的东西有了要去的方向。",
+      "alt": "散开的碎屑到扫帚前挤成一道黑边，簸箕口低低贴住地面。一个身体站着，一个蹲下，让细小的东西有了要去的方向。",
+      "interpretation": [
+        "画面为静态AI绘画，不据单张图像断言角色内心或时间过程。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-n29/original.png",
+      "original": "media/mfm-20261019-n29/original.png",
+      "thumbnail": "media/mfm-20261019-n29/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": [],
+      "originalSha256": "1ecba43fa9d89fed7187a1857a0cd26a3750d315e0a1b51028fe6d6d72fcbbcc"
+    },
+    {
+      "id": "mfm-20261019-n35",
+      "title": "把平的那一段卷起来",
+      "titleEn": "",
+      "number": "P333.04",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "干刻线与平涂水粉；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "地垫的两条边一直伸到画外，到了手掌下面，才绕成几圈挤在一起的线。卷前还有一点松起。背后已经空出来的地面，比卷芯安静得多。",
+      "alt": "地垫的两条边一直伸到画外，到了手掌下面，才绕成几圈挤在一起的线。卷前还有一点松起。背后已经空出来的地面，比卷芯安静得多。",
+      "interpretation": [
+        "画面为静态AI绘画，不据单张图像断言角色内心或时间过程。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-n35/original.png",
+      "original": "media/mfm-20261019-n35/original.png",
+      "thumbnail": "media/mfm-20261019-n35/art-thumb.webp",
+      "width": 1672,
+      "height": 941,
+      "extraViews": [],
+      "originalSha256": "57e3e8657b0c635148cfdbc76b8cf88b9caabc73b5c1f46d8a91d99343f3669c"
+    },
+    {
+      "id": "mfm-20261019-n36",
+      "title": "土从铲边落下来",
+      "titleEn": "",
+      "number": "P333.05",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "限色木刻试验；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V3",
+      "creationDate": "2026-10-19",
+      "wallText": "铲沿外的土断开了一小截，下面的土堆已经接住它。旁边还留着一道凹下去的沟，同一种褐色，一处少了，一处多了。",
+      "alt": "铲沿外的土断开了一小截，下面的土堆已经接住它。旁边还留着一道凹下去的沟，同一种褐色，一处少了，一处多了。",
+      "interpretation": [
+        "画面为静态AI绘画，不据单张图像断言角色内心或时间过程。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V3。",
+      "image": "media/mfm-20261019-n36/original.png",
+      "original": "media/mfm-20261019-n36/original.png",
+      "thumbnail": "media/mfm-20261019-n36/art-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "extraViews": [],
+      "originalSha256": "d520302ad16bab1a617b985fe3f41cfb78882f19eff8c9af0e4fed6a1c641107"
+    },
+    {
+      "id": "mfm-20261019-n40",
+      "title": "先把这一小段理直",
+      "titleEn": "",
+      "number": "P333.06",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "干刻线与双色平涂；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-10-19",
+      "wallText": "两只手之间，蓝绳只直了一小段。剩下的先垂下，再在地上松开。空地很大，暂时不用全部理完。",
+      "alt": "两只手之间，蓝绳只直了一小段。剩下的先垂下，再在地上松开。空地很大，暂时不用全部理完。",
+      "interpretation": [
+        "画面为静态AI绘画，不据单张图像断言角色内心或时间过程。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V2。",
+      "image": "media/mfm-20261019-n40/original.png",
+      "original": "media/mfm-20261019-n40/original.png",
+      "thumbnail": "media/mfm-20261019-n40/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": [],
+      "originalSha256": "3ace45dd6586611bfea7500d8c0f1d20ed3a17c3f5936f3b86448b5be6affc7d"
+    },
+    {
+      "id": "mfm-20261019-n80",
+      "title": "盆里留下一个空处",
+      "titleEn": "",
+      "number": "P333.07",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "有限色面水粉；AI生成图像，模拟绘画/版画语言，不是实物制作媒介。",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V1",
+      "creationDate": "2026-10-19",
+      "wallText": "根团还带着盆壁留下的形状，旁边的陶盆已经空了。一双灰掌托着土，另一只手扶住盆沿，叶片从中间向左上展开。",
+      "alt": "根团还带着盆壁留下的形状，旁边的陶盆已经空了。一双灰掌托着土，另一只手扶住盆沿，叶片从中间向左上展开。",
+      "interpretation": [
+        "画面为静态AI绘画，不据单张图像断言角色内心或时间过程。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": ""
+      },
+      "sources": [],
+      "creationNote": "本项目的AI辅助二维创作，不代表官方奶龙、参考艺术家或收藏机构。奶蛙为社区衍生形象；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，参考原图仅提供来源链接。 采用版本：V1。",
+      "image": "media/mfm-20261019-n80/original.png",
+      "original": "media/mfm-20261019-n80/original.png",
+      "thumbnail": "media/mfm-20261019-n80/art-thumb.webp",
+      "width": 1448,
+      "height": 1086,
+      "extraViews": [],
+      "originalSha256": "fbb1a23eba2fdd751bb6e68c135f222296474b09e304c97793a1627994123b83"
     }
   ]
 };
