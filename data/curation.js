@@ -1,6 +1,6 @@
 window.MUSEUM_CURATION = {
   "schemaVersion": 1,
-  "contentVersion": "2026-11-02-historical89",
+  "contentVersion": "2026-11-13-approved-four",
   "language": "zh-Hans",
   "identity": {
     "name": "奶蛙现代艺术馆",
@@ -9,7 +9,7 @@ window.MUSEUM_CURATION = {
     "tagline": "从一张脸，看到它周围的规则"
   },
   "statistics": {
-    "mainWorks": 349,
+    "mainWorks": 353,
     "halls": 5,
     "earlierVersions": 7,
     "additionalViews": 7,
@@ -17,7 +17,7 @@ window.MUSEUM_CURATION = {
     "sculptureGroups": 1,
     "sculptureGroupMembers": 9,
     "recommendationArticles": 4,
-    "creatorRecords": 12,
+    "creatorRecords": 14,
     "finalizedSeries": 7,
     "finalizedSeriesMembers": 31
   },
@@ -25,7 +25,7 @@ window.MUSEUM_CURATION = {
     "title": "奶蛙现代艺术馆",
     "titleEn": "Milk Frog Museum of Modern Art",
     "subtitle": "从一张脸，看到它周围的规则",
-    "intro": "从镜中的背影到失去水的瓷砖，从一枚未读标记到只剩黄色的方块，284件作品追问：一个角色可以改变多少，仍与原来的自己发生关系？沿五个展厅观看，也可按媒介和编号查阅。",
+    "intro": "从镜中的背影到失去水的瓷砖，从一枚未读标记到只剩黄色的方块，353件作品追问：一个角色可以改变多少，仍与原来的自己发生关系？沿五个展厅观看，也可按媒介和编号查阅。",
     "headline": "一只熟悉的身体，\n世界不再严丝合缝。",
     "featuredId": "011-incompatible-lunch",
     "statement": "先认出它，再看它与周围事物的关系。每一次改写，都要说明哪些线索被保住，哪些规则被改变。",
@@ -458,7 +458,11 @@ window.MUSEUM_CURATION = {
       "mfm-20261102-reaching-hand",
       "mfm-20261102-red-transparency",
       "mfm-20261102-sea-door",
-      "mfm-20261102-sunflower-petal"
+      "mfm-20261102-sunflower-petal",
+      "mfm-20261112-red-weave",
+      "mfm-20261112-sunbeam-gap",
+      "mfm-20261113-grey-strip",
+      "mfm-20261113-window-back"
     ],
     "halls": [
       {
@@ -544,6 +548,14 @@ window.MUSEUM_CURATION = {
               "mfm-20261013-diverse30-e1",
               "mfm-20261013-diverse30-e2"
             ]
+          },
+          {
+            "id": "identity-20261113",
+            "title": "11月13日入馆：画面里的关系",
+            "description": "从颜色、遮挡与观看距离继续比较。",
+            "workIds": [
+              "mfm-20261113-window-back"
+            ]
           }
         ],
         "workIds": [
@@ -572,9 +584,10 @@ window.MUSEUM_CURATION = {
           "009-verification",
           "052-one-extra-expression",
           "156-the-stones-do-not-answer",
-          "169-another-gaze-in-the-boxes"
+          "169-another-gaze-in-the-boxes",
+          "mfm-20261113-window-back"
         ],
-        "workCount": 35
+        "workCount": 36
       },
       {
         "id": "gesture",
@@ -927,6 +940,14 @@ window.MUSEUM_CURATION = {
               "mfm-20261013-diverse30-lb2",
               "mfm-20261013-diverse30-co3"
             ]
+          },
+          {
+            "id": "everyday-20261113",
+            "title": "11月13日入馆：画面里的关系",
+            "description": "从颜色、遮挡与观看距离继续比较。",
+            "workIds": [
+              "mfm-20261112-sunbeam-gap"
+            ]
           }
         ],
         "workIds": [
@@ -994,9 +1015,10 @@ window.MUSEUM_CURATION = {
           "180-flower-colors-grow-from-the-palm",
           "181-the-garden-on-the-back-of-cardboard",
           "194-the-button-moon-opened-its-mouth",
-          "195-the-paper-puppet-remained-after-the-curtain-call"
+          "195-the-paper-puppet-remained-after-the-curtain-call",
+          "mfm-20261112-sunbeam-gap"
         ],
-        "workCount": 79
+        "workCount": 80
       },
       {
         "id": "reproduction",
@@ -1219,6 +1241,15 @@ window.MUSEUM_CURATION = {
               "mfm-20261013-diverse30-e3",
               "mfm-20261013-diverse30-yo3"
             ]
+          },
+          {
+            "id": "abstraction-20261113",
+            "title": "11月13日入馆：画面里的关系",
+            "description": "从颜色、遮挡与观看距离继续比较。",
+            "workIds": [
+              "mfm-20261112-red-weave",
+              "mfm-20261113-grey-strip"
+            ]
           }
         ],
         "workIds": [
@@ -1253,9 +1284,11 @@ window.MUSEUM_CURATION = {
           "190-someone-catches-it-in-every-direction",
           "191-a-pulse-presses-beyond-the-frame",
           "205-meeting-you-from-here",
-          "206-a-little-space-remains-between"
+          "206-a-little-space-remains-between",
+          "mfm-20261112-red-weave",
+          "mfm-20261113-grey-strip"
         ],
-        "workCount": 45
+        "workCount": 47
       }
     ]
   },
@@ -6619,6 +6652,78 @@ window.MUSEUM_CURATION = {
       "hallPosition": 45,
       "sequencePosition": 284,
       "previousWorkId": "mfm-20261013-diverse30-e3",
+      "nextWorkId": null
+    },
+    {
+      "workId": "mfm-20261112-red-weave",
+      "number": "P361",
+      "title": "红色轮流露面",
+      "primaryHallId": "abstraction",
+      "clusterId": "abstraction-20261113",
+      "route": "#/work/mfm-20261112-red-weave",
+      "lookFor": "让连续红纸条与三道横带形成上、下、上的遮挡节奏。",
+      "placementRationale": "沿本厅的问题比较颜色、遮挡或辨认线索。",
+      "analyzedIn": [
+        "journal-2026-11-12-selected-works"
+      ],
+      "relatedReading": [],
+      "hallPosition": 46,
+      "sequencePosition": 350,
+      "previousWorkId": "mfm-20261102-sunflower-petal",
+      "nextWorkId": null
+    },
+    {
+      "workId": "mfm-20261112-sunbeam-gap",
+      "number": "P362",
+      "title": "光在脚边缺了一块",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-20261113",
+      "route": "#/work/mfm-20261112-sunbeam-gap",
+      "lookFor": "身体进入空室后，能否靠脚边光带的中断让重量可见？",
+      "placementRationale": "沿本厅的问题比较颜色、遮挡或辨认线索。",
+      "analyzedIn": [
+        "journal-2026-11-12-selected-works"
+      ],
+      "relatedReading": [],
+      "hallPosition": 80,
+      "sequencePosition": 351,
+      "previousWorkId": "mfm-20261112-red-weave",
+      "nextWorkId": null
+    },
+    {
+      "workId": "mfm-20261113-grey-strip",
+      "number": "P363",
+      "title": "同一段灰，经过两边",
+      "primaryHallId": "abstraction",
+      "clusterId": "abstraction-20261113",
+      "route": "#/work/mfm-20261113-grey-strip",
+      "lookFor": "连续中灰带能否仅依靠黑白底色显得明暗不同？",
+      "placementRationale": "沿本厅的问题比较颜色、遮挡或辨认线索。",
+      "analyzedIn": [
+        "journal-2026-11-13-selected-works"
+      ],
+      "relatedReading": [],
+      "hallPosition": 47,
+      "sequencePosition": 352,
+      "previousWorkId": "mfm-20261112-sunbeam-gap",
+      "nextWorkId": null
+    },
+    {
+      "workId": "mfm-20261113-window-back",
+      "number": "P364",
+      "title": "背影留在窗里",
+      "primaryHallId": "identity",
+      "clusterId": "identity-20261113",
+      "route": "#/work/mfm-20261113-window-back",
+      "lookFor": "面部缺席时，身体能否仍可辨认，并由窗口组织内外距离？",
+      "placementRationale": "沿本厅的问题比较颜色、遮挡或辨认线索。",
+      "analyzedIn": [
+        "journal-2026-11-13-selected-works"
+      ],
+      "relatedReading": [],
+      "hallPosition": 36,
+      "sequencePosition": 353,
+      "previousWorkId": "mfm-20261113-grey-strip",
       "nextWorkId": null
     }
   ],

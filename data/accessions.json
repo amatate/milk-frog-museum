@@ -1747,6 +1747,26 @@
       "id": "mfm-20261102-sunflower-petal",
       "time": "2026-11-02T05:53:12Z",
       "precision": "second"
+    },
+    {
+      "id": "mfm-20261112-red-weave",
+      "time": "2026-11-13T02:59:01Z",
+      "precision": "second"
+    },
+    {
+      "id": "mfm-20261112-sunbeam-gap",
+      "time": "2026-11-13T02:59:01Z",
+      "precision": "second"
+    },
+    {
+      "id": "mfm-20261113-grey-strip",
+      "time": "2026-11-13T02:59:01Z",
+      "precision": "second"
+    },
+    {
+      "id": "mfm-20261113-window-back",
+      "time": "2026-11-13T02:59:01Z",
+      "precision": "second"
     }
   ],
   "groupMembers": [
