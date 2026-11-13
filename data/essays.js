@@ -7187,7 +7187,9 @@ window.MUSEUM_ESSAYS = {
                 "alt": "红纸在三道靛蓝横带之间轮流露面，转到桌边，又接回奶蛙手里。一次轻轻的提拉，让静止的横线有了先后。",
                 "label": "红色轮流露面 · V2",
                 "caption": "采用的定稿版本；AI辅助二维创作。",
-                "workNumber": "P361"
+                "workNumber": "P361",
+                "medium": "AI辅助二维绘画",
+                "exhibitNote": "原创二维"
               }
             },
             {
@@ -7204,7 +7206,8 @@ window.MUSEUM_ESSAYS = {
             }
           ],
           "title": "红色轮流露面",
-          "id": "section-1"
+          "id": "section-1",
+          "referenceIds": []
         },
         {
           "paragraphs": [
@@ -7227,7 +7230,9 @@ window.MUSEUM_ESSAYS = {
                 "alt": "窗格把光铺到地上，奶蛙站在亮处边缘。脚后的影子占去一块暖色，房间仍然安静，却不再空着。",
                 "label": "光在脚边缺了一块 · V2",
                 "caption": "采用的定稿版本；AI辅助二维创作。",
-                "workNumber": "P362"
+                "workNumber": "P362",
+                "medium": "AI辅助二维绘画",
+                "exhibitNote": "具体名画改编"
               }
             },
             {
@@ -7244,7 +7249,10 @@ window.MUSEUM_ESSAYS = {
             }
           ],
           "title": "光在脚边缺了一块",
-          "id": "section-2"
+          "id": "section-2",
+          "referenceIds": [
+            "R2"
+          ]
         }
       ],
       "references": [
@@ -7301,7 +7309,9 @@ window.MUSEUM_ESSAYS = {
                 "alt": "灰带横穿黑与白，奶蛙的手停在支架下角。同一条线没有转弯，观看却在中间停了一下：是灰变了，还是它身后的颜色变了？",
                 "label": "同一段灰，经过两边 · V2",
                 "caption": "采用的定稿版本；AI辅助二维创作。",
-                "workNumber": "P363"
+                "workNumber": "P363",
+                "medium": "AI辅助二维绘画",
+                "exhibitNote": "原创二维"
               }
             },
             {
@@ -7318,7 +7328,8 @@ window.MUSEUM_ESSAYS = {
             }
           ],
           "title": "同一段灰，经过两边",
-          "id": "section-1"
+          "id": "section-1",
+          "referenceIds": []
         },
         {
           "paragraphs": [
@@ -7341,7 +7352,9 @@ window.MUSEUM_ESSAYS = {
                 "alt": "浅天停在高窗里，远树和细桅挤进下面的一小块亮处。奶蛙没有回头；它遮住窗台，也让窗外显得更远。",
                 "label": "背影留在窗里 · V1",
                 "caption": "采用的定稿版本；AI辅助二维创作。",
-                "workNumber": "P364"
+                "workNumber": "P364",
+                "medium": "AI辅助二维绘画",
+                "exhibitNote": "具体名画改编"
               }
             },
             {
@@ -7358,7 +7371,10 @@ window.MUSEUM_ESSAYS = {
             }
           ],
           "title": "背影留在窗里",
-          "id": "section-2"
+          "id": "section-2",
+          "referenceIds": [
+            "R2"
+          ]
         }
       ],
       "references": [
