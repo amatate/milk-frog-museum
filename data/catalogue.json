@@ -14887,6 +14887,133 @@
         "title": "Frau am Fenster",
         "date": "1822"
       }
+    },
+    {
+      "id": "mfm-20261105-cabinet-trace-v2",
+      "title": "柜子离开的位置",
+      "titleEn": "",
+      "number": "P365",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维数字图像，凸版印刷式色面",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-11-05",
+      "wallText": "墙上深红矩形与右侧木柜并置，奶蛙的双掌抵住柜侧。平整的空缺和密集木纹分担画面重量，身体斜倾把两者连在一起。柜体被画框截去，留下的是位置的暗示，而不是一次搬动过程的完整证明。",
+      "alt": "红墙上的深红矩形与右侧木柜并置，黄色奶蛙斜身，双掌抵住柜侧。",
+      "interpretation": [
+        "原创场景与构图，AI辅助二维数字图像；奶蛙角色来源与权利另行说明。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "",
+        "artist": "",
+        "date": "",
+        "note": "原创场景与构图；凸版印刷式色面为数字模拟，不是实体版画。"
+      },
+      "sources": [],
+      "creationNote": "本项目的非官方AI辅助二维创作。奶蛙为社区衍生形象，不代表官方奶龙、参考艺术家或收藏机构；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，历史参考原图仅提供来源链接。采用版本：V2。",
+      "image": "media/mfm-20261105-cabinet-trace-v2/original.png",
+      "original": "media/mfm-20261105-cabinet-trace-v2/original.png",
+      "thumbnail": "media/mfm-20261105-cabinet-trace-v2/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": [],
+      "originalSha256": "f8fd3f7e8657501cdaa7a205156a8ec3d68d1380c91fdb4dc62b12d70b60704e"
+    },
+    {
+      "id": "mfm-20261105-ault-crossroads-v1",
+      "title": "路口还亮着",
+      "titleEn": "",
+      "number": "P366",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维数字改编，油画式笔触",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V1",
+      "creationDate": "2026-11-05",
+      "wallText": "大片黑夜压住屋舍与弯路，路灯仍是画面最亮的一点。奶蛙缩成路面上的小小暖色，暗面与建筑共用夜色。改编保留奥尔特原作的空间骨架，让一个身体进入空路，却没有替这片安静规定故事。",
+      "alt": "夜色中的路灯照亮弯路，一只黄色奶蛙站在路面上，左右是暗色与浅色屋舍。",
+      "interpretation": [
+        "AI辅助数字改编，据 George Ault《Bright Light at Russell’s Corners》（1946），Smithsonian American Art Museum藏。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Bright Light at Russell’s Corners",
+        "artist": "George Ault",
+        "date": "1946",
+        "note": "AI辅助数字改编，据 George Ault《Bright Light at Russell’s Corners》（1946），Smithsonian American Art Museum藏。"
+      },
+      "sources": [
+        {
+          "title": "Smithsonian American Art Museum · Bright Light at Russell’s Corners",
+          "url": "https://americanart.si.edu/artwork/bright-light-russells-corners-679"
+        }
+      ],
+      "creationNote": "本项目的非官方AI辅助二维创作。奶蛙为社区衍生形象，不代表官方奶龙、参考艺术家或收藏机构；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，历史参考原图仅提供来源链接。采用版本：V1。",
+      "image": "media/mfm-20261105-ault-crossroads-v1/original.png",
+      "original": "media/mfm-20261105-ault-crossroads-v1/original.png",
+      "thumbnail": "media/mfm-20261105-ault-crossroads-v1/art-thumb.webp",
+      "width": 1402,
+      "height": 1122,
+      "extraViews": [],
+      "originalSha256": "9dff283c3dc4ff0c034f87c18fbea3cf9010e7e32894fb1d66db5b62176463d4"
+    },
+    {
+      "id": "mfm-20261106-degas-sulking-v2",
+      "title": "各自有一处支撑",
+      "titleEn": "",
+      "number": "P367",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维数字改编，油画式笔触",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-11-06",
+      "wallText": "左侧灰手搭住椅背，右侧双臂伏在绿桌上；两只奶蛙距离很近，支撑与高度却各不相同。木墙、纸张和身体共用断续笔触。画面借德加的室内关系组织两种停顿，不断言人物正在争吵或彼此疏远。",
+      "alt": "两只黄色奶蛙位于室内绿桌旁，左侧灰手搭住椅背，右侧双臂叠放在桌面上。",
+      "interpretation": [
+        "AI辅助数字改编，据 Edgar Degas《Sulking》（ca. 1870），The Metropolitan Museum of Art藏。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "source": {
+        "title": "Sulking",
+        "artist": "Edgar Degas",
+        "date": "ca. 1870",
+        "note": "AI辅助数字改编，据 Edgar Degas《Sulking》（ca. 1870），The Metropolitan Museum of Art藏。"
+      },
+      "sources": [
+        {
+          "title": "The Metropolitan Museum of Art · Sulking",
+          "url": "https://www.metmuseum.org/art/collection/search/436162"
+        }
+      ],
+      "creationNote": "本项目的非官方AI辅助二维创作。奶蛙为社区衍生形象，不代表官方奶龙、参考艺术家或收藏机构；角色与参考作品权利归各自权利人。本馆不授予第三方内容开放许可，历史参考原图仅提供来源链接。采用版本：V2。",
+      "image": "media/mfm-20261106-degas-sulking-v2/original.png",
+      "original": "media/mfm-20261106-degas-sulking-v2/original.png",
+      "thumbnail": "media/mfm-20261106-degas-sulking-v2/art-thumb.webp",
+      "width": 1486,
+      "height": 1059,
+      "extraViews": [],
+      "originalSha256": "7bf31d712b64a186724273c4d5cd50d21e18acd90a799863960d67fbb42c98b5"
     }
   ],
   "groupMembers": [

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026-11-13-approved-four",
+  "contentVersion": "2026-11-13-restored-approved-three",
   "language": "zh-Hans",
   "identity": {
     "name": "奶蛙现代艺术馆",
@@ -9,7 +9,7 @@
     "tagline": "从一张脸，看到它周围的规则"
   },
   "statistics": {
-    "mainWorks": 353,
+    "mainWorks": 356,
     "halls": 5,
     "earlierVersions": 7,
     "additionalViews": 7,
@@ -25,7 +25,7 @@
     "title": "奶蛙现代艺术馆",
     "titleEn": "Milk Frog Museum of Modern Art",
     "subtitle": "从一张脸，看到它周围的规则",
-    "intro": "从镜中的背影到失去水的瓷砖，从一枚未读标记到只剩黄色的方块，353件作品追问：一个角色可以改变多少，仍与原来的自己发生关系？沿五个展厅观看，也可按媒介和编号查阅。",
+    "intro": "从镜中的背影到失去水的瓷砖，从一枚未读标记到只剩黄色的方块，356件作品追问：一个角色可以改变多少，仍与原来的自己发生关系？沿五个展厅观看，也可按媒介和编号查阅。",
     "headline": "一只熟悉的身体，\n世界不再严丝合缝。",
     "featuredId": "011-incompatible-lunch",
     "statement": "先认出它，再看它与周围事物的关系。每一次改写，都要说明哪些线索被保住，哪些规则被改变。",
@@ -38,7 +38,7 @@
       "本项目的创作、筛选、展签与研究彼此相关。策展文本可以提出读法，不能替作品证明观众已经被治愈、冒犯或说服。研究区继续追问这些判断如何取证；版本对照则让部分选择留在图像之间，而不是只留在一段解释里。"
     ],
     "rightsNote": "本站展示奶蛙题材的AI辅助图像与数字三维再创作，不代表角色权利方、历史作品作者或收藏机构。相关角色与被引用作品的权利归各自权利人；本馆不为第三方内容授予开放许可。历史参考以来源链接说明，不再发行其参考原图。",
-    "editionNote": "网页展示版；本次60件采用作品附经批准公开的生成原PNG，其余旧展品保持展示图。",
+    "editionNote": "网页展示版；本次60件采用作品附经批准公开的生成原PNG，其余旧展品保持展示图。 另补入11月5–6日创作的三件已批准作品，采用原选定版本，原PNG保持不变。",
     "archiveNote": "八月旧作归档：20 件作品、6 张早期版本；旧作题名与修订关系保留，展签与解读在本次归档时补充。"
   },
   "home": {
@@ -462,7 +462,10 @@
       "mfm-20261112-red-weave",
       "mfm-20261112-sunbeam-gap",
       "mfm-20261113-grey-strip",
-      "mfm-20261113-window-back"
+      "mfm-20261113-window-back",
+      "mfm-20261105-cabinet-trace-v2",
+      "mfm-20261105-ault-crossroads-v1",
+      "mfm-20261106-degas-sulking-v2"
     ],
     "halls": [
       {
@@ -724,6 +727,14 @@
               "mfm-20261013-diverse30-lb3",
               "mfm-20261013-diverse30-co1"
             ]
+          },
+          {
+            "id": "gesture-20261113-restored",
+            "title": "11月5–6日创作：身体与支点",
+            "description": "空处、灯光与家具改变身体在画面里的分量。",
+            "workIds": [
+              "mfm-20261106-degas-sulking-v2"
+            ]
           }
         ],
         "workIds": [
@@ -796,9 +807,10 @@
           "172-ophelia",
           "173-saturn-with-a-broken-effigy",
           "175-the-wind-passes-beneath-the-parasol",
-          "202-lower-the-shoulder-a-little"
+          "202-lower-the-shoulder-a-little",
+          "mfm-20261106-degas-sulking-v2"
         ],
-        "workCount": 88
+        "workCount": 89
       },
       {
         "id": "everyday",
@@ -948,6 +960,15 @@
             "workIds": [
               "mfm-20261112-sunbeam-gap"
             ]
+          },
+          {
+            "id": "everyday-20261113-restored",
+            "title": "11月5–6日创作：身体与支点",
+            "description": "空处、灯光与家具改变身体在画面里的分量。",
+            "workIds": [
+              "mfm-20261105-cabinet-trace-v2",
+              "mfm-20261105-ault-crossroads-v1"
+            ]
           }
         ],
         "workIds": [
@@ -1016,9 +1037,11 @@
           "181-the-garden-on-the-back-of-cardboard",
           "194-the-button-moon-opened-its-mouth",
           "195-the-paper-puppet-remained-after-the-curtain-call",
-          "mfm-20261112-sunbeam-gap"
+          "mfm-20261112-sunbeam-gap",
+          "mfm-20261105-cabinet-trace-v2",
+          "mfm-20261105-ault-crossroads-v1"
         ],
-        "workCount": 80
+        "workCount": 82
       },
       {
         "id": "reproduction",
@@ -6724,6 +6747,54 @@
       "hallPosition": 36,
       "sequencePosition": 353,
       "previousWorkId": "mfm-20261113-grey-strip",
+      "nextWorkId": null
+    },
+    {
+      "workId": "mfm-20261105-cabinet-trace-v2",
+      "number": "P365",
+      "title": "柜子离开的位置",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-20261113-restored",
+      "route": "#/work/mfm-20261105-cabinet-trace-v2",
+      "lookFor": "墙上深红矩形与右侧木柜并置，奶蛙的双掌抵住柜侧。平整的空缺和密集木纹分担画面重量，身体斜倾把两者连在一起。柜体被画框截去，留下的是位置的暗示，而不是一次搬动过程的完整证明。",
+      "placementRationale": "比较身体与空间或支点的关系。",
+      "analyzedIn": [],
+      "relatedReading": [],
+      "hallPosition": 81,
+      "sequencePosition": 354,
+      "previousWorkId": "mfm-20261113-window-back",
+      "nextWorkId": "mfm-20261105-ault-crossroads-v1"
+    },
+    {
+      "workId": "mfm-20261105-ault-crossroads-v1",
+      "number": "P366",
+      "title": "路口还亮着",
+      "primaryHallId": "everyday",
+      "clusterId": "everyday-20261113-restored",
+      "route": "#/work/mfm-20261105-ault-crossroads-v1",
+      "lookFor": "大片黑夜压住屋舍与弯路，路灯仍是画面最亮的一点。奶蛙缩成路面上的小小暖色，暗面与建筑共用夜色。改编保留奥尔特原作的空间骨架，让一个身体进入空路，却没有替这片安静规定故事。",
+      "placementRationale": "比较身体与空间或支点的关系。",
+      "analyzedIn": [],
+      "relatedReading": [],
+      "hallPosition": 82,
+      "sequencePosition": 355,
+      "previousWorkId": "mfm-20261105-cabinet-trace-v2",
+      "nextWorkId": "mfm-20261106-degas-sulking-v2"
+    },
+    {
+      "workId": "mfm-20261106-degas-sulking-v2",
+      "number": "P367",
+      "title": "各自有一处支撑",
+      "primaryHallId": "gesture",
+      "clusterId": "gesture-20261113-restored",
+      "route": "#/work/mfm-20261106-degas-sulking-v2",
+      "lookFor": "左侧灰手搭住椅背，右侧双臂伏在绿桌上；两只奶蛙距离很近，支撑与高度却各不相同。木墙、纸张和身体共用断续笔触。画面借德加的室内关系组织两种停顿，不断言人物正在争吵或彼此疏远。",
+      "placementRationale": "比较身体与空间或支点的关系。",
+      "analyzedIn": [],
+      "relatedReading": [],
+      "hallPosition": 89,
+      "sequencePosition": 356,
+      "previousWorkId": "mfm-20261105-ault-crossroads-v1",
       "nextWorkId": null
     }
   ],

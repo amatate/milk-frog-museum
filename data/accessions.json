@@ -1767,6 +1767,21 @@
       "id": "mfm-20261113-window-back",
       "time": "2026-11-13T02:59:01Z",
       "precision": "second"
+    },
+    {
+      "id": "mfm-20261105-cabinet-trace-v2",
+      "time": "2026-11-13T04:14:39Z",
+      "precision": "second"
+    },
+    {
+      "id": "mfm-20261105-ault-crossroads-v1",
+      "time": "2026-11-13T04:14:39Z",
+      "precision": "second"
+    },
+    {
+      "id": "mfm-20261106-degas-sulking-v2",
+      "time": "2026-11-13T04:14:39Z",
+      "precision": "second"
     }
   ],
   "groupMembers": [
