@@ -3,7 +3,7 @@ window.MUSEUM_CATALOGUE = {
   "museum": {
     "title": "奶蛙现代艺术馆",
     "subtitle": "从一张脸，看到它周围的规则",
-    "intro": "从镜中的背影到失去水的瓷砖，从一枚未读标记到只剩黄色的方块，349件作品追问：一个角色可以改变多少，仍与原来的自己发生关系？沿五个展厅观看，也可按媒介和编号查阅。",
+    "intro": "从镜中的背影到失去水的瓷砖，从一枚未读标记到只剩黄色的方块，353件作品追问：一个角色可以改变多少，仍与原来的自己发生关系？沿五个展厅观看，也可按媒介和编号查阅。",
     "rightsNote": "本站展示奶蛙题材的AI辅助图像与数字三维再创作，不代表角色权利方、历史作品作者或收藏机构。相关角色与被引用作品的权利归各自权利人；本馆不为第三方内容授予开放许可。历史参考以来源链接说明，不再发行其参考原图。 本馆新增作品分别标明官方奶龙形象的非官方二创、社区奶蛙或奶蛋样本；馆方项目身份不等同角色创作者。",
     "headline": "一只熟悉的身体，\n世界不再严丝合缝。",
     "featuredId": "011-incompatible-lunch",
@@ -14727,6 +14727,166 @@ window.MUSEUM_CATALOGUE = {
       "height": 1024,
       "extraViews": [],
       "originalSha256": "c0d46e88d38bc9369456e2ebd785971572dc63fb79fda6705d9c7a35f03671bc"
+    },
+    {
+      "id": "mfm-20261112-red-weave",
+      "title": "红色轮流露面",
+      "titleEn": "",
+      "number": "P361",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-11-12",
+      "wallText": "红纸在三道靛蓝横带之间轮流露面，转到桌边，又接回奶蛙手里。一次轻轻的提拉，让静止的横线有了先后。",
+      "alt": "红纸在三道靛蓝横带之间轮流露面，转到桌边，又接回奶蛙手里。一次轻轻的提拉，让静止的横线有了先后。",
+      "interpretation": [
+        "让连续红纸条与三道横带形成上、下、上的遮挡节奏。",
+        "V1手持部分与中央红条断开；V2接通了两段。采用V2。弯曲处更像预裁曲线，而非直纸条的真实弯折；版画表面是二维模拟，并无实体刻印。",
+        "下一问题（尚未实施）：下一次可用更直的带材检验折转与拉力。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "sources": [],
+      "creationNote": "本项目AI辅助创作，不代表官方奶龙或参考艺术家与收藏机构。相关角色及参考作品权利归各自权利人；本馆不授予第三方内容开放许可。采用V2。",
+      "image": "media/mfm-20261112-red-weave/original.png",
+      "original": "media/mfm-20261112-red-weave/original.png",
+      "thumbnail": "media/mfm-20261112-red-weave/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": [],
+      "originalSha256": "aa424285efcb71df574dbf937e53bf418642e27993568d816eb7a70f55956de0"
+    },
+    {
+      "id": "mfm-20261112-sunbeam-gap",
+      "title": "光在脚边缺了一块",
+      "titleEn": "",
+      "number": "P362",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-11-12",
+      "wallText": "窗格把光铺到地上，奶蛙站在亮处边缘。脚后的影子占去一块暖色，房间仍然安静，却不再空着。",
+      "alt": "窗格把光铺到地上，奶蛙站在亮处边缘。脚后的影子占去一块暖色，房间仍然安静，却不再空着。",
+      "interpretation": [
+        "身体进入空室后，能否靠脚边光带的中断让重量可见？",
+        "V1的完整影子被画框截断；V2缩小并向左后移，影子留在画内。短笔触统一身体与室内。人物加入改变了原作的空室经验，并非原画复刻。",
+        "下一问题（尚未实施）：下一次比较更小的遮光面积是否仍能留下在场感。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "sources": [
+        {
+          "title": "Sunbeams or Sunlight. Dust Motes Dancing in the Sunbeams",
+          "url": "https://hammershoi.smk.dk/artwork/sunbeams-or-sunshine-dust-motes-dancing-in-the-sunbeams/"
+        }
+      ],
+      "creationNote": "本项目AI辅助创作，不代表官方奶龙或参考艺术家与收藏机构。相关角色及参考作品权利归各自权利人；本馆不授予第三方内容开放许可。采用V2。原作藏于 Ordrupgaard。",
+      "image": "media/mfm-20261112-sunbeam-gap/original.png",
+      "original": "media/mfm-20261112-sunbeam-gap/original.png",
+      "thumbnail": "media/mfm-20261112-sunbeam-gap/art-thumb.webp",
+      "width": 1160,
+      "height": 1355,
+      "extraViews": [],
+      "originalSha256": "592090d9fb062bf2ee7186d064aefa5884440918b79aa85ba0ed3623e642ed76",
+      "source": {
+        "artist": "Vilhelm Hammershøi",
+        "title": "Sunbeams or Sunlight. Dust Motes Dancing in the Sunbeams",
+        "date": "1900"
+      }
+    },
+    {
+      "id": "mfm-20261113-grey-strip",
+      "title": "同一段灰，经过两边",
+      "titleEn": "",
+      "number": "P363",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "original",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V2",
+      "creationDate": "2026-11-13",
+      "wallText": "灰带横穿黑与白，奶蛙的手停在支架下角。同一条线没有转弯，观看却在中间停了一下：是灰变了，还是它身后的颜色变了？",
+      "alt": "灰带横穿黑与白，奶蛙的手停在支架下角。同一条线没有转弯，观看却在中间停了一下：是灰变了，还是它身后的颜色变了？",
+      "interpretation": [
+        "连续中灰带能否仅依靠黑白底色显得明暗不同？",
+        "V1左右取样均值有约4至5级RGB差异；V2降低到1级以内，代价是灰带比周围纸面更平滑。采用V2作近似同灰对比绘画，不是逐像素同色的科学演示。",
+        "下一问题（尚未实施）：若要严格同色，应另做可逐像素核验的矢量构成；尚未实施。"
+      ],
+      "tags": [
+        "原创二维",
+        "2026年11月入馆"
+      ],
+      "sources": [],
+      "creationNote": "本项目AI辅助创作，不代表官方奶龙或参考艺术家与收藏机构。相关角色及参考作品权利归各自权利人；本馆不授予第三方内容开放许可。采用V2。",
+      "image": "media/mfm-20261113-grey-strip/original.png",
+      "original": "media/mfm-20261113-grey-strip/original.png",
+      "thumbnail": "media/mfm-20261113-grey-strip/art-thumb.webp",
+      "width": 1536,
+      "height": 1024,
+      "extraViews": [],
+      "originalSha256": "f9de0a1443e8fd433f23f6397ea59a697174c29f157ffb2322f89fecb904468b"
+    },
+    {
+      "id": "mfm-20261113-window-back",
+      "title": "背影留在窗里",
+      "titleEn": "",
+      "number": "P364",
+      "year": "2026",
+      "type": "image",
+      "completionStatus": "completed",
+      "medium": "AI辅助二维绘画",
+      "creationType": "adaptation",
+      "creator": "奶蛙现代艺术馆项目 · AI辅助创作",
+      "characterIdentity": "社区奶蛙衍生形象",
+      "selectedVersion": "V1",
+      "creationDate": "2026-11-13",
+      "wallText": "浅天停在高窗里，远树和细桅挤进下面的一小块亮处。奶蛙没有回头；它遮住窗台，也让窗外显得更远。",
+      "alt": "浅天停在高窗里，远树和细桅挤进下面的一小块亮处。奶蛙没有回头；它遮住窗台，也让窗外显得更远。",
+      "interpretation": [
+        "面部缺席时，身体能否仍可辨认，并由窗口组织内外距离？",
+        "采用唯一生成版本V1。背视轮廓、长臂灰端和分腿外撇足可辨；不可声称已核验正面眼嘴和腹片。细桅实际在下窗，角色遮住窗台，没有完全实现原先遮挡次序。",
+        "下一问题（尚未实施）：先明确谁遮住谁，再检验人物大小与明暗对距离的影响。"
+      ],
+      "tags": [
+        "具体名画改编",
+        "2026年11月入馆"
+      ],
+      "sources": [
+        {
+          "title": "Frau am Fenster",
+          "url": "https://smb.museum-digital.de/object/143311"
+        }
+      ],
+      "creationNote": "本项目AI辅助创作，不代表官方奶龙或参考艺术家与收藏机构。相关角色及参考作品权利归各自权利人；本馆不授予第三方内容开放许可。采用V1。原作藏于柏林老国家美术馆，藏品号 A I 918。馆方摄影仅网页查看，未传入生成，未转载。",
+      "image": "media/mfm-20261113-window-back/original.png",
+      "original": "media/mfm-20261113-window-back/original.png",
+      "thumbnail": "media/mfm-20261113-window-back/art-thumb.webp",
+      "width": 1024,
+      "height": 1536,
+      "extraViews": [],
+      "originalSha256": "07e28653bb14f438a88ec45113b4fef6eb45d23843081d228deddf2868efb79c",
+      "source": {
+        "artist": "Caspar David Friedrich",
+        "title": "Frau am Fenster",
+        "date": "1822"
+      }
     }
   ],
   "groupMembers": [
